@@ -1,0 +1,30 @@
+# Render Blueprint — https://render.com/docs/infrastructure-as-code
+#
+# Deploy: in the Render dashboard, "New +" -> "Blueprint", pick this repo.
+# Render will prompt for the envVars marked `sync: false` below (never stored
+# in this file / git) — paste in real values there.
+#
+# Note: the free instance type has an ephemeral filesystem and spins down
+# after 15 minutes idle (see PROJECT_README.md). Locked rubrics/eval sessions
+# will not persist across a redeploy or a spin-down/spin-up cycle.
+services:
+  - type: web
+    name: tr-rubric-evaluator
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: MODEL_PROVIDER
+        value: bedrock
+      - key: BEDROCK_MODEL_ID
+        value: amazon.nova-pro-v1:0
+      - key: AWS_REGION
+        value: us-east-1
+      # Paste fresh Workshop Studio temporary credentials here before each
+      # demo — they expire in a few hours, same as running the app locally.
+      - key: AWS_ACCESS_KEY_ID
+        sync: false
+      - key: AWS_SECRET_ACCESS_KEY
+        sync: false
+      - key: AWS_SESSION_TOKEN
+        sync: false

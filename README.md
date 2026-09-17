@@ -119,10 +119,30 @@ fill in "Extra auth header name/value" on the Settings page instead of a code ch
 
 ## Hosting note
 
-This prototype runs **locally** and calls Amazon Bedrock for inference. AWS App Runner
-hosting was evaluated but is blocked by an organization Service Control Policy in the
-workshop account (`apprunner:*` denied); lifting that requires an AWS Organizations
-admin. Deploying the app itself to AWS remains part of the production roadmap.
+This prototype runs **locally** by default and calls Amazon Bedrock (or an OpenAI-compatible
+endpoint) for inference. AWS App Runner hosting was evaluated but is blocked by an
+organization Service Control Policy in the workshop AWS account (`apprunner:*` denied);
+lifting that requires an AWS Organizations admin.
+
+### Deploying a public demo (Render)
+
+`render.yaml` at the project root is a [Render Blueprint](https://render.com/docs/infrastructure-as-code)
+that builds the existing `Dockerfile` as a free web service outside the workshop AWS account:
+
+1. In the [Render dashboard](https://dashboard.render.com), **New +** → **Blueprint**, and point
+   it at this repo.
+2. Render detects `render.yaml` and prompts for the AWS credential fields (marked
+   `sync: false` — never stored in this repo). Paste in current Workshop Studio temporary
+   credentials (Access Key, Secret Key, Session Token).
+3. Deploy. You get a public `https://<service>.onrender.com` URL.
+
+Two limitations of the free instance type to plan around:
+- **Credentials expire.** Workshop Studio session tokens last a few hours; update the
+  service's environment variables in the Render dashboard (Access Key/Secret/Session Token)
+  before each demo, same as refreshing them for a local run.
+- **Ephemeral filesystem.** Free instances spin down after 15 minutes idle and lose local
+  filesystem state (locked rubrics, eval sessions) on every spin-down/redeploy — the same
+  tradeoff already accepted for AWS App Runner in the original design (see `Dockerfile`).
 
 ## Rubric configuration
 
