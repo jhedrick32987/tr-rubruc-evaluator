@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h2>Start a field evaluation</h2>
+
+  {% if versions|length == 0 %}
+  <p class="warn">An approved rubric is required before evaluation. Generate and lock a
+     rubric in the Design stage first.</p>
+  <a class="btn" href="/design">Go to Design</a>
+  {% else %}
+  <p class="muted">Pick an approved rubric, name the unit, and open the scoring checklist.
+     You score each metric by hand as the squad performs the task.</p>
+  <form method="post" action="/evaluate/start">
+    <label class="meta">Approved rubric</label><br />
+    <select name="version_id" required>
+      {% for v in versions %}
+      <option value="{{ v.version_id }}" {% if v.version_id == selected_version %}selected{% endif %}>
+        {{ v.event_code }} — {{ v.task_attributes.tr_code }} ({{ v.all_metrics()|length }} metrics)
+      </option>
+      {% endfor %}
+    </select>
+    <br /><br />
+    <label class="meta">Unit (optional)</label><br />
+    <input type="text" name="unit_label" placeholder="e.g. 1st Squad, 2d Plt, Bravo Co" style="width:20rem;padding:0.5rem;border:1px solid var(--line);border-radius:6px;" />
+    <br /><br />
+    <button class="btn primary" type="submit">Open scoring checklist</button>
+  </form>
+  {% endif %}
+</section>
+{% endblock %}

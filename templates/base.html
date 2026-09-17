@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title|default("T&R Rubric Evaluation Generator") }}</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1><a href="/" class="plain"><img class="emblem" src="/static/ega-emblem.svg" alt="" width="34" height="37" />T&amp;R Rubric &amp; Evaluation Generator</a></h1>
+      <p class="subtitle">Marine Corps Infantry Training &amp; Readiness</p>
+    </div>
+    <nav class="app-nav">
+      <a href="/design">Design</a>
+      <a href="/evaluate">Evaluate</a>
+      <a href="/settings">Settings</a>
+    </nav>
+  </header>
+  <main class="app-main">
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="app-footer">
+    <p>T&amp;R Rubric &amp; Evaluation Generator</p>
+  </footer>
+</body>
+</html>

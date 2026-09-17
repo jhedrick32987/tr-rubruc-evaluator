@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.git/
+.kiro/
+data/rubric_versions/
+data/drafts/
+*.md
+!README.md
+gen_out.txt
+probe.json

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h2>Select a T&amp;R task</h2>
+  <p class="muted">{{ tasks|length }} tasks available (NAVMC 3500.44D). Choose one to view its
+     source standard and generate a rubric.</p>
+  <input type="text" id="filter" class="filter" placeholder="Filter by code or title…"
+         onkeyup="filterTasks()" />
+  <ul class="task-list" id="task-list">
+    {% for t in tasks %}
+    <li class="task-row">
+      <a href="/design/{{ t.event_code }}">
+        <span class="code">{{ t.event_code }}</span>
+        <span class="ttitle">{{ t.title }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+<script>
+function filterTasks() {
+  const q = document.getElementById('filter').value.toLowerCase();
+  document.querySelectorAll('#task-list .task-row').forEach(function (row) {
+    row.style.display = row.textContent.toLowerCase().includes(q) ? '' : 'none';
+  });
+}
+</script>
+{% endblock %}

@@ -1,0 +1,4831 @@
+---
+id: "mcdp-1"
+title: "Warfighting"
+publication: "MCDP 1"
+document_date: "1997"
+authority: "Headquarters, United States Marine Corps"
+relevance_tier: 3
+source_url: "https://www.marines.mil/Portals/1/Publications/MCDP%201%20Warfighting.pdf"
+official_url: "https://www.marines.mil/Portals/1/Publications/MCDP%201%20Warfighting.pdf"
+source_status: "Official public PDF"
+retrieved_utc: "2026-09-16"
+content_sha256: "ec4989bcb98a91034caf8a2ef043939cd93e8f252f35643f6f3e5a26b5e7f97d"
+classification: "UNCLASSIFIED / publicly available source"
+---
+
+# MCDP 1 Warfighting
+
+## Source content
+> DEPARTMENTOFTHENAVY
+> HeadquartersUnitedStatesMarineCorps
+> Washington,D.C.20380-1775
+> 20June1997 FOREWORD
+
+SinceFleetMarineForceManual1,Warfighting,wasfirst
+
+publishedin1989,ithashadasignificantimpactbothinside
+
+andoutsidetheMarineCorps.Thatmanualhaschangedthe
+
+wayMarinesthinkaboutwarfare.Ithascausedenergeticde-
+
+bateandhasbeentranslatedintoseveralforeignlanguages, issuedbyforeignmilitaries,andpublishedcommercially.It
+
+hasstronglyinfluencedthedevelopmentofdoctrinebyour
+
+> sisterServices.Ourcurrentnavaldoctrineisbasedontheten-
+
+etsofmaneuverwarfareasdescribedinthatpublication.
+
+> Currentandemergingconceptssuchasoperationalmaneuver
+
+fromtheseaderivetheirdoctrinalfoundationfromthephi-
+
+losophycontainedinWarfighting.Ourphilosophyofwar-fighting,asdescribedinthemanual,isinconsonancewith
+
+jointdoctrine,contributingtoourabilitytooperateharmoni-
+
+> ouslywiththeotherServices.
+
+Thatsaid,IbelieveWarfIghtingcanandshouldbeim-
+
+> proved.Militarydoctrinecannotbeallowedtostagnate,espe-
+
+ciallyanadaptivedoctrinelikemaneuverwarfare.Doctrine
+
+mustcontinuetoevolvebasedongrowingexperience,ad-
+
+vancementsintheory,andthechangingfaceofwaritself.It isinthisspiritthatWarfightinghasbeenrevised,andthis
+
+publication,MarineCorpsDoctrinalPublication 1,super-
+
+sedesFleetMarineForceManualI.Ihaveseveralgoalsfor
+
+> thisrevision.Onegoalistoenhancethedescriptionofthena-
+
+tureofwar—forexample,toemphasizewar'scomplexityand unpredictabilityandtowidenthedefinitionofwartoaccount
+
+formodernconflict'sexpandingforms.Anothergoalisto
+
+clarifythedescriptionsofstylesofwarfare.Athirdgoalisto clarifyandrefineimportantmaneuverwarfareconceptssuch ascommander'sintent,maineffort,andcriticalvulnerability.
+
+Itismyintenttodothiswhileretainingthespirit,style,and
+
+> essentialmessageoftheoriginal.
+
+Verysimply,thispublicationdescribesthephilosophy
+
+whichdistinguishestheU.S.MarineCorps.Thethoughts
+
+containedherearenotmerelyguidanceforactionincombat
+
+> butawayofthinking.Thispublicationprovidestheauthorita-
+
+tivebasisforhowwefightandhowwepreparetofight.This
+
+bookcontainsnospecifictechniquesorproceduresforcon-
+
+duct.Rather,itprovidesbroadguidanceintheformofcon-
+
+> ceptsandvalues.Itrequiresjudgmentinapplication.
+
+Warfightingisnotmeantasareferencemanual;itisde-
+
+> signedtobereadfromcovertocover.Itsfourchaptershavea
+
+naturalprogression.Chapter1describesourunderstandingof
+
+thecharacteristics,problems,anddemandsofwar.Chapter2
+
+derivesatheoryaboutwarfromthatunderstanding.Thisthe-
+
+oryinturnprovidesthefoundationforhowwepreparefor
+
+> warandhowwewagewar,chapters3and4,respectively.
+
+Experiencehasshownthatthewarfightingphilosophyde-
+
+scribedonthesepagesappliesfarbeyondtheofficercorps.I
+
+expectallMarines—enlistedandcommissioned—toreadthis
+
+book,understandit,andactuponit.AsGeneralA.M.Gray
+
+statedinhisforewordtotheoriginalin1989,thispublication
+
+describesaphilosophyforactionthat,inwar,incrisis,andin
+
+> peace,dictatesourapproachtoduty.
+> DISTRIBUTION:14200000600
+
+©1997UnitedStatesGovernmentasrepresentedbytheSec-
+
+> retaryoftheNavy.Allrightsreserved.
+
+Throughoutthispublication,masculinenounsandpronouns
+
+areusedforthesakeofsimplicity.Exceptwhereotherwise
+
+> noted,thesenounsandpronounsapplytoeithergender. PREFACE
+
+EightyearsagotheMarineCorpspublishedthefirstedi-
+
+tionofWarfighting.Our intent wastodescribemyphi-
+
+## losophyonwarfighting,establishitasMarineCorps
+
+doctrine,andpresentitinaneasy-to-readformat.Inthe forewordtothatmanual,Ichargedeveryofficertoread
+
+andrereadthetext,tounderstandit,andtotakeitsmes-
+
+# sagetoheart.Wehavesucceeded.Warfightinghas
+
+## stimulateddiscussionanddebatefromclassroomsto
+
+wardrooms,trainingareastocombatzones.Thephiloso-
+
+phycontainedinthispublicationhasinfluencedourap-
+
+> proachtoeverytaskwehaveundertaken.
+
+FleetMarineForceManual1stated,"Warisbothtime-lessandeverchanging.Whilethebasicnatureofwaris
+
+constant,themeansandmethodsweuseevolvecontinu-ously."Likewaritself,ourapproachtowarfightingmust
+
+evolve.Ifweceasetorefine,expand,andimproveour
+
+profession,weriskbecomingoutdated,stagnant,andde-feated.MarineCorpsDoctrinalPublication1refinesand expandsourphilosophyonwarfighting,takingintoac-countnewthinkingaboutthenatureofwarandtheun-
+
+## derstandinggainedthroughparticipationinextensive
+
+operationsoverthepastdecade.Readit,studyit,takeit
+
+> toheart. SemperFidelis,
+> General,U.S.MarineCorps(Ret.) 29thCommandantoftheMarineCorps
+
+MCDP1
+
+# Warfighting
+
+Chapter1. TheNatureofWar
+
+WarDefined—Friction——Uncertainty-—Fluidity—
+
+Disorder—Complexity—TheHumanDimension— ViolenceandDanger—Physical,Moral,andMental Forces—TheEvolutionofWar—TheScience,Art,and DynamicofWar—Conclusion
+
+Chapter2. TheTheoryofWar
+
+WarAsanActofPolicy—MeansinWar—The SpectrumofConflict—LevelsofWar—Initiative andResponse—StylesofWarfare—CombatPower— SpeedandFocus—SurpriseandBoldness—Centersof GravityandCriticalVulnerabilities—Creatingand ExploitingOpportunity—Conclusion
+
+Chapter3. PreparingforWar
+
+ForcePlanning—Organization——Doctrine—
+
+Professionalism—Training—ProfessionalMilitary Education—PersonnelManagement—Equipping—
+
+Conclusion Warfighting MCDP1
+
+Chapter4. TheConductofWar
+
+TheChallenge—ManeuverWarfare—Orientingonthe Enemy—PhilosophyofCommand—ShapingtheAction—
+
+Decisionmaking—MissionTactics—Commander'sIntent—
+
+MainEffort—SurfacesandGaps—CombinedArms—
+
+Conclusion Chapter1
+
+# TheNatureofWar
+
+"Everythinginwarissimple,butthesimplestthingisdffi-
+
+cult.Thedq'/Icultiesaccumulateandendbyproducingakind
+
+offrictionthatisinconceivableunlessonehasexperienced
+
+war.
+
+—CarlvonClausewitz "Inwarthechiefincalculableisthehumanwill. "2
+
+—B. H.LiddellHart
+
+"Positionsareseldomlostbecausetheyhavebeendestroyed,
+
+butalmostinvariablybecausetheleaderhasdecidedinhis
+
+ownmindthatthepositioncannotbeheld. "
+
+—A. A.Vandegrift MCDP1 TheNatureofWar
+
+# TounderstandtheMarineCorps'philosophyofwarfight-
+
+ing,wefirstneedanappreciationforthenatureofwar
+
+itself—itsmoral,mental,andphysicalcharacteristicsandde-
+
+mands.AcommonviewofwaramongMarinesisanecessary
+
+baseforthedevelopmentofacohesivedoctrinebecauseour
+
+approachtotheconductofwarderivesfromourunderstand-
+
+ingofthenatureofwar.
+
+WARDEFINED
+
+Warisaviolentclashofinterestsbetweenoramongorga-
+
+nizedgroupscharacterizedbytheuseofmilitaryforce.These
+
+groupshavetraditionallybeenestablishednation-states,but
+
+theymayalsoincludeanynonstategroup—suchasaninter-
+
+nationalcoalitionorafactionwithinoroutsideofanexisting
+
+state—withitsownpoliticalinterestsandtheabilitytogener-ateorganizedviolenceonascalesufficienttohavesignificant
+
+politicalconsequences.
+
+Theessenceofwarisaviolentstrugglebetweentwohos-
+
+tile,independent,andirreconcilablewills,eachtryingto
+
+imposeitselfontheother.Warisfundamentallyaninterac-
+
+tivesocialprocess.ClausewitzcalleditaZweikampf(literally
+
+a"two-struggle")andsuggestedtheimageofapairofwres-
+
+tlerslockedinahold,eachexertingforceandcounterforceto
+
+trytothrowtheother.4Waristhusaprocessofcontinuous
+
+> 3
+
+Warfighting MCDP1
+
+mutualadaptation,ofgiveandtake,moveandcountermove.
+
+Itiscriticaltokeepinmindthattheenemyisnotaninani-
+
+mateobjecttobeacteduponbutanindependentandanimate
+
+forcewithitsownobjectivesandplans.Whilewetrytoim-
+
+poseourwillontheenemy,heresistsusandseekstoimpose
+
+hisownwillonus.Appreciatingthisdynamicinterplaybe-
+
+tweenopposinghumanwillsisessentialtounderstandingthe
+
+> fundamentalnatureofwar.
+
+Theobjectinwaristoimposeourwillonourenemy.The
+
+> meanstothisendistheorganizedapplicationorthreatofvio-
+
+lencebymilitaryforce.Thetargetofthatviolencemaybe limitedtohostilecombatantforces,oritmayextendtothe
+
+enemypopulationatlarge.Warmayrangefromintense
+
+clashesbetweenlargemilitaryforces—sometimesbackedby
+
+anofficialdeclarationofwar—tosubtler,unconventional
+
+> hostilitiesthatbarelyreachthethresholdofviolence.
+
+Totalwarandperfectpeacerarelyexistinpractice.In-
+
+stead,theyareextremesbetweenwhichexisttherelations
+
+> amongmostpoliticalgroups.Thisrangeincludesroutineeco-
+
+nomiccompetition,moreorlesspermanentpoliticalorideo-
+
+logicaltension,andoccasionalcrisesamonggroups.The
+
+decisiontoresorttotheuseofmilitaryforceofsomekind
+
+mayariseatanypointwithintheseextremes,evenduringpe-
+
+riodsofrelativepeace.Ononeendofthespectrum,military
+
+forcemaybeusedsimplytomaintainorrestoreorderincivil
+
+disturbancesordisasterreliefoperations.Attheotherex-
+
+treme,forcemaybeusedtocompletelyoverturntheexisting
+
+> 4
+
+MCDP1 TheNatureofWar
+
+orderwithinasocietyorbetweentwoormoresocieties.
+
+Someculturesconsideritamoralimperativetogotowar
+
+onlyasalastresortwhenallpeacefulmeanstosettledisa-
+
+greementshavefailed.Othershavenosuchhesitancytore-
+
+sorttomilitaryforcetoachievetheiraims.
+
+## F1UcTI0N
+
+Portrayedasaclashbetweentwoopposingwills,warappears
+
+asimpleenterprise.Inpractice,theconductofwarbecomes
+
+extremelydifficultbecauseofthecountlessfactorsthatim-
+
+pingeonit.Thesefactorscollectivelyhavebeencalledfric-
+
+> tion,which
+
+Clausewitzdescribedas"theforcethatmakesthe apparentlyeasysodifficult."5Frictionistheforcethatresists
+
+allactionandsapsenergy.Itmakesthesimpledifficultand
+
+> thedifficultseeminglyimpossible.
+
+Theveryessenceofwarasaclashbetweenopposedwills
+
+createsfriction.Inthisdynamicenvironmentofinteracting
+
+> forces,frictionabounds.
+
+Frictionmaybemental,asinindecisionoveracourseof
+
+action.Itmaybephysical,asineffectiveenemyfireorater-
+
+rainobstaclethatmustbeovercome.Frictionmaybeexter-nal,imposedbyenemyaction,theterrain,weather,ormere
+
+chance.Frictionmaybeself-induced,causedbysuchfactors
+
+> 5
+
+Warfighting MCDP1
+
+aslackofaclearlydefinedgoal,lackofcoordination,unclear
+
+orcomplicatedplans,complextaskorganizationsorcom-
+
+mandrelationships,orcomplicatedtechnologies.Whatever
+
+formittakes,becausewarisahumanenterprise,frictionwill
+
+alwayshaveapsychologicalaswellasaphysicalimpact. Whileweshouldattempttominimizeself-inducedfriction,
+
+thegreaterrequirementistofighteffectivelydespitetheexis-
+
+tenceoffriction.Oneessentialmeanstoovercomefrictionis
+
+thewill;weprevailoverfrictionthroughpersistentstrength
+
+ofmindandspirit.Whilestrivingourselvestoovercomethe
+
+effectsoffriction,wemustattemptatthesametimetoraise
+
+ourenemy'sfrictiontoalevelthatweakenshisabilityto
+
+> fight.
+
+Wecanreadilyidentifycountlessexamplesoffriction,but untilwehaveexperienceditourselves,wecannothopetoap-preciateitfully.Onlythroughexperiencecanwecometoap-
+
+preciatetheforceofwillnecessarytoovercomefrictionand todeveloparealisticappreciationforwhatispossibleinwar
+
+andwhatisnot.Whiletrainingshouldattempttoapproximate
+
+theconditionsofwar,wemustrealizeitcanneverfullydu-
+
+plicatetheleveloffrictionofrealcombat.
+
+> 6
+
+MCDP1 TheNatureofWar UNCERTAINTY
+
+Anotherattributeofwarisuncertainty.Wemightarguethat
+
+uncertaintyisjustoneofmanysourcesoffriction,butbe-
+
+> causeitissuchapervasivetraitofwar,wewilltreatitsingly. Allactionsinwartakeplaceinanatmosphereofuncertainty, orthe"fogofwar."Uncertaintypervadesbattleintheformof
+
+unknownsabouttheenemy,abouttheenvironment,andeven
+
+aboutthefriendlysituation.Whilewetrytoreducetheseun-
+
+knownsbygatheringinformation,wemustrealizethatwe
+
+cannoteliminatethem—orevencomeclose.Theverynature
+
+ofwarmakescertaintyimpossible;allactionsinwarwillbe
+
+basedonincomplete,inaccurate,orevencontradictoryinfor-
+
+> mation.
+
+Warisintrinsicallyunpredictable.Atbest,wecanhopeto
+
+determinepossibilitiesandprobabilities.Thisimpliesacer-
+
+> tainstandardofmilitaryjudgment:Whatispossibleandwhat
+
+isnot?Whatisprobableandwhatisnot?Byjudgingprob-
+
+ability,wemakeanestimateofourenemy'sdesignsandact
+
+accordingly.Havingsaidthis,werealizethatitisprecisely
+
+thoseactionsthatseemimprobablethatoftenhavethegreat-
+
+> estimpactontheoutcomeofwar.
+> 7
+
+Warfighting MCDP1
+
+> Becausewecannevereliminateuncertainty,wemustlearn
+
+tofighteffectivelydespiteit.Wecandothisbydeveloping
+
+simple,flexibleplans;planningforlikelycontingencies;de-velopingstandingoperatingprocedures;andfosteringinitia-
+
+> tiveamongsubordinates. Oneimportantsourceofuncertaintyisapropertyknownas
+
+nonlinearity.Herethetermdoesnotrefertoformationson
+
+thebattlefieldbutdescribessystemsinwhichcausesandef-
+
+fectsaredisproportionate.Minorincidentsoractionscan
+
+havedecisiveeffects.Outcomesofbattlescanhingeonthe
+
+actionsofafewindividuals,andasClausewitzobserved,"is-
+
+suescanbedecidedbychancesandincidentssominuteasto
+
+> figureinhistoriessimplyasanecdotes."6
+
+Byitsnature,uncertaintyinvariablyinvolvestheestima-
+
+tionandacceptanceofrisk.Riskisinherentinwarandisin-
+
+volvedineverymission.Riskisequallycommontoaction andinaction.Riskmayberelatedtogain;greaterpotential
+
+gainoftenrequiresgreaterrisk.Thepracticeofconcentrating
+
+> combatpowertowardthemaineffortnecessitatesthewilling-
+
+nesstoacceptprudentriskelsewhere.However,weshould
+
+clearlyunderstandthattheacceptanceofriskdoesnotequate
+
+totheimprudentwillingnesstogambletheentirelikelihood
+
+> ofsuccessonasingleimprobableevent.
+
+Partofuncertaintyistheungovernableelementofchance.
+
+Chanceisauniversalcharacteristicofwarandacontinuous
+
+> 8
+
+MCDP1 TheNatureofWar
+
+sourceoffriction.Chanceconsistsofturnsofeventsthatcan-notreasonablybeforeseenandoverwhichweandourenemy
+
+havenocontrol.Theconstantpotentialforchancetoinflu-
+
+enceoutcomesinwar,combinedwiththeinabilitytoprevent
+
+chancefromimpactingonplansandactions,createspsycho-
+
+logicalfriction.However,weshouldrememberthatchance
+
+favorsneitherbelligerentexclusively.Consequently,wemust
+
+viewchancenotonlyasathreatbutalsoasanopportunity
+
+> whichwemustbeeverreadytoexploit.
+
+FLUIDITY
+
+Likefrictionanduncertainty,fluidityisaninherentattribute
+
+ofwar.Eachepisodeinwaristhetemporaryresultofa
+
+uniquecombinationofcircumstances,presentingauniqueset
+
+ofproblemsandrequiringanoriginalsolution.Nevertheless,
+
+noepisodecanbeviewedinisolation.Rather,eachepisode
+
+mergeswiththosethatprecedeandfollowit—shapedbythe
+
+formerandshapingtheconditionsofthelatter—creatinga
+
+continuous,fluctuatingflowofactivityrepletewithfleeting
+
+opportunitiesandunforeseenevents.Sincewarisafluidphe-
+
+nomenon,itsconductrequiresflexibilityofthought.Success
+
+dependsinlargepartontheabilitytoadapt—toproactively
+
+shapechangingeventstoouradvantageaswellastoreact
+
+> quicklytoconstantlychangingconditions.
+> 9
+
+Warfighting MCDP1
+
+Itisphysicallyimpossibletosustainahightempoofactiv-
+
+ityindefinitely,althoughclearlytherewillbetimeswhenitis
+
+advantageoustopushmenandequipmenttothelimit.The
+
+tempoofwarwillfluctuatefromperiodsofintensecombatto
+
+periodsinwhichactivityislimitedtoinformationgathering,
+
+replenishment,orredeployment.Darknessandweathercan
+
+influencethetempoofwarbutneednothaltit.Acompetitive
+
+rhythmwilldevelopbetweentheopposingwillswitheach
+
+belligerenttryingtoinfluenceandexploittempoandthecon-
+
+tinuousflowofeventstosuithispurposes.
+
+Militaryforceswillmasstoconcentratecombatpower
+
+againsttheenemy.However,thismassingwillalsomake
+
+themvulnerabletotheeffectsofenemyfires,andtheywill
+
+finditnecessarytodisperse.Anothercompetitiverhythmwill
+
+develop—disperse,concentrate,disperseagain—aseachbel-ligerenttriestoconcentratecombatpowertemporarilywhile
+
+limitingthevulnerabilitytoenemycombatpower.
+
+# DIsoluER
+
+Inanenvironmentoffriction,uncertainty,andfluidity,war
+
+gravitatesnaturallytowarddisorder.Liketheotherattributes
+
+ofwar,disorderisaninherentcharacteristicofwar;wecan
+
+nevereliminateit.Intheheatofbattle,planswillgoawry,
+
+> 10
+
+MCDP1 TheNatureofWar
+
+instructionsandinformationwillbeunclearandmisinter-
+
+preted,communicationswillfail,andmistakesandunfore-
+
+seeneventswillbecommonplace.Itispreciselythisnatural
+
+disorderwhichcreatestheconditionsripeforexploitationby
+
+> anopportunisticwill.
+
+Eachencounterinwarwillusuallytendtogrowincreas-
+
+inglydisorderedovertime.Asthesituationchangescontinu-
+
+> ously,weareforcedtoimproviseagainandagainuntilfinally
+
+ouractionshavelittle,ifany,resemblancetotheoriginal
+
+> scheme.
+
+Byhistoricalstandards,themodernbattlefieldisparticu-
+
+larlydisorderly.Whilepastbattlefieldscouldbedescribedby
+
+linearformationsanduninterruptedlinearfronts,wecannot
+
+thinkoftoday'sbattlefieldinlinearterms.Therangeandle-
+
+thalityofmodemweaponshaveincreaseddispersionbetween
+
+units.Inspiteofcommunicationstechnology,thisdispersion
+
+strainsthelimitsofpositivecontrol.Thenaturalresultofdis-
+
+persionisunoccupiedareas,gaps,andexposedflankswhich
+
+canandwillbeexploited,blurringthedistinctionbetween
+
+> frontandrearandfriendly-andenemy-controlledareas.
+
+Theoccurrencesofwarwillnotunfoldlikeclockwork.We
+
+cannothopetoimposeprecise,positivecontroloverevents.
+
+Thebestwecanhopeforistoimposeageneralframeworkof
+
+orderonthedisorder,toinfluencethegeneralflowofaction
+
+> ratherthantotrytocontroleachevent.
+> 11 VTansnn..na MCDP 1
+
+Ifwearetowin,wemustbeabletooperateinadisorderly
+
+environment.Infact,wemustnotonlybeabletofighteffec-tivelyinthefaceofdisorder,weshouldseektogeneratedis-
+
+orderanduseitasaweaponagainstouropponent.
+
+COMPLEXITY
+
+Warisacomplexphenomenon.Wehavedescribedwarases-
+
+sentiallyaclashbetweenopposedwills.Inreality,eachbel-
+
+ligerentisnotasingle,homogeneouswillguidedbyasingle
+
+intelligence.Instead,eachbelligerentisacomplexsystem
+
+consistingofnumerousindividualparts.Adivisioncomprises
+
+regiments,aregimentcomprisesbattalions,andsoonallthe
+
+waydowntofireteamswhicharecomposedofindividual
+
+Marines.Eachelementispartofalargerwholeandmustco-
+
+operatewithotherelementsfortheaccomplishmentofthe
+
+commongoal.Atthesametime,eachhasitsownmissionand
+
+mustadapttoitsownsituation.Eachmustdealwithfriction,
+
+uncertainty,anddisorderatitsownlevel,andeachmaycre-
+
+atefriction,uncertainty,anddisorderforothers,friendlyas
+
+wellasenemy.
+
+Asaresult,warisnotgovernedbytheactionsordecisions
+
+ofasingleindividualinanyoneplacebutemergesfromthe
+
+collectivebehaviorofalltheindividualpartsinthesystem
+
+interacting locally in response to local conditionsand
+
+> 12
+
+MCDP1 TheNatureofWar
+
+incompleteinformation.Amilitaryactionisnotthemono-
+
+> lithicexecutionofasingledecisionbyasingleentitybutnec-
+
+essarilyinvolvesnear-countlessindependentbutinterrelated decisionsandactionsbeingtakensimultaneouslythroughout
+
+theorganization.Effortstofullycentralizemilitaryopera-
+
+tionsandtoexertcompletecontrolbyasingledecisionmaker
+
+areinconsistentwiththeintrinsicallycomplexanddistributed
+
+> natureofwar.
+
+TmHUMANDIMENSION
+
+Becausewarisaclashbetweenopposinghumanwills,the
+
+humandimensioniscentralinwar.Itisthehumandimension
+
+whichinfuseswarwithitsintangiblemoralfactors.Waris
+
+shapedbyhumannatureandissubjecttothecomplexities,
+
+inconsistencies,andpeculiaritieswhichcharacterizehuman
+
+behavior.Sincewarisanactofviolencebasedonirreconcil-
+
+> abledisagreement,itwillinvariablyinflameandbeshapedby
+> humanemotions.
+
+Warisanextremetrialofmoralandphysicalstrengthand
+
+> stamina.Anyviewofthenatureofwarwouldhardlybeaccu-
+
+rateorcompletewithoutconsiderationoftheeffectsofdan-
+
+ger,fear,exhaustion,andprivationonthosewhomustdothe
+
+fighting.7However,theseeffectsvarygreatlyfromcaseto
+
+case.Individualsandpeoplesreactdifferentlytothestressof
+
+> 13
+
+Warfighting MCDP1
+
+war;anactthatmaybreakthewillofoneenemymayonly
+
+servetostiffentheresolveofanother.Humanwill,instilled
+
+> throughleadership,isthedrivingforceofallactioninwar.
+
+Nodegreeoftechnologicaldevelopmentorscientificcal-
+
+culationwilldiminishthehumandimensioninwar.Any
+
+doctrinewhichattemptstoreducewarfaretoratiosofforces,
+
+weapons,andequipmentneglectstheimpactofthehuman
+
+> willontheconductofwarandisthereforeinherentlyflawed.
+
+VIOLENCEANDDANGER
+
+Warisamongthegreatesthorrorsknowntohumanity;it
+
+shouldneverberomanticized.Themeansofwarisforce,ap-
+
+pliedintheformoforganizedviolence.Itisthroughtheuse
+
+ofviolence,orthecrediblethreatofviolence,thatwecompel
+
+ourenemytodoourwill.Violenceisanessentialelementof
+
+war,anditsimmediateresultisbloodshed,destruction,and
+
+> suffering.Whilethemagnitudeofviolencemayvarywiththe
+
+objectandmeansofwar,theviolentessenceofwarwill
+
+> neverchange.8Anystudyofwarthatneglectsthisbasictruth ismisleadingandincomplete.
+
+Sincewarisaviolententerprise,dangeriseverpresent.
+
+Sincewarisahumanphenomenon,fear,thehumanreaction
+
+todanger,hasasignificantimpactontheconductofwar.
+
+> 14
+
+MCDP1 TheNatureofWar
+
+Everybodyfeelsfear.Fearcontributestothecorrosionof
+
+will.Leadersmustfosterthecouragetoovercomefear,both
+
+> individuallyandwithintheunit.Courageisnottheabsenceof
+> fear;rather,itisthestrengthtoovercomefear.9
+
+Leadersmuststudyfear,understandit,andbepreparedto
+
+> copewithit.Courageandfearareoftensituationalratherthan
+
+uniform,meaningthatpeopleexperiencethemdifferentlyat differenttimesandindifferentsituations.Likefear,courage
+
+takesmanyforms,fromastoiccouragebornofreasonedcal-
+
+culationtoafiercecouragebornofheightenedemotion.Ex-
+
+perienceunderfiregenerallyincreasesconfidence,ascan
+
+realistictrainingbylesseningthemystiqueofcombat.Strong
+
+leadershipwhichearnstherespectandtrustofsubordinates
+
+canlimittheeffectsoffear.Leadersshoulddevelopunitco-
+
+hesionandespritandtheself-confidenceofindividuals
+
+withintheunit.Inthisenvironment,aMarine'sunwillingness
+
+toviolatetherespectandtrustofpeerscanovercomeper-
+
+> sonalfear.
+
+PHYSICAL,MORAL,ANDMENTALFORCES
+
+Warischaracterizedbytheinteractionofphysical,moral,
+
+andmentalforces.Thephysicalcharacteristicsofwarare
+
+generallyeasilyseen,understood,andmeasured:equipment
+
+capabilities,supplies,physicalobjectivesseized,forceratios,
+
+> 15 MCDP1
+
+lossesofmaterielorlife,terrainlostorgained,prisonersor
+
+materielcaptured.Themoralcharacteristicsarelesstangible.
+
+(Theterm"moral"asusedhereisnotrestrictedtoethics,al-
+
+thoughethicsarecertainlyincluded,butpertainstothose
+
+forcesofapsychologicalratherthantangiblenature.)'°Moral
+
+forcesaredifficulttograspandimpossibletoquantify.We
+
+cannoteasilygaugeforceslikenationalandmilitaryresolve,
+
+> nationalorindividualconscience,emotion,fear,courage,mo-
+
+rale,leadership,oresprit.Waralsoinvolvesasignificant
+
+mental,orintellectual,component.Mentalforcesprovidethe
+
+abilitytograspcomplexbattlefieldsituations;tomakeeffec-
+
+tiveestimates,calculations,anddecisions;todevisetactics
+
+> andstrategies;andtodevelopplans.
+
+Althoughmaterialfactorsaremoreeasilyquantified,the
+
+moralandmentalforcesexertagreaterinfluenceonthena-
+
+tureandoutcomeofwar."Thisisnottolessentheimpor-
+
+tanceofphysicalforces,forthephysicalforcesinwarcan
+
+haveasignificantimpactontheothers.Forexample,the
+
+greatesteffectoffiresisgenerallynottheamountofphysical destructiontheycause,buttheeffectofthatphysicaldestruc-tionontheenemy'smoralstrength.
+
+Becauseit isdifficulttocometogripswithmoraland
+
+mentalforces,itistemptingtoexcludethemfromourstudy
+
+> 16
+
+MCDP1 TheNatureofWar
+
+ofwar.However,anydoctrineortheoryofwarthatneglects
+
+> thesefactorsignoresthegreaterpartofthenatureofwar.
+
+TmEVOLUTIONOFWAR
+
+Warisbothtimelessandeverchanging.Whilethebasicna-
+
+> tureofwarisconstant,themeansandmethodsweuseevolve
+
+continuously.Changesmaybegradualinsomecasesand
+
+drasticinothers.Drasticchangesinwararetheresultofde-
+
+velopmentsthatdramaticallyupsettheequilibriumofwar
+
+> suchastherifledbore,massconscription,andtherailroad.
+
+Onemajorcatalystofchangeistheadvancementoftech-nology.Asthehardwareofwarimprovesthroughtechnolo-
+
+gicaldevelopment,somustthetactical,operational,and
+
+strategicusageadaptto itsimprovedcapabilitiesbothto maximizeourowncapabilitiesandtocounteractourene-
+
+my's.
+
+> It
+
+isimportanttounderstandwhichaspectsofwarare
+
+likelytochangeandwhicharenot.Wemuststayabreastof theprocessofchangeforthebelligerentwhofirstexploitsa
+
+developmentintheartandscienceofwargainsasignificant
+
+advantage.Ifweareignorantofthechangingfaceofwar,we
+
+> willfindourselvesunequaltoitschallenges.
+> 17
+
+Warfighting MCDP1
+
+# Tm SCIENCE, ART,ANDDYNAMICOFWAR
+
+Variousaspectsofwarfallprincipallyintherealmofscience,
+
+whichisthemethodicalapplicationoftheempiricallawsof
+
+nature.Thescienceofwarincludesthoseactivitiesdirectly
+
+subjecttothelawsofballistics,mechanics,andlikedisci-
+
+plines;forexample,theapplicationoffires,theeffectsof
+
+weapons,andtheratesandmethodsofmovementandresup-
+
+ply.However,sciencedoesnotdescribethewholephenome-
+
+> non.
+
+Anevengreaterpartoftheconductofwarfallsunderthe
+
+realmofart,whichistheemploymentofcreativeorintuitive
+
+skills.Artincludesthecreative,situationalapplicationofsci-
+
+entificknowledgethroughjudgmentandexperience,andso
+
+theartofwarsubsumesthescienceofwar.Theartofwarre-
+
+quirestheintuitiveabilitytograsptheessenceofaunique
+
+militarysituationandthecreativeabilitytodeviseapractical
+
+solution.Itinvolvesconceivingstrategiesandtacticsandde-
+
+velopingplansofactiontosuitagivensituation.Thisstill
+
+doesnotdescribethewholephenomenon.Owingtotheva-
+
+gariesofhumanbehaviorandthecountlessotherintangible factorswhichinfluencewar,thereisfarmoretoitsconduct
+
+thancanbeexplainedbyartandscience.Artandsciencestop
+
+> shortofexplainingthefundamentaldynamicofwar.
+> 18
+
+MCDP1 TheNatureofWar
+
+Aswehavesaid,warisasocialphenomenon.Itsessential
+
+dynamicisthedynamicofcompetitivehumaninteraction
+
+ratherthanthedynamicofartorscience.Humanbeingsin-
+
+teractwitheachotherinwaysthatarefundamentallydiffer-
+
+> entfromthewayascientistworkswithchemicalsorformulas
+
+orthewayanartistworkswithpaintsormusicalnotes.Itis
+
+becauseofthisdynamicofhumaninteractionthatfortitude,
+
+> perseverance,boldness,esprit,andothertraitsnotexplainable
+
+byartorsciencearesoessentialinwar.Wethusconclude
+
+thattheconductofwarisfundamentallyadynamicprocessof
+
+humancompetitionrequiringboththeknowledgeofscience
+
+andthecreativityofartbutdrivenultimatelybythepowerof
+
+> humanwill.
+
+CONCLUSION
+
+Atfirstglance,warseemsasimpleclashofinterests.On
+
+closerexamination,itrevealsitscomplexityandtakesshape
+
+> asoneofthemostdemandingandtryingofhumanendeavors.
+
+Warisanextremetestofwill.Friction,uncertainty,fluidity,
+
+disorder,anddangerareitsessentialfeatures.Wardisplays
+
+broadpatternsthatcanberepresentedasprobabilities,yetit
+
+remainsfundamentallyunpredictable.Eachepisodeisthe
+
+uniqueproductofmyriadmoral,mental,andphysicalforces.
+
+> 19
+
+Warfighting MCDP1
+
+Individualcausesandtheireffectscanrarelybeisolated.Mi-
+
+noractionsandrandomincidentscanhavedisproportionately
+
+large—evendecisive—effects.Whiledependentonthelaws
+
+ofscienceandtheintuitionandcreativityofart,wartakesits
+
+fundamentalcharacterfromthedynamicofhumaninterac-
+
+> tion. 20
+
+# Chapter2
+
+# TheTheoryofWar
+
+"Thepoliticalobjectisthegoal,waristhemeansofreaching
+
+it,andthemeanscanneverbeconsideredinisolationfrom
+
+theirpurposes."
+
+—Carl vonClausewitz
+
+"Invincibilityliesinthedefense;thepossibilityofvictoryin
+
+theattackOnedefendswhenhisstrengthisinadequate;he
+
+attackswhenitisabundant."2
+
+—Sun Tzu
+
+"Battlesarewonbyslaughterandmanoeuver.Thegreater
+
+thegeneral,themorehecontributesinmanoeuver,thelesshe demandsinslaughter. "
+
+—Winston Churchill MCDP1 TheTheoryofWar
+
+# Havingarrivedatacommonviewofthenatureofwar,
+
+weproceedtodevelopfromitatheoryofwar.Ourthe-
+
+oryofwarwillinturnbethefoundationforthewaywepre-
+
+pareforandwagewar.
+
+WARASANACTOFPOLICY
+
+Warisanextensionofbothpolicyandpoliticswiththeaddi-
+
+tionofmilitaryforce.4Policyandpoliticsarerelatedbutnot
+
+synonymous,anditisimportanttounderstandwarinboth
+
+contexts.Politicsreferstothedistributionofpowerthrough
+
+dynamicinteraction,bothcooperativeandcompetitive,while
+
+policyreferstotheconsciousobjectivesestablishedwithin
+
+thepoliticalprocess.Thepolicyaimsthatarethemotivefor
+
+anygroupinwarshouldalsobetheforemostdeterminantsof itsconduct.Thesinglemostimportantthoughttounderstand
+
+aboutourtheoryisthatwarmustservepolicy.
+
+Asthepolicyaimsofwarmayvaryfromresistanceagainst
+
+aggressiontotheunconditionalsurrenderofanenemygov-
+
+ernment,soshouldtheapplicationofviolencevaryinaccor-
+
+dancewiththoseaims.Ofcourse,wemayalsohavetoadjust
+
+ourpolicyobjectivestoaccommodateourchosenmeans.This
+
+meansthatwemustnotestablishgoalsoutsideourcapabili-
+
+ties.Itisimportanttorecognizethatmanypoliticalproblems
+
+cannotbesolvedbymilitarymeans.Somecan,butrarelyas
+
+> 23
+
+Warfighting MCDP1
+
+anticipated.Wartendstotakeitsowncourseasitunfolds.
+
+Weshouldrecognizethatwarisnotaninanimateinstrument,
+
+butananimateforcewhichmaylikelyhaveunintendedcon-
+
+> sequencesthatmaychangethepoliticalsituation.
+
+Tosaythatwarisanextensionofpoliticsandpolicyisnot
+
+tosaythatwarisstrictlyapoliticalphenomenon: Italso containssocial,cultural,psychological,andotherelements.
+
+Thesecanalsoexertastronginfluenceontheconductofwar
+
+> aswellasonwar'susefulnessforsolvingpoliticalproblems.
+
+Whenthepolicymotiveofwarisextreme,suchasthede-
+
+structionofanenemygovernment,thenwar'snaturalmilitary
+
+tendencytowarddestructionwillcoincidewiththepolitical
+
+aim,andtherewilltendtobefewpoliticalrestrictionsonthe
+
+militaryconductofwar.Ontheotherhand,themorelimited
+
+thepolicymotive,themorethemilitarytendencytowardde-
+
+structionmaybeatvariancewiththatmotive,andthemore likelypoliticalconsiderationswillrestricttheapplicationof
+
+militaryforce.5Commandersmustrecognizethatsincemili-
+
+taryactionmustservepolicy,thesepoliticalrestrictionson
+
+militaryactionmaybeperfectlycorrect.Atthesametime,
+
+militaryleadershavearesponsibilitytoadvisethepolitical
+
+leadershipwhenthelimitationsimposedonmilitaryaction
+
+jeopardizethemilitary'sabilitytoaccomplishitsassigned
+
+> mission.
+> Therearetwowaystousemilitaryforcetoimposeourwill
+
+onanenemy.Thefirstistomaketheenemyhelplesstoresist
+
+> 24
+
+MCDP1 TheTheoryofWar
+
+usbyphysicallydestroyinghismilitarycapabilities.Theaim
+
+istheelimination,permanentortemporary,oftheenemy's
+
+militarypower.Thishashistoricallybeencalledastrategyof
+
+annihilation,althoughitdoesnotnecessarilyrequirethe
+
+physicalannihilationofallmilitaryforces.Instead,itrequires
+
+theenemy'sincapacitationasaviablemilitarythreat,and
+
+thuscanalsobecalledastrategy ofincapacitation.6We use
+
+forceinthiswaywhenweseekanunlimitedpoliticalobjec-
+
+tive,suchastheoverthrowoftheenemyleadership.Wemay
+
+alsousethisstrategyinpursuitofmorelimitedpoliticalob-
+
+jectivesifwebelievetheenemywillcontinuetoresistaslong
+
+> asanymeanstodosoremain.
+
+Thesecondapproachistoconvincetheenemythataccept-
+
+ingourtermswillbelesspainfulthancontinuingtoresist.
+
+Thisisastrategy of erosion,usingmilitaryforcetoerodethe
+
+enemyleadership'swill.7Insuchastrategy,weusemilitary
+
+forcetoraisethecostsofresistancehigherthantheenemyis willingtopay.Weuseforceinthismannerinpursuitoflim-itedpoliticalgoalsthatwebelievetheenemyleadershipwill
+
+> ultimatelybewillingtoaccept.
+
+MEANSINWAR
+
+Atthehighestlevel,warinvolvestheuseofalltheelements
+
+ofpowerthatonepoliticalgroupcanbringtobearagainst
+
+> 25
+
+Warfighting MCDP1
+
+another.Theseinclude,forexample,economic,diplomatic,
+
+military,andpsychologicalforces.Ourprimaryconcernis
+
+withtheuseofmilitaryforce.Nevertheless,whilewefocus
+
+ontheuseofmilitaryforce,wemustnotconsideritinisola-
+
+tionfromtheotherelementsofnationalpower.Theuseof
+
+militaryforcemaytakeanynumberofformsfromthemere
+
+> deploymentofforcesasademonstrationofresolvetotheen-
+
+forcementofanegotiatedtrucetogeneralwarfarewithso-
+
+> phisticatedweaponry.
+
+THESPECTRUMOFCONFLICT
+
+Conflictcantakeawiderangeofformsconstitutingaspec-
+
+trumwhichreflectsthemagnitudeofviolenceinvolved.At
+
+oneendofthespectrumarethoseactionsreferredtoasmili-
+
+taryoperationsotherthanwarinwhichtheapplicationof
+
+militarypowerisusuallyrestrainedandselective.Military
+
+> operationsotherthanwarencompasstheuseofabroadrange ofmilitarycapabilitiestodeterwar,resolveconflict,promote
+
+peace,andsupportcivilauthorities.Attheotherendofthe
+
+spectrumisgeneralwar,alarge-scale,sustainedcombatop-
+
+erationsuchasglobalconflictbetweenmajorpowers.Where
+
+> onthespectrumtoplaceaparticularconflictdependsonsev-
+
+eralfactors.Amongthemarepolicyobjectives,available
+
+> militarymeans,nationalwill,anddensityoffightingforcesor
+
+combatpoweronthebattlefield.Ingeneral,thegreaterthis
+
+> 26
+
+MCDP1 TheTheoryofWar
+
+density,themoreintensetheconflict.Eachconflictisnot
+
+uniformlyintense.Asaresult,wemaywitnessrelativelyin-
+
+tenseactionswithinamilitaryoperationotherthanwaror
+
+relativelyquietsectorsorphasesinamajorregionalconflict
+
+> orgeneralwar.
+> Militaryoperationsotherthanwarandsmallwarsaremore
+
+probablethanamajorregionalconflictorgeneralwar.Many
+
+politicalgroupssimplydonotpossessthemilitarymeansto wagewaratthehighendofthespectrum.Manywhofighta
+
+technologicallyornumericallysuperiorenemymaychooseto fightinawaythatdoesnotjustifytheenemy'sfulluseofthat superiority.Unlessactualsurvivalisatstake,politicalgroups
+
+aregenerallyunwillingtoaccepttherisksassociatedwith
+
+generalwar.However,aconflict'sintensitymaychangeover
+
+time.Belligerentsmayescalatethelevelofviolenceifthe
+
+originalmeansdonotachievethedesiredresults.Similarly,
+
+> warsmayactuallyde-escalateovertime;forexample,afteran initialpulseofintenseviolence,thebelligerentsmaycontinue
+
+tofightonalesserlevel,unabletosustaintheinitiallevelof
+
+> intensity.
+
+TheMarineCorps,asthenation'sforce-in-readiness,must
+
+havetheversatilityandflexibilitytodealwithasituationat
+
+anyintensityacrosstheentirespectrumofconflict.Thisisa
+
+greaterchallengethanitmayappear:Militaryoperations
+
+otherthanwarandsmallwarsarenotsimplylesserformsof
+
+generalwar.Amodernmilitaryforcecapableofwaginga
+
+## waragainstalargeconventionalforcemayfind itself
+
+> 27
+
+Warfighting MCDP1
+
+ill-preparedfora"small"waragainstalightlyequippedguer-
+
+> rillaforce.
+
+LEVELSOFWAR
+
+Activitiesinwartakeplaceatseveralinterrelatedlevels
+
+whichformahierarchy.Theselevelsarethestrategic,opera-
+
+> tional,andtactical.(Seefigure1.)
+
+Thehighestlevelisthestrategiclevel.8 Activitiesatthe
+
+strategiclevelfocusdirectlyonpolicyobjectives.Strategy
+
+appliestopeaceaswellaswar.Wedistinguishbetweenna-
+
+tionalstrategy,whichcoordinatesandfocusesalltheele-
+
+mentsofnationalpowertoattainthepolicyobjectives,9and
+
+militarystrategy,whichistheapplicationofmilitaryforceto
+
+securethepolicyobjectives.'0Militarystrategythusissubor-dinatetonationalstrategy.Militarystrategycanbethoughtof
+
+astheartofwinningwarsandsecuringpeace.Strategyin-
+
+volvesestablishinggoals,assigningforces,providingassets,
+
+andimposingconditionsontheuseofforceintheatersof
+
+war.Strategyderivedfrompoliticalandpolicyobjectives
+
+mustbeclearlyunderstoodtobethesoleauthoritativebasis
+
+> foralloperations.
+
+Thelowestlevelisthetacticallevel."Tacticsreferstothe
+
+> conceptsandmethodsusedtoaccomplishaparticularmission
+> 28
+
+MCDP1 TheTheoryofWar
+
+> Figure1.TheLevelsofWar.
+
+ineithercombatorothermilitaryoperations.Inwar,tactics focusesontheapplicationofcombatpowertodefeatanen-
+
+emyforceincombatataparticulartimeandplace.Innon-
+
+combatsituations, tacticsmayincludetheschemesand
+
+methodsbywhichweperformothermissions,suchasenforc-
+
+ingorderandmaintainingsecurityduringpeacekeepingop-
+
+erations.Wenormallythinkoftacticsintermsofcombat,and
+
+> 29 MCDP1
+
+inthiscontexttacticscanbethoughtofastheartandscience
+
+ofwinningengagementsandbattles.Itincludestheuseof
+
+firepowerandmaneuver,theintegrationofdifferentarms, andtheimmediateexploitationofsuccesstodefeattheen-
+
+emy.Includedwithinthetacticallevelofwaristheperform-anceofcombatservicesupportfunctionssuchasresupplyor
+
+> maintenance.Thetacticallevelalsoincludesthetechnicalap-plicationofcombatpower,whichconsistsofthosetechniques
+
+andproceduresforaccomplishingspecifictaskswithinatac-ticalaction.Theseincludethecallforfire,techniquesoffire,
+
+theoperationofweaponsandequipment,andtacticalmove-
+
+menttechniques.Thereisacertainoverlapbetweentactics
+
+andtechniques.Wemakethepointonlytodrawthedistinc-
+
+tionbetweentactics,whichrequiresjudgmentandcreativity,
+
+andtechniquesandprocedures,whichgenerallyinvolvesre-
+
+> petitiveroutine.
+
+Theoperationallevelofwarlinksthestrategicandtacti-
+
+callevels.Itistheuseoftacticalresultstoattainstrategic
+
+objectives.'2Theoperationallevelincludesdecidingwhen,
+
+> where,andunderwhatconditionstoengagetheenemyinbat-
+
+tle—andwhen,where,andunderwhatconditionstorefuse
+
+battleinsupportofhigheraims.Actionsatthislevelimplya
+
+broaderdimensionoftimeandspacethanactionsatthetacti-
+
+> callevel.Asstrategydealswithwinningwarsandtacticswith winningbattlesandengagements,theoperationallevelofwar
+
+istheartandscienceofwinningcampaigns.Itsmeansare
+
+tacticalresults,anditsendsaretheestablishedstrategicob-
+
+jectives.
+
+> 30
+
+MCDP1 TheTheoryofWar Thedistinctionsbetweenlevelsofwararerarelyclearly
+
+delineatedinpractice.Theyaretosomeextentonlyamatter ofscopeandscale.Usuallythereissomeamountofoverlap
+
+asasinglecommandermayhaveresponsibilitiesatmorethan
+
+onelevel.Asshowninfigure1,theoverlapmaybeslight.
+
+Thiswilllikelybethecaseinlarge-scale,conventionalcon-
+
+flictsinvolvinglargemilitaryformationsandmultiplethea-
+
+> ters. In such cases, there are fairly distinct strategic,
+
+operational,andtacticaldomains,andmostcommanderswill findtheiractivitiesfocusedatoneleveloranother.However,
+
+inothercases,thelevelsofwarmaycompresssothatthereis
+
+significantoverlap,asshowninfigure2.Especiallyineither anuclearwaroramilitaryoperationotherthanwar,asingle commandermayoperateattwooreventhreelevelssimulta-
+
+neously.Inanuclearwar,strategicdecisionsaboutthedirec-
+
+tionofthewarandtacticaldecisionsabouttheemployment
+
+Figure 2.TheLevelsofWarCompressed.
+
+> 31
+
+Warfighting MCDP1
+
+> ofweaponsareessentiallyoneandthesame.Inamilitaryop-
+
+erationotherthanwar,evenasmall-unitleader,forexample, mayfindthat"tactical"actionshavedirectstrategicimplica-
+
+> tions.
+
+INITIATWEANDRESPONSE
+
+Allactionsinwar,regardlessofthelevel,arebaseduponei-
+
+thertakingtheinitiativeorreactinginresponsetotheop-
+
+ponent.Bytakingtheinitiative,wedictatethetermsofthe
+
+conflictandforcetheenemytomeetusonourterms.The
+
+initiativeallowsustopursuesomepositiveaimevenifonly
+
+topreemptanenemyinitiative.Itisthroughtheinitiativethat
+
+weseektoimposeourwillontheenemy.Theinitiativeis
+
+clearlythepreferredformofactionbecauseonlythroughthe
+
+initiativecanweultimatelyimposeourwillontheenemy.At
+
+leastonepartytoaconflictmusttaketheinitiativefor
+
+withoutthedesiretoimposeupontheother,therewouldbe noconflict.Thesecondpartytoaconflictmustrespondfor
+
+withoutthedesiretoresist,thereagainwouldbenoconflict.
+
+Ifwecannottaketheinitiativeandtheenemydoes,weare
+
+compelledtorespondinordertocounteracttheenemy's
+
+attempts.Theresponsegenerallyhasanegativeaim,thatof
+
+negating—blockingorcounterattacking—theenemy'sinten-
+
+tions.Likeacounterpunchinboxing,theresponseoftenhas
+
+> asitsobjectseizingtheinitiativefromtheopponent.
+> 32
+
+MCDP1 TheTheoryofWar
+
+Thefluxofwarisaproductofthecontinuousinteraction
+
+betweeninitiativeandresponse.Wecanimagineaconflictin
+
+whichbothbelligerentstrytotaketheinitiativesimultane-
+
+ously—asinameetingengagement,forexample.Afterthe
+
+initialclash,oneofthemwillgaintheupperhand,andthe
+
+otherwillbecompelledtorespond—atleastuntilableto
+
+wrestletheinitiativeawayfromtheother.Actionsinwar
+
+moreorlessreflecttheconstantimperativetoseizeandmain-taintheinitiative.
+
+Thisdiscussionleadstoarelatedpairofconcepts:theof-
+
+> fense
+
+anddefense.Theoffensecontributesstrikingpower.We
+
+normallyassociatetheoffensewithinitiative:Themostobvi-
+
+ouswaytoseizeandmaintaintheinitiativeistostrikefirst
+
+andkeepstriking.Thedefense,ontheotherhand,contributes
+
+resistingpower,theabilitytopreserveandprotectourselves.
+
+Thedefensegenerallyhasanegativeaim,thatofresistingthe
+
+enemy'swill.
+
+> •
+
+Thedefensetendstobethemoreefficientformofwar-
+
+fare—meaningthatittendstoexpendlessenergy—whichis
+
+notthesameassayingthedefenseisinherentlythestronger
+
+formofwarfare.Therelativeadvantagesanddisadvantages ofoffenseanddefensearesituationallydependent.Because
+
+wetypicallythinkofthedefenseaswaitingfortheenemyto
+
+strike,weoftenassociatethedefensewithresponserather
+
+thaninitiative.Thisisnotnecessarilytrue.Wedonotneces-
+
+sarilyassumethedefensiveonlyoutofweakness.Forexam-
+
+ple,thedefensemayconfertheinitiativeiftheenemyis
+
+> 33
+
+Warfighting MCDP1
+
+compelledtoattackintothestrengthofourdefense.Under
+
+suchconditions,wemayhavethepositiveaimofdestroying
+
+> theenemy.Similarly,adefenderwaitinginambushmayhave
+
+theinitiativeiftheenemycanbebroughtintothetrap.The
+
+> defensemaybeanotherwayofstrikingattheenemy. Whileopposingforms,theoffenseanddefensearenotmu-
+
+tuallyexclusive.Infact,theycannotexistseparately.Forex-
+
+ample,thedefensecannotbepurelypassiveresistance.An
+
+> effectivedefensemustassumeanoffensivecharacter,striking
+
+atthemomentoftheenemy'sgreatestvulnerability.As
+
+Clausewitzwrote,thedefenseis"notasimpleshield,buta
+
+shieldmadeupofwell-directedblows."3Thetrulydecisive
+
+elementofthedefenseisthecounterattack.Thus,theoffense
+
+> isanintegralcomponentoftheconceptofthedefense.
+
+Similarly,thedefenseisanessentialcomponentoftheof-
+
+fense.Theoffensecannotsustainitselfindefinitely.Atsome
+
+timesandplaces,itbecomesnecessarytohalttheoffenseto
+
+replenish,andthedefenseautomaticallytakesover.Further-
+
+more,therequirementtoconcentrateforcesfortheoffensive
+
+oftennecessitatesassumingthedefensiveelsewhere.There-fore,outofnecessity,wemustincludedefensiveconsidera-
+
+> tionsaspartofourconceptoftheoffense.
+
+Thisbringsustotheconceptoftheculminatingpoint,'4
+
+withoutwhichourunderstandingoftherelationshipbetween
+
+theoffenseanddefensewouldbeincomplete.Notonlycan
+
+> 34
+
+MCDP1 TheTheoryofWar
+
+theoffensenotsustainitselfindefinitely,butalsoitgenerally
+
+growsweakerasitadvances.Certainmoralfactors,suchas
+
+moraleorboldness,mayincreasewithasuccessfulattack,but
+
+theseveryoftencannotcompensateforthephysicallossesin-
+
+volvedinsustaininganadvanceinthefaceofresistance.We
+
+advanceatacostinlives,fuel,ammunition,andphysicaland
+
+sometimesmoralstrength,andsotheattackbecomesweaker
+
+overtime.Enemyresistance,ofcourse,isamajorfactorin
+
+thedissipationofstrength.Eventually,wereachtheculminat-
+
+ingpointatwhichwecannolongersustaintheattackand
+
+mustreverttothedefense.Itispreciselyatthispointthatthe defensiveelementoftheoffenseismostvulnerabletotheof-
+
+fensiveelementofthedefense,thecounterattack. Weconcludethatthereexistsnocleardivisionbetweenthe
+
+offenseanddefense.Ourtheoryofwarshouldnotattemptto
+
+imposeoneartificially.Theoffenseanddefenseexistsimul-
+
+taneouslyasnecessarycomponentsofeachother,andthe
+
+transitionfromonetotheotherisfluidandcontinuous.
+
+Theserelationshipsbetweeninitiativeandresponse,of-
+
+fenseanddefense,existsimultaneouslyatthevariouslevels
+
+ofwar.Wemayseizetheinitiativelocallyaspartofalarger
+
+response—inalimitedcounterattack,forexample.Likewise,
+
+wemayemployatacticaldefenseaspartofanoffensive
+
+campaign,availingourselvesoftheadvantagesofthedefense
+
+tacticallywhilepursuinganoperationaloffensiveaim.
+
+> 35
+
+Warfighting MCDP1
+
+STYLESOFWARFARE
+
+> Styles
+
+inwarfarecanbedescribedbytheirplaceonaspec-
+
+trumofattritionandmaneuver.'5Warfarebyattritionpursues
+
+victorythroughthecumulativedestructionoftheenemy's
+
+materialassetsbysuperiorfirepower.itisadirectapproach
+
+totheconductofwarthatseeswarasastraightforwardtestof
+
+strengthandamatterprincipallyofforceratios.Anenemyis
+
+seenasacollectionoftargetstobeengagedanddestroyed
+
+systematically.Enemyconcentrationsaresoughtoutasthe
+
+mostworthwhiletargets.Thelogicalconclusionofattrition
+
+warfareistheeventualphysicaldestructionoftheenemy's
+
+entirearsenal,althoughtheexpectationisthattheenemywill
+
+surrenderordisengagebeforethishappensoutofunwilling-
+
+> nesstobeartherisingcost.Thefocusisontheefficientappli-
+
+cationoffires,leadingtoahighlyproceduralizedapproachto
+
+war.Technicalproficiency—especiallyinweaponsemploy-
+
+> ment—mattersmorethancunningorcreativity.
+
+Attritionwarfaremayrecognizemaneuverasanimportant componentbutseesitspurposeasmerelytoallowustobring
+
+ourfiresmoreefficientlytobearontheenemy.Theattrition-
+
+isttendstogaugeprogressinquantitativeterms:battledam-
+
+ageassessments,"bodycounts,"andterraincaptured.Results
+
+> aregenerallyproportionatetoefforts;greaterexpendituresnet
+
+greaterresults—thatis,greaterattrition.Thedesireforvol-
+
+umeandaccuracyoffiretendstoleadtowardcentralized
+
+control,justastheemphasisonefficiencytendstoleadtoan
+
+> 36
+
+MCDP1 TheTheoryofWar
+
+inwardfocusonproceduresandtechniques.Successdepends
+
+onanoverallsuperiorityinattritionalcapacity—thatis,the abilitytoinflictandabsorbattrition.Thegreatestnecessity
+
+forsuccessisnumericalandmaterialsuperiority.Atthena-
+
+tionallevel,warbecomesasmuchanindustrialasamilitary
+
+problem.Historically,nationsandmilitariesthatperceived
+
+theywerenumericallyandtechnologicallysuperiorhaveof-
+
+> tenadoptedwarfarebyattrition.
+
+Pureattritionwarfaredoesnotexistinpractice,butexam-plesofwarfarewithahighattritioncontentareplentiful:the
+
+operationsofbothsidesontheWesternFrontoftheFirst
+
+WorldWar;theFrenchdefensivetacticsandoperations
+
+againsttheGermansinMay1940;theAlliedcampaignin
+
+Italyin1943-1944;Eisenhower'sbroad-frontoffensivein
+
+> EuropeafterNormandyin1944;U.S.operationsinKoreaaf-
+> ter1950;andmostU.S.operationsintheVietnamWar.
+
+Ontheoppositeendofthespectrumiswarfarebymaneu-
+
+verwhichstemsfromadesiretocircumventaproblemand
+
+attackitfromapositionofadvantageratherthanmeetit
+
+straighton.Ratherthanpursuingthecumulativedestruction
+
+> ofeverycomponentintheenemyarsenal,thegoalistoattack theenemy"system"—toincapacitatetheenemysystemically.
+
+Enemycomponentsmayremainuntouchedbutcannotfunc-
+
+tionaspartofacohesivewhole.Ratherthanbeingviewedas
+
+> desirabletargets,enemyconcentrationsaregenerallyavoided
+
+asenemystrengths.Insteadofattackingenemystrength,the
+
+goalistheapplicationofourstrengthagainstselectedenemy
+
+> 37
+
+Warfighting MCDP1
+
+weaknessinordertomaximizeadvantage.Thistackrequires theabilitytoidentifyandexploitsuchweakness.Successde-
+
+> pendsnotsomuchontheefficientperformanceofprocedures
+
+andtechniques,butonunderstandingthespecificcharacteris-
+
+ticsoftheenemysystem.Maneuverreliesonspeedandsur-
+
+priseforwithouteitherwecannotconcentratestrength
+
+> againstenemyweakness.Tempoisitselfaweapon—oftenthe
+
+mostimportant.Successbymaneuver—unlikeattrition—is
+
+oftendisproportionatetotheeffortmade.However,forex-
+
+actlythesamereasons,maneuverincompetentlyappliedcar-
+
+rieswithitagreaterchanceforcatastrophicfailure.With
+
+attrition,potentiallossestendtobeproportionatetorisksin-
+
+> curred.
+
+Firepowerandattritionareessentialelementsofwarfare
+
+bymaneuver.Infact,atthecriticalpoint,wherestrengthhas
+
+beenfocusedagainstenemyvulnerability,attritionmaybe
+
+extremeandmayinvolvetheoutrightannihilationofenemy
+
+elements.Nonetheless,theobjectofsuchlocalattritionisnot
+
+merelytocontributeincrementallytotheoverallwearing
+
+downoftheentireenemyforce,buttoeliminateakeyele-
+
+> mentwhichincapacitatestheenemysystemically.
+
+Likeattritionwarfare,maneuverwarfaredoesnotexistin itstheoreticallypureform.Examplesofwarfarewithahigh
+
+> enoughmaneuvercontentthattheycanbeconsideredmaneu-
+
+verwarfareincludeAllenby'sdecisivecampaignagainstthe TurksinPalestinein1918;GermanBlitzkriegoperationsof
+
+1939-1941,mostnotablytheinvasionofFrancein1940;the
+
+> 38
+
+MCDP1 TheTheoryofWar
+
+failedAlliedlandingatAnzioin1944,whichwasaneffortto
+
+avoidtheattrition battlesoftheItaliantheater;Patton's breakoutfromtheNormandybeachhead in late 1944;
+
+MacArthur'sInchoncampaignin1950;andIIIMarineAm-
+
+phibiousForce'scombinedactionprograminVietnamwhich
+
+attackedtheVietCongbyeliminatingtheiressentialpopular
+
+> supportbasethroughthepacificationofruralvillages.
+
+Allwarfareinvolvesbothmaneuverandattritioninsome
+
+mix.Thepredominantstyledependsonavarietyoffactors, notleastofwhichareourowncapabilitiesandthenatureof
+
+theenemy.MarineCorpsdoctrinetodayisbasedprincipally
+
+onwarfarebymaneuver,aswewillseeinthefourthchapter,
+
+"TheConductofWar."
+
+COMBATPOWER
+
+Combatpoweristhetotaldestructiveforcewecanbringto
+
+bearonourenemyatagiventime.'6Somefactorsincombat
+
+powerarequitetangibleandeasilymeasuredsuchassuperior
+
+numbers,whichClausewitzcalled"themostcommonele-
+
+mentinvictory."7Somemaybelesseasilymeasuredsuchas
+
+theeffectsofmaneuver,tempo,orsurprise;theadvantages conferredbygeographyorclimate;therelativestrengthsof
+
+theoffenseanddefense;ortherelativemeritsofstrikingthe
+
+enemyinthefront,flanks,orrear.Somemaybewholly
+
+> 39
+
+Warfighting MCDP1
+
+intangiblesuchasmorale,fightingspirit,perseverance,orthe
+
+> effectsofleadership.
+
+Itisnotourintenttotrytolistorcategorizeallthevarious
+
+componentsofcombatpower,toindextheirrelativevalues,
+
+ortodescribetheircombinationsandvariations;eachcombi-
+
+nationisuniqueandtemporary.Norisitevendesirabletobe
+
+> abletodoso,sincethiswouldleadustoaformulaicapproach
+
+towar.Ourintentismerelytomakethepointthatcombat
+
+poweristhesituationallydependentanduniqueproductofa
+
+varietyofphysical,moral,andmentalfactors.
+
+SPEEDANDFOCUS
+
+Ofalltheconsistentpatternswecandiscerninwar,thereare
+
+twoconceptsofuniversalsignificanceingeneratingcombat
+
+power:speedandfocus.
+
+Speedisrapidityofaction.Itappliestobothtimeand
+
+space.Speedovertimeistempo—theconsistentabilitytoop-
+
+eratequickly.'8Speedoverdistance,orspace,istheabilityto
+
+moverapidly.Bothformsaregenuinesourcesofcombat
+
+power.Inotherwords,speedisaweapon.Inwar,itisrela-
+
+tivespeedthatmattersratherthanabsolutespeed.Superior
+
+speedallowsustoseizetheinitiativeanddictatethetermsof
+
+> 40
+
+MCDP1 TheTheoryofWar
+
+action,forcingtheenemytoreacttous.Speedprovidesse-
+
+curity.It isaprerequisiteformaneuverandforsurprise.
+
+Moreover,speedisnecessaryinordertoconcentratesuperior
+
+> strengthatthedecisivetimeandplace.
+
+Sinceit isrelativespeedthatmatters,itfollowsthatwe
+
+shouldtakeallmeasurestoimproveourownspeedwhilede-
+
+gradingourenemy's.However,experienceshowsthatwe
+
+cannotsustainahighrateofspeedindefinitely.Asaresult,a
+
+patterndevelops:fast,slow,fastagain.Acompetitiverhythm
+
+developsincombatwitheachbelligerenttryingtogenerate
+
+> speedwhenitisadvantageous.
+
+Focusistheconvergenceofeffects in timeandspaceon
+
+someobjective.Itisthegenerationofsuperiorcombatpower
+
+ataparticulartimeandplace.Focusmayachievedecisivelo-
+
+calsuperiorityforanumericallyinferiorforce.Thewilling-
+
+nesstofocusatthedecisiveplaceandtimenecessitatesstrict
+
+economyandtheacceptanceofriskelsewhereandatother
+
+times.Todevotemeanstounnecessaryeffortsorexcessive
+
+meanstonecessarysecondaryeffortsviolatestheprincipleof
+
+focusandiscounterproductivetothetrueobjective.Focus
+
+appliesnotonlytotheconductofwarbutalsototheprepara-
+
+> tionforwar.
+
+Sincewarisfluidandopportunitiesarefleeting,focusap-
+
+pliestotimeaswellastospace.Wemustfocuseffectsnot
+
+> onlyatthedecisivelocationbutalsoatthedecisivemoment.
+> 41
+
+Warfighting MCDP1
+
+Weachievefocusthroughcooperationtowardtheaccom-
+
+plishmentofthecommonpurpose.Thisappliestoallele-
+
+mentsoftheforce,andinvolvesthecoordinationofground
+
+combat,aviation,andcombatservicesupportelements.
+
+Thecombinationofspeedandfocusadds"punch"or
+
+"shockeffect"toouractions.Itfollowsthatweshouldstrike
+
+> withthegreatestpossiblecombinationofspeedandfocus.
+
+SURPRISE ANDBOLDNESS
+
+Twoadditionalconceptsareparticularlyusefulingenerating
+
+combatpower:surpriseandboldness.
+
+Bysurprisewemeanastateofdisorientationresulting
+
+fromanunexpectedeventthatdegradestheenemy'sabilityto
+
+resist.Weachievesurprisebystrikingtheenemyatatimeor placeorinamannerforwhichtheenemyisunprepared.Itis
+
+notessentialthatwetaketheenemyunaware,butonlythat awarenesscametoolatetoreacteffectively.Thedesirefor
+
+surpriseis"moreorlessbasictoalloperations,forwithoutit
+
+superiorityatthedecisivepointishardlyconceivable."9
+
+Whileanecessarypreconditionofsuperiority,surpriseisalso
+
+agenuinesourceofcombatpowerinitsownrightbecauseof
+
+itspsychologicaleffect.Surprisecandecisivelyaffectthe
+
+> outcomeofcombatfarbeyondthephysicalmeansathand.
+> 42
+
+MCDP1 TheTheoryofWar
+
+> Theadvantagegainedbysurprisedependsonthedegreeof
+
+disorientationandtheenemy'sabilitytoadjustandrecover. Surprise,ifsufficientlyharsh,canleadtoshock,thetotal,if
+
+temporary,inabilitytoreact.Surpriseisbasedonspeed,
+
+stealth,ambiguity,anddeception.Itoftenmeansdoingthe
+
+moredifficultthing—takingacircuitousdirectionofattack,
+
+> forexample—inthehopethattheenemywillnotexpectit.In
+
+fact,thisisthegenesisofmaneuver—tocircumventtheen-
+
+> emy'sstrengthtostrikeataweakness.
+
+Whiletheelementofsurpriseisoftenofdecisiveimpor-
+
+tance,wemustrealizethatitisdifficulttoachieveandeasy
+
+tolose. Itsadvantagesareonlytemporaryandmustbe
+
+> quicklyexploited.Friction,adominantattributeofwar,isthe
+
+constantenemyofsurprise.Wemustalsorecognizethat
+
+whilesurpriseisalwaysdesirable,theabilitytoachieveit doesnotdependsolelyonourownefforts.Surpriseisnot
+
+whatwedo;itistheenemy'sreactiontowhatwedo.Itde-pendsatleastasmuchonourenemy'ssusceptibilitytosur-
+
+prise—hisexpectationsandpreparedness.Ourabilityto
+
+achievesurprisethusrestsonourabilitytoappreciateand
+
+thenexploitourenemy'sexpectations.Therefore,whilesur-prisecanbedecisive,itisriskytodependonitaloneforthe
+
+> marginofvictory.
+
+Therearethreebasicwaystogoaboutachievingsurprise.
+
+> Thefirstisthroughdeception—toconvincetheenemyweare
+
+goingtodosomethingotherthanwhatwearereallygoingto doinordertoinducehimtoactinamannerprejudicialtohis
+
+> 43
+
+Warfighting MCDP1
+
+owninterests.Theintentistogivetheenemyaclearpicture
+
+ofthesituation,butthewrongpicture.Thesecondwayis
+
+throughambiguity—toactinsuchawaythattheenemydoes
+
+notknowwhattoexpect.Becausehedoesnotknowwhatto
+
+> expect,hemustpreparefornumerouspossibilitiesandcannot
+
+prepareadequatelyforanyone.Thethirdisthroughstealth—
+
+todenytheenemyanyknowledgeofimpendingaction.The
+
+enemyisnotdeceivedorconfusedastoourintentionsbutis
+
+completelyignorantofthem.Ofthethree,deceptiongener-
+
+> allyoffersthegreatesteffectsbutismostdifficulttoachieve.
+
+Boldnessisasourceofcombatpowerinmuchthesame
+
+waythatsurpriseis.Boldnessisthecharacteristicofunhes-
+
+itatinglyexploitingthenaturaluncertaintyofwartopursue
+
+majorresults ratherthanmarginalones.Accordingto
+
+Clausewitz,boldness"mustbegrantedacertainpowerover
+
+andabovesuccessfulcalculationsinvolvingspace,time,and
+
+magnitudeofforces,forwhereveritissuperior,itwilltake
+
+advantageofitsopponent'sweakness.Inotherwords,itisa
+
+> genuinelycreativeforce."2°Boldnessissuperiortotimidityin
+
+everyinstancealthoughboldnessdoesnotalwaysequateto
+
+immediateaggressiveaction.Anervy,calculatingpatience
+
+thatallowstheenemytocommithimselfirrevocablybefore
+
+westrikehimcanalsobeaformofboldness.Boldnessis
+
+basedonstrongsituationawareness:Weweighthesituation,
+
+thenact.Inotherwords,boldnessmustbetemperedwith
+
+judgmentlestitborderonrecklessness.
+
+> 44
+
+MCDP1 TheTheoryofWar
+
+Thereisacloseconnectionbetweensurpriseandboldness.
+
+Thewillingnesstoacceptrisksoftennecessarytoachieve
+
+surprisereflectsboldness.Likewise,boldnesscontributesto achievingsurprise.Afterweweighthesituation,totakehalf
+
+> measuresdiminishestheeffectsofsurprise.
+
+CENTERSOFGRAVITYAND CRITICAL
+
+VULNERABILITIES Itisnotenoughsimplytogeneratesuperiorcombatpower.
+
+Wecaneasilyconceiveofsuperiorcombatpowerdissipated
+
+overseveralunrelatedeffortsorconcentratedonsomeincon-
+
+sequentialobject.Towin,wemustfocuscombatpowerto-
+
+wardadecisiveaim.Therearetworelatedconceptsthathelp
+
+ustothinkaboutthis:centersofgravityandcriticalvulner-
+
+abilities.
+
+Eachbelligerentisnotaunitaryforce,butacomplexsys-
+
+temconsistingofnumerousphysical,moral,andmentalcom-
+
+## ponentsaswellastherelationshipsamongthem.The
+
+combinationofthesefactorsdetermineseachbelligerent's
+
+uniquecharacter.Someofthesefactorsaremoreimportant
+
+thanothers.Somemaycontributeonlymarginallytothebel-
+
+ligerent'spower,andtheirlosswouldnotcausesignificant
+
+> damage.Othersmaybefundamentalsourcesofcapability.
+> 45
+
+Warfighting MCDP1
+
+Weaskourselves:Whichfactorsarecriticaltotheenemy?
+
+Whichcantheenemynotdowithout?Which,f eliminated,
+
+willbendhimmostquicklytoourwill?Thesearecentersof
+
+gravity.21Dependingonthesituation,centersofgravitymay
+
+beintangiblecharacteristicssuchasresolveormorale.They
+
+maybecapabilitiessuchasarmoredforcesoraviation
+
+strength.They.maybelocalitiessuchasacriticalpieceofter-
+
+rainthatanchorsanentiredefensivesystem.Theymaybethe
+
+relationshipbetweentwoormorecomponentsofthesystem
+
+suchasthecooperationbetweentwoarms,therelationsinan
+
+alliance,orthejunctionoftwoforces.Inshort,centersof
+
+gravityareanyimportantsourcesofstrength.Iftheyare
+
+friendlycentersofgravity,wewanttoprotectthem,andif
+
+theyareenemycentersofgravity,wewanttotakethem
+
+> away.
+
+Wewanttoattackthesourceofenemystrength,butwedo
+
+notwanttoattackdirectlyintothatstrength.Weobviously
+
+standabetterchanceofsuccessbyconcentratingourstrength
+
+againstsomerelativeenemyweakness.Sowealsoaskour-
+
+selves:Whereistheenemyvulnerable?Inbattlefieldterms,
+
+thismeansthatweshouldgenerallyavoidhisfront,wherehis
+
+attentionisfocusedandheisstrongest,andseekouthis
+
+flanksandrear,wherehedoesnotexpectusandwherewe
+
+canalsocausethegreatestpsychologicaldamage.Weshould
+
+> alsostrikeatamomentintimewhenheisvulnerable.
+> 46
+
+MCDP1 TheTheoryofWar
+
+Ofallthevulnerabilitieswemightchoosetoexploit,some
+
+aremorecriticaltotheenemythanothers.Somemaycontrib-
+
+utesignificantlytotheenemy'sdownfallwhileothersmay
+
+leadonlytominimalgains.Therefore,weshouldfocusour
+
+effortsagainstacriticalvulnerability,avulnerabilitythat,if
+
+exploited,willdothemostsignificantdamagetotheenemy's
+
+> abilitytoresistus.
+
+Weshouldtrytounderstandtheenemysystemintermsof
+
+arelativelyfewcentersofgravityorcriticalvulnerabilities
+
+becausethisallowsustofocusourownefforts.Themorewe
+
+cannarrowitdown,themoreeasilywecanfocus.However,
+
+weshouldrecognizethatmostenemysystemswillnothavea
+
+singlecenterofgravityonwhicheverythingelsedepends,or iftheydo,thatcenterofgravitywillbewellprotected.Itwill
+
+oftenbenecessarytoattackseverallessercentersofgravity
+
+orcriticalvulnerabilitiessimultaneouslyorinsequenceto
+
+> havethedesiredeffect.
+
+Centerofgravityandcriticalvulnerabilityarecomplemen-
+
+taryconcepts.Theformerlooksattheproblemofhowtoat-
+
+tacktheenemysystemfromtheperspectiveofseekinga
+
+sourceofstrength,thelatterfromtheperspectiveofseeking
+
+weakness.Acriticalvulnerabilityisapathwaytoattackinga centerofgravity.Bothhavethesameunderlyingpurpose:to targetouractionsinsuchawayastohavethegreatesteffect
+
+> ontheenemy.
+> 47
+
+Warfighting MCDP1
+
+CREATINGANDEXPLOITINGOPPORTUNITY
+
+Thisdiscussionleadsustoacorollarythought:theimpor-
+
+tanceofcreatingandexploitingopportunity.Inallcases,the commandermustbepreparedtoreacttotheunexpectedand toexploitopportunitiescreatedbyconditionswhichdevelop fromtheinitialaction.Whenidentificationofenemycritical
+
+vulnerabilitiesisparticularlydifficult,thecommandermay
+
+havenochoicebuttoexploitanyandallvulnerabilitiesuntil
+
+> actionuncoversadecisiveopportunity.Astheopposingwills
+
+interact,theycreatevariousfleetingopportunitiesforeither
+
+foe.Suchopportunitiesareoftenbornofthefogandfriction
+
+thatisnaturalinwar.Theymaybetheresultofourownac-
+
+tions,enemymistakes,orevenchance.Byexploitingoppor-tunities,wecreateinincreasingnumbersmoreopportunities
+
+forexploitation.Itisoftentheabilityandthewillingnessto
+
+ruthlesslyexploittheseopportunitiesthatgeneratedecisive
+
+> results.Theabilitytotakeadvantageofopportunityisafunc-
+> tionofspeed,flexibility,boldness,andinitiative.
+
+CONCLUSION
+
+> Thetheoryofwarwehavedescribedprovidesthefoundation
+
+forthediscussionoftheconductofwarinthefinalchapter.
+
+Allactsofwararepoliticalacts,andsotheconductofwar
+
+mustbemadetosupporttheaimsofpolicy.Wartakesplace
+
+> 48 MCDP1
+
+TheTheoryofWar
+
+atseverallevelssimultaneously,fromthestrategicdirection oftheoverallwarefforttothetacticalapplicationofcombat
+
+powerinbattle.Atthehighestlevel,warinvolvestheuseof
+
+alltheelementsofpoliticalpower,ofwhichmilitaryforceis justone.Actioninwar,atalllevels,istheresultoftheinter-playbetweeninitiativeandresponsewiththeobjectbeingto
+
+> seizeandmaintaintheinitiative.Allwarfareisbasedoncon-ceptssuchasspeed,focus,surprise,andboldness.Successin
+
+wardependsontheabilitytodirectoureffortsagainstcriti-
+
+calvulnerabilitiesorcentersofgravityandtorecognizeand
+
+exploitfleetingopportunities.Aswewilldiscuss,thewar-
+
+fightingdoctrinewederivefromourtheoryisonebasedon
+
+> maneuver.
+> 49
+
+# Chapter3
+
+# PreparingforWar
+
+"Theessentialthingisaction.Actionhasthreestages:the
+
+decisionbornofthought,theorderorpreparationforexecu-
+
+tion,andtheexecutionitselfAllthreestagesaregovernedby
+
+thewill.Thewillisrootedincharacter,andforthemanof
+
+actioncharacterisofmorecriticalimportancethanintellect.
+
+Intellectwithoutwillisworthless,willwithoutintellectis
+
+dangerous. —HansvonSeeckt
+
+"Itisnotenoughthatthetroopsbeskilledinfantrymenorar-
+
+tillerymenofhighmorale:theymustbeskilledwatermen
+
+andjunglemenwhoknowitcanbedone—Marineswith
+
+Marinetraining. "2
+
+—Earl H.Ellis MCDPI PreparingforWar
+
+# During timesofpeace,themostimportanttaskofany militaryistoprepareforwar.Throughitsprepared-
+
+ness,amilitaryprovidesdeterrenceagainstpotentialaggres-
+
+sors.Asthenation'sexpeditionaryforce-in-readiness,the
+
+MarineCorpsmustmaintainitselfforimmediateemployment
+
+in"anyclimeandplace"andinanytypeofconflict.All
+
+peacetimeactivitiesshouldfocusonachievingcombatreadi-
+
+ness.Thisimpliesahighleveloftraining,flexibilityin
+
+organizationandequipment,professionalleadership,anda
+
+cohesivedoctrine.
+
+FORCEPLANNING
+
+Forceplanningisplanningthatisassociatedwiththecreation
+
+andmaintenanceofmilitarycapabilities.3Planningplaysas
+
+importantaroleinthepreparationforwarasitdoesinthe
+
+conductofwar.Thekeytoanyplanisaclearlydefinedob-
+
+jective,inthiscasearequiredlevelofreadiness.
+
+TheMarineCorps'forceplanningisconcept-based.That
+
+is,allforceplanningderivesfromacommonsetofconcepts
+
+whichdescribehowMarineCorpsforceswilloperateand
+
+performcertainkeyfunctions.Theseconceptsdescribethe
+
+typesofmissionsMarineforcesarelikelytoberequiredto
+
+performandhowtheymightaccomplishthosemissions.
+
+> 53
+
+Warfighting MCDP1
+
+Theseconceptsprovidethebasisforidentifyingrequiredca-
+
+pabilitiesandimplementingcoordinatedprogramstodevelop
+
+thosecapabilities. Basedonthiscommonsetofconcepts,forceplanninginte-gratesalltheeffortsofthepeacetimeMarineCorps,including training,education,doctrine,organization,personnelmanage-
+
+ment,andequipmentacquisition.Unityofeffortisasimpor-tantduringthepreparationforwarasitisduringtheconduct
+
+ofwar.Thissystematicprocessofidentifyingtheobjective
+
+andplanningacoursetoobtainitappliestoallareasandlev-
+
+> elsofpreparations.
+
+ORGANIZATION
+
+Theoperatingforcesmustbeorganizedtoprovideforward
+
+deployedorrapidlydeployableforcescapableofconducting
+
+expeditionaryoperationsinanyenvironment.Thismeansthat inadditiontomaintainingtheiruniqueamphibiouscapability, theoperatingforcesmustmaintainthecapabilitytodeployby whatevermeansisappropriatetothesituation.
+
+Theactiveoperatingforcesmustbecapableofresponding
+
+immediatelytomosttypesofcrisisandconflict.Manysus-
+
+tainedmissionswillrequireaugmentationfromtheReserve
+
+> establishment.
+> 54
+
+MCDP1 PreparingforWar
+
+Foroperationsandtraining,Marineforceswillbeformed
+
+intoMarineair-groundtaskforces(MAGTFs).MAGTFsare
+
+> taskorganizationsconsistingofground,aviation,combatser-
+
+vicesupport,andcommandelements.Theyhavenostandard
+
+> structure,butratherareconstitutedasappropriateforthespe-
+
+cificsituation.TheMAGTFprovidesasinglecommandera
+
+combinedarmsforcethatcanbetailoredtothesituation
+
+> faced.Asthesituationchanges,itmayofcoursebenecessary
+> torestructuretheMAGTF.
+
+Operatingforcesshouldbeorganizedforwarfightingand
+
+thenadaptedforpeacetimeratherthanviceversa.Tablesof
+
+organizationshouldreflectthetwocentralrequirementsof
+
+deployabilityandtheabilitytotask-organizeaccordingto specficsituations.Unitsshouldbeorganizedaccordingto
+
+typeonlytotheextentdictatedbytraining,administrative,
+
+> andlogisticrequirements.
+
+Commandersshouldestablishhabitualrelationshipsbe-
+
+tweensupportedandsupportingunitstodevelopoperational
+
+familiarityamongthoseunits.Thisdoesnotprecludenon-
+
+> standardrelationshipswhenrequiredbythesituation.
+
+DOCTRINE
+
+Doctrineisateachingofthefundamentalbeliefsofthe
+
+MarineCorpsonthesubjectofwar,fromitsnatureand
+
+> 55
+
+Warfighting MCDP1
+
+theorytoitspreparationandconduct.4Doctrineestablishesa particularwayofthinkingaboutwarandawayoffighting.It
+
+alsoprovidesaphilosophyforleadingMarinesincombat,a
+
+mandateforprofessionalism,andacommonlanguage.In
+
+> short,itestablishesthewaywepracticeourprofession.Inthis
+
+manner,doctrineprovidesthebasisforharmoniousactions
+
+> andmutualunderstanding.
+
+MarineCorpsdoctrineismadeofficialbytheComman-
+
+dantandisestablishedinthispublication.Ourdoctrinedoes
+
+notconsistofprocedurestobeappliedinspecificsituations
+
+somuchasitsetsforthgeneralguidancethatrequiresjudg-
+
+> mentinapplication.Therefore,whileauthoritative,doctrineis
+> notprescriptive.
+
+PROFESSIONALISM MarineCorpsdoctrinedemandsprofessionalcompetence
+
+amongitsleaders.Asmilitaryprofessionalschargedwiththe defenseoftheNation,Marineleadersmustbetrueexpertsin
+
+theconductofwar.Theymustbeindividualsbothofaction
+
+andofintellect,skilledat"gettingthingsdone"whileatthe sametimeconversantinthemilitaryart.Resoluteandself-
+
+reliantintheirdecisions,theymustalsobeenergeticandin-
+
+> sistentinexecution.5
+> 56
+
+MCDPI PreparingforWar
+
+Themilitaryprofessionisathinkingprofession.Every
+
+Marineisexpectedtobeastudentoftheartandscienceof
+
+war.Officersespeciallyareexpectedtohaveasolidfounda-
+
+tioninmilitarytheoryandaknowledgeofmilitaryhistory
+
+> andthetimelesslessonstobegainedfromit.
+
+Leadersmusthaveastrongsenseofthegreatresponsibil-
+
+ityoftheiroffice;theresourcestheywillexpendinwarare
+
+> humanlives.
+
+TheMarineCorps'styleofwarfarerequiresintelligent
+
+leaderswithapenchantforboldnessandinitiativedownto
+
+thelowestlevels.Boldnessisanessentialmoraltraitina
+
+leaderforitgeneratescombatpowerbeyondthephysical
+
+meansathand.Initiative,thewillingnesstoactonone'sown
+
+judgment,isaprerequisiteforboldness.Thesetraitscarried
+
+> toexcesscanleadtorashness,butwemustrealizethaterrors
+
+byjuniorleadersstemmingfromoverboldnessareaneces-
+
+sarypartoflearning.6Weshoulddealwithsucherrorsleni-ently;theremustbeno"zerodefects"mentality.Abolishing "zerodefects"meansthatwedonotstifleboldnessorinitia-
+
+tivethroughthethreatofpunishment.Itdoesnotmeanthat
+
+commandersdonotcounselsubordinatesonmistakes;con-
+
+structivecriticismisanimportantelementinlearning.Nor
+
+doesitgivesubordinatesfreelicensetoactstupidlyorreck-
+
+> lessly.
+
+Notonlymustwenotstifleboldnessorinitiative,butwe mustcontinuetoencouragebothtraitsinspiteofmistakes.
+
+> 57
+
+Warfighting MCDP1
+
+Ontheotherhand,weshoulddealseverelywitherrorsofin-
+
+> actionortimidity.Wewillnotacceptlackofordersasjustifi-
+
+cationforinaction;itiseachMarine'sdutytotakeinitiative
+
+asthesituationdemands.Wemustnottoleratetheavoidance
+
+> ofresponsibilityornecessaryrisk.
+
+Consequently,trustisanessentialtraitamongleaders—
+
+trustbyseniorsintheabilitiesoftheirsubordinatesandby
+
+juniorsinthecompetenceandsupportoftheirseniors.Trust
+
+mustbeearned,andactionswhichunderminetrustmustmeet
+
+withstrictcensure.Trustisaproductofconfidenceandfa-
+
+miliarity.Confidenceamongcomradesresultsfromdemon-
+
+stratedprofessionalskill. Familiarityresultsfromshared
+
+> experienceandacommonprofessionalphilosophy.
+
+Relationsamongallleaders—fromcorporaltogeneral—
+
+shouldbebasedonhonestyandfranknessregardlessofdis-
+
+paritybetweengrades.Untilacommanderhasreachedand
+
+statedadecision,subordinatesshouldconsiderittheirdutyto
+
+providehonest,professionalopinionseventhoughthesemay
+
+beindisagreementwiththesenior'sopinions.However,once
+
+thedecisionhasbeenreached,juniorsthenmustsupportitas
+
+ifitweretheirown.Seniorsmustencouragecandoramong subordinatesandmustnothidebehindtheirgradeinsignia.
+
+Readycomplianceforthepurposeofpersonaladvance-
+
+> ment—thebehaviorof"yes-men"-—-willnotbetolerated.
+> 58
+
+MCDP1 PreparingforWar
+
+TRAINING
+
+> The purposeofalltrainingistodevelopforcesthatcanwinin
+
+combat.Trainingisthekeytocombateffectivenessand
+
+thereforeisthemaineffortofapeacetimemilitary.However,
+
+trainingshouldnotstopwiththecommencementofwar;
+
+trainingmustcontinueduringwartoadapttothelessonsof
+
+> combat.
+
+AllofficersandenlistedMarinesundergosimilarentry-
+
+leveltrainingwhichis,ineffect,asocializationprocess.This
+
+trainingprovidesallMarinesacommonexperience,aproud
+
+heritage,asetofvalues,andacommonbondofcomradeship.
+
+> ItistheessentialfirststepinthemakingofaMarine.
+
+Basicindividualskillsareanessentialfoundationforcom-
+
+bateffectivenessandmustreceiveheavyemphasis.All
+
+Marines,regardlessofoccupationalspecialty,willbetrained
+
+inbasiccombatskills.Atthesametime,unitskillsareex-tremelyimportant.Theyarenotsimplyanaccumulationof
+
+individualskills;adequacyinindividualskillsdoesnotauto-
+
+> maticallymeanunitskillsaresatisfactory.
+
+Commandersateachechelonmustallotsubordinatessuffi-
+
+cienttimeandfreedomtoconductthetrainingnecessaryto
+
+> 59 MCDP1
+
+achieveproficiencyattheirlevels.Theymustensurethat
+
+higher-leveldemandsdonotdenysubordinatesadequateop-
+
+> portunitiesforautonomousunittraining.
+
+Inordertodevelopinitiativeamongjuniorleaders,the
+
+conductoftraining—likecombat—shouldbedecentralized. Seniorcommandersinfluencetrainingbyestablishinggoals andstandards,communicatingtheintentoftraining,andes-
+
+> tablishingamaineffortfortraining.Asarule,theyshouldre-frainfromdictatinghowthetrainingwillbeaccomplished.
+
+Trainingprogramsshouldreflectpractical,challenging,
+
+andprogressivegoalsbeginningwithindividualandsmall-
+
+> unitskillsandculminatinginafullycombinedarmsMAGTF.
+
+Ingeneral,theorganizationforcombatshouldalsobetheor-
+
+ganizationfortraining.Thatis,units,includingMAGTFs,
+
+shouldtrainwiththefullcomplementofassigned,reinforc-
+
+> ing,andsupportingforcestheyrequireincombat.
+
+Collectivetrainingconsistsofdrillsandexercises.Drills
+
+areaformofsmall-unittrainingwhichstressproficiencyby
+
+progressiverepetitionoftasks.Drillsareaneffectivemethod
+
+fordevelopingstandardizedtechniquesandproceduresthat
+
+mustbeperformedrepeatedlywithoutvariationtoensure
+
+speedandcoordination.Examplesaregundrills,preflight
+
+preparations,orimmediateactions.Incontrast,exercisesare designedtotrainunitsandindividualsintacticsundersimu-
+
+latedcombatconditions.Exercisesshouldapproximatethe
+
+conditionsofwarasmuchaspossible;thatis,theyshould
+
+> 60
+
+MCDP1 PreparingforWar
+
+introducefrictionintheformofuncertainty,stress,disorder,
+
+andopposingwills.Thislastcharacteristicismostimportant; onlyinopposed,free-playexercisescanwepracticetheartof
+
+war.Dictatedor"canned"scenarioseliminatetheelementof
+
+> independent,opposingwillsthatistheessenceofwar.
+
+Critiquesareanimportantpartoftrainingbecausecritical
+
+self-analysis,evenaftersuccess,isessentialtoimprovement.
+
+Theirpurposeistodrawoutthelessonsoftraining.Asare-
+
+sult,weshouldconductcritiquesimmediatelyaftercomplet-
+
+> ingtraining,beforememoryoftheeventshasfaded.Critiques
+
+shouldbeheldinanatmosphereofopenandfrankdialogue
+
+inwhichallhandsareencouragedtocontribute.Welearnas
+
+muchfrommistakesasfromthingsdonewell,sowemustbe
+
+willingtoadmitmistakesajiddiscussthem.Ofcourse,asub-
+
+ordinate'swillingnesstoadmitmistakesdependsonthecom-
+
+mander'swillingnesstotoleratethem.Becausewerecognize
+
+thatnotwosituationsinwararethesame,ourcritiques
+
+shouldfocusnotsomuchontheactionswetookasonwhy wetookthoseactionsandwhytheybroughttheresultsthey
+
+> did.
+
+PROFESSIONALMILITARYEDUCATION
+
+Professionalmilitaryeducationisdesignedtodevelopcrea-
+
+tive,thinkingleaders.Fromtheinitialstagesofleadership
+
+> 61
+
+Warfighting MCDP1
+
+training,aleader'scareershouldbeviewedasacontinuous,
+
+progressiveprocessofdevelopment.Ateachstage,aMarine
+
+> shouldbepreparingforthesubsequentstage.
+
+Theearlystagesofaleader'scareerare,ineffect,anap-
+
+prenticeship.Whilereceivingafoundationintheoryandcon-
+
+ceptsthatwillservethemthroughouttheircareers,leaders
+
+> focusonunderstandingtherequirementsandlearningandap-
+
+plyingtheproceduresandtechniquesassociatedwithapar-
+
+ticularfield.Thisiswhentheylearntheirtradesasaviators, infantrymen,artillerymen,orlogisticians.Astheyprogress,
+
+leadersshouldstrivetomastertheirrespectivefieldsandto
+
+understandtheinterrelationshipofthetechniquesandproce-
+
+dureswithinthefield.AMarine'sgoalatthisstageistobe-
+
+> comeanexpertinthetacticallevejofwar.
+
+Asanofficercontinuestodevelop,masteryshouldencom-
+
+passabroaderrangeofsubjectsandshouldextendtotheop-
+
+> erationallevelofwar.Atthisstage,anofficershouldnotonly
+
+beanexpertintacticsandtechniquesbutshouldalsounder-
+
+standcombinedarms,amphibiouswarfare,andexpeditionary operations.Attheseniorlevels,anofficershouldbefullyca-
+
+pableofarticulating,applying,andintegratingMAGTFwar-fightingcapabilitiesinajointandmultinationalenvironment
+
+> andshouldbeanexpertintheartofwaratalllevels.
+
+Theresponsibilityforimplementingprofessionalmilitary
+
+educationintheMarineCorpsisthree-tiered:Itresidesnot
+
+> 62
+
+MCDP1 PreparingforWar
+
+onlywiththeeducationestablishment,butalsowiththecom-
+
+> manderandtheindividual.
+
+Theeducationestablishmentconsistsofthoseschools—
+
+administeredbytheMarineCorps,subordinatecommands,or
+
+outsideagencies—establishedtoprovideformaleducationin
+
+theartandscienceofwar.Allprofessionalschools,particu-larlyofficerschools,shouldfocusondevelopingatalentfor
+
+militaryjudgment,notonimpartingknowledgethroughrote
+
+learning.Studyconductedbytheeducationestablishmentcan
+
+neitherprovidecompletecareerpreparationforanindividual
+
+norreachallindividuals.Rather,itbuildsuponthebasepro-
+
+> videdbycommandersandbyindividualstudy.
+
+Allcommandersshouldconsidertheprofessionaldevelop-
+
+mentoftheirsubordinatesaprincipalresponsibilityofcom-
+
+mand.Commandersshouldfosterapersonalteacher-student
+
+relationshipwiththeirsubordinates.Commandersareex-
+
+pectedtoconductacontinuingprofessionaleducationpro-
+
+gramfortheirsubordinatesthatincludesdevelopingmilitary
+
+judgmentanddecisionmakingandteachesgeneralprofes-
+
+sionalsubjectsandspecifictechnicalsubjectspertinenttooc-
+
+cupationalspecialties.Usefultoolsforgeneralprofessional
+
+developmentincludesupervisedreadingprograms,mapexer-
+
+cises,wargames,battlestudies,andterrainstudies.Com-
+
+mandersshouldseethedevelopmentoftheirsubordinatesas
+
+> adirectreflectiononthemselves.
+> 63
+
+Warfighting MCDP1
+
+Finally,everyMarinehasanindividualresponsibilityto
+
+studytheprofessionofarms.Aleaderwithouteitherinterest
+
+> inorknowledgeofthehistoryandtheoryofwarfare—thein-
+> tellectualcontentofthemilitaryprofession—isaleaderinap-
+
+pearanceonly.Self-directedstudyintheartandscienceof warisatleastequalinimportancetomaintainingphysical
+
+conditionandshouldreceiveatleastequaltime.Thisispar-
+
+> ticularlytrueamongofficers;afterall,themindisanofficer's
+> principalweapon.
+
+PERSONNELMANAGEMENT
+
+Sincewarisatbaseahumanenterprise,effectivepersonnel
+
+managementisimportanttosuccess.Thisisespeciallytrue
+
+foradoctrineofmaneuverwarfare,whichplacesapremium
+
+onindividualjudgmentandaction.Weshouldrecognizethat
+
+allMarinesofagivengradeandoccupationalspecialtyare
+
+notinterchangeableandshouldassignpeopletobilletsbased
+
+onspecificabilityandtemperament.Thisincludesrecogniz-
+
+ingthosewhoarebestsuitedtocommandassignmentsand thosewhoarebestsuitedtostaffassignments—withoutpe-
+
+> nalizingoneortheotherbysorecognizing.
+
+Thepersonnelmanagementsystemshouldseektoachieve
+
+personnelstabilitywithinunitsandstaffsasameansoffos-
+
+teringcohesion,teamwork,andimplicitunderstanding.We
+
+> 64
+
+MCDP1 PreparingforWar
+
+recognizethatcasualtiesinwarwilltakeatollonpersonnel
+
+stability,butthegreaterstabilityaunithasinitially,thebetter
+
+> itwillabsorbthosecasualtiesandincorporatereplacements.
+
+Finally,promotionandadvancementpolicyshouldreward
+
+> thewillingnesstoacceptresponsibilityandexerciseinitiative.
+
+EQUIPPING
+
+Equipmentshouldbeeasytooperateandmaintain,reliable,
+
+andinteroperablewithotherequipment.Itshouldrequire
+
+minimalspecializedoperatortraining.Further,equipment
+
+shouldbedesignedsothatitsuseisconsistentwithestab-
+
+lisheddoctrineandtactics.Aprimaryconsiderationisstrate-
+
+gicandtacticallift—theMarineCorps'relianceonshipping
+
+forstrategicmobilityandonlandingcraft,helicopters,and
+
+vertical/shorttakeoffandlandingaircraftfortacticalmobility fromshiptoshoreandduringoperationsashore.Anotherkey
+
+considerationisemployabilityandsupportabilityinundevel-
+
+opedtheaterswithlimitedsupportinginfrastructure—where
+
+> MarineCorpsunitscanfrequentlyexpecttooperate.
+
+Inordertominimizeresearchanddevelopmentcostsand
+
+fieldingtime,theMarineCorpswillexploitexistingcapa-
+
+bilities—"off-the-shelf"technology—tothegreatestextent
+
+> possible.
+> 65
+
+Warfighting MCDP1
+
+Acquisitionshouldbeacomplementary,two-wayprocess
+
+basedonestablishedoperatingandfunctionalconcepts.Es-
+
+peciallyforthelongterm,theprocessmustidentifycombat
+
+requirementsanddevelopequipmenttosatisfytheserequire-
+
+> ments.Wherepossible,weshouldbasetheserequirementson
+
+ananalysisoflikelyenemyvulnerabilitiesandshouldde-
+
+velopequipmenttoexploitthosevulnerabilities.Atthesame
+
+time,theprocessshouldnotoverlookexistingequipmentof
+
+> obvioususefulness.
+
+Equipmentisusefulonlyifitincreasescombateffective-
+
+> ness.Anypieceofequipmentrequiressupport:operatortrain-
+
+ing,maintenance,powersourcesorfuel,andtransport.The
+
+anticipatedenhancementofcapabilitiesmustjustifythese
+
+supportrequirementsandtheemploymentoftheequipment
+
+> musttaketheserequirementsintoaccount.
+> Theacquisitioneffortshouldbalancetheneedforspeciali-
+
+zationwiththeneedforutilityinabroadrangeofenviron-
+
+ments.Increasingthecapabilitiesofequipmentgenerally
+
+requiresdevelopingincreasinglyspecializedequipment.In-
+
+> creasinglyspecializedequipmenttendstobeincreasinglyvu!-
+
+nerabletocountermeasures.Onesolutiontothisproblemis
+
+nottodevelopasinglefamilyofequipment,buttomaintain
+
+> varietyinequipmenttypes.
+
+Asmuchaspossible,employmenttechniquesandproce-
+
+duresshouldbedevelopedconcurrentlywithequipmentto
+
+minimizedelaysbetweenthefieldingoftheequipmentand
+
+> 66
+
+MCDP1 PreparingforWar
+
+itsusefulnesstotheoperatingforces.Forthesamereason,
+
+initialoperatortrainingshouldalsoprecedeequipmentfield-
+
+> ing.
+> Therearetwodangerswithrespecttoequipment:theover-
+
+relianceontechnologyandthefailuretomakethemostof
+
+technologicalcapabilities.Technologycanenhancetheways
+
+> andmeansofwarbyimprovinghumanity'sabilitytowageit,
+> buttechnologycannotandshouldnotattempttoeliminatehu-
+
+manityfromtheprocessofwagingwar.Betterequipmentis
+
+notthecureforall ills;doctrinalandtacticalsolutionsto
+
+combatdeficienciesmustalsobesought.Anyadvantages
+
+gainedbytechnologicaladvancementareonlytemporaryfor
+
+someonewillalwaysfindacountermeasure,tacticaloritself
+
+> technological,whichwilllessentheimpactofthetechnology.
+
+Additionally,wemustnotbecomesodependentonequip-
+
+mentthatwecannolongerfunctioneffectivelywhenthe
+
+equipmentbecomesinoperable.Finally,wemustexercise disciplineintheuseoftechnology.Advancedinformation
+
+technologyespeciallycantemptustotrytomaintainprecise,
+
+positivecontroloversubordinates,whichisincompatible
+
+> withtheMarineCorpsphilosophyofcommand.
+
+CONCLUSION
+
+Therearetwobasicmilitaryfunctions:wagingwarandpre-paringforwar.Anymilitaryactivitiesthatdonotcontribute
+
+> 67
+
+Warfighting MCDP1
+
+totheconductofapresentwararejustifiableonlyifthey
+
+contributetopreparednessforapossiblefutureone.Clearly,
+
+wecannotaffordtoseparateconductandpreparation.They
+
+> mustbeintimatelyrelatedbecausefailureinpreparationleads todisasteronthebattlefield.
+> 68
+
+# Chapter4
+
+# TheConductofWar
+
+"Nowanarmymaybelikenedtowater,forjustasflowing
+
+wateravoidstheheightsandhastenstothelowlands,soan
+
+armyavoidsstrengthandstrikesweakness."
+
+—Sun Tzu
+
+"Speedistheessenceofwar.Takeadvantageoftheenemy's
+
+unpreparedness;travelbyunexpectedroutesandstrikehim
+
+wherehehastakennoprecautions."2
+
+—Sun Tzu
+
+"Manyyearsago,asacadethopingsomedaytobeanoffi-
+
+cer,Iwasporingoverthe'PrinciplesofWar,'listedinthe
+
+oldFieldServiceRegulations,whentheSergeant-Major
+
+cameuptome.Hesurveyedmewithkindlyamusement.
+
+'Don'tbotheryourheadaboutallthemthings,melad,'he said.'There'sonlyoneprincipleofwarandthat'sthis.Hit
+
+theotherfellow,asquickasyoucan,andashardasyoucan,
+
+whereithurtshimmost,whenheam 'tlookin'I"3
+
+—Sir WilliamSlim MCDP1 TheConductofWar
+
+# ThesolejustificationfortheUnitedStatesMarineCorps
+
+istosecureorprotectnationalpolicyobjectivesbymil-
+
+itaryforcewhenpeacefulmeansalonecannot.Howthe
+
+MarineCorpsproposestoaccomplishthismissionisthe
+
+productofourunderstandingofthenatureandthetheoryof
+
+warandmustbetheguidingforcebehindourpreparationfor
+
+> war.
+
+THECHALLENGE
+
+Thechallengeistodevelopaconceptofwarfightingconsis-
+
+tentwithourunderstandingofthenatureandtheoryofwar
+
+andtherealitiesofthemodernbattlefield.Whatexactlydoes
+
+thisrequire?Itrequiresaconceptofwarfightingthatwillhelp
+
+usfunctioneffectivelyinanuncertain,chaotic,andfluiden-
+
+vironment—infact,onewithwhichwecanexploitthesecon-
+
+ditionstoouradvantage.Itrequiresaconceptwithwhichwe
+
+cansenseandusethetime-competitiverhythmofwartogen-
+
+erateandexploitsuperiortempo.Itrequiresaconceptthatis consistentlyeffectiveacrossthefullspectrumofconflictbe-
+
+causewecannotattempttochangeourbasicdoctrinefrom
+
+situationtosituationandexpecttobeproficient.Itrequiresa
+
+conceptwithwhichwecanrecognizeandexploitthefleeting
+
+opportunitiesthatnaturallyoccurinwar.Itrequiresaconcept
+
+thattakesintoaccountthemoralandmentalaswellasthe
+
+physicalforcesofwarbecausewehavealreadyconcluded
+
+thattheseformthegreaterpartofwar.Itrequiresaconcept
+
+> 71
+
+Warfighting MCDP1
+
+> withwhichwecansucceedagainstanumericallysuperiorfoe
+
+becausewecannotpresumeanumericaladvantageeitherlo-
+
+callyoroverall.Especiallyinexpeditionarysituationsin
+
+whichpublicsupportformilitaryactionmaybetepidand
+
+> short-lived,
+
+itrequiresaconceptwithwhichwecanwin
+
+quicklyagainstalargerfoeonhishomesoilwithminimal
+
+> casualtiesandlimitedexternalsupport.
+
+MANEUVERWARFARE
+
+> TheMarineCorpsconceptforwinningundertheseconditions
+
+isawarfightingdoctrinebasedonrapid,flexible,andoppor-tunisticmaneuver.Inordertofullyappreciatewhatwemean
+
+bymaneuver,weneedtoclarif'theterm.Thetraditionalun-
+
+derstandingofmaneuverisaspatialone;thatis,wemaneu-
+
+verinspacetogainapositionaladvantage.4However,in
+
+ordertomaximizetheusefulnessofmaneuver,wemustcon-
+
+sidermaneuverinotherdimensionsaswell.Theessenceof
+
+maneuveristakingactiontogenerateandexploitsomekind
+
+> ofadvantageovertheenemyasameansofaccomplishingour
+
+objectivesaseffectivelyaspossible.Thatadvantagemaybe psychological,technological,ortemporalaswellasspatial.
+
+Especiallyimportantismaneuverintime—wegeneratea
+
+fasteroperatingtempothantheenemytogainatemporalad-
+
+vantage.It isthroughmaneuverinalldimensionsthatan
+
+> 72
+
+MCDP1 TheConductofWar
+
+inferiorforcecanachievedecisivesuperiorityattheneces-
+
+> sarytimeandplace.
+
+Maneuverwarfareisawarfightingphilosophythatseeks
+
+> toshattertheenemy'scohesionthroughavarietyofrapid,fo-
+
+cused,andunexpectedactionswhichcreateaturbulentand
+
+rapidlydeterioratingsituationwithwhichtheenemycannot
+
+> cope.
+
+Ratherthanwearingdownanenemy'sdefenses,maneuver
+
+warfareattemptstobypassthesedefensesinordertopene-
+
+tratetheenemysystemandtearitapart.Theaimistorender theenemyincapableofresistingeffectivelybyshatteringhis
+
+moral,mental,andphysicalcohesion—hisabilitytofightas aneffective,coordinatedwhole—ratherthantodestroyhim
+
+physicallythroughtheincrementalattritionofeachofhis
+
+components,whichisgenerallymorecostlyandtime-con-
+
+suming.Ideally,thecomponentsofhisphysicalstrengththat
+
+remainareirrelevantbecausewehavedisruptedhisabilityto
+
+usethemeffectively.Evenifanoutmaneuveredenemycon-
+
+tinuestofightasindividualsorsmallunits,wecandestroy
+
+theremnantswithrelativeeasebecausewehaveeliminated
+
+> hisabilitytofighteffectivelyasaforce.
+
+Thisisnottoimplythatfirepowerisunimportant.Onthe
+
+> contrary,firepoweriscentraltomaneuverwarfare.Nordowe
+
+meantoimplythatwewillpassuptheopportunitytophysi-
+
+callydestroytheenemy.Wewillconcentratefiresandforces
+
+> 73 MCDP1
+
+atdecisivepointstodestroyenemyelementswhentheoppor-
+
+tunitypresentsitselfandwhenitfitsourlargerpurposes.En-
+
+gagedincombat,wecanrarelygowrongifweaggressively
+
+pursuethedestructionofenemyforces.Infact,maneuver
+
+warfareofteninvolvesextremelyhighattritionofselecteden-
+
+emyforceswherewehavefocusedcombatpoweragainst
+
+criticalenemyweakness.Nonetheless,theaimofsuchattri-
+
+tionisnotmerelytoreduceincrementallytheenemy'sphysi-
+
+> cal
+
+strength.Rather, it is tocontributetotheenemy's
+
+systemicdisruption.Thegreatesteffectoffirepowerisgen-
+
+erallynotphysicaldestruction—thecumulativeeffectsof
+
+whicharefeltonlyslowly—butthedisruptionitcauses.
+
+Iftheaimofmaneuverwarfareistoshatterthecohesionof
+
+theenemysystem,theimmediateobjecttowardthatendisto
+
+createasituationinwhichtheenemycannotfunction.Byour
+
+actions,weseektoposemenacingdilemmasinwhichevents
+
+happenunexpectedlyandmorequicklythantheenemycan
+
+keepupwiththem.Theenemymustbemadetoseethesitua-
+
+tionnotonlyasdeteriorating,butdeterioratingatanever-
+
+increasingrate.Theultimategoalispanicandparalysis,an
+
+enemywhohaslosttheabilitytoresist.
+
+Inherentinmaneuverwarfareistheneedforspeedtoseize
+
+theinitiative,dictatethetermsofaction,andkeeptheenemy
+
+offbalance,therebyincreasinghisfriction.Weseektoestab-
+
+lishapacethattheenemycannotmaintainsothatwitheach
+
+actionhisreactionsareincreasinglylate—untileventuallyhe
+
+> isovercomebyevents.
+> 74 MCDP1
+
+TheConductofWar
+
+Alsoinherentistheneedtofocusoureffortsinorderto
+
+maximizeeffect.Incombatthisincludesviolenceandshock
+
+> effect,againnotsomuchasasourceofphysicalattrition,but
+
+asasourceofdisruption.Weconcentratestrengthagainst
+
+criticalenemyvulnerabilities,strikingquicklyandboldly
+
+where,when,andinwaysinwhichitwillcausethegreatest
+
+> damagetoourenemy'sabilitytofight.Oncegainedorfound,
+
+anyadvantagemustbepressedrelentlesslyandunhesitat-
+
+ingly.Wemustberuthlesslyopportunistic,activelyseeking outsignsofweaknessagainstwhichwewilldirectallavail-
+
+ablecombatpower.Whenthedecisiveopportunityarrives,
+
+wemustexploititfullyandaggressively,committingevery
+
+> ounceofcombatpowerwecanmusterandpushingourselves
+> tothelimitsofexhaustion.
+
+Animportantweaponinourarsenalissurprise,thecorn-
+
+batvalueofwhichwehavealreadyrecognized.Bystudying
+
+ourenemy,wewillattempttoappreciatehisperceptions.
+
+Throughdeceptionwewilltrytoshapetheenemy'sexpecta-
+
+tions.Thenwewillexploitthoseexpectationsbystrikingat anunexpectedtimeandplace.Inordertoappearunpredict-
+
+able,wemustavoidsetrulesandpatterns,whichinhibit
+
+imaginationandinitiative.Inordertoappearambiguousand
+
+threatening,weshouldoperateonaxesthatoffernumerous
+
+coursesofaction,keepingtheenemyunclearastowhichwe
+
+> willchoose.
+
+Besidestraitssuchasenduranceandcouragethatallwar-
+
+faredemands,maneuverwarfareputsapremiumoncertain
+
+> 75 TV4*4AAAAnn.
+
+MCDP1
+
+particularhumanskillsandtraits.Itrequiresthetemperament
+
+tocopewithuncertainty.Itrequiresflexibilityofmindtodeal
+
+withfluidanddisorderlysituations.Itrequiresacertaininde-
+
+pendenceofmind,awillingnesstoactwithinitiativeand
+
+boldness,anexploitivemindsetthattakesfulladvantageof
+
+everyopportunity,andthemoralcouragetoacceptresponsi-
+
+bilityforthistypeofbehavior.Itisimportantthatthislastset
+
+oftraitsbeguidedbyself-disciplineandloyaltytotheobjec-
+
+tivesofseniors.Finally,maneuverwarfarerequirestheability
+
+tothinkaboveourownlevelandtoactatourlevelinaway
+
+thatis inconsonancewiththerequirementsofthelarger
+
+> situation.
+
+ORIENTINGONTHE ENEMY Orientingontheenemyisfundamentaltomaneuverwarfare.
+
+Maneuverwarfareattackstheenemy"system."Theenemy
+
+> system
+
+iswhateverconstitutestheentityconfrontingus
+
+withinourparticularsphere.Forapilot,itmightbethecom-
+
+binationofairdefenseradars,surface-to-airmissiles,anden-
+
+emyaircraftthatmustbepenetratedtoreachthetarget.Fora
+
+riflecompanycommander,itmightbethemutuallysupport-
+
+ingdefensivepositions,protectedbyobstaclesandsupported
+
+bycrew-servedweapons,onthenextterrainfeature.Foran
+
+electronicwarfarespecialist,itmightbetheenemy'scom-
+
+mandandcontrolnetworks.ForaMarineexpeditionaryforce
+
+> 76
+
+MCDP1 TheConductofWar
+
+commander,itmightbeallthemajorcombatformations
+
+withinanareaofoperationsaswellastheirsupportingcom-
+
+> mandandcontrol,logistics,andintelligenceorganizations.
+
+Weshouldtrytounderstandtheuniquecharacteristicsthat maketheenemysystemfunctionsothatwecanpenetratethe
+
+system,tearitapart,and,ifnecessary,destroytheisolated
+
+components.Weshouldseektoidentifyandattackcritical
+
+vulnerabilitiesandthosecentersofgravitywithoutwhichthe
+
+enemycannotfunctioneffectively.Thismeansfocusingout-
+
+> wardontheparticularcharacteristicsoftheenemyratherthan
+
+inwardonthemechanicalexecutionofpredeterminedproce-
+
+> dures.
+
+Iftheenemysystem,forexample,isafortifieddefensive works,penetratingthesystemmaymeananinfiltrationora violentattackonanarrowfrontageataweakspottophysi-
+
+callyrupturethedefense,afterwhichwecanenveloptheen-
+
+emypositionsorrollthemuplaterallyfromwithin.Enthis
+
+waywedefeatthelogicofthesystemratherthanfrontally
+
+> overwhelmingeachposition.
+
+Weshouldtryto"getinside"theenemy'sthoughtproc-
+
+essesandseetheenemyasheseeshimselfsothatwecanset
+
+> himupfordefeat.Itisessentialthatweunderstandtheenemy
+
+onhisownterms.Weshouldnotassumethateveryenemy
+
+> thinksaswedo,fightsaswedo,orhasthesamevaluesorob-
+
+jectives.
+
+> 77 MCDP1
+
+## PmLosoPiwOFCOMMAND
+
+Itisessentialthatourphilosophyofcommandsupportthe
+
+waywefight.Firstandforemost,inordertogeneratethe
+
+tempoofoperationswedesireandtobestcopewiththeun-
+
+> certainly,disorder,andfluidityofcombat,commandandcon-
+
+trolmustbedecentralized.Thatis,subordinatecommanders
+
+mustmakedecisionsontheirowninitiative,basedontheir
+
+understandingoftheirsenior'sintent,ratherthanpassingin-
+
+formationupthechainofcommandandwaitingforthedeci-
+
+siontobepasseddown.Further,acompetentsubordinate
+
+commanderwhoisatthepointofdecisionwillnaturallybet-
+
+terappreciatethetruesituationthanaseniorcommander
+
+somedistanceremoved.Individualinitiativeandresponsibil-
+
+ityareofparamountimportance.Theprincipalmeansby
+
+whichweimplementdecentralizedcommandandcontrolis
+
+throughtheuseofmissiontactics,whichwewilldiscussin
+
+> detaillater.
+
+Second,sincewehaveconcludedthatwarisahumanen-
+
+terpriseandnoamountoftechnologycanreducethehuman
+
+> dimension,ourphilosophyofcommandmustbebasedonhu-
+
+mancharacteristicsratherthanonequipmentorprocedures.
+
+Communicationsequipmentandcommandandstaffproce-
+
+durescanenhanceourabilitytocommand,buttheymustnot
+
+beusedtolessenthehumanelementofcommand.Ourphi-
+
+losophymustnotonlyaccommodatebutmustexploithuman
+
+> traitssuchasboldness,initiative,personality,strengthofwill,
+> andimagination.
+> 78
+
+MCDP1 TheConductofWar
+
+Ourphilosophyofcommandmustalsoexploitthehuman abilitytocommunicateimplicitly.5Webelievethatimplicit
+
+communication—tocommunicatethroughmutualunder-
+
+standing,usingaminimumofkey,well-understoodphrases
+
+orevenanticipatingeachother'sthoughts—isafaster,more
+
+effectivewaytocommunicatethanthroughtheuseofde-
+
+tailed,explicitinstructions.Wedevelopthisabilitythrough
+
+familiarityandtrust,whicharebasedonasharedphilosophy
+
+> andsharedexperience.
+
+Thisconcepthasseveralpracticalimplications.First,we
+
+shouldestablishlong-termworkingrelationshipstodevelop
+
+thenecessaryfamiliarityandtrust.Second,keypeople—"ac-
+
+tuals"—shouldtalkdirectlytooneanotherwhenpossible,
+
+ratherthanthroughcommunicatorsormessengers.Third,we
+
+shouldcommunicateorallywhenpossible,becausewecom-
+
+municatealsoinhowwetalk—ourinflectionsandtoneof
+
+voice.Fourth,weshouldcommunicateinpersonwhenpossi-
+
+blebecausewecommunicatealsothroughourgesturesand
+
+> bearing.
+
+Commandersshouldcommandfromwheretheycanbest
+
+> influencetheaction,normallywellforward.Thisallowsthem toseeandsensefirsthandtheebbandflowofcombat,togain
+
+anintuitiveappreciationforthesituationthattheycannotob-
+
+> tainfromreports.Itallowsthemtoexertpersonalinfluenceat decisivepointsduringtheaction.Italsoallowsthemtolocate
+
+themselvesclosertotheeventsthatwillinfluencethesitua-
+
+> tionsothattheycanobservethemdirectlyandcircumventthe
+> 79
+
+Warfighting MCDP1
+
+delaysandinaccuraciesthatresultfrompassinginformation
+
+> upanddownthechainofcommand.Finally,werecognizethe
+
+importanceofpersonalleadership.Onlybytheirphysical
+
+presence—bydemonstratingthewillingnesstosharedanger
+
+andprivation—cancommandersfullygainthetrustandcon-
+
+fidenceofsubordinates.Wemustrememberthatcommand
+
+fromthefrontshouldnotequatetooversupervisionofsubor-
+
+dinates.Atthesametime,itisimportanttobalancetheneed
+
+forforwardcommandwiththeneedforkeepingapprisedof
+
+theoverallsituation,whichisoftenbestdonefromacentral
+
+> locationsuchasacombatoperationcenter.Commanderscan-notbecomesofocusedononeaspectofthesituationthatthey
+> loseoverallsituationalawareness.
+
+Aspartofourphilosophyofcommand,wemustrecognize
+
+thatwaris inherentlydisorderly,uncertain,dynamic,and
+
+dominatedbyfriction.Moreover,maneuverwarfare,withits
+
+emphasisonspeedandinitiative,isbynatureaparticularly disorderlystyleofwar.Theconditionsripeforexploitation
+
+arenormallyalsoverydisorderly.Forcommanderstotryto
+
+gaincertaintyasabasisforactions,maintainpositivecontrol
+
+ofeventsatalltimes,ordictateeventstofittheirplansisto
+
+denythenatureofwar.Wemustthereforebepreparedto
+
+> cope—evenbetter,tothrive—inanenvironmentofchaos,un-
+
+certainty,constantchange,andfriction.Ifwecancometo termswiththoseconditionsandtherebylimittheirdebili-
+
+> tatingeffects,wecanusethemasaweaponagainstafoewho
+> doesnotcopeaswell.
+> 80
+
+MCDP1 TheConductofWar
+
+Inpracticalterms,thismeansthatwemustnotstrivefor
+
+certaintybeforeweact,forinsodoingwewillsurrenderthe
+
+initiativeandpassupopportunities.Wemustnottrytomain-tainexcessivecontroloversubordinatessincethiswillneces-
+
+sarilyslowourtempoandinhibitinitiative.Wemustnot
+
+attempttoimposepreciseorderontheeventsofcombatsince thisleadstoaformularisticapproachtowar.Wemustbepre-
+
+paredtoadapttochangingcircumstancesandexploitoppor-
+
+tunitiesastheyarise,ratherthanadheringinsistentlyto
+
+> predeterminedplansthathaveoutlivedtheirusefulness.
+
+Thereareseveralpointsworthrememberingaboutour
+
+commandphilosophy.First,whileitisbasedonourwarfight-
+
+ingstyle,thisdoesnotmeanitappliesonlyduringwar.We
+
+mustputitintopracticeduringthepreparationforwaras
+
+well.Wecannotrightlyexpectoursubordinatestoexercise
+
+boldnessandinitiativeinthefieldwhentheyareaccustomed
+
+tobeingoversupervisedingarrison.Whetherthemissionis
+
+training,procuringequipment,administration,orpolicecall,
+
+> thisphilosophyshouldapply.
+
+Next,ourphilosophyrequirescompetentleadershipatall
+
+levels.Acentralizedsystemtheoreticallyneedsonlyone
+
+competentperson,theseniorcommander,whoisthesole
+
+> authority.Adecentralizedsystemrequiresleadersatalllevels
+
+todemonstratesoundandtimelyjudgment.Initiativebe-
+
+comesanessentialconditionofcompetenceamongcom-
+
+> manders.
+> 81
+
+Warfighting MCD?1 Ourphilosophyalsorequiresfamiliarityamongcomrades
+
+becauseonlythroughasharedunderstandingcanwedevelop theimplicitcommunicationnecessaryforunityofeffort.Per-
+
+hapsmostimportant,ourphilosophydemandsconfidence
+
+> amongseniorsandsubordinates.
+
+SHAPING THEACTION
+
+> Sinceourgoalisnotmerelythecumulativeattritionofenemy
+
+strength,wemusthavesomelargerschemeforhowweex-
+
+> pecttoachievevictory.Thatis,beforeanythingelse,wemust
+> conceivehowweintendtowin.
+
+Thefirstrequirementistoestablishwhatwewanttoac-
+
+> complish,why,andhow.Withoutaclearlyidentifiedconcept
+
+andintent,thenecessaryunityofeffortisinconceivable.We
+
+mustidentifythosecriticalenemyvulnerabilitiesthatwe
+
+believewillleadmostdirectlytounderminingtheenemy's
+
+centersofgravityandtheaccomplishmentofourmission.
+
+Havingdonethis,wecanthenbegintoactsoastoshapethe campaign,operation,battle,orengagementtoouradvantage
+
+inbothtimeandspace.Similarly,wemusttrytoseeour-
+
+selvesthroughourenemy'seyesinordertoidentifyourown
+
+vulnerabilitiesthathemayattackandtoanticipatewhathe
+
+> willtrytodosothatwecancounteracthim.Ideally,whenthe
+> 82
+
+MCDP1 TheConductofWar momentofengagementarrives,theissuewillhavealready
+
+beenresolved:Throughourinfluencingoftheeventsleading uptotheencounter,wehavesoshapedtheconditionsofwar
+
+thattheresultisamatterofcourse.Wehaveshapedtheac-
+
+> tiondecisivelytoouradvantage.
+
+Toinfluencetheactiontoouradvantage,wemustproject
+
+> ourthoughtsforwardintimeandspace.Wefrequentlydothis
+
+throughplanning.Thisdoesnotmeanthatweestablishade-
+
+tailedtimetableofevents.Wehavealreadyconcludedthat
+
+warisinherentlydisorderly,andwecannotexpecttodictate
+
+itstermswithanysortofprecision.Rather,weattemptto
+
+shapethegeneralconditionsofwar.Thisshapingconsistsof
+
+lethalandnonlethalactionsthatspanthespectrumfromdi-
+
+rectattacktopsychologicaloperations,fromelectronicwar-
+
+> fare to the
+
+stockpilingofcritical supplies for future
+
+operations.Shapingactivitiesmayrendertheenemyvulner-
+
+abletoattack,facilitatemaneuveroffriendlyforces,anddic-
+
+tatethetimeandplacefordecisivebattle.Examplesinclude
+
+canalizingenemymovementinadesireddirection,blocking
+
+ordelayingenemyreinforcementssothatwecanfightafrag-
+
+mentedenemyforce,orshapingenemyexpectationsthrough
+
+deceptionsothatwecanexploitthoseexpectations.Wecan attackaspecificenemycapabilitytoallowustomaximizea
+
+capabilityofourownsuchaslaunchinganoperationtode-
+
+stroytheenemy'sairdefensessothatwecanmaximizethe
+
+> useofourownaviation.
+> 83 MCDP1
+
+Throughshaping,commandersgaintheinitiative,preserve
+
+momentum,andcontrolthetempoofoperations.Weshould
+
+alsotrytoshapeeventsinawaythatallowsusseveralop-
+
+tionssothatbythetimethemomentfordecisiveoperations
+
+arrives,wehavenotrestrictedourselvestoonlyonecourseof
+
+> action.
+
+Thefurtheraheadwethink,thelessouractualinfluence
+
+canbe.Therefore,thefurtheraheadweconsider,thelesspre-
+
+cisionweshouldattempttoimpose.Lookingaheadthusbe-
+
+comeslessamatterofdirectinfluenceandmoreamatterof
+
+layingthegroundworkforpossiblefutureactions.Asevents
+
+approachandourabilitytoinfluencethemgrows,wehaveal-
+
+readydevelopedanappreciationforthesituationandhowwe
+
+> wanttoshapeit.6
+
+Thehigherourechelonofcommand,thegreaterisour
+
+sphereofinfluenceandthefurtheraheadintimeandspace
+
+wemustseektoshapetheaction.Seniorcommandersdevel-
+
+opingandpursuingmilitarystrategylookaheadweeks,
+
+months,ormore,andtheirareasofinfluenceandinterestwill
+
+encompassentiretheaters.Juniorcommandersfightingthe
+
+battlesandengagementsathandareconcernedwiththecom-
+
+inghours,evenminutes,andtheimmediatefieldofbattle.
+
+Regardlessofthesphereinwhichweoperate,itisessentialto
+
+havesomevisionoftheresultwewantandhowweintendto
+
+> shapetheactionintimeandspacetoachieveit.
+> 84
+
+MCDP1 TheConductofWar
+
+DECIsI0NMAIUNG
+
+Decisionmakingisessentialtotheconductofwarsinceall actionsaretheresultofdecisionsorofnondecisions.Ifwe
+
+failtomakeadecisionoutoflackofwill,wehavewillingly surrenderedtheinitiativetoourfoe.Ifweconsciouslypost-ponetakingactionforsomereason,thatisadecision.Thus, asabasisforaction,anydecisionisgenerallybetterthanno
+
+> decision.
+
+Sincewarisaconflictbetweenopposingwills,wecannot
+
+makedecisionsinavacuum.Wemustmakeourdecisionsin lightoftheenemy'santicipatedreactionsandcounteractions,
+
+> recognizingthatwhilewearetryingtoimposeourwillonthe
+> enemy,heistryingtodothesametous. Timeisacriticalfactorineffectivedecisionmaking—often
+
+themostimportantfactor.Akeypartofeffectivedecision-
+
+makingisrealizinghowmuchdecisiontimeisavailableand
+
+makingthemostofthattime.Ingeneral,whoevercanmake
+
+andimplementdecisionsconsistentlyfastergainsatremen-
+
+dous,oftendecisiveadvantage.Decisionmakinginexecution
+
+thusbecomesatime-competitiveprocess,andtimelinessof
+
+decisionsbecomesessentialtogeneratingtempo.Timelyde-
+
+cisionsdemandrapidthinkingwithconsiderationlimitedto
+
+essentialfactors.Insuchsituations,weshouldsparenoeffort
+
+> toaccelerateourdecisionmakingability.Thatsaid,weshould
+
+alsorecognizethosesituationsinwhichtimeisnotalimiting
+
+> 85
+
+Warfighting MCDP1
+
+factor—suchasdeliberateplanningsituations—andshould
+
+> notrushourdecisionsunnecessarily.
+
+Amilitarydecisionisnotmerelyamathematicalcomputa-
+
+tion.Decisionmakingrequiresboththesituationalawareness
+
+torecognizetheessenceofagivenproblemandthecreative
+
+abilitytodeviseapracticalsolution.Theseabilitiesarethe
+
+> productsofexperience,education,andintelligence.
+
+Decisionmakingmaybeanintuitiveprocessbasedonex-
+
+perience.Thiswilllikelybethecaseatlowerlevelsandin
+
+> fluid,uncertainsituations.Alternatively,decisionmakingmay
+
+beamoreanalyticalprocessbasedoncomparingseveralop-
+
+tions.Thiswillmorelikelybethecaseathigherlevelsorin
+
+> deliberateplanningsituations.
+
+Weshouldbaseourdecisionsonawarenessratherthanon
+
+mechanicalhabit.Thatis,weactonakeenappreciationfor
+
+theessentialfactorsthatmakeeachsituationuniqueinstead
+
+offromconditionedresponse.Wemusthavethemoralcour-
+
+agetomaketoughdecisionsinthefaceofuncertainty—and
+
+toacceptfullresponsibilityforthosedecisions—whenthe
+
+naturalinclinationwouldbetopostponethedecisionpending morecompleteinformation.Todelayactioninanemergency
+
+becauseofincompleteinformationshowsalackofmoral
+
+> courage.Wedonotwanttomakerashdecisions,butwemust notsquanderopportunitieswhiletryingtogainmoreinforma-
+> tion.
+> 86
+
+MCDP1 TheConductofWar
+
+Finally,sincealldecisionsmustbemadeinthefaceofun-
+
+certaintyandsinceeverysituationisunique,thereisnoper-
+
+fectsolutiontoanybattlefieldproblem.Therefore,weshould
+
+notagonizeoverone.Theessenceoftheproblemistoselect
+
+apromisingcourseofactionwithanacceptabledegreeofrisk andtodoitmorequicklythanourfoe.Inthisrespect,"agood
+
+planviolentlyexecutednowisbetterthanaperfectplanexe-
+
+> cutednextweek."7
+
+MISSIONTACTICS
+
+Onekeywayweputmaneuverwarfareintopractice is
+
+throughtheuseofmissiontactics.Missiontacticsisjustas
+
+thenameimplies:thetacticsofassigningasubordinatemis-
+
+sionwithoutspecifyinghowthemissionmustbeaccom-
+
+plished.8Weleavethemannerofaccomplishingthemission tothesubordinate,therebyallowingthefreedom—andestab-
+
+lishingtheduty—forthesubordinatetotakewhateversteps deemednecessarybasedonthesituation.Missiontacticsre-
+
+liesonasubordinate'sexerciseofinitiativeframedbyproper
+
+guidanceandunderstanding.
+
+Missiontacticsbenefitstheseniorcommanderbyfreeing
+
+timetofocusonhigher-levelconcernsratherthanthedetails
+
+ofsubordinateexecution.Theseniorprescribesthemethodof executiononlytothedegreethatisessentialforcoordination.
+
+> 87
+
+Warfighting MCDPI
+
+Theseniorintervenesinasubordinate'sexecutiononlyby
+
+exception.Itisthisfreedomforinitiativethatpermitsthe
+
+hightempoofoperationsthatwedesire.Uninhibitedbyex-
+
+cessiverestrictionsfromabove,subordinatescanadapttheir
+
+actionstothechangingsituation.Theyinformthecom-
+
+manderofwhattheyhavedone,buttheydonotwaitforper-
+
+> mission.
+
+Missiontacticsservesasacontractbetweenseniorand
+
+subordinate.Thesenioragreestoprovidesubordinateswith
+
+thesupportnecessarytohelpthemaccomplishtheirmis-
+
+sionsbutwithoutunnecessarilyprescribingtheiractions.The
+
+seniorisobligatedtoprovidetheguidancethatallowssubor-
+
+dinatestoexerciseproperjudgmentandinitiative.Thesubor-
+
+dinateisobligatedtoactinconformitywiththeintentofthe senior.Thesubordinateagreestoactresponsiblyandloyally
+
+andnottoexceedtheproperlimitsofauthority.Missiontac-
+
+ticsrequiressubordinatestoactwith"topsight"—agraspof
+
+howtheiractionsfitintothelargersituation.9Inotherwords,
+
+subordinatesmustalwaysthinkabovetheirownlevelsinor-
+
+> dertocontributetotheaccomplishmentofthehighermission.
+
+Itisobviousthatwecannotallowdecentralizedinitiative
+
+withoutsomemeansofprovidingunity,orfocus,tothevari-
+
+ousefforts.Todosowouldbetodissipateourstrength.We
+
+seekunitynotprincipallythroughimposedcontrol,but
+
+throughharmoniousinitiativeandlateralcoordinationwithin
+
+> thecontextprovidedbyguidancefromabove.
+> 88
+
+MCDP1 TheConductofWar
+
+COMMANDER'SINTENT
+
+Weachievethisharmoniousinitiativeinlargepartthrough
+
+theuseofthecommander'sintent,adevicedesignedtohelp
+
+subordinatesunderstandthelargercontextoftheiractions. Thepurposeofprovidingintentistoallowsubordinatesto
+
+exercisejudgmentandinitiative—todepartfromtheoriginal
+
+planwhentheunforeseenoccurs—inawaythatisconsistent
+
+> withhighercommanders'aims.
+
+Therearetwopartstoanymission:thetasktobeaccom-
+
+plishedandthereasonorintentbehindit.°Theintentisthus
+
+apartofeverymission.Thetaskdescribestheactiontobe
+
+> takenwhiletheintentdescribesthepurposeoftheaction.The
+
+taskdenoteswhatistobedone,andsometimeswhenand
+
+where;theintentexplainswhy.Ofthetwo,theintentispre-
+
+> dominant.Whileasituationmaychange,makingthetaskob-
+
+solete,theintentismorelastingandcontinuestoguideour
+
+> actions.Understandingtheintentofourcommanderallowsus
+
+toexerciseinitiativeinharmonywiththecommander'sde-
+
+> sires.
+
+Theintentforaunitisestablishedbythecommanderas-
+
+signingthatunit'smission—usuallythenexthighercom-
+
+> mander,although not
+
+always.Acommandernormally
+
+providesintentaspartofthemissionstatementassignedtoa
+
+subordinate.Asubordinatecommanderwhoisnotgivena
+
+clearpurposefortheassignedmissionshouldaskforone.
+
+> 89
+
+MCDP1
+
+Basedonthemission,thecommanderthendevelopsacon-
+
+ceptofoperations,whichexplainshowtheunitwillaccom-
+
+plishthemission,andassignsmissionstosubordinates.Each
+
+subordinatemissionstatementincludesanintentforthatsub-ordinate.Theintentprovidedtoeachsubordinateshouldcon-
+
+tributetotheaccomplishmentoftheintentacommanderhas
+
+receivedfromabove.Thistop-downflowofintentprovides
+
+consistencyandcontinuitytoouractionsandestablishesthe
+
+contextthatisessentialfortheproperbottom-upexerciseof
+
+initiative.
+
+Itisoftenpossibletocaptureintentinasimple".. . in or-
+
+derto .. ."phrase followingtheassignedtask.Tomaintain
+
+ourfocusontheenemy,wecanoftenexpressintentinterms
+
+oftheenemy.Forexample:"Controlthebridgeinorderto preventtheenemyfromescapingacrosstheriver." Some-
+
+timesitmaybenecessarytoprovideamplifyingguidancein
+
+additiontoan". . . in orderto . . ."statement. Inanyevent,a
+
+commander'sstatementofintentshouldbebriefandcompel-
+
+ling—themoreconcise,thebetter.Asubordinateshouldbe
+
+everconsciousofasenior'sintentsothatitguideseveryde-
+
+cision.Anintentthatisinvolvedorcomplicatedwillfailto
+
+accomplishthispurpose.
+
+Aclearexpressionandunderstandingofintentisessential
+
+tounityofeffort.Theburdenofunderstandingfallsonsenior
+
+andsubordinatealike.Theseniorsmustmaketheirpurposes
+
+perfectlyclearbutinawaythatdoesnotinhibitinitiative.
+
+Subordinatesmusthaveaclearunderstandingofwhattheir
+
+> 90
+
+MCDP1 TheConductofWar
+
+commanderexpects.Further,theyshouldunderstandthein-
+
+> tentofthecommanderatleasttwolevelsup.
+
+MAINEFFORT
+
+Anotherimportanttoolforprovidingunityisthemainef-
+
+fort.Ofalltheactionsgoingonwithinourcommand,werec-
+
+ognizeoneasthemostcriticaltosuccessatthatmoment.The
+
+unitassignedresponsibilityforaccomplishingthiskeymis-
+
+sionisdesignatedasthemaineffort—thefocalpointupon
+
+whichconvergesthecombatpoweroftheforce.Themainef-fortreceivespriorityforsupportofanykind.Itbecomesclear
+
+toallotherunitsinthecommandthattheymustsupportthat
+
+unitintheaccomplishmentofitsmission.Likethecom-
+
+mander'sintent,themaineffortbecomesaharmonizingforce
+
+forsubordinateinitiative.Facedwithadecision,weaskour-
+
+> selves:HowcanIbestsupportthemaineffort? Wecannottakelightlythedecisionofwhichunitwedesig-
+
+nateasthemaineffort.Ineffect,wehavedecided:Thisis
+
+howIwillachieveadecision;everythingelseissecondary.
+
+> Wecareflullydesigntheoperationsothatsuccessbythemain
+
+effortensuresthesuccessoftheentiremission.Sincethe
+
+maineffortrepresentsourprimarybidforvictory,wemust
+
+directitatthatobjectwhichwillhavethemostsignificantef-
+
+fectontheenemyandwhichholdsthebestopportunityof
+
+> 91
+
+Warfighting MCDP1
+
+success.Themaineffortinvolvesaphysicalandmoralcom-
+
+mitment,althoughnotanirretrievableone.Itforcesusto
+
+concentratedecisivecombatpowerjustasitforcesustoac-
+
+ceptrisk.Thus,wedirectourmaineffortagainstacenterof
+
+gravitythroughacriticalenemyvulnerability,exercising
+
+> stricteconomyelsewhere.
+
+Eachcommandershouldestablishamaineffortforeach
+
+operation.Asthesituationchanges,thecommandermayshift
+
+themaineffort,redirectingtheweightofcombatpowerin
+
+> supportoftheunitthatisnowmostcriticaltosuccess.Ingen-
+
+eral,whenshiftingthemaineffort,weseektoexploitsuccess
+
+> ratherthanreinforcefailure.
+
+SURFACESAIDGAPS
+
+Putsimply,surfacesarehardspots—enemystrengths—and
+
+gapsaresoftspots—enemyweaknesses.Weavoidenemy
+
+strengthandfocusoureffortsagainstenemyweaknesswith
+
+theobjectofpenetratingtheenemysystemsincepitting
+
+strengthagainstweaknessreducescasualtiesandismore
+
+> likelytoyielddecisiveresults.Wheneverpossible,weexploit existinggaps.Failingthat,wecreategaps.
+
+Gapsmayinfactbephysicalgapsintheenemy'sdisposi-
+
+tions,buttheymayalsobeanyweaknessintime,space,or
+
+> 92
+
+MCDP1 TheConductofWar
+
+capability:amomentintimewhentheenemyisoverexposed
+
+andvulnerable,aseaminanairdefenseumbrella,aninfantry
+
+unitcaughtunpreparedinopenterrain,oraboundarybe-
+
+> tweentwounits.
+
+Similarly,asurfacemaybeanactualstrongpoint,oritmay
+
+beanyenemystrength:amomentwhentheenemyhasjust
+
+replenishedandconsolidatedapositionoratechnologicalsu-
+
+> periorityofaparticularweaponssystemorcapability.
+
+Anappreciationforsurfacesandgapsrequiresacertain
+
+amountofjudgment.Whatisasurfaceinonecasemaybea
+
+gapinanother.Forexample,aforestwhichisasurfacetoan
+
+armoredunitbecauseitrestrictsvehiclemovementcanbea
+
+> gaptoaninfantryunitwhichcaninfiltratethroughit.Further-
+
+more,wecanexpecttheenemytodisguisehisdispositionsin
+
+> ordertolureusagainstasurfacethatappearstobeagap.
+
+Duetothefluidnatureofwar,gapswillrarelybeperma-
+
+nentandwillusuallybefleeting.Toexploitthemdemands
+
+flexibilityandspeed.Wemustactivelyseekoutgapsbycon-
+
+tinuousandaggressivereconnaissance.Oncewelocatethem,
+
+wemustexploitthembyfunnelingourforcesthroughrap-
+
+idly.Forexample,ifourmainefforthasstruckasurfacebut
+
+anotherunithaslocatedagap,wedesignatethesecondunit asthemaineffortandredirectourcombatpowerinsupport
+
+ofit.Inthismanner,we"pull"combatpowerthroughgaps
+
+fromthefrontratherthan"pushing"itthroughfromthe
+
+rear.'Commandersmustrelyontheinitiativeofsubordinates
+
+> 93
+
+Warfighting MCD?1 tolocategapsandmusthavetheflexibilitytorespondquick-
+
+lytoopportunitiesratherthanblindlyfollowpredetermined
+
+> schemes.
+
+COMBINED ARMS
+
+> In
+
+ordertomaximizecombatpower,wemustuseallthe
+
+availableresourcestobestadvantage.Todoso,wemustfol-
+
+lowadoctrineofcombinedarms.Combinedarmsisthefull
+
+integrationofarmsinsuchawaythattocounteractone,the
+
+> enemymustbecomemorevulnerabletoanother.Weposethe
+
+enemynotjustwithaproblem,butwithadilemma—ano-
+
+> winsituation.
+
+Weaccomplishcombinedarmsthroughthetacticsand
+
+> techniquesweuseatthelowerlevelsandthroughtaskorgani-
+
+zationathigherlevels.Insodoing,wetakeadvantageofthe
+
+complementarycharacteristicsofdifferenttypesofunitsand
+
+enhanceourmobilityandfirepower.Weuseeacharmfor
+
+missionsthatnootherarmcanperformaswell;forexample,
+
+weassignaviationataskthatcannotbeperformedequally
+
+wellbyartillery.Anexampleoftheconceptofcombined
+
+armsattheverylowestlevelisthecomplementaryuseofthe
+
+automaticweaponandgrenadelauncherwithinafireteam. Wepinanenemydownwiththehigh-volume,directfireof
+
+theautomaticweapon,makinghimavulnerabletargetforthe
+
+> 94
+
+MCDP1 TheConductofWar
+
+> grenadelauncher.Ifhemovestoescapetheimpactofthegre-nades,weengagehimwiththeautomaticweapon.
+
+WecanexpandtheexampletotheMAGTFlevel:Weuse
+
+> assaultsupportaircrafttoquicklyconcentratesuperiorground
+
+forcesforabreakthrough.Weuseartilleryandcloseairsup-
+
+porttosupporttheinfantrypenetration,andweusedeepair
+
+supporttointerdictenemyreinforcementsthatmovetocon-
+
+tainthepenetration.Targetswhichcannotbeeffectivelysup-pressedbyartilleryareengagedbycloseairsupport.Inorder
+
+todefendagainsttheinfantryattack,theenemymustmake
+
+himselfvulnerabletothesupportingarms.Ifheseekscover
+
+fromthesupportingarms,ourinfantrycanmaneuveragainst
+
+him.Inordertoblockourpenetration,theenemymustrein-
+
+forcequicklywithhisreserve.However,inordertoavoidour
+
+deepairsupport,hemuststayofftheroads,whichmeanshe
+
+canonlymoveslowly.Ifhemovesslowly,hecannotrein-
+
+forceintimetopreventourbreakthrough.Wehaveputhim
+
+> inadilemma.
+
+CONCLUSION
+
+Wehavediscussedtheaimandcharacteristicsofmaneuver
+
+warfare.Wehavediscussedthephilosophyofcommandnec-
+
+essarytosupportthisstyleofwarfare.Wehavediscussed
+
+someofthetacticsofmaneuverwarfare.Bythistime,it
+
+> 95
+
+Warfighting MCDP1
+
+shouldbeclearthatmaneuverwarfareexistsnotsomuchin
+
+> thespecificmethodsused—wedonotbelieveinaformularis-ticapproachtowar—butinthemindoftheMarine.Inthisre-
+
+gard,maneuverwarfare,likecombinedarms,appliesequally
+
+totheMarineexpeditionaryforcecommanderandthefire
+
+teamleader.Itappliesregardlessofthenatureofthecon-
+
+flict,whetheramphibiousoperationsorsustainedoperations
+
+ashore,ofloworhighintensity,againstguerrillaormecha-
+
+nizedfoe,indesertorjungle.
+
+Maneuverwarfareisawayofthinkinginandaboutwar
+
+thatshouldshapeoureveryaction.Itisastateofmindborn
+
+> ofaboldwill,intellect,initiative,andruthlessopportunism.It
+
+isastateofmindbentonshatteringtheenemymorallyand
+
+physicallybyparalyzingandconfoundinghim,byavoiding hisstrength,byquicklyandaggressivelyexploitinghisvul-
+
+nerabilities,andbystrikinghiminthewaythatwillhurthim
+
+most.Inshort,maneuverwarfareisaphilosophyforgenerat-
+
+ingthegreatestdecisiveeffectagainsttheenemyattheleast
+
+> possiblecosttoourselves—aphilosophyfor"fightingsmart."
+> 96
+
+MCDP1 Notes
+
+TheNatureofWar
+
+> 1.
+
+CarlvonClausewitz,OnWar,trans.anded.Michael
+
+HowardandPeterParet(Princeton,NJ:PrincetonUniversityPress,
+
+1984)P.119.Thisunfinishedclassicisarguablythedefinitivetreat-
+
+mentofthenatureandtheoryofwar.AllMarineofficersshould
+
+considerthisbookessentialreading.
+
+> 2.
+
+B.H.LiddellHart,Strategy(NewYork:NewAmerican
+
+Library,1974)P.323.
+
+> 3.
+
+A.A.Vandegrift,"BattleDoctrineforFrontLineLead-
+
+ers,"(ThirdMarineDivision,1944)P.7.
+
+> 4.
+
+"Warisnothingbutaduel[Zweikampfliterally'two-
+
+struggle']onalargerscale.Countlessduelsgotomakeupwar,but
+
+apictureofitasawholecanbeformedbyimaginingapairofwres-
+
+tlers.Eachtriesthroughphysicalforcetocompeltheothertodohis
+
+will;hisimmediateaimistothrowhisopponentinordertomake
+
+himincapableoffurtherresistance."Clausewitz,OnWar,p.75.See alsoAlanBeyerchen,"Clausewitz,Nonlinearity,andtheUnpredict-
+
+abilityofWar,"InternationalSecurity(Winter1992/1993)pp.
+
+> 66—67.
+> 5.
+
+Clausewitz,p.121.
+
+> 6.
+
+Ibid.,p.595.
+
+97 MCDP1
+
+> 7.
+
+Forafirst-handdescriptionofhumanexperienceandreac-
+
+tioninwar,readGuySajer'sThe ForgottenSoldier(Baltimore,
+
+MD:NauticalandAviationPublishingCo.,1988),apowerfulac-
+
+countoftheauthor'sexperienceasaGermaninfantrymanonthe
+
+easternfrontduringtheSecondWorldWar.
+
+> 8.
+
+"Kind-heartedpeoplemight,ofcourse,thinktherewas
+
+someingeniouswaytodisarmordefeatanenemywithouttoomuch
+
+bloodshed,andmightimaginethisisthetruegoaloftheartofwar.
+
+Pleasantasitsounds,itisafallacythatmustbeexposed:warissuch
+
+adangerousbusinessthatthemistakeswhichcomefromkindness
+
+aretheveryworst...
+
+"Thisishowthemattermustbeseen.Itwouldbefutile—even
+
+wrong—totrytoshutone'seyestowhatwarreallyisfromsheer
+
+> distressatitsbrutality."Clausewitz,pp.75—76.
+> 9.
+
+Foraninsightfulstudyofthereactionofmentocombat,
+
+seeS.L.A.Marshall'sMen AgainstFire(New York:William
+
+MorrowandCo.,1961).Despitecriticismofhisresearchmethods,
+
+Marshall'sinsightsonthispointremainvaluable.
+
+10.TheAmericanHeritageDictionary (New York:DellPub-
+
+> lishingCo.,1983).
+
+11.Inhisoften-quotedmaxim,Napoleonassignedanactualra-
+
+tio:"Inwar,themoralistothematerialasthreetoone."PeterG.
+
+Tsouras,Warrior's Words:ADictionaryofMilitaryQuotations
+
+> (London: Cassell,1992)p.266.
+
+98 MCDP1 Notes
+
+TheTheoryofWar
+
+> I. Clausewitz,p.87.
+> 2.
+
+SunTzu,TheArtofWar,trans.S.B.Griffith(NewYork:
+
+OxfordUniversityPress,1982)P.85.LikeOnWar,TheArtofWar
+
+shouldbeoneveryMarineofficer'slistofessentialreading.Short
+
+andsimpletoread,TheArtofWariseverybitasvaluabletodayas
+
+> whenitwaswrittenabout400B.C..
+> 3.
+
+WinstonS.Churchill,TheWorldCrisis,vol.2(NewYork:
+
+CharlesScribner'sSons,1923)p.5.Thepassagecontinues:"Nearly
+
+allbattleswhichareregardedasmasterpiecesofthemilitaryart,
+
+fromwhichhavebeenderivedthefoundationofstatesandthefame
+
+ofcommanders,havebeenbattlesofmanoeuvreinwhichtheenemy
+
+hasfoundhimselfdefeatedbysomenovelexpedientordevice,
+
+somequeer,swift,unexpectedthrustorstratagem.Inmanybattles
+
+thelossesofthevictorshavebeensmall.Thereisrequiredforthe
+
+compositionofagreatcommandernotonlymassivecommonsense
+
+andreasoningpower,notonlyimagination,butalsoanelementof
+
+legerdemain,anoriginalandsinistertouch,whichleavestheenemy puzzledaswellasbeaten.Itisbecausemilitaryleadersarecredited
+
+withgiftsofthisorderwhichenablethemtoensurevictoryandsave slaughterthattheirprofessionisheldinsuchhighhonour.
+
+"Therearemanykindsofmanoeuvreinwar,someonlyof
+
+whichtakeplaceuponthebattlefield.Therearemanouevresfarto
+
+theflankorrear.Therearemanoeuvresintime,indiplomacy,in
+
+mechanics,inpsychology;allofwhichareremovedfromthebattle-
+
+field,butreactoftendecisivelyuponit,andtheobjectofallisto
+
+findeasierways,otherthansheerslaughter,ofachievingthemain
+
+> purpose."
+
+99 Warfighting MCDP1
+
+> 4.
+
+Clausewitz,pp.69and87.Itisimportanttorecognizethat militaryforcedoesnotreplacetheotherelementsofnationalpower
+
+butsupplementsthem.Clausewitz'mostcompleteexpressionofthis
+
+famousideaisfoundonpage605:"Wemaintain . . . that waris
+
+simplyacontinuationofpoliticalintercourse,withtheadditionof
+
+othermeans.Wedeliberatelyusethephrase'withtheadditionof
+
+othermeans'becausewealsowanttomakeitclearthatwarinitself
+
+doesnotsuspendpoliticalintercourseorchangeitintosomething
+
+entirelydifferent."
+
+> 5. Ibid.,pp.87—88.
+> 6.
+
+Thetermannihilationimpliesformanytheabsolutephysi-
+
+caldestructionofalltheenemy'stroopsandequipment.Thisis
+
+rarelyachievedandseldomnecessary.Incapacitation,ontheother
+
+hand,isliterallywhatwemeantoconvey:thedestructionoftheen-emy'smilitarycapacitytoresist.SeeHansDelbrUck,Historyofthe ArtofWarWithintheFrameworkofPoliticalHistory,trans.Walter
+
+3.Renfroe,Jr.,especiallyvol.4,chap.IV(Westport,CT:Green-
+
+> woodPress,1975—1985).
+> 7.
+
+Strategyoferosionisknownasstrategyofattritioninclas-
+
+sicalmilitarytheory.Theconceptsarethesame.Weusetheterm
+
+erosiontoavoidconfusionwiththetacticalconceptofattritionwar-
+
+fare.SeeDelbruck,especiallyvol.4,chap.IV.
+
+> 8.
+
+Strategiclevelofwar:"Thelevelofwaratwhichana-
+
+tion,oftenasamemberofagroupofnations,determinesnationalor
+
+multinational(allianceorcoalition)securityobjectivesandguid-
+
+ance,anddevelopsandusesnationalresourcestoaccomplishthese
+
+objectives.Activitiesatthislevelestablishnationalandmultina-
+
+tionalmilitaryobjectives;sequenceinitiatives;definelimitsand
+
+100 MCDP1 Notes
+
+assessrisksfortheuseofmilitaryandotherinstrumentsofnational
+
+power;developglobalplansortheaterwarplanstoachievethose
+
+objectives;andprovidemilitaryforcesandothercapabilitiesinac-
+
+cordancewithstrategicplans."(JointPub1-02)
+
+> 9.
+
+Nationalstrategy,alsoreferredtoasgrandstrategy:"The
+
+artandscienceofdevelopingandusingthepolitical,economic,and
+
+psychologicalpowersofanation,togetherwithitsarmedforces,
+
+duringpeaceandwar,tosecurenationalobjectives."(JointPub
+
+> 1-02)
+
+10.Militarystrategy:"Theartandscienceofemployingthe
+
+armedforcesofanationtosecuretheobjectivesofnationalpolicy
+
+> bytheapplicationofforceorthethreatofforce."(JointPub1-02)
+
+11.Tacticallevelofwar:"Thelevelofwaratwhichbattles
+
+andengagementsareplannedandexecutedtoaccomplishmilitary
+
+objectivesassignedtotacticalunitsortaskforces.Activitiesatthis
+
+levelfocusontheorderedarrangementandmaneuverofcombat
+
+elementsinrelationtoeachotherandtotheenemytoachievecom-
+
+batobjectives."(JointPub1-02)
+
+12.Operationallevelofwar:"Thelevelofwaratwhichcam-
+
+paignsandmajoroperationsareplanned,conducted,andsustained toaccomplishstrategicobjectiveswithintheatersorareasofopera-
+
+tions.Activitiesatthislevellinktacticsandstrategybyestablishing
+
+> operationalobjectivesneededtoaccomplishthestrategicobjectives,
+
+sequencingeventstoachievetheoperationalobjectives,initiating
+
+actions,andapplyingresourcestobringaboutandsustainthese
+
+events.Theseactivitiesimplyabroaderdimensionoftimeorspace
+
+thandotactics;theyensurethelogisticandadministrativesupport
+
+> 101
+
+Warfighting MCDP1
+
+oftacticalforces,andprovidethemeansbywhichtacticalsuccesses
+
+areexploitedtoachievestrategicobjectives."(JointPub1-02)
+
+13.Clausewitz,p.357. 14.Ibid.,p.528.
+
+15.Foranexcellentdiscussionoftheattrition-maneuverspec-
+
+trumandadditionalhistoricalexamplesofattritionandmaneuver,
+
+seeEdwardN.Luttwak,Strategy:TheLogicofWarandPeace
+
+(Cambridge,MA:BelknapPressofHarvardUniversityPress,1987)
+
+> pp.91—i12.
+
+16.Combatpower:"Thetotalmeansofdestructiveand/or
+
+disruptiveforcewhichamilitaryunit/formation,canapplyagainst
+
+theopponentatagiventime."(JointPub1-02) 17.Clausewitz,p.194.
+
+18.Tempoisoftenassociatedwithamentalprocessknown
+
+variouslyasthe"decisioncycle,""OODAloop,"or"Boydcycle"
+
+afterJohnBoydwhopioneeredtheconceptinhislecture,"ThePat-
+
+ternsofConflict."Boydidentifiedafour-stepmentalprocess:ob-
+
+servation,orientation,decision,andaction.Boydtheorizedthateach partytoaconflictfirstobservesthesituation.Onthebasisoftheob-
+
+servation,heorients;thatis,hemakesanestimateofthesituation.
+
+Onthebasisoftheorientation,hemakesadecision.Finally,heim-
+
+plementsthedecision—heacts.Becausehisactionhascreateda
+
+newsituation,theprocessbeginsanew.Boydarguedthattheparty
+
+whoconsistentlycompletesthecyclefastergainsanadvantagethat
+
+102 MCDP1 Notes
+
+increaseswitheachcycle.Hisenemy'sreactionsbecomeincreas-
+
+inglyslowerbycomparisonandthereforelesseffectiveuntil,fi-
+
+nally,heisovercomebyevents."ADiscourseonWinningand
+
+Losing:ThePatternsofConflict,"unpublishedlecturenotesand
+
+diagrams,August1987.
+
+19.Clausewitz,p.198.
+
+20.Ibid,p.190.
+
+21.SeeClausewitz,pp.485and595—596.Centersofgravity: "Thosecharacteristics,capabilities,orlocalitiesfromwhichamili-
+
+taryforcederivesitsfreedomofaction,physicalstrength,orwillto
+
+fight."(JointPub1-02)
+
+PreparingforWar
+
+> 1.
+
+HansvonSeeckt,ThoughtsofaSoldier,trans.G.Water-
+
+house(London:ErnestBennLtd.,1930)p.123.
+
+> 2.
+
+FMFRP12-46,AdvancedBaseOperationsinMicronesia
+
+(August,1992)p.41.FMFRP12-46isahistoricalreprintofOpera-
+
+tionPlan712writtenbyMajEarlH.Ellisin1921.
+
+> 3.
+
+Forceplanning:"Planningassociatedwiththecreation
+
+andmaintenanceofmilitarycapabilities.Itisprimarilytheresponsi-bilityoftheMilitaryDepartmentsandServicesandisconductedun-
+
+dertheadministrativecontrolthatrunsfromtheSecretaryof
+
+DefensetotheMilitaryDepartmentsandServices."(JointPub1-02)
+
+> 103
+
+Warfighting MCDP1
+
+> 4.
+
+Doctrine:"Fundamentalprinciplesbywhichthemilitary
+
+forcesorelementsthereofguidetheiractionsinsupportofnational
+
+objectives.Itisauthoritativebutrequiresjudgmentinapplication."
+
+(JointPub1-02)
+
+> 5.
+
+FieldManual100-5,TentativeFieldServiceRegulations:
+
+Operations,publishedbytheWarDepartment(Washington,D.C.:
+
+GovernmentPrintingOffice,1939)p.31.
+
+> 6.
+
+"Inacommanderaboldactmayprovetobeablunder.
+
+Neverthelessitisalaudableerror,nottoberegardedonthesame
+
+footingasothers.Happythearmywhereill-timedboldnessoccurs
+
+frequently;itisaluxuriantweed,butindicatestherichnessofthe
+
+soil.Evenfoolhardiness—thatis,boldnesswithoutobject—isnotto
+
+bedespised:basicallyitstemsfromdaring,whichinthiscasehas
+
+eruptedwithapassionunrestrainedbythought.Onlywhenbold-
+
+nessrebelsagainstobedience,whenitdefiantlyignoresanexress-
+
+edcommand,mustitbetreatedasadangerousoffense;thenitmust
+
+beprevented,notforitsinnatequalities,butbecauseanorderhas beendisobeyed,andinwarobedienceisofcardinalimportance."
+
+> Clausewitz,pp.190—191.
+
+TheConductofWar
+
+> 1.
+
+SunTzu,p.101.
+
+> 2.
+
+Ibid.,p.134.
+
+> 3.
+
+SirWilliamSlim,DefeatintoVictory(London:Casselland
+
+> Co.Ltd,1956)pp.550—551.
+
+104 MCDP1 Notes
+
+> 4.
+
+Maneuver:"Employmentofforcesonthe battlefield
+
+throughmovementincombinationwithfire,orfirepotential,to
+
+achieveapositionofadvantageinrespecttotheenemyinorderto
+
+accomplishthemission."(JointPub1-02)
+
+> 5.
+
+Boydintroducestheideaofimplicitcommunicationasa
+
+commandtoolin"ADiscourseonWinningandLosing:AnOrganic DesignforCommandandControl."
+
+> 6.
+
+Hencethetermsareaofinfluenceandareaofinterest.
+
+Areaofinfluence:"Ageographicalareawhereinacommanderis
+
+directlycapableofinfluencingoperationsbymaneuverorfiresup-
+
+portsystemsnormallyunderthecommander'scommandorcon-
+
+trol."Areaofinterest:"Thatareaofconcerntothecommander,
+
+includingtheareaofinfluence,areasadjacentthereto,andextend-ingintoenemyterritorytotheobjectivesofcurrentorplannedop-
+
+erations.Thisareaalsoincludesareasoccupiedbyenemyforces whocouldjeopardizetheaccomplishmentofthemission."(Joint
+
+> Pub1-02)
+> 7.
+
+GeorgeS.Patton, Jr.,WarAsIKnewIt(NewYork:
+
+HoughtonMifflin,1979)p.354.
+
+> 8.
+
+Inthecontextofcommandandcontrol,alsocalledmission
+
+commandandcontrol.Missiontacticsinvolvestheuseofmission-
+
+typeorders.Mission-typeorder:"Ordertoaunittoperformamis-
+
+sionwithoutspecifyinghowitistobeaccomplished."(JointPub
+
+> 1-02)
+> 9.
+
+DavidHillelGelernter,MirrorWorlds,or,TheDaySoft-
+
+> warePutstheUniverseinaShoebox:HowItWillHappenandWhat
+> ItWillMean(NewYork:OxfordUniversityPress,1991)pp.51—53.
+
+105 MCDP1
+
+If"insightistheilluminationtobeachievedbypenetratinginner
+
+depths,topsight is whatcomesfromafar-overheadvantagepoint, fromabird'seyeviewthatrevealsthe whole—thebig picture;how
+
+thepartsfittogether."
+
+10.Mission:"Thetask,togetherwiththepurpose,thatclearly
+
+indicatestheactiontobetakenandthereasontherefor."(JointPub
+
+1-02)
+
+11.Hencethetermsreconnaissancepullandcommandpush, respectively.SeeWilliamS.Lind'sManeuverWarfareHandbook
+
+(Boulder,CO:WestviewPress,1985) pp.18—19.
+
+106

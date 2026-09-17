@@ -1,0 +1,71 @@
+{
+  "_note": "Hand-written few-shot example (Req 2.1). Grounded in the real 0300-CMBH-1001 performance steps. Shows the performance_steps -> metrics structure: each metric ties to a step via step_ref, uses a S.P.E.A.R. dimension as the lens, and carries one anchor per tier.",
+  "task_attributes": {
+    "tr_code": "0300-CMBH-1001",
+    "echelon": "Individual (entry level)",
+    "sustainment_interval": "12 months",
+    "condition": "Given an area to observe, with or without the aid of observation devices, while wearing a fighting load.",
+    "standard": "To detect anomalies.",
+    "key_performance_steps": "Conduct a hasty search; conduct a detailed search; build a sector sketch; establish a baseline for the pattern of life; maintain observation; record information observed; transmit reports to higher headquarters.",
+    "reference": "MCIP 3-02.1i Combat Hunter"
+  },
+  "performance_steps": [
+    {
+      "step_number": 1,
+      "step_text": "Conduct a hasty search",
+      "metrics": [
+        {
+          "metric_id": "S1-M1",
+          "statement": "Speed and coverage of the initial hasty search of the sector.",
+          "spear_dimension": "Speed",
+          "competency_level": "Foundation",
+          "step_ref": 1,
+          "anchors": {
+            "Inadequate": "Fails to conduct a hasty search or takes excessive time before beginning.",
+            "Satisfactory": "Conducts a timely hasty search covering the assigned sector.",
+            "Superior": "Rapidly scans the full sector, prioritizing likely threat areas without prompting."
+          },
+          "step_derived": "yes"
+        }
+      ]
+    },
+    {
+      "step_number": 2,
+      "step_text": "Conduct a detailed search",
+      "metrics": [
+        {
+          "metric_id": "S2-M1",
+          "statement": "Thoroughness and accuracy of the detailed search against the baseline.",
+          "spear_dimension": "Precision",
+          "competency_level": "Intermediate",
+          "step_ref": 2,
+          "anchors": {
+            "Inadequate": "Detailed search is cursory and misses anomalies that break the baseline.",
+            "Satisfactory": "Detailed search identifies anomalies against the baseline with minor gaps.",
+            "Superior": "Systematic detailed search reliably surfaces subtle anomalies across the sector."
+          },
+          "step_derived": "yes"
+        }
+      ]
+    },
+    {
+      "step_number": 7,
+      "step_text": "Transmit reports to higher headquarters",
+      "metrics": [
+        {
+          "metric_id": "S7-M1",
+          "statement": "Timeliness and clarity of reports transmitted to higher headquarters.",
+          "spear_dimension": "Executive Control",
+          "competency_level": "Intermediate",
+          "step_ref": 7,
+          "anchors": {
+            "Inadequate": "Does not transmit reports, or reports are unclear or untimely.",
+            "Satisfactory": "Transmits accurate reports to higher headquarters with minor delay.",
+            "Superior": "Transmits clear, complete, and timely reports enabling immediate higher action."
+          },
+          "step_derived": "yes"
+        }
+      ]
+    }
+  ]
+}

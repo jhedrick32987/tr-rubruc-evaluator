@@ -1,0 +1,2990 @@
+{
+  "file_count": 597,
+  "files": [
+    {
+      "path": "00_project_context/fireteam-forge-hackathon-gameplan.md",
+      "bytes": 11383,
+      "sha256": "3bd28e310a43ad6e6796fb77a3a4873b049628d371048ac3d0e11dc8712b2b42"
+    },
+    {
+      "path": "00_project_context/hedrick-leep-thesis-proposal-v9.md",
+      "bytes": 40273,
+      "sha256": "d139672d2d3d4ac649f83813a199b504bc5309f3653fa4f8750983d449bccf47"
+    },
+    {
+      "path": "00_project_context/introduction-to-training-2-june-2025.md",
+      "bytes": 53642,
+      "sha256": "5f8035960f67b3c22ae1a627c03974474eca7516898c532eddabdfb38f535289"
+    },
+    {
+      "path": "01_core/JMAP_SPEAR_PUBLIC_SOURCE_MAP.md",
+      "bytes": 978,
+      "sha256": "f7adf5744f341a6d7e99b413b98fee0d1aff2bb90e0569fa573fbcf208735244"
+    },
+    {
+      "path": "01_core/marine-corps-marksmanship-campaign-plan-2024.md",
+      "bytes": 32054,
+      "sha256": "1fd9d15f432650f254895f3a3d0e64c996e0e36eccb48ec9d675be021e99bb79"
+    },
+    {
+      "path": "01_core/navmc-3500-44d-infantry-training-and-readiness-manual.md",
+      "bytes": 1377729,
+      "sha256": "b501ed65a4cc3ecb6e35fa7d1fca961ff67a93ace00ec36a43cb41544d8b161b"
+    },
+    {
+      "path": "01_core/nhrc-jmap-training-impact-2022.md",
+      "bytes": 29459,
+      "sha256": "5e03a4d8aea21032c672da0eb367499e71af18c26be29beaef91d13aa74a0bc0"
+    },
+    {
+      "path": "01_core/onr-jmap-sure-shot-2021.md",
+      "bytes": 5677,
+      "sha256": "f8277d8aaff282017b8b8ff864b26cb950697b6a0141b6dd8f1836219ca54c92"
+    },
+    {
+      "path": "01_core/tecom-jmap-spear-public-description-2024.md",
+      "bytes": 4822,
+      "sha256": "bdf39704768e5d609d7f7190becd3eab0289d335054beedbd196986b10d4392d"
+    },
+    {
+      "path": "02_training_system/mco-1553-1c-marine-corps-training-and-education-system.md",
+      "bytes": 42550,
+      "sha256": "8b378ce786b6c06b3142e1910ac07bb4afc8a66c0051bf3acab26e8ca29af998"
+    },
+    {
+      "path": "02_training_system/mcrp-7-20a-1-training-plan-design.md",
+      "bytes": 51315,
+      "sha256": "a567f799cd5ce751f26178c9568601fc3ee728ff6e0ae2d1ac1ea7df0802d1dd"
+    },
+    {
+      "path": "02_training_system/mcrp-7-20a-2-event-and-exercise-design.md",
+      "bytes": 98455,
+      "sha256": "3d224f86973a38e70c87f752761ecf688195f05c8dd52583bf2fa41b5dae6e5f"
+    },
+    {
+      "path": "02_training_system/mcrp-7-20a-3-simulations-training-guide.md",
+      "bytes": 123789,
+      "sha256": "3a8c1310e1bcf6888d04941e688a98037d650563dac6341cf12fd763b4d68ca2"
+    },
+    {
+      "path": "02_training_system/mcrp-7-20a-4-evaluations-and-assessments.md",
+      "bytes": 114227,
+      "sha256": "415c5d659c5c815581ea5ca17045b886dd9fec6e7615ddf8920775864f5f49dd"
+    },
+    {
+      "path": "02_training_system/mcrp-7-20a-5-training-data-management.md",
+      "bytes": 45173,
+      "sha256": "0d7ff31545d9f121e01536f1b53de66fc78cee0ee8c4668d4a118eb41dfa8d44"
+    },
+    {
+      "path": "02_training_system/mctp-7-20a-unit-training-guide.md",
+      "bytes": 83853,
+      "sha256": "0bc1b162be4ef5c9a069abb2ddfa088bd7495745eee94a14ccbe48269e41638d"
+    },
+    {
+      "path": "02_training_system/navmc-1553-1a-instructional-systems-design-sate-handbook.md",
+      "bytes": 611835,
+      "sha256": "a316741925ecafe2506da56422ada4a5076b78c9900b8cd1cb7f2f04d5f2de3b"
+    },
+    {
+      "path": "02_training_system/navmc-3500-18d-marine-corps-common-skills-volume-1.md",
+      "bytes": 392036,
+      "sha256": "0385bce63ff27b0e142f34ea1928b7cb0b0477cf7c4d8da5a794b2bd2139d984"
+    },
+    {
+      "path": "02_training_system/navmc-3500-72a-ground-training-and-readiness-program.md",
+      "bytes": 54164,
+      "sha256": "42bd7461bd4af4853658bea17f763cc24775c0ce659982f89ef51231f8f519e0"
+    },
+    {
+      "path": "03_readiness_and_systems/cjcsi-3401-02b-force-readiness-reporting.md",
+      "bytes": 89382,
+      "sha256": "fe1749e5b3a5b35638d6a5fc5cb79998207582d21f539f40ea309152b5af06f5"
+    },
+    {
+      "path": "03_readiness_and_systems/dodi-7730-66-drrs-readiness-reporting.md",
+      "bytes": 971906,
+      "sha256": "0e775f85d8397b71ff77d94c73605879a9559ccc17cfc742a2bb11c895a913eb"
+    },
+    {
+      "path": "03_readiness_and_systems/mco-1553-10-mctims-sop.md",
+      "bytes": 48513,
+      "sha256": "451f828c43a42ff61b924566161634f794477d23902369c995d7096504edaaec"
+    },
+    {
+      "path": "03_readiness_and_systems/mco-3500-110-metl-policy.md",
+      "bytes": 27301,
+      "sha256": "fa3b754bb76edef59b3e537dea07bcef178d0a3289da7c3911b632e1794b305a"
+    },
+    {
+      "path": "03_readiness_and_systems/mco-3501-1e-marine-corps-combat-readiness-evaluation.md",
+      "bytes": 39515,
+      "sha256": "41d24fd5631dc8f05c3149a62c007c6e01409fc1cacfb220a6aee9d0b126f59f"
+    },
+    {
+      "path": "04_doctrine/mcdp-1-3-tactics.md",
+      "bytes": 142755,
+      "sha256": "0fbb14043735bf9a24bcfb3cef3ca843f2912f435681f6e1074657dc5a0d3f0e"
+    },
+    {
+      "path": "04_doctrine/mcdp-1-warfighting.md",
+      "bytes": 124018,
+      "sha256": "71478b97cf389159da00906efbd4b01f6775f8193309db8c5f82aa1d453b1aea"
+    },
+    {
+      "path": "04_doctrine/mcdp-7-learning.md",
+      "bytes": 111903,
+      "sha256": "6af2e6d029dc0030f31e1a2de1e213d9fc788c41c7c6399e9d92a326e3705d6c"
+    },
+    {
+      "path": "04_doctrine/mcrp-3-10a-1-infantry-battalion-operations.md",
+      "bytes": 720390,
+      "sha256": "cf440090795ff612a3ad2af62e7d1c639097066fc918322ced185a699321f48e"
+    },
+    {
+      "path": "05_strategy/first-to-fight-capstone-operating-concept-2026.md",
+      "bytes": 48976,
+      "sha256": "28a40d1f3e72975c214bc2002852a979a252923e3b6ef3f66a4d7969460cab60"
+    },
+    {
+      "path": "05_strategy/tecom-campaign-plan-2025.md",
+      "bytes": 42907,
+      "sha256": "1a07df15f996125a1a02174ab38a86059dccba89735abe21b99346ed07990507"
+    },
+    {
+      "path": "05_strategy/training-and-education-2030.md",
+      "bytes": 76784,
+      "sha256": "b570d84f60ce21efb48298e5bcfcc71224a1fb6d7afb0772783f5117fb4b233d"
+    },
+    {
+      "path": "06_army_cross_service/tc-25-20-leaders-guide-to-after-action-reviews.md",
+      "bytes": 36306,
+      "sha256": "8717dda4be059759af2c38b45d938dee4d57418a3f0367c26b9f463c6fe63578"
+    },
+    {
+      "path": "06_army_cross_service/tc-25-30-leaders-guide-to-company-training-meetings.md",
+      "bytes": 63222,
+      "sha256": "9bf553c4c10d67fd6941cc5349d5284d60c6b0257d2905350884e2130da22901"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cbrn-2001.md",
+      "bytes": 2292,
+      "sha256": "b29478a665b61323527996f9db7fa1963bef4830c659bd0c6add38211cf2559d"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-1001.md",
+      "bytes": 2189,
+      "sha256": "4633315687145a2ddf24567f2793dc3f199cfaa12a6cae0bc03e8c205c8a01e3"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-1002.md",
+      "bytes": 1681,
+      "sha256": "9153b3af0df902ede15d9e68bb35683bffba763d32968824dbda05e3eeed67ea"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2001.md",
+      "bytes": 1922,
+      "sha256": "7a1da1685f9c4d6ac3036a1bb95ffe612f98bf72d5b45ec4051ac82d41ffe2de"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2002.md",
+      "bytes": 1792,
+      "sha256": "093824957fd54c8b48751bf3389bd0de14e10089670810919929e5f57932fa47"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2003.md",
+      "bytes": 1753,
+      "sha256": "768b98092a7b3f5f5ed68cbfc83640d1f84c57b5b7932b4cd4a7687aed0ab7bf"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2004.md",
+      "bytes": 1712,
+      "sha256": "45f2f914e4316ee3afac7e7712b7a7baedb47ba5f196cfca5e2251eaf525ae61"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2005.md",
+      "bytes": 1827,
+      "sha256": "a4231f0d194a64421962663f8497941f853159bf747a04aa2d2564186a3e08d4"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2006.md",
+      "bytes": 1778,
+      "sha256": "249465353ac2ca4ab36c7e06f152fca37d44fbb443a1ede05ffd9e33e18e69c0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cmbh-2007.md",
+      "bytes": 1907,
+      "sha256": "bb8409cadf3d534c20acd0414dba05aa94a81b4f9e03213d19be9312af1a5e75"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-1001.md",
+      "bytes": 1476,
+      "sha256": "c1cbe0a3c9f78ca9e2955263cea94e435045307cbcb929f7a76eb1978df7a1e9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-1002.md",
+      "bytes": 1535,
+      "sha256": "9041c504074200f8c52a76bef1149a39bb1718df137d834c380d7d0fd4dc316a"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-1003.md",
+      "bytes": 1486,
+      "sha256": "bd71253635d1adfc89e12e9ff238b77288f46047118c52df6963e3dae4e7bb22"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2001.md",
+      "bytes": 1788,
+      "sha256": "2ab9ac67734c78b31eed8f399413ec427f9699c91fce2134a1c8b1e8b0c3be73"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2002.md",
+      "bytes": 1665,
+      "sha256": "9cc388b40788525b80f8f78f5c303806327f35318c6a6cb99c60155888823d25"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2003.md",
+      "bytes": 1744,
+      "sha256": "e721cf6ba9194841c8be43dbea912dd701e313d064c4da8703a5fbbb71ab16c9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2004.md",
+      "bytes": 1910,
+      "sha256": "77a3641bccbb90ac6ae71191a3e8d02a9a8c5e2e940cd0c2261a95b6fefbbab4"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2005.md",
+      "bytes": 2018,
+      "sha256": "45d547377673ca0fd179ba12f370d5430c8573d4506606abbd5865205fde136c"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2006.md",
+      "bytes": 1649,
+      "sha256": "36f670e5cc3c25cf7d5469b271c84f99274489ffc96c4683928149e68aa1d07c"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2007.md",
+      "bytes": 1568,
+      "sha256": "c94f38447c97446a6c5ae364004dfd7474c4b82f533e22919ab0af0af89d7e84"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2008.md",
+      "bytes": 1356,
+      "sha256": "ae5004c02824f86b29201fd2b336d5d631bcab1a7f3ecb66cc1f4edd6e07bf11"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-comm-2009.md",
+      "bytes": 1894,
+      "sha256": "3c216e9492fad7ceaf3533e77bbb25f52296f1a70734117082e27a3a1c88b8fa"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cond-1001.md",
+      "bytes": 2155,
+      "sha256": "1bc4891cdbcb22b50daeb22d92b34fa6c563dc8b826daed1848aa394814b1571"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-cond-2001.md",
+      "bytes": 2071,
+      "sha256": "8fe0f332fe46a319bad5a5f5d3944e8c0f1574b62ba87b2a89306b85753e7bc6"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-def-1001.md",
+      "bytes": 1649,
+      "sha256": "ca055dfea3acf4d02f237792a4d48f0b8d0d37baa99e43ef8b3df88ff10f21e8"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-def-1002.md",
+      "bytes": 1429,
+      "sha256": "92a57fc96a4035861f6da4b294bf917cc32e2c4b07268505b5cf0d382b56d9f1"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-def-1003.md",
+      "bytes": 1873,
+      "sha256": "3a8a263a3b5d1ae54209bc54b9281eeb8bb819c9e133c8791ecfcd8f9a2e1577"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-demo-1001.md",
+      "bytes": 1948,
+      "sha256": "801de1155176b6a2d6062ac3fc7133f0933ee3b9b651dec86c6b638eda0b392d"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-demo-2001.md",
+      "bytes": 1533,
+      "sha256": "0ba8b4ced90a13220f9fa4823d759e708f456ad3fcd6e6e046fb48bb5f70cc3e"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-demo-2002.md",
+      "bytes": 1999,
+      "sha256": "f77f07f6c8b845123575314524e6be076152b001c72e4c3b2c7742ba0a58d6a0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-demo-2003.md",
+      "bytes": 1929,
+      "sha256": "3e8c255adfe9e115808219e72b5c9ab31faf36b8f079f776975095341e5084df"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-fspt-2001.md",
+      "bytes": 1505,
+      "sha256": "dee7df803442c23074667828a1495a29bf1ba45d7d4d37cbe57c1c2e90062141"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-fspt-2002.md",
+      "bytes": 3744,
+      "sha256": "a325226fbc8e4c9f27b9f9ec8710d47c1e27e9ae71ecae75cdd2e392f3e4758a"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-fspt-2003.md",
+      "bytes": 3559,
+      "sha256": "7fa637136c7d584e4b852c8eebc60d59d8af38a65c98da837ea01b8ecf63f246"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-fspt-2004.md",
+      "bytes": 4017,
+      "sha256": "d4eeb8b1b1234178af21ffde652f13e164ace362fabbed99de1bc102225a5b07"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-fspt-2005.md",
+      "bytes": 3252,
+      "sha256": "b0ee50334171b23e854b6759aa5dc453cbdc4699039870285cb578c9a8557066"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-grla-2002.md",
+      "bytes": 1863,
+      "sha256": "00ee772d5de1bd410f17d77aab1b44d627d03a55b49aa986231fe86325ad4de0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-grla-2003.md",
+      "bytes": 1965,
+      "sha256": "84f1608ed0800dca27eacd4eac15aadfb2dd1ef36fe9c3edea10aacdc2732192"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-grla-2004.md",
+      "bytes": 1994,
+      "sha256": "956f8fd3ced1751eaffdf8e3e2d9516cd44988d6dff39156f6322f15fa9b8ba1"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-grla-2005.md",
+      "bytes": 2225,
+      "sha256": "c51176a960378efffea5f900c60766ec2dac19ad5465f8b6330cf056733e2bb9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-isul-2501.md",
+      "bytes": 3542,
+      "sha256": "279d192b9d726dc3b09a1ce5c00fb94d36e3abdcb0a9cdc83f9cf0219fab043a"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-isul-2502.md",
+      "bytes": 33923,
+      "sha256": "f32f72ad5deddfa079cd14245101db555819b9c19316133f4ef9f06598a5531e"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-med-1001.md",
+      "bytes": 2031,
+      "sha256": "03c2528b14bc86fc5e529dbce1ef41d2e746e41e69d3b2bca8562557bb8cab9d"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-mobl-2001.md",
+      "bytes": 2057,
+      "sha256": "1428aa9160a636d07469c11dae18fc133c9b3e687201d3a510671fe29139dabc"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-mobl-2002.md",
+      "bytes": 1353,
+      "sha256": "e1d34310f03b6a08f5277f317bcae2ccebc9886ad4046895f02dcbebd4c2f972"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-mout-1001.md",
+      "bytes": 1759,
+      "sha256": "ab285ab1ccdbc9badbbb727b8ae2d25a88d996eb736414e339832150c88430b3"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-mout-1002.md",
+      "bytes": 1902,
+      "sha256": "1996a6347702e937d160acc274e8a2ea6c09deac74edb350ca9751be4e01e924"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-off-1001.md",
+      "bytes": 1840,
+      "sha256": "2e49b914d06f3fcb8946635a32b379b853284aae9dc2920a1a6cb571b7078de3"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-ops-2001.md",
+      "bytes": 2033,
+      "sha256": "7d5d7013251437ffd0ea64646697c785c13e1889dfc0697ea1110942699eac0c"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-opts-1001.md",
+      "bytes": 2081,
+      "sha256": "f909ea608ded919d79ab11d895c5c3b7adb9678abc0bde04c074ceae6e5ee557"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-1001.md",
+      "bytes": 1471,
+      "sha256": "de1d5e9b545f988925b5489810332ffae3f2a1b6fd90535e7f46bd0e4e6d6225"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-1002.md",
+      "bytes": 1797,
+      "sha256": "cd462873990e41d5e5a6d5da9797ab82f3c367d7bcad0cd0d88f0f112bab9302"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-1003.md",
+      "bytes": 1537,
+      "sha256": "564b0d824add74518eb29c0c7033c3e7efe2b7a6ca23370942674cf19527e7f0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-1004.md",
+      "bytes": 1827,
+      "sha256": "86adea81d20504e190249371c5734c0c95cc322766e30b6138718aab447d54a0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2001.md",
+      "bytes": 1475,
+      "sha256": "567c113fb4188d681cbeca07d635fa14bb4716b7cc197ff09a5c0e5042f5a357"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2002.md",
+      "bytes": 1558,
+      "sha256": "f30e8370599633e5d962a8e790855350de79b5f83d57c72f671876b3fe3b04f0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2003.md",
+      "bytes": 1419,
+      "sha256": "e08f8b261eb84866a006cff0ac4bf9ea90896de0999be0f8c6b2c24eb0b885b2"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2004.md",
+      "bytes": 1728,
+      "sha256": "bff861f116429f6857ff5529484da6eefb6c992711535442066453cc85ab7c47"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2005.md",
+      "bytes": 2058,
+      "sha256": "c752adef7a7db2d452affe5d907bd7ec0f67953223e48b24ec0d7dcf53a88c40"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2006.md",
+      "bytes": 1545,
+      "sha256": "c74f7e8caf55a398d10386bef7a8b367018d36a2dd3c1b2d019cc16931423216"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2007.md",
+      "bytes": 1903,
+      "sha256": "0073133fa5ad7c18c5e6dabd28de80d7fddc1a189f46e4e180058cf2c895fa27"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2008.md",
+      "bytes": 1687,
+      "sha256": "a3c7f35d97560024258cbe38a4d465732c438ab52e06a276330b2d87afa2055a"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2009.md",
+      "bytes": 1662,
+      "sha256": "e91a66cfcef592e3c0c41d31821376779a0c6eb8d70b8e7f75eb0836968492f9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2010.md",
+      "bytes": 1782,
+      "sha256": "63f163f16b2f2d5796deb4afa29863851a121ab56b99d4a38d098fe5f88ec498"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2011.md",
+      "bytes": 2013,
+      "sha256": "2f5b72b58b123fae6e7729f744c5472a4e19764c4ef980a3e7824bacc77dfeb1"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pat-2012.md",
+      "bytes": 1902,
+      "sha256": "b173fbe7f9fc62dc0f9ef9866bb3ae70fcef74ca700d892e9c49e397d2f320a0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pstl-2001.md",
+      "bytes": 1692,
+      "sha256": "3c368ac9b47fb5385b29aaa96f060fb3d5879d1d935f008055235778a9c6ac1d"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-pstl-2002.md",
+      "bytes": 2222,
+      "sha256": "ff685546684f96e776b330522f0ba46878c3331cb0dde59a2d73cd92015dc1d0"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rfl-1001.md",
+      "bytes": 1739,
+      "sha256": "f955a385c8f2367b30391f1d8a99f9fd4da791f191c2cae1f7dfea520bce3e03"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rfl-1002.md",
+      "bytes": 1606,
+      "sha256": "ab0398026f3c9b8821afb31643d064a1e52f90ee383b55a9d83b2181b688b069"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rfl-1003.md",
+      "bytes": 2129,
+      "sha256": "c22ce0ed09f5636dbb9957c1a62b220eaea5479c4cb95901577529831f572f57"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rfl-1004.md",
+      "bytes": 2628,
+      "sha256": "d5ac411bcfaeec963f1a8cd86675a0bd8f579789552ff7da7421f91a0c5195d9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rfl-1005.md",
+      "bytes": 1993,
+      "sha256": "36114d9093d4115fd12da317885dd92c603057bf392a6a902b4f6b148755ffeb"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rsta-2001.md",
+      "bytes": 2456,
+      "sha256": "4d216db62afbfc029f227063ad6ca50bd76ea6ee3cda7a6302dbc3d7acb155b7"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rsta-2002.md",
+      "bytes": 2104,
+      "sha256": "e630c038c625de3df355365b9c88577f48af04ffc2aff4016587407a492c54c6"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rsta-2003.md",
+      "bytes": 2070,
+      "sha256": "ddc79262081b396e36356628f4f7f090ceeea9892f83ec2acf401ca0a2a4fe3c"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rsta-2004.md",
+      "bytes": 2418,
+      "sha256": "d4ee377a17827c93e9cc2939441291c466ccab2efff7c006adffc41e6dfc52c9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rsta-2005.md",
+      "bytes": 2248,
+      "sha256": "4ed9913c9ca145309fc5a65a83e43e1909c552ea8fe5d25b02ce90c63cd6a572"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-rsta-2006.md",
+      "bytes": 2403,
+      "sha256": "d80cf6c61fd42b7337fc949220d4ce6ce0a693ba39fde9dadb4602b787595806"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-trng-2001.md",
+      "bytes": 1808,
+      "sha256": "cd0d38f1f5b5045f09a8be63810ed2a07b0afbdae26ff79d6df62d7c002310ba"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-tveh-1001.md",
+      "bytes": 1459,
+      "sha256": "a53adc1eb1a9cce605caa549df63da886f96d52e9c6c9e94e20788d7b65cd1f9"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-tveh-2001.md",
+      "bytes": 1993,
+      "sha256": "7442cae4b7ca3190b58f06ea41749737fefa7022bcaac71d52b86fefb6f10364"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-tveh-2002.md",
+      "bytes": 1868,
+      "sha256": "42d6291f7bd5a5e53a021954e0894c053dd53fecd3d4cd571e85defe9ae9de84"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-tveh-2003.md",
+      "bytes": 1591,
+      "sha256": "f60069ab7ac5e21c6078f0cda135556ef4f42243b02645e9fcaf6c60e1e70f73"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-tveh-2004.md",
+      "bytes": 2014,
+      "sha256": "48dd65b30c5cc40e092730853ffbbaa19dd0cef3085a493204b99d9b1f3402f3"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-tveh-2005.md",
+      "bytes": 2265,
+      "sha256": "910b22414d26aa5a4dc871bce0de26aaf437475ea661fe2c4eb1b7dcbdaf196d"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-1001.md",
+      "bytes": 6389,
+      "sha256": "e59526447fcb7442e218b46633a14e27fb06d4f7525a4ac33b4db66d064ad8fb"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2001.md",
+      "bytes": 2555,
+      "sha256": "16475899d7e0a23cd83cc89fcd7d4e6e9eb8d7c155f53bd3b415c633fa1a42ab"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2002.md",
+      "bytes": 1502,
+      "sha256": "25ad89bd50e443c14460164083c0af618976ecdc1107c0bf0af3c5c0dfc02c3a"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2003.md",
+      "bytes": 2041,
+      "sha256": "6785704355153bdde630289ed4b17f8287b3afd19011062438df917c1acf2337"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2004.md",
+      "bytes": 2174,
+      "sha256": "390050a78c0753841eff41271d5e52b18b993c4368ba61fc8bee3ac43a06da65"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2005.md",
+      "bytes": 2553,
+      "sha256": "747b50b933ce3beb310c4d4e5f5fb8e589d1d8870a2a8c4fcb162c6865474b4f"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2006.md",
+      "bytes": 2224,
+      "sha256": "8b68ed788b85351257ae23d5d62fa5417311672084d70a64c8da2631687955ee"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2007.md",
+      "bytes": 2465,
+      "sha256": "6937c2622a2e232e3e845a2b76a540192372d1716460468ef5f071ef51fd7b93"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2008.md",
+      "bytes": 1766,
+      "sha256": "467c2aae58b11c9723074d9c449118b2ec2fee006688d0ed27526130a176bbfe"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2009.md",
+      "bytes": 2442,
+      "sha256": "30d0314b0f34400794ebbe43ea71b39148ac15beec4dfa8ed3b305712d62a976"
+    },
+    {
+      "path": "07_structured_infantry_events/0300-wpns-2010.md",
+      "bytes": 2046,
+      "sha256": "e59db1121cc4b8a3097182e51c4a858cd035bf1384b5001de717560c9e23fae3"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-1001.md",
+      "bytes": 1965,
+      "sha256": "887daffd516fbf3e26dbbf06ac6f63c09af947e03f5b2c735bb280a8b3aef976"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-1002.md",
+      "bytes": 2967,
+      "sha256": "f25e597b748faaf39968d3aec322926521d216057cd2ce63db74bf7d454b9187"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-1003.md",
+      "bytes": 2293,
+      "sha256": "d27e024f8ec3010478c5e0575ef1b8376c323332dd588344f93f42ae118d26a7"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-2001.md",
+      "bytes": 2070,
+      "sha256": "6dd9767d1a385cc5d1b25f3271b32d7ce57167af5931731ced232350d7788ea5"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-2002.md",
+      "bytes": 1437,
+      "sha256": "666f609b3e841dacd036b5329e4443e7824dd027507fe906d78697ced50c5913"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-2003.md",
+      "bytes": 2719,
+      "sha256": "e5d5c8ccfba87b0d0c4d1c87d079b2cd7338a54cb34332defb4a957d39053f5d"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-c2-2204.md",
+      "bytes": 2371,
+      "sha256": "674bde0c5c612553569db64f82704b0e1d2413868ad239c70257bdf25a2170cb"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-comm-1001.md",
+      "bytes": 1746,
+      "sha256": "c3cdd15a467c4fbee3d89326988bf9dee1c37a97ae39b1fa0d2bb53acb909db4"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-comm-1002.md",
+      "bytes": 1752,
+      "sha256": "023a7936e742578af7cccaed975e0735d05b8e3d168e2cbb3845f6c6b9782ece"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-comm-1003.md",
+      "bytes": 1898,
+      "sha256": "c7732279f88b3020500806d384738335bea9be0e735a51c84ada4760c3bfe825"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-cond-1001.md",
+      "bytes": 2111,
+      "sha256": "280b9f8dd01dc6700fbac2a260f88a04faea1cf5279c0fb3414e72d24e922d01"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1001.md",
+      "bytes": 4108,
+      "sha256": "01a37501c7ca92a57f8b07e01968c55e4fa981543f10bb0eb172e070103475b6"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1002.md",
+      "bytes": 2997,
+      "sha256": "6c8764fedf545a94dd5d75a64df7f179e3a118a96e56244f01d630de5fa2c3c2"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1003.md",
+      "bytes": 2921,
+      "sha256": "464dfbeee76a494bf2fb38f6bfb9ff33f4e566e0bffa5cff26154c2ecf0fe539"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1004.md",
+      "bytes": 2748,
+      "sha256": "cd2c5886ccd5e6fcbfff2e9106bb35cd6952a8dcc77f0ef3ba123ecdefe30448"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1005.md",
+      "bytes": 2493,
+      "sha256": "f8bcc116284fc99e85c7820e2d5e195f478653c70da9fdd8455ba866179f2f3b"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1006.md",
+      "bytes": 2830,
+      "sha256": "60a1c12b873a0ea282c586b99a880d95795a09e89c43fb6070df993452d20c3c"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1007.md",
+      "bytes": 3348,
+      "sha256": "c709ab8ea295629678252b564b47e577a3cbf4edd92ed022db27456a050ab331"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-def-1008.md",
+      "bytes": 2557,
+      "sha256": "4a7344694ea141c32b10a788d7635db434477a2dd29b8a0000f394e044c9046e"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-1001.md",
+      "bytes": 1935,
+      "sha256": "9be5fb1fecbd2d97c645a3785ba0e817e23412823ecd13934cff6b37c05c4722"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-1002.md",
+      "bytes": 2721,
+      "sha256": "a13d10e57d823566db57b2adc172047f67f40e94d90724affa0ab9f5c2161926"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-1003.md",
+      "bytes": 2170,
+      "sha256": "d755c3e837c43f1961c0742d57526c1371c521051bb271ee4d81bb43bd279a1b"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-1004.md",
+      "bytes": 2378,
+      "sha256": "feadab74b537ba305cb10066e000708420527bc399911acc97c5642f6ef9864c"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-1005.md",
+      "bytes": 2217,
+      "sha256": "2f6a880d54a4e07a7a25a91fe67bdfbbc9ad4918eefbf0c4b43ab7994d1a37a7"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-1006.md",
+      "bytes": 2416,
+      "sha256": "cfd586739c8bcd0198f092fa54ad1cb43a448eb36fad3d14145ef44e6a1ffaff"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-2002.md",
+      "bytes": 1756,
+      "sha256": "994aebde1bba4cfa6ec8743be07a455ba937158a1b9a80a0c87f60ba34eacaa2"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-2003.md",
+      "bytes": 1999,
+      "sha256": "b35ae9d29b5025abbba6e2c33483964be4e221bb702191855ebc54870f364937"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-2005.md",
+      "bytes": 2296,
+      "sha256": "1b73b09045a7a5f7db89f8b01b18edf592948e84f5bc6f38df5ad02f10f8722d"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-2007.md",
+      "bytes": 2131,
+      "sha256": "74091aff0299fc994c4078dbd4374996252af39b68261e8e774dc78e06f957e0"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-2202.md",
+      "bytes": 1722,
+      "sha256": "e2f5e1740f7491d440dfe137007aa2790ca8d391cf65f3d10a0104c7347c9ed7"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-fspt-2206.md",
+      "bytes": 2283,
+      "sha256": "5481371267ec5b3adae51721bb615f543ad120ed1f41fa91525459651862f9a3"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-log-2001.md",
+      "bytes": 1785,
+      "sha256": "3db1e8c2b3b29db7f02b831da2b549bc80dcbb37a72efa3a03b16cd02d87ebb2"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1001.md",
+      "bytes": 2913,
+      "sha256": "930e9a68dd31aefb9ead54586b892bec6aa2698e4d6e051527da2d7e11511f5e"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1002.md",
+      "bytes": 3370,
+      "sha256": "67e358c9593833fb721cdf126cd884e3add46ef8d343d45136f0007e26e7ee94"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1003.md",
+      "bytes": 3300,
+      "sha256": "a7d4e9615f4cdedb5e50fb17f5248cfc64a067e263ff2996d23fd1bdfc2a408d"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1004.md",
+      "bytes": 2182,
+      "sha256": "f1e22453a8b09f9df13129c8d9cc2a2c87549a1229e69da07746ec48b0d23112"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1005.md",
+      "bytes": 2330,
+      "sha256": "38df5b16f203ef5365673d143d0434a75098bab348bea263d7143a271c932e7d"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1006.md",
+      "bytes": 2002,
+      "sha256": "d1475d4921b2d02c627a2e1746d1c7a547673d2ab2423fc058a191352e6f57dc"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1007.md",
+      "bytes": 2793,
+      "sha256": "3f6478d9dacaf406c53acc0200e4f5058d2109df23973456e88b29151f28e89c"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-off-1008.md",
+      "bytes": 2604,
+      "sha256": "4a8dd15489cab4673f2af86411d06e6e10f39547fb4b2aade672c4787d02116d"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-ops-1001.md",
+      "bytes": 2307,
+      "sha256": "0a1b6764d7d3bd8f3c52bf22ba2c8d885c18b5a28af771c31d0c386722c130ab"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-ops-1002.md",
+      "bytes": 1957,
+      "sha256": "660b4213192fe61d81a7942c9de15b55dbd6f7e298b3b0560b4a092d56980ce6"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-ops-1003.md",
+      "bytes": 2367,
+      "sha256": "c8697bff7e5e155161b95c0a8fd39d8d48dc1596740abfd5318e3f63d8429426"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-ops-1004.md",
+      "bytes": 3161,
+      "sha256": "13a7f44274a20b083ea1b2328e57543ce24c48a5d0329be72891a244d79d750f"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-ops-1005.md",
+      "bytes": 3677,
+      "sha256": "a2a2e0d6541c78f387dd226bb83a7883e4b8bd03209f3cc3e5dd2c2847f86a38"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-ops-2001.md",
+      "bytes": 1618,
+      "sha256": "15d18ec450acf43d030209a25a8614d7e0fba6cbef6187a79c11ddce979e4276"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-pat-1001.md",
+      "bytes": 2954,
+      "sha256": "298b9d86bb2749776761be2ad4d38756abe192ec37d13c5d5255ea8c9a4b014a"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-pat-1002.md",
+      "bytes": 3238,
+      "sha256": "6ef7b4e996ec344ee771c59aa4493273e2736e8de3d6f71d4252adbfe1be3eec"
+    },
+    {
+      "path": "07_structured_infantry_events/0302-trng-2001.md",
+      "bytes": 8124,
+      "sha256": "0f7354660dfe3816de2d3cc50e4af5235eb25690874f52c3817de9392fc1738f"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-empl-2001.md",
+      "bytes": 2432,
+      "sha256": "0fd4e4788734a58a3fda0857be23063dd41ef56749c6663d5e04fff9360b439e"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2001.md",
+      "bytes": 2316,
+      "sha256": "907c2d6bc545ee439e502d7052b71dec6eba9e4ae1abd06b483acf5ea992a1a6"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2002.md",
+      "bytes": 1745,
+      "sha256": "6bdfc618489fea941d4cda6d6909cdd6746e7195d2e32933b70bb562089ca0c9"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2003.md",
+      "bytes": 2783,
+      "sha256": "adae5506d379cb748c2c56190bb5b99bbd2552a40c90944010f0515d3256b59a"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2004.md",
+      "bytes": 3381,
+      "sha256": "f817a7678a50b1dabe98b80b4fabac9b6f5a31936434e1325016caa8ca82c573"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2005.md",
+      "bytes": 1737,
+      "sha256": "2b99db4d6cd03ef06ba8953da5a990733fca89957e76c0dc762190db4abfd8a6"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2006.md",
+      "bytes": 1674,
+      "sha256": "c11048c1a9aa1a538848fff9a18aaa75b5f46395c2c7d2d0c223bfa09ab47b9c"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2501.md",
+      "bytes": 1717,
+      "sha256": "1d16d8ff11fe1bf4e3657220004a435ab7d080b87c7ca50438ba0badd0173912"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2502.md",
+      "bytes": 2013,
+      "sha256": "ab3593047c54d7b9324fed8e1dac78db3d1df86b7649f911b0e8b29ce85cf281"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2503.md",
+      "bytes": 1638,
+      "sha256": "9f3c35a336826dd7406a4e8f6de88bb7edea9180b4061f322a918eebdc8e6ed0"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2504.md",
+      "bytes": 2204,
+      "sha256": "1fd6b4109d03efe1e20dcdd91c844360bffefe53ee7af271a8f88bcfb9ab06f1"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2505.md",
+      "bytes": 1827,
+      "sha256": "a0f13600eb493e7858e8ff93abc98ea8a8d9e9e9659e3960e4ad96938c3a5768"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-ops-2506.md",
+      "bytes": 1481,
+      "sha256": "cae96c62b11ef09b11bbe426e20910a7320118db81cc475f71a065e9f59671b5"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-trng-2001.md",
+      "bytes": 1926,
+      "sha256": "40bf07cb8fb57f886d7118e13eb5e2c23c0889136c78c0c0d3e4fa806ecbdb3a"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-trng-2002.md",
+      "bytes": 2282,
+      "sha256": "000584de362c6b7b9d01fbda298a975e92fe62828810039d2a92a9969938db94"
+    },
+    {
+      "path": "07_structured_infantry_events/0306-trng-2501.md",
+      "bytes": 13265,
+      "sha256": "06262023f3e0780b8b47ffcbcbb8453c1b857b38e41b878ae0d154a899ff0569"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-1002.md",
+      "bytes": 1755,
+      "sha256": "b2fea4595b5eeb791b8f34d315e677bb0a5de0f58f847801d40d513e32f16267"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-2001.md",
+      "bytes": 1564,
+      "sha256": "009af15181576153ea154d103878f76cab56d66394373fbc184e753b11182828"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-2002.md",
+      "bytes": 2034,
+      "sha256": "5522d1552bf2bfe394f01d1552822c7a02dc7e5739688e1db491bb5555ee54e2"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-2003.md",
+      "bytes": 2110,
+      "sha256": "8049c7fa0915e1e80feb8b5906d772970da81bad690cd49db8e1ba23c876a58d"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-2004.md",
+      "bytes": 2288,
+      "sha256": "d23c4a22026d6f421d48c0261e0589b9208ed79f626f1483278d9c86c281308a"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-2005.md",
+      "bytes": 2360,
+      "sha256": "bd68af0c40d052fa06411caab6c3fe86de4144ed56d61c8c6654419e18b2e4b4"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-def-2006.md",
+      "bytes": 1728,
+      "sha256": "d416fbea3419f41696ec2096a8a3907a445c08f61f16d916a2ff1b1086fc6095"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-demo-2001.md",
+      "bytes": 2146,
+      "sha256": "61c2de92406b211bad184fa6a7d10761157854dd1b5308afe9dc1a36696fceb0"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-demo-2201.md",
+      "bytes": 2756,
+      "sha256": "57039a0b77553035dd0abe663ffdc0e59d6e593ab54e7b130da3c33a8e314ffa"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-grla-2001.md",
+      "bytes": 2442,
+      "sha256": "a76b6e80c703286bfa664133058566bac3142923872542adfbeaa4b81a5b0a5e"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-grla-2002.md",
+      "bytes": 1932,
+      "sha256": "2b97300baa839b2ee575e8f83b7f6087aa093e263b6b6ee0476428ae87341c02"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-int-2002.md",
+      "bytes": 2144,
+      "sha256": "a4f48c6a572425510fbe8045bec6d90ef83d3adbe658c7703526e71fdbbc9a60"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-int-2004.md",
+      "bytes": 2394,
+      "sha256": "55f78a206dcf3d54377db7a387471ec6fff801ec630e72c7c5d6bc811003e1c0"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m27-1001.md",
+      "bytes": 1271,
+      "sha256": "754e7ee1fe6704f7c90d3d9cb12297e55791016e14069a4f7a623c4fbcf5af48"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m27-1003.md",
+      "bytes": 2418,
+      "sha256": "090db75d7dc578c2f112881d6fcde6fca1532138c39a8afb479437f4b8f5f9b5"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m27-1005.md",
+      "bytes": 3945,
+      "sha256": "3d467a403258be856d391fbc03ba454a5202029fa33a5fcf5bba48795de59ea0"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m27-2002.md",
+      "bytes": 3789,
+      "sha256": "2ed99adab2fee58235f7cdf39786f147943b63f87de19923cec5fd6004eb84ea"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m32-2001.md",
+      "bytes": 1368,
+      "sha256": "0fafec144f5bd2be3d7d92d3c13687239ecfe6875c836b9889b91f1d160be8fc"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m32-2005.md",
+      "bytes": 1836,
+      "sha256": "3ee6aecc8f387ecfec83fcd5446ba4f1cd291f03b56cac810a66e2c449e33e26"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-m32-2006.md",
+      "bytes": 1911,
+      "sha256": "36d01d758dd4feeaaeac87c8a6764bc410a5a902a41955584eaa871f3bd7744b"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2001.md",
+      "bytes": 1313,
+      "sha256": "67ce3ff1cb576d39d46653cb16665bc5b4652b018ed5f0d7ae7d2eb349ce927a"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2002.md",
+      "bytes": 2175,
+      "sha256": "c3f71456808611c08674a0babd40930dd8d0509219401ca7bae941ad01ceea1a"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2003.md",
+      "bytes": 2317,
+      "sha256": "7086594d3ee4497967d6fe7c8bb031f63a02cbce9eeb3bc159c396e50754eaa7"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2004.md",
+      "bytes": 1872,
+      "sha256": "ec7c89e565035f36835cb7e0a8f89c80c25b6000739098728f1474b31f30e5ab"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2005.md",
+      "bytes": 1853,
+      "sha256": "7ed30f3c2035cb5319f82330ccd22bc6b70c956bb25a3db93ff687144d948504"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2006.md",
+      "bytes": 1950,
+      "sha256": "59fb3031c475d609fb01acea159a9b3144be880313e32eec13f04bfba4208d0a"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-maaw-2007.md",
+      "bytes": 1753,
+      "sha256": "8c5ab773715fa4a96fa3320f6f486d64c79b457cd15c47ab9c2e1e0c6c114b2d"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-mout-1003.md",
+      "bytes": 1825,
+      "sha256": "de4b2c2f95a8e77e93dad247e7c01d22e7bae34a4279a70df98bfad00122c9be"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-mout-2001.md",
+      "bytes": 1712,
+      "sha256": "3abdf18d3eaabf5ad9328986032b9c6df12e7c3e8a1b7536461690d86895cc06"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-mout-2002.md",
+      "bytes": 1527,
+      "sha256": "c4ae7053af99b2a152562ad60fd1fad2720ad822da0b885979f00fcc8f7e381e"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-mout-2201.md",
+      "bytes": 2436,
+      "sha256": "90fd0b7d7635b0af8e30ff7b7ea2ec16e1d59da4b40315694edf9426ffac3b02"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-mout-2202.md",
+      "bytes": 1730,
+      "sha256": "7cc178250de97fec99b003f6e67894eba81a753a6fc1d638be35b90cb82aa3a2"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-1001.md",
+      "bytes": 1981,
+      "sha256": "72f330d5193646f5f4a491a6a4eab658776504bf1c27480e94bf1905ce5829d7"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-2001.md",
+      "bytes": 1783,
+      "sha256": "707072004b50a40bb5cf05493d6511ab8b5c80506ecad735a4757f6631743626"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-2002.md",
+      "bytes": 1474,
+      "sha256": "e4520b2e5d036ec22580d7cefa1764ed3d242c364a34442447fd408cf65b0563"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-2004.md",
+      "bytes": 2081,
+      "sha256": "1a1b18c0eb8f7817cf6485c66db32e94c231f0be254daa34b0a55bab8a38dbab"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-2005.md",
+      "bytes": 1784,
+      "sha256": "18d88a2632c3db3175a220bf90e34ef3c07813249df4a1df73671bd7b82e1a15"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-2006.md",
+      "bytes": 1942,
+      "sha256": "b01e78c8c4ef85367c260f571169a781c8284674a6f5abc89932c6e920c3054e"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-off-2007.md",
+      "bytes": 2046,
+      "sha256": "da387b1409f9b42d592c4e7c135273f8078fc71182a59f9c7bc05f710e63975c"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-ops-2001.md",
+      "bytes": 1628,
+      "sha256": "23d0e702aaf4367dbf94932d9af37dd15b2a519dca706483f67ff94b97f087dc"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-ops-2002.md",
+      "bytes": 2253,
+      "sha256": "dcd8dc97e1f989c791ae2e46c74596754b7e4d211e2ae3b0133782bda2e8fc46"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-ops-2004.md",
+      "bytes": 1503,
+      "sha256": "fd1f16d0d102fd9cb4ad0b345901b5d132bf30bea4c4d26721677347137ef19d"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-pat-1001.md",
+      "bytes": 5206,
+      "sha256": "4d63e8634200485fd22f1076dc7531657017bdafc7fb0febee0dba5cddef7899"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-pat-2001.md",
+      "bytes": 1650,
+      "sha256": "c2c75950d9923f6abf754ccefe655c894ed45c842be239d4a97e4cc1f50208aa"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-pat-2003.md",
+      "bytes": 1698,
+      "sha256": "d89aa273c04aa17eb349f6a50a977c2744ba56191c11660847395418e44e7bfb"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-trng-2001.md",
+      "bytes": 1839,
+      "sha256": "fa506d3c2d1a8d8f8e093130161160be2731917cb38395e430e4dc45e436e176"
+    },
+    {
+      "path": "07_structured_infantry_events/0311-trng-2002.md",
+      "bytes": 15488,
+      "sha256": "a85f50353c2e1b9203e4d1478191550c8256bef5207309b6258cc46caeda824f"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-comm-2001.md",
+      "bytes": 1544,
+      "sha256": "f71d733f1a205726c64a9175fffeef1429cfc28a7c44444031e4fe260693e7bf"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-comm-2002.md",
+      "bytes": 1396,
+      "sha256": "155142122149bbf1b253757929a88feded461f2e2f231cd88445ee809bcbce2d"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-comm-2003.md",
+      "bytes": 1334,
+      "sha256": "27a0afd74e5eb35bef02e355d37dbb0dfddcf2c2ed588f82f227c99c026105a3"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-comm-2004.md",
+      "bytes": 1475,
+      "sha256": "9e7d6045e0c6baf8d65664aa5feea47b8f64d42f5f78278ef3007fd484cfbf8a"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-cond-2001.md",
+      "bytes": 2454,
+      "sha256": "cb2291ba82dc95e96226e528cbfe6a00663d0dea08de27dadfe466af505e0b26"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2001.md",
+      "bytes": 2360,
+      "sha256": "3441ae1402d37b537451cd56355ef1cda240d0b17d2fa1fd7b7cb0d482b11d50"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2002.md",
+      "bytes": 2262,
+      "sha256": "a511afc80a42194b9c6115db4916cd8ed7881245e3adcc6b44f0c0ef9af9ff20"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2003.md",
+      "bytes": 1724,
+      "sha256": "639b25ce83a1bdd8a004f6ee3a806f6f28cf4392c7a9e80731cb123d20a740da"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2501.md",
+      "bytes": 2434,
+      "sha256": "49003a0b42766b627ac8da13920895a7140ab6571c6146c607d0298331ddf660"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2502.md",
+      "bytes": 2118,
+      "sha256": "8d5d2dc5bc9c69ddbaf777eb2cb195cf5e501e3d9f6e7cee4f10d650922283ab"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2503.md",
+      "bytes": 1221,
+      "sha256": "de71457abb55082f8c910545e52751d88d4c5a9559e9cb246d5f96fccf0ffc03"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-fspt-2504.md",
+      "bytes": 2543,
+      "sha256": "a22ee90713ac5bd84bd6e5db1c4df891421d4961a5b59863d89f286c0667aee9"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2001.md",
+      "bytes": 2083,
+      "sha256": "37ba5b846899f4e8a1bb6de9984dbf629e16f1bd32a45ab115e9d82c9788f75d"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2002.md",
+      "bytes": 2968,
+      "sha256": "46b8465a46d51bbd6ee453035748d92bf97eb77624a39d999c719f21b032bbb9"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2003.md",
+      "bytes": 2095,
+      "sha256": "5cfe99d091aad7cc040fb23e32468eedcab279b9345cef5ce92dfbd5792c4aee"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2004.md",
+      "bytes": 2166,
+      "sha256": "ca4e7bd481dc8795f6c38576b9470b01e9104b6bf2fed0c40af91590fb5332b0"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2005.md",
+      "bytes": 2133,
+      "sha256": "1347c4625e992ea4d70ba5e2966039dab18829acf6a747ad638e8719751be3b4"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2006.md",
+      "bytes": 2524,
+      "sha256": "13eb88a23bce5a8a8fdcd2ea9d837d69b386b0a67b22406755d07c916fff9eaf"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2007.md",
+      "bytes": 2620,
+      "sha256": "511f67bd75f5ddb90de1df3ce6cf80aa7c7c028e11f0757822538ecf7acd129b"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2008.md",
+      "bytes": 1814,
+      "sha256": "79ed9ebf9202dc03afc150e65a5e11ae226fabda538fca64c0b4c4bfd8517f05"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2009.md",
+      "bytes": 2202,
+      "sha256": "5b07fe3db02b9d528c49f5a000cabc4853bc2cc80620764a04ef87d9e4915dd5"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2010.md",
+      "bytes": 2331,
+      "sha256": "26f6924039b18b48224f74f9dd32000989d7e8290d139ecacef97d37b448973a"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2011.md",
+      "bytes": 2478,
+      "sha256": "da8319074b5f8e9ae1781d6272b5efb81546f3b1dfc83a243e7e550fe4b9004e"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2012.md",
+      "bytes": 2762,
+      "sha256": "5c1b09e713b4d9e405cd5c68e46e682a58a35b8572f1a0750a6bdf586b4802a2"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2501.md",
+      "bytes": 2094,
+      "sha256": "9015c5e62e7797083583b91735d800a43430427df76e9c6f89d5a76014a354ea"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2502.md",
+      "bytes": 1910,
+      "sha256": "a725f9244f16ec74ba833cd1d37f42b2c677a5e5d8724d6a16a17736d063cd08"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-mark-2503.md",
+      "bytes": 2661,
+      "sha256": "1b1fb37284a446dab124d840a52a7d0d0c2fe1115b2c6083ab3409bd9192c5aa"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2001.md",
+      "bytes": 1364,
+      "sha256": "37bb722ffa108716b88511f58ea77ac06555355c261b39a0c099b30f57a10121"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2501.md",
+      "bytes": 2287,
+      "sha256": "ab77558ef0f808b2657f4e676de580743f3108f0ba4f19c2db0eb415bf101399"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2502.md",
+      "bytes": 1780,
+      "sha256": "cfa51a10af7ba53abfb025ed74c49c3b8dbd665a01da5103d4671577407aa44b"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2503.md",
+      "bytes": 2288,
+      "sha256": "ca0bc5162734b6d0c2a40ba07c2e3f05f490524ec0ca7428a9cfe3752f184c28"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2504.md",
+      "bytes": 1916,
+      "sha256": "ef892c390c5ee60632a773619bca59c5e8ff3615b4f171875a08677342ab7cfb"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2505.md",
+      "bytes": 1858,
+      "sha256": "e874e1ceac78ed6d96edfa8df6b65d95ea7f70ada865af3b9a07116e284e8fdf"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2506.md",
+      "bytes": 1944,
+      "sha256": "39eda4db65e2b55f4b15a6e61b1e6aa711648ff3ed11f8a9cda16201d0396006"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2507.md",
+      "bytes": 2245,
+      "sha256": "eb2b5f21d5fbbc5cdced0923172f18abd5f5b87eab69a73f2a25730798de04c5"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-ops-2508.md",
+      "bytes": 17383,
+      "sha256": "bddecd5dd340d49b0b71e9502dc7b3f411ea713a34532c85be1190a924a6546a"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2001.md",
+      "bytes": 1743,
+      "sha256": "d87edde33f1b121b7259dab9cefa43eeb0ae0d3abbd70085d26b5037a2046f47"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2002.md",
+      "bytes": 1768,
+      "sha256": "57f75b27f27f3b106b4c3d2db237b9717c855f708241b36c52ba794074944e9d"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2003.md",
+      "bytes": 2102,
+      "sha256": "40ad603a5d556df62c54fd5902ed463a4d645c82070f80c96ff351f32a0a7d73"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2004.md",
+      "bytes": 3256,
+      "sha256": "5f9ccb738ebee58d0690354b6efe8f86a8e9d29dab8e89346b24a1e57b5f1018"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2005.md",
+      "bytes": 1597,
+      "sha256": "d81fbd519da231d067278edfee38d9dfd49e65165b2c9800547bfcfc521725e7"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2006.md",
+      "bytes": 2149,
+      "sha256": "8b5bc1d88cd6b08b3cb891bd3eca697f733f20c36d39d7540fa47f168e59e632"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-pat-2007.md",
+      "bytes": 3144,
+      "sha256": "e635126df80cc0b200f7249457a5b190aaa0e0a2827c8bd9e9e9439303e9c1b6"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-surv-2001.md",
+      "bytes": 1940,
+      "sha256": "fbe13d21563142e0f44939d3572aedc3b97ea0a4119f1f6b36254f405931738b"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-surv-2002.md",
+      "bytes": 1528,
+      "sha256": "9c1a5247d8482973de6728288c5fe66a6a7b4ca0c2960c06197e07101088ee1c"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-surv-2003.md",
+      "bytes": 1568,
+      "sha256": "b72610a49ddd14bd260d08c009afc86ee1b057d5e69b6894549418dacb255a87"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-wpns-2001.md",
+      "bytes": 2509,
+      "sha256": "61b26cd77ce845b0576a89306aa9ba560042afcd800e628ac9f9fa6274433486"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-wpns-2002.md",
+      "bytes": 2015,
+      "sha256": "3bc280615537bc87e8deddb5998ca2b43008d928ba8526282966f663c6ded27c"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-wpns-2003.md",
+      "bytes": 2216,
+      "sha256": "4f0f34c93fb16ac3efe98e7b62083fa5c93e74a7761170533d55f9a5d34dd247"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-wpns-2004.md",
+      "bytes": 1960,
+      "sha256": "817dfc7d7b15bbb6428ee4e3b7e8803aefbceb56a1b5a306d4e9fd44da6c1581"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-wpns-2005.md",
+      "bytes": 2459,
+      "sha256": "93b3eb5f28ae9a27e14edd3b44beba14e5f0961ef6b8ce5ff22db700812d7027"
+    },
+    {
+      "path": "07_structured_infantry_events/0317-wpns-2006.md",
+      "bytes": 3077,
+      "sha256": "ecfe1e2091db3d618cf4cec644d7fee29882f351a12d991732b06504068f8ec6"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-1001.md",
+      "bytes": 2104,
+      "sha256": "d87fe65dab0943d853b410d7089adbf1faad6242beffb4c99d9e52073fa4e10c"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2001.md",
+      "bytes": 2089,
+      "sha256": "e30e04d394a5b48f22bd643be01fac02bdabad9d1e7e1fbb7d3715b580ee6e10"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2002.md",
+      "bytes": 2059,
+      "sha256": "d93e59653d2b4ff6c76c9924053287a1357adbc69298361ee9f9bcbe892b2790"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2003.md",
+      "bytes": 1647,
+      "sha256": "d88550f778bd4d2ecaf869e702299ca931119cc1122b9d919a0f1c657b2649d0"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2004.md",
+      "bytes": 3105,
+      "sha256": "b85d780be587fb95185fdfba71f025f7fd39603547efd0a0aef9becb91b2d311"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2005.md",
+      "bytes": 3067,
+      "sha256": "b2b32c4487f50a13e963caa03b126fe84713044246bfdea7b0799d53e2804536"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2006.md",
+      "bytes": 1824,
+      "sha256": "8261fed4e2538b406704768dfb740411fd1cd93ba9953c35954f3216e80634b1"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-empl-2007.md",
+      "bytes": 2515,
+      "sha256": "23ee925763376f16b4044daa0f04ec664e658925289b37a69f899ddf2bac6ec5"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-hmg-1001.md",
+      "bytes": 1806,
+      "sha256": "39286c6ba546259a8170a9784ac5501a2cbf4fcb11dda2ae16fff7bf388c95fa"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-m2-1001.md",
+      "bytes": 2120,
+      "sha256": "396ea566b27804d2b7743bb5f7caf987c3d7174be0b1fb49a6735496d86ee3a6"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-mk19-1001.md",
+      "bytes": 1787,
+      "sha256": "455af85d284287bc81079e9f4a25ea3f04c88328589cafe2eb545dd6ca4d99fb"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-mk19-1002.md",
+      "bytes": 1896,
+      "sha256": "7d71f50d81db4ab8b0515f5deff4c076c56ef65fb4ae05ffd3775afa5a60f2f2"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-mmg-1001.md",
+      "bytes": 1655,
+      "sha256": "f96585a783dff09a9f5fe41e1f95dd3f3d0d22c50d1ba818fdc12c04aa7fceaf"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-mmg-1002.md",
+      "bytes": 2329,
+      "sha256": "1518eefa8d01b73a0be3491d0b81e48c1db8c9cdd1b2ccbd666e123a0d71b2c9"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-mmg-1003.md",
+      "bytes": 2320,
+      "sha256": "7a4124467ccc77e0759d2ba7ef09b46f79d2d61d666429afa4e8a878cf3f48e5"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-mobl-2001.md",
+      "bytes": 16625,
+      "sha256": "4e8cdc2bbde8f8d1021c20c1dcfb6eae00a6ea806f31991d5110336704c6a821"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-wpns-1001.md",
+      "bytes": 2210,
+      "sha256": "c2d7a57de86382d8ac83e1b81fcfc3cfec86ea0d71ff9bae0f0367aa7059115d"
+    },
+    {
+      "path": "07_structured_infantry_events/0331-wpns-1002.md",
+      "bytes": 2593,
+      "sha256": "ad8af2c2ce033ad2ad0f7fe35861e9bd1c19f97187a9e63c5bb22f7055c2593c"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fdc-2001.md",
+      "bytes": 2243,
+      "sha256": "65771ced93e147453bbe9d66e1e16d37f8eae7aaf92206eaf725bf77569a0bbb"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fdc-2002.md",
+      "bytes": 2866,
+      "sha256": "b76f5e27f4596a5f39471eba655800eca395d49537ffcb52770336118de72b83"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fdc-2003.md",
+      "bytes": 2546,
+      "sha256": "78bc23a8764a434676b68929215ea13efdf0121a9029a9e82a8928e54ba80745"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fdc-2004.md",
+      "bytes": 1734,
+      "sha256": "0fe04caad473ca64551c6aca75f2f8c389f8f03849f7bddf802f493ea97d955f"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2001.md",
+      "bytes": 2140,
+      "sha256": "379dbf112c6b4560a064347b15853355f0e69485f9061a56d9569a765cfef861"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2002.md",
+      "bytes": 2957,
+      "sha256": "954c1fb2511e462335bc573be24dd963eb893717d69f2d5858a6838b0f4e100c"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2003.md",
+      "bytes": 2403,
+      "sha256": "2afb8af5809449654a0cdb58fb60ede8679e2795100430975eb07d9b7414af0f"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2004.md",
+      "bytes": 2801,
+      "sha256": "84919b4f8ae1e08c420dff898846d91da6b7ce3e6f2137ee7e7595dab0c8042f"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2005.md",
+      "bytes": 2260,
+      "sha256": "2591cf03560a1c57070483c50b8e098a5b0313be1f90f468f071058000818273"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2006.md",
+      "bytes": 2490,
+      "sha256": "2fa8cdd978d082c9fa7e02920c4dba82f7af84555a71c6fffc3e04218f5131dc"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2007.md",
+      "bytes": 2082,
+      "sha256": "d43947f111ebd74511f0ecac1e66875a7504b9d0e7a7dddf6bee19836ab11f37"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2008.md",
+      "bytes": 2714,
+      "sha256": "3fc0bee4e18adeebc82fd1bc46145b7cde4da5cef79a5000f636d192fa523f97"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-fo-2009.md",
+      "bytes": 2443,
+      "sha256": "a2b93a429c684bb894d4391084435dcfbd9ef74f3fc0cc2185e918f2b36f46fc"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-1001.md",
+      "bytes": 1682,
+      "sha256": "83b8f5323c9fbddac4cd6e931fc538e05e833510961426ac26043e547aeb4f31"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-1002.md",
+      "bytes": 1982,
+      "sha256": "1f904f82d9fe3b23a2e4a28888496ccfc3609e7e2dfc80d323cfe84b88e45c5a"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-1003.md",
+      "bytes": 1614,
+      "sha256": "a1db29aacf61563ff8756daeb581ae856cd36f912a2380f09200bbccf343a67d"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-1004.md",
+      "bytes": 2739,
+      "sha256": "9465436f7a3de14d7392958a3510b4854092a31af6ac351debdaf90c979f4367"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-1005.md",
+      "bytes": 3330,
+      "sha256": "bbbbe476d17773249a113b725b3f6a11a229c06c0eeb14aea0bcc8d0d6be4834"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2001.md",
+      "bytes": 2347,
+      "sha256": "204bc3b77c913f00b325ff96381baf8932ed7968ccd6bee77a98656b2fab19f8"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2002.md",
+      "bytes": 2687,
+      "sha256": "8393b9839393879101720cbe8f1bb25f5a64e5e7f96e8a07e45f61101cdd06bd"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2003.md",
+      "bytes": 2222,
+      "sha256": "693165cc24f0910e078e76d46c1dc7574bf2054a3e06280b849ceee6bba79584"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2004.md",
+      "bytes": 1657,
+      "sha256": "e5e2aa965d4a1b898b972404a4196c2d23a72afc88bab681c8ab3d483d96e8d3"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2005.md",
+      "bytes": 2084,
+      "sha256": "e386cd83ba3f14b65ceb740456ce63c69bd71470016126295259378caf8f1f35"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2006.md",
+      "bytes": 1923,
+      "sha256": "fe5fa44b0e9c9014635763c57a7f1c7dbd04ef86048e009ed72b00dbecdbd0fe"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2007.md",
+      "bytes": 1723,
+      "sha256": "34f261be73624ee204b900948df18ce240757f75b3b3cb241afdf37b217c86fd"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2008.md",
+      "bytes": 1450,
+      "sha256": "54bcc579d6d46ea8b15c1dccacb7458ceadf51f185503f478879356dfa34b54a"
+    },
+    {
+      "path": "07_structured_infantry_events/0341-wpns-2009.md",
+      "bytes": 11610,
+      "sha256": "1e05afa9dd1701a2bcd760269b49f522f7c163b5d2bf998b151b9c675bcfcfe3"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2001.md",
+      "bytes": 1699,
+      "sha256": "c51f777c957e9da2aa1173d59c58be1a8f50c9b514203329ee38f6af78cff007"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2002.md",
+      "bytes": 2301,
+      "sha256": "4d32fd495630b8ad1c691f36926fb485fd416827e94af33aa637c4189b8270aa"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2003.md",
+      "bytes": 2528,
+      "sha256": "4ba586ae129ef5c540ab9687bea9c6cf4c99dc185904723acf944c7942a3b423"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2004.md",
+      "bytes": 2639,
+      "sha256": "4169f97685ae02152ea2836e8376e3ebb04c670e8e63a55372aa9d6b57260374"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2005.md",
+      "bytes": 1936,
+      "sha256": "644c12d6945c7f17dc8f3eaf692959ca626f6eac87b1a93a9b6cd6f25719c8b2"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2006.md",
+      "bytes": 1831,
+      "sha256": "a81990753beaa33fe0567cb9d09bd1e47a2e9e255004b2d2001825d9bda4bec9"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2007.md",
+      "bytes": 2119,
+      "sha256": "043346450c8d8f9da3bbc4c142f4dc6c812a7cddd3f3905ff64ad5b31084a15a"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-apob-2008.md",
+      "bytes": 2213,
+      "sha256": "f82f4162f96a5766f7798fe0b727250790f955f97cd20dc7d166821668e6809b"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1001.md",
+      "bytes": 2259,
+      "sha256": "39ff2ccbf044e4cf3e5f3539cdbeb5599d4e6ed6fff1f2cc7cb1d46f185e2688"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1002.md",
+      "bytes": 2675,
+      "sha256": "31c8176b59b24a93b1143a8de6ddefd58f6b0caaab61b0f4f9fcd5e11316044d"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1003.md",
+      "bytes": 2327,
+      "sha256": "368a952847082fe3913d79928cc2e99bf63916048ae64f520d8cb772258d061d"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1004.md",
+      "bytes": 2013,
+      "sha256": "cb1115923b52f52143f87e8bcbe7095d994dcd9062684c85315928f69ac73a60"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1005.md",
+      "bytes": 2152,
+      "sha256": "a9ffa5d24636e674d54bdcec9509f965dc09aa32a0b7ae8c6f1c65903bae33dc"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1006.md",
+      "bytes": 2703,
+      "sha256": "9c9e199d797a449a65d156e7fc721a188cb3de5f523e35b52aceb9418ffef231"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1007.md",
+      "bytes": 1812,
+      "sha256": "e169dc64aa350531b9225b3a155a698c078b0d6fb163959f67d656fe801d790b"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1008.md",
+      "bytes": 1731,
+      "sha256": "fb279678280ea09c1bfcc9474d5c200f18748d481dcae787f1c44782fe2a89fa"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-1009.md",
+      "bytes": 1675,
+      "sha256": "80be01fde1bff6f9076e63efe745526fd1b43febaacbc4c0d077a8ca174f22de"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-2001.md",
+      "bytes": 1774,
+      "sha256": "59c7a2b7d96480d7b7d01047fd903e22aa9275ef5c4fe5e314a451de4911d8bd"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-demo-2002.md",
+      "bytes": 3035,
+      "sha256": "97c5fc554ff2863a68f5a4c8a64e5a7eff00b1fae88d0d6b821746b2255ee254"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1001.md",
+      "bytes": 1568,
+      "sha256": "ce2db15fad3467af314ffc69c761425ae28fb75688ba8db310adb928726fcffd"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1002.md",
+      "bytes": 2116,
+      "sha256": "4c1ec87c984a9e6988f0a015f188661d8e2a16994317b8088eb1db0f90553dab"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1003.md",
+      "bytes": 1803,
+      "sha256": "95b6c1f257a4c35d293bd0b92b6d9052b3e8c5b376c824f509bf9a0aa871e439"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1004.md",
+      "bytes": 2894,
+      "sha256": "7d5705d28132a930b07f5d828a605a26b5db26eb860c0a6ede0d12da257c6236"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1005.md",
+      "bytes": 2618,
+      "sha256": "43ab2358f2a69873b0881b67e897408904f2825e7e0cdb7fabb991e8f21a86cc"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1006.md",
+      "bytes": 2892,
+      "sha256": "3aa0ee4ef890578e7e110c56063791ba7721c51c0f724eeef38851f172883d61"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1007.md",
+      "bytes": 2013,
+      "sha256": "d81d40b7325b3acba1333629ae7fdc701f8a7fed3bbc5aa0c1fe1373baab2a8a"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1008.md",
+      "bytes": 1954,
+      "sha256": "f8724e253f0112f78c3071627e8eefef5f2823531954527da6e5a1c84a9b550c"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-1009.md",
+      "bytes": 3411,
+      "sha256": "1a5f10c42202701bcfe78718acfea8d4aa0d6d5d35a82114d269a70a3d23a246"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-2001.md",
+      "bytes": 1457,
+      "sha256": "5b673105760afb188f6d663f66ffede90e97e30459c67ba9958eaba4c4d3d2bd"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-2002.md",
+      "bytes": 1900,
+      "sha256": "42df26fc4c53ca5bdece45692844b794c661b9db9fbdbaf984321ba12b503445"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-2003.md",
+      "bytes": 1878,
+      "sha256": "f48b0cad5d7e723ba0ee8a66d329e875dfc98b95b26b29aeb004c9d3087ec7da"
+    },
+    {
+      "path": "07_structured_infantry_events/0351-smaw-2004.md",
+      "bytes": 12922,
+      "sha256": "1889e2a194eb49fc361de193aa9ec79e81b98f01019627804fd6e997531a75c5"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-empl-1001.md",
+      "bytes": 2434,
+      "sha256": "11426ab3a84ef9abace727c618664b4cbc7b41cd850d7120daf3d393cbac2711"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-empl-1002.md",
+      "bytes": 1699,
+      "sha256": "18335d5e39741c5a5956339cbde19317a4320d3f5b4eefa27d91cb7982a9277e"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-empl-2001.md",
+      "bytes": 2384,
+      "sha256": "42b54be48aad9caedba71bd7de0b490dd21e5d05f65249a583aaeca83af55c5f"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-empl-2002.md",
+      "bytes": 1586,
+      "sha256": "77ad888b711fcf702cb17b82005c40879092ff713d598b3d2ddc5f65b9a3233d"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-haw-1001.md",
+      "bytes": 1547,
+      "sha256": "7c933451d28b60c2a62bd8eff04844624e7be473baf5222e3631e6066bbde769"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-haw-1002.md",
+      "bytes": 2901,
+      "sha256": "4c84090dfc4aaa98ffefa95275f39a9e982ea43fe4c95e0653f47f4c1b8e8b24"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-haw-1003.md",
+      "bytes": 1602,
+      "sha256": "cd48c13f1989482cf27b6a451b2d0e5944de6af4ba3f0042c9b047f21c7bc456"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-haw-1004.md",
+      "bytes": 2124,
+      "sha256": "96f1486e68fbfaa0312e5d68659a28a9da26e7817713cbccefe6b3d26916eb55"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-lead-2001.md",
+      "bytes": 52241,
+      "sha256": "d45bd4862414300d022b42fbc5cf89b370214fda122379d12057e1d33d9ceb44"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-maw-1001.md",
+      "bytes": 1410,
+      "sha256": "38f65f44744fdcb66a15c701437bd202d90cfcd4c088cf2a8a78b7ad097ce980"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-maw-1002.md",
+      "bytes": 2245,
+      "sha256": "e1aa77c9c89ed6586b8d26d755bd2feaafdec7df0b0f281b6d63ee8c3f6973ae"
+    },
+    {
+      "path": "07_structured_infantry_events/0352-maw-1003.md",
+      "bytes": 1963,
+      "sha256": "b687e59670cbb490adea7d307797d7b6215e737eb6643af22a34527912ce9175"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2001.md",
+      "bytes": 2004,
+      "sha256": "4360eb9cd5e2649a6d82bb204f47df701977eafb17e06a9744284cc2e131bbd8"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2002.md",
+      "bytes": 2396,
+      "sha256": "b9d91670fc88b0ef298b4a036426714c4aeacb2c6a028b5d253d126b7be09849"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2003.md",
+      "bytes": 2291,
+      "sha256": "4988acc19d0440391aa2cddf57d6c8ebc283ea5043e21196fb53d9972dc0fe32"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2004.md",
+      "bytes": 2383,
+      "sha256": "b8617f32a743bba1b07a17ce664a359f81d455b40cb59c2705fdc093a783e0d1"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2501.md",
+      "bytes": 1869,
+      "sha256": "bc93d35de5ff266527a22751f4f94949c1f9694677ee3004cf0387d8b337e119"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2502.md",
+      "bytes": 1638,
+      "sha256": "be0584cb286828a11f1dad070ad726c57598b4d152e4fe0d2269e042e4eded0c"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2503.md",
+      "bytes": 1984,
+      "sha256": "41b1321e038f6c93c11771257544c33731244d9b8531560ba0d913893d14f42e"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2504.md",
+      "bytes": 1828,
+      "sha256": "7dbca935e67441291394c8daa9ff90cc23223e821550af1117671c4c9e22d2c3"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2505.md",
+      "bytes": 1952,
+      "sha256": "0c70ac37b2730615b10724834cf6afe930fb1013da4b57764baf11dc4f2508ed"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-c2-2506.md",
+      "bytes": 1707,
+      "sha256": "58809e6ad7f6dc5f3bddb56c816bb1a369fe6fc79dc417f3ed8dd8eb8cd01800"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-comm-2001.md",
+      "bytes": 1587,
+      "sha256": "be54bed4f778dd81f0e0be2d88f3f7a9d7c5622229b4113fb7adef2a77f57f0d"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-comm-2003.md",
+      "bytes": 2253,
+      "sha256": "57a48df37a8d08ce62288a388e4f76ea11b6967f4609b38699bb1fe0682c1bc9"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2001.md",
+      "bytes": 2705,
+      "sha256": "93a476bd6918dc234a6f747c898a50d8979675b2def511d2274d2d65af149f94"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2002.md",
+      "bytes": 2849,
+      "sha256": "1730bdf64c82712e5265b6acf98584163d1118e7f6a108ef68dabbafa96b26c8"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2003.md",
+      "bytes": 2658,
+      "sha256": "ca62ffa3488d7957911bc8eaef81666f78a974069f7ce047f85bd42bab658807"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2004.md",
+      "bytes": 2503,
+      "sha256": "70483ad3be0b6ffc6900ef1e9345a659a422c65d5cb8ac287970fd083d6546ce"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2005.md",
+      "bytes": 2326,
+      "sha256": "13c02980d302e7f28233d72c55462ff8c0eb13d1d2da393a996bb9b729bdd61e"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2006.md",
+      "bytes": 2346,
+      "sha256": "dd74ef04b7c93a75d75ca3c3fdfdde2e08abdac16f6f4a335bb0fbb4f36d546a"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2007.md",
+      "bytes": 2860,
+      "sha256": "66bd8e3ab9144737ff09a702d2e2fea0e92e2fdb798a3cdaff548dce511a82a7"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-def-2008.md",
+      "bytes": 2909,
+      "sha256": "c3f17f8fec19669a8f0a3ac0d665c7a041af1f25f17e881ce448d350d98ab808"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2001.md",
+      "bytes": 2190,
+      "sha256": "81b898f01ac3a92136d8b91b9f0ab041dda630a8ff880c2aad31beaa9ee46dfb"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2002.md",
+      "bytes": 2459,
+      "sha256": "693b642bd010268befc5eb0cf82a301694df89c6b67d22bc50fec5df147cefa2"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2005.md",
+      "bytes": 2590,
+      "sha256": "3521199d6e24a301ca0c5d65c1eec603f540dfba82cec56bbfa7e2759bc232dd"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2006.md",
+      "bytes": 2021,
+      "sha256": "5e52aba3e6bfc8d34b0f01b901952f11a27ec5581f7a49a2f4ea548f3c0f1257"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2501.md",
+      "bytes": 1900,
+      "sha256": "18d175fe0e2f2a1b19c4bde6bca2f041fb2f9b374ba74afa2b20bbf5032a3202"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2502.md",
+      "bytes": 1826,
+      "sha256": "8f09496617ddc558823c3b14388c264f9abdfd19b7e4108f4280b7463cee4b89"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2503.md",
+      "bytes": 2395,
+      "sha256": "ebb3a2224a476612ce86fdd59df4c10954b40c315aaebee41984e1a1d2785007"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2504.md",
+      "bytes": 2082,
+      "sha256": "009b9f2ec23c3a08d2b4288e7c6514735c9a15e232261dc590481f0bfb9508ea"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2505.md",
+      "bytes": 2209,
+      "sha256": "8161a9afc6ceb656a9982bbfba0e78e7de98a478ff9d9cb3fecda792ec8de46d"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-fspt-2506.md",
+      "bytes": 2146,
+      "sha256": "7aa53e46fb32258d842a5dcfe6e000594be3eb4e83908c9623acbbc284d713fe"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-log-2501.md",
+      "bytes": 1907,
+      "sha256": "6cbe2ee9531b026cfe502047637731ca4545c7f655a3909450922987f29d08b6"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2001.md",
+      "bytes": 2603,
+      "sha256": "0d485999b76df4695e28d219fb8862e9e153c02c1591f19e16683245daaed78f"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2002.md",
+      "bytes": 3145,
+      "sha256": "f3a2c2bb825f27f2953bbb36e7ed95631fb3dc58639bd722b1f28a7672604fb9"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2003.md",
+      "bytes": 3547,
+      "sha256": "86a56cc3272e205bbd20155645b7b768cb76d0f2861accdea633786a4e5204e2"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2004.md",
+      "bytes": 2803,
+      "sha256": "206ce00832589b26ee99dc935f5f2642eaddcb06e73d9d8d3a404c52f59f9429"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2006.md",
+      "bytes": 2590,
+      "sha256": "582a0c7551516f0ceadd61d2090671544b9303353a21a0a4c7c7cb39f3a9a6ae"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2007.md",
+      "bytes": 2608,
+      "sha256": "b4fce3f05b3967884b1acf4f4a5c80034da63ccbc6f61b56b16853bab3e78acc"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2008.md",
+      "bytes": 2467,
+      "sha256": "83f13eb5ecb262d0262adc0907705565f9a9a48e9035958048a541f8da455ed5"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-off-2009.md",
+      "bytes": 2698,
+      "sha256": "ec9c46c8e37b62f1d09ba9303b7ff8fc6b7e686469ab1b67e0639d03f6222f0e"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2001.md",
+      "bytes": 2528,
+      "sha256": "a7b8708f18dde303ba376b244a7d1f71732aebadacedf261fb516a16eb2322d4"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2002.md",
+      "bytes": 2149,
+      "sha256": "73cda4b0f2e4a96c343c8ac36ce4682e9fa9f9614e988c0e5348882aef0a375e"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2003.md",
+      "bytes": 2797,
+      "sha256": "d36776315090f1da51026148c8ecb06ecdd8996f06d1a2c93b57955cf10fe101"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2004.md",
+      "bytes": 3138,
+      "sha256": "180f721b53b3e3e330b288284e3d017142ef6f48e53a67e07adbc7ebadfe482c"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2005.md",
+      "bytes": 3794,
+      "sha256": "7b8c1276ea37c3c197b50487b4aaec59706a96d2188e9654299548f110c7068a"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2007.md",
+      "bytes": 2335,
+      "sha256": "2649d7c98b320d3683458503a836b11e8a70bedaff46d22e02fb9043b60501fc"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2008.md",
+      "bytes": 1566,
+      "sha256": "a79907fa1435a8ba796948bdbe362827e4a25004443d22debf3545d9ecb96d1d"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-ops-2009.md",
+      "bytes": 2232,
+      "sha256": "2a0bc5cfb2969a31a359465fb7c27ee91473589890a349f050b6694bbf81c3ae"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-pat-2001.md",
+      "bytes": 2792,
+      "sha256": "048c99e1668919e8851bddeb099a113d53c8a361a6d64fea8402f1cc33e90a37"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-pat-2004.md",
+      "bytes": 3235,
+      "sha256": "40197d5dbf1fb46ebc80b837a48bb07a9d1232eeef318ef85b9c85d0c62c84ab"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-trng-2501.md",
+      "bytes": 2222,
+      "sha256": "04f852baea805069e421ad1a66a7c0f262884c17856594010c03a618469b0dcc"
+    },
+    {
+      "path": "07_structured_infantry_events/0369-trng-2505.md",
+      "bytes": 73303,
+      "sha256": "873a3e5b8799b2f90d4613d8be11f2090b124d3670edc70471266cf70c0aa907"
+    },
+    {
+      "path": "07_structured_infantry_events/README.md",
+      "bytes": 67169,
+      "sha256": "0e504217f19785863b429a6b54ce86a7876659de40946287aec88e69df968886"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-3002.md",
+      "bytes": 3268,
+      "sha256": "05785779c213ea0fa7d34b5436e6028085ded4a1f7db5764f95e4fc715a27a34"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-3003.md",
+      "bytes": 2312,
+      "sha256": "834cc7d0d2f91ad05137d2df01fcd29fe740f760ef7381b9f30b61d29fdcc410"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-3004.md",
+      "bytes": 2539,
+      "sha256": "e40848b58131ca5f16c84e32ec00e0f2018687544b7fafc265bd6b4e5f5cc91b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-3005.md",
+      "bytes": 2675,
+      "sha256": "9a04b3751def04e4ee72ded8a9f34692b374722cf9241e88cf8e30c509f7abd0"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-3006.md",
+      "bytes": 3852,
+      "sha256": "87f72b2c109f034c2dfb422d9ba5e71bb4842b7b2c5e4d9cb8495e540a7e10cb"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-4001.md",
+      "bytes": 2420,
+      "sha256": "5b83c76b5297aa6719cabd776a6225c9306c062cf8b8fca6bc9b7379926776eb"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-4002.md",
+      "bytes": 2524,
+      "sha256": "cc4694cb5a4f16c46c82299e6532c833d3549083c6659ac834bba7d36db622ca"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-5001.md",
+      "bytes": 3222,
+      "sha256": "af5585c6d1892b97322df0cbc28e1151ac17ae16b8c81a0f94a70dec347eb4ac"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-0317-5002.md",
+      "bytes": 5119,
+      "sha256": "760d1a27e4e421b3297f3e19fffa1c46c5809a6415a99731c10d311c571bbabb"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-7001.md",
+      "bytes": 8658,
+      "sha256": "d71a7f9d76a017a05fa6846667cc1f7d7982e7f135319ed60f25dd61c1f733f9"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-7002.md",
+      "bytes": 6187,
+      "sha256": "0296390dcc626c8bc1dd85e729da29e906f897a064d458cb9e33daa16a94278b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-7003.md",
+      "bytes": 6213,
+      "sha256": "dad0fc9411e9b58894b6b51b9d9144f4b9817b9b82d63d1e0be33083f42eec2e"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-7004.md",
+      "bytes": 5557,
+      "sha256": "364383acbb398af1b212768449dc4604f8ab03d3e0942a8e7755fab4e86deda0"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-7005.md",
+      "bytes": 4470,
+      "sha256": "33845e2d5a8771fd1a48953ddff04ee45121e2ea1d46efeb55f345e47a88a123"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-8001.md",
+      "bytes": 5098,
+      "sha256": "fb4251bad185bf7cb744ae6afc8b73cc31513ebbc2c9fb9b3ef6642b41d316a5"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-8002.md",
+      "bytes": 5153,
+      "sha256": "237e63335642baa4ec5319d2d3a99b51f07d0be1cc4104730c1c41c94c8fc19b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-8003.md",
+      "bytes": 6049,
+      "sha256": "7a5ea3032fb401bd7451f3c2ce8a00b191ff8b70a3475a0513f9a910a7a9843c"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-amph-8004.md",
+      "bytes": 5669,
+      "sha256": "7bbfd46f41252efc2793ef74a036b400de5345fa322b58165db652f530cb6832"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-anti-3001.md",
+      "bytes": 2325,
+      "sha256": "fa9cd4c767d1dd6492afdf9352e08ce1fcf13cb3904f1d82eb883c2a369b1b28"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-anti-3002.md",
+      "bytes": 2139,
+      "sha256": "585724c0050afe34461bad2ef4c9d88794306f9803df01d349948e5fd13ebfd3"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-anti-4001.md",
+      "bytes": 3467,
+      "sha256": "3b709cdea0efbc65289dca067bd92e013133c2c83b2fe0befd2c01c63111aa6f"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-anti-5001.md",
+      "bytes": 3903,
+      "sha256": "4bc45c8d1ef9a51d6acdab00351acedcedd1ec0f64b14855a4db04289ea29912"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-aslt-3001.md",
+      "bytes": 1852,
+      "sha256": "b1e6f8de0c382b7aa4cdedbf15b417d0adb84b15e0fae450deae54fbe134b5b1"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-aslt-3002.md",
+      "bytes": 2040,
+      "sha256": "6fbbc84967ff2a58ab8e76ed9747a744abb121482d2553797227d60e61208e6b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-aslt-4001.md",
+      "bytes": 4227,
+      "sha256": "0877664bc62143734cec0d960fdd7befeb7d26d8666072eabde564d7a01fb302"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-aslt-4002.md",
+      "bytes": 1972,
+      "sha256": "9a8f3005ae509eaafe2877d97df9e7b8eea87b241e164114cfaebb0acbae4299"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-5002.md",
+      "bytes": 2949,
+      "sha256": "d6ed9357adfd7aa0f371c55295e0ff4a49aaa90d4d2d70de72267cf4e3457cea"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-6001.md",
+      "bytes": 2374,
+      "sha256": "2cbc1965111e7c173599b098b3e6b2ac2e1a22f1076c215e0edccb7625680f53"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-6002.md",
+      "bytes": 2488,
+      "sha256": "1eabd76ddb5db34f905e98a1e3a488cf905a4eedd472b5012231cf2804ff4414"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-7001.md",
+      "bytes": 4296,
+      "sha256": "5c7965f56c7cda2fb524735c8585c530d25f25a4a46371a26f922d67487c93b6"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-7002.md",
+      "bytes": 2591,
+      "sha256": "9969aacbb08f195544d9e7cc2d68341f8cdef11096b0b80a93d197727c70171f"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-8001.md",
+      "bytes": 4392,
+      "sha256": "ae6e39be3ee4daff1dcdd5b7110afb969c1ee020843324eb71a5ad5195261150"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-c2-8002.md",
+      "bytes": 2648,
+      "sha256": "f1751188e4d0bd0be71dfff0fa030908d659362b99251da09cb71d8ad379db8e"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-cond-7001.md",
+      "bytes": 2347,
+      "sha256": "018dcb8482ac24b340c39cdabfd82fdf5bf0be0b0126744b916b4d30ece4ad04"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-cond-7002.md",
+      "bytes": 2842,
+      "sha256": "9d5a7ba6ebd9827422d823f70a6c484644cd2ac929ad0c9cebc2337ed01c2c16"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-cond-8001.md",
+      "bytes": 2513,
+      "sha256": "b6f6fa1e146fc443dd11bfc54d12d790b548da887b982841009229a2891a6a55"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fp-4001.md",
+      "bytes": 2430,
+      "sha256": "0f92ed1e7dad14d4c61571c3639f2ab6946b2e0dfa3dbb4d4d14c0899233a783"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fp-5001.md",
+      "bytes": 3722,
+      "sha256": "88ce888c5c10a650f9bcd7b8d5b0abae48c12799d9543dfde3e86f7a6947c700"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fp-6001.md",
+      "bytes": 3057,
+      "sha256": "07690a1a667c6471678ff5ac610bfd826f7cceda121ec7620b7f39ae994e7627"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fp-7001.md",
+      "bytes": 3524,
+      "sha256": "a9698a7c6e66ec3c1e83a2158c33854b103a22b3f82b39bf0875d1c689f915a7"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fp-8001.md",
+      "bytes": 3684,
+      "sha256": "61861e27e2bcffcb3c6d123982848e936799294253ee20ac4040ceed3c738508"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fspt-6001.md",
+      "bytes": 3856,
+      "sha256": "dcf0f418f3c76470ab117a07f14cb6e5b5bfca6ea858ddcf6d8f06f5e08619f1"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fspt-6002.md",
+      "bytes": 3032,
+      "sha256": "1a5ab3dabe5ad4a867584e7f7d2dfd121793e81e7088361966a3e6c1cef49717"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fspt-7001.md",
+      "bytes": 3702,
+      "sha256": "f0acdb2edc9bd88db1038573fda58f936bf8d6c8a384ba5d86adb2380b889a1d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-fspt-8001.md",
+      "bytes": 3663,
+      "sha256": "f1ae70c2c062e4980f0d783d572e86eddf210bf94c85b4cb7c056959a2f20e23"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-int-5001.md",
+      "bytes": 3054,
+      "sha256": "013b61d0ac6401d59764401f03326a6688b61f408c8492c97990f5ae50ca816f"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-int-6001.md",
+      "bytes": 3114,
+      "sha256": "141e29a5b8ed29d8ac2daec0aef8bd18029e615510a387705e4c7467abdd5e84"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-int-7001.md",
+      "bytes": 2452,
+      "sha256": "049bb5968360ca127b10e14520c2f577b9e4c796dfc52443ffede5acd3f7676b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-int-8001.md",
+      "bytes": 2451,
+      "sha256": "ff2c56ff7d189c1b92e27f4540e38f72d359b705a8a8cccfe42b6738200ee565"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-log-4001.md",
+      "bytes": 1863,
+      "sha256": "7a39d402649eaa0a48127983b0a5bb1e4c051f350b2857c9c37d20740d922b35"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-log-5001.md",
+      "bytes": 3597,
+      "sha256": "41f91ec5ab5ee4bb2bdaf9d8903048e249fc736bc00f26354c89eced5ca97da9"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-log-6001.md",
+      "bytes": 3339,
+      "sha256": "e6725508bb8228868325724f90a85c9df2749357401c90c649491de6f8209274"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-log-7001.md",
+      "bytes": 3307,
+      "sha256": "62d492c4b0d73075eff7e6b90adea27c1e1c196f0424d5ebfa311effa6855892"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-log-8001.md",
+      "bytes": 3686,
+      "sha256": "5b02af2141b238071d031bd7f0de1073eb498f3523e205e5cd12bbe8db5e9699"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-3001.md",
+      "bytes": 4412,
+      "sha256": "fbfdcfc1b5757f3565af94001a25f6e17aa7e57a997b3f56c998a4255d37ee68"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-3002.md",
+      "bytes": 4010,
+      "sha256": "17d197ad5db1adc36a6de211963a04f8cddf4cd39cfdb88b67b89087076448f5"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-3003.md",
+      "bytes": 2738,
+      "sha256": "a6174478ce30a71488fc81345e552639b2635f362c5ee0aebbe52ce7174148cb"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-3014.md",
+      "bytes": 4058,
+      "sha256": "7a32617e9e7b050ffbd980c67d6e368eb2b04a0dc7d23de27c6956472b84e649"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-3016.md",
+      "bytes": 2675,
+      "sha256": "1beaedf8c770d24bdee22b26b6439656dc76b4450891df299daf62722b593543"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4001.md",
+      "bytes": 7428,
+      "sha256": "9ff200ee6b0332a32c77ae15481fd73cecac088ebdba88b754242fecb0983b6f"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4006.md",
+      "bytes": 4472,
+      "sha256": "0887004b596de10a45fb9e0005978770037f6a57084f563e79f98a49e9b9c671"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4011.md",
+      "bytes": 3734,
+      "sha256": "21b6b821d61e95008afe03176f13590df4715b53dca1c61d57656c2a47179801"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4012.md",
+      "bytes": 4609,
+      "sha256": "71d18a1bdfc60e6bf640bb7e7614146b1ff729b963a78aac2f758a5d91352225"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4013.md",
+      "bytes": 5960,
+      "sha256": "01af80a65566543081471df635c2c720f7a7faf78cdd487432680f09162d6f17"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4014.md",
+      "bytes": 5237,
+      "sha256": "4e6fa6c76135e60541296d38791d19c47482d0877abfe6a6d26637873392d217"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4016.md",
+      "bytes": 2652,
+      "sha256": "1568deedd108b8e97676ac108bdf9c22703ffdc8591dd41b3a5e70c57c098416"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-4017.md",
+      "bytes": 4331,
+      "sha256": "b5e660dd466f4b485e96d8d7bd7a47a5b73d3f4e05395f787ae1f8b3800d5606"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5001.md",
+      "bytes": 7011,
+      "sha256": "c13b20c78d483ad3fcbff4762d0dff4e4033aebf714c8d1990032d77b579200c"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5002.md",
+      "bytes": 7043,
+      "sha256": "e8e60537b474f01b3ad1037763f61b9486aa3c744a191d403da2f7c7663deb4f"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5004.md",
+      "bytes": 4356,
+      "sha256": "ea7bc80bb32ae0343456a5b93fd11ced83c4d6dc6494cf44305cf84a6a67d690"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5006.md",
+      "bytes": 6438,
+      "sha256": "9e2e1fefa9d17a7cb2d64935f49d33e87ac216ec80ee5cde22650983ef91f7c7"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5007.md",
+      "bytes": 3338,
+      "sha256": "c18fde3c95a9028aeee5f5c1f53d5a2574c9af788d398e71fbf9f8ccf0d7bf84"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5008.md",
+      "bytes": 4520,
+      "sha256": "f7e20b1bdfe9e7cb03c6053ae83f397742e67e0c0ddf9866d291440e14eaf105"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5009.md",
+      "bytes": 3030,
+      "sha256": "3f2af5b7ef8b5cc4bc853788825c85077b4b951936d6bf2b80cffdd1c444fe1a"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5010.md",
+      "bytes": 4177,
+      "sha256": "fc6bb90881ca6c81b19fa011ca8ec282146e3b4bdba3099eaeae9373ea421346"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5011.md",
+      "bytes": 5033,
+      "sha256": "648ae817860d66dd178c9284d63c6d83ecba8bd483615aaf9343ce8a27c8ea88"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5012.md",
+      "bytes": 4650,
+      "sha256": "3197682791468097a6a6e77ed8e74185c47c2d19ba9559fa97582506b5326d5e"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5013.md",
+      "bytes": 5708,
+      "sha256": "4badad6090f8f323364cfb4aa39ce22ccff353ea840e20b324b9560b8e7b5843"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5014.md",
+      "bytes": 5739,
+      "sha256": "058e56216f4196912c38a671fd752b03129aeef693ad660466cb7885990134b3"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5015.md",
+      "bytes": 3074,
+      "sha256": "0523382ad66c62d20bf7af0fdd9bcca4a4fe91329c6108dca3e551c1b12ad0bc"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-5016.md",
+      "bytes": 2721,
+      "sha256": "76c6bff98bfae9e50bc1f0a6226dfd55de0ad91c63f709845474db544bc23b29"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6001.md",
+      "bytes": 8176,
+      "sha256": "109ce4e1b55d3229ded7b4fb1a2abe32097f9c966e9f6d0a5b89c4634ca405ee"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6002.md",
+      "bytes": 8470,
+      "sha256": "3ce2d6f3b2ba47e5745b27a5b62f9f10f42ceb13308da6faa122dfd66780157d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6003.md",
+      "bytes": 2986,
+      "sha256": "02cf2f4660f88340355ac556b83b7e1bf85f1325e117b020679b6aa900cf4da7"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6004.md",
+      "bytes": 4094,
+      "sha256": "aa453cf693d79d6462b927adb6c841ab490d2218153e430cb748a40a54fa8043"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6005.md",
+      "bytes": 3583,
+      "sha256": "5a9b8c5080c876089aa1eb8f85d966dbb4c553b89f226e02167f10d779992f11"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6006.md",
+      "bytes": 7935,
+      "sha256": "f9cb19237a2a53debd193989bb2524b9598e0890bc07f0fc57b8a642dc622168"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6007.md",
+      "bytes": 3348,
+      "sha256": "63e4fa8fcb7e0a143859cf19d12a1b11cd3aec6353485573c0e756a77632f813"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6008.md",
+      "bytes": 4699,
+      "sha256": "2f9e1e2ea404bdf2806bc28b83d26ae302ae47c34aa88a729c298b99a162e0b9"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6009.md",
+      "bytes": 3572,
+      "sha256": "788afca4d131c2e0f581f0250c6fb9a4c6b88e2d7e12135156ee688d9d937582"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6010.md",
+      "bytes": 4199,
+      "sha256": "718038678a9b9155325ee460b15223498736b27596979b050f112f972e483feb"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6011.md",
+      "bytes": 4332,
+      "sha256": "4e11f7737083652326083e4426516926501c1360eb99918f477478b8b4172c4e"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6012.md",
+      "bytes": 3947,
+      "sha256": "e7b63d59a51ca3d1595dc27280748a79dde5307c5fa8bb8c570cb9f6f7ecab6d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6013.md",
+      "bytes": 4428,
+      "sha256": "b932b8a27fbe584cd04344bda4b4fdef97c8e9f08c14c0d1d19af06400dcc68d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-6014.md",
+      "bytes": 3371,
+      "sha256": "d49a6263fa271082c35432559ec23e39f6e5aa69dba056fa638b34851960da88"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7001.md",
+      "bytes": 3928,
+      "sha256": "a0d3de0d60bf4e8771f3ac8258965edff32c1ab9c33a7ac5cc0805f11af7268b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7002.md",
+      "bytes": 4032,
+      "sha256": "ad8e5878c364f263ba89522d2607b265f956c3a09e4c0ab12a022c365ba64e97"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7003.md",
+      "bytes": 3207,
+      "sha256": "0a76f1d62a18d9cb00db7ff379d0516bdda364a468d95ff113f5c22daf7ee637"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7004.md",
+      "bytes": 4236,
+      "sha256": "2df8923d252a58e363e48674273b38ceb171f530217ecf5f9a83214a1e007b00"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7005.md",
+      "bytes": 3959,
+      "sha256": "ea78b64a66187ffcf30aefbd5e4eebd179ca91bb9bfdff77d3fe685db705bdb3"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7006.md",
+      "bytes": 4398,
+      "sha256": "d4158ed72db86d9fe88976ad35692530bc4e4c971f423277d1fd0f7debcf49d4"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7007.md",
+      "bytes": 3825,
+      "sha256": "86c6ebce67a8c364ca26dbf0503ebeb09ac4caaa41d4729b963aa029cd248b3b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7008.md",
+      "bytes": 4670,
+      "sha256": "d7b6175f7f88b2ea09a177c4bffddafb915648cb78abbb6cd2a819efafe2ed6a"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7009.md",
+      "bytes": 3310,
+      "sha256": "30a980db58d9a2068763175dc1ca89e8687df7cfef21511f73215294f9a27360"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7010.md",
+      "bytes": 4022,
+      "sha256": "1ab792af9c7def5cb9e0dcbe01ac516acf7e361ebcc9f0f9ab51dd9b6fb3971d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7011.md",
+      "bytes": 4555,
+      "sha256": "dfb6634d518869961f94fad96154b4c98e429fb8712b928b6d1447a1608ae762"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-7012.md",
+      "bytes": 4476,
+      "sha256": "dafe3d418bd403d19f30a0089fd329d95e47600348f2e09e612a46115b67b530"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-8001.md",
+      "bytes": 3150,
+      "sha256": "3fa77ab7edbcf5a1af113d39fabf1e4bb6f2220fc432e311ac4f2ea816c9f7ea"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-8003.md",
+      "bytes": 3169,
+      "sha256": "0e24f8ebeaef33e9935f1c9bc08f08a1dbbd2c0785e216914451decc9fcc345f"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-8004.md",
+      "bytes": 4043,
+      "sha256": "94f4e8bfa2a1a649bb6f4f01cecc885b73cb25d93deaf7c052c18e8495026f05"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-8005.md",
+      "bytes": 3769,
+      "sha256": "fc52461df7f6fa43e196d94bfa3da5636ff1a8e10ff945b643c0a1f0be8ccb6b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-8006.md",
+      "bytes": 3614,
+      "sha256": "f6c320fd7464d8a65d5a8ad912be44fd628da8e7d068393c843a42c8c9dd7413"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-man-8011.md",
+      "bytes": 3661,
+      "sha256": "5a1365c9e5ad77d4897b6057c42de37d8569ed42f50d41fe5532f35bcf334514"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mgun-3001.md",
+      "bytes": 2522,
+      "sha256": "e4da6ee7b5f6cfacc373810da3076107fc6bdda2be662fff60ba346947bbbdfc"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mgun-3002.md",
+      "bytes": 2092,
+      "sha256": "8dbe8967d8cc8597d21266d56dd3804b8ff2db31de85646165fb25d05ebdcd87"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mgun-3003.md",
+      "bytes": 1967,
+      "sha256": "1e89355392a540c6751771073e96bb77dcc74ab1406562cc5377906ca913940b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mgun-4001.md",
+      "bytes": 4701,
+      "sha256": "45f468a13c629a0248d1467111bc81b6821f9d0d296a87333b13b4d099cd6577"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mgun-5001.md",
+      "bytes": 4499,
+      "sha256": "41a63305155d4fffa0fce18dc11ddd2b0a048d8fa4a24d9b26f46f8ada533a89"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mort-3001.md",
+      "bytes": 6394,
+      "sha256": "6d81e88e322f2d7c90e987eedbe9d8460cc12df25d41858491f510b34791f728"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mort-4001.md",
+      "bytes": 2856,
+      "sha256": "664642fc65da091aeee1091638507d192f44bf13ba3eb2444deb0f0571ec230d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mort-4002.md",
+      "bytes": 3302,
+      "sha256": "485feb0e4826f7dc41b9ec5eab96647ac4e1a16dc6848eb4fbdd6b4e00a9299b"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mort-4003.md",
+      "bytes": 1722,
+      "sha256": "375d3d9efb447926281312614d6a5effcd43109c1f032f3dc44e760c4b264708"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-mort-5001.md",
+      "bytes": 4377,
+      "sha256": "ac90013b23dabe95a1e71c111ee3bd876b951f70bc54eb6df5a52f7ba9e29850"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-4001.md",
+      "bytes": 3206,
+      "sha256": "6a57c86077b8635885367e7bf47297811590066a31d0c1755654f82fdea0ff5d"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-5001.md",
+      "bytes": 2623,
+      "sha256": "25720a46128e1bf75422bb4f3f534a3f99ccbff4d0e131436b3088029c312428"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-5002.md",
+      "bytes": 2671,
+      "sha256": "e3f047d0519e11d2946bf798cf940ddc8708b2bc8a4e6388d5224a0f9c920174"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-5003.md",
+      "bytes": 2814,
+      "sha256": "4606b9d2c1c30e8ad72b04e69ccbb674330e7abb20ad36d97f09ec83bb86ba41"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-5004.md",
+      "bytes": 5296,
+      "sha256": "4baa5e51afd8dc7f77a37da07f6ba4d2354d68745fbca484a5f279da6038f692"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-6001.md",
+      "bytes": 2872,
+      "sha256": "46f5ced4163686a1615c913443a8b8c5e15258ded5a87c6bcf5c048205f44e63"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-6002.md",
+      "bytes": 2707,
+      "sha256": "032865f19311fcfd00c4305d993ca7f30ccf4abf29721a20fec739979fba9079"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-6003.md",
+      "bytes": 2183,
+      "sha256": "f969330aae30592f2f58f41e282fa60e5246b41fde7b4ce1fc1a6cb4288828da"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-6004.md",
+      "bytes": 5331,
+      "sha256": "aea1e9c2f4e83f7717471b7909c5049e53256327c1eaad8f0dadb3244cbdc5d9"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-7001.md",
+      "bytes": 3144,
+      "sha256": "35b41ab9e65c431a95aa0e97d450398041903a9b17766d10f54fa46d72751e69"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-7002.md",
+      "bytes": 2840,
+      "sha256": "8d4198aa9d5ff4b286004affd100d27214a8a248cc580268d55870fddb9e7d52"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-7003.md",
+      "bytes": 6008,
+      "sha256": "39b87915b047c268165466a83beaaf6ed3fefa56f0ce1ecf8eae79419f7a6dab"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-8001.md",
+      "bytes": 3222,
+      "sha256": "d65bda848d1810883ef9e1fcea2cf75761943590c4a0bedf778f22294f98d139"
+    },
+    {
+      "path": "07_structured_infantry_events/inf-stab-8002.md",
+      "bytes": 5875,
+      "sha256": "d429f0d51557b2cbcf70e1240496a32a4f9899c8383197386003f4b047764621"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-12-10b-1-operations-on-urbanized-terrain.md",
+      "bytes": 653199,
+      "sha256": "4a700174c72f7966062cee0bbeaf5ff7e6a489dc96cd4a7bcb7eca1018d43482"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-2-24b-remote-sensor-operations.md",
+      "bytes": 188964,
+      "sha256": "b19f0486c9974fb8590d577b22dee16c67481f7b3e98f08d3b8f8a8fc27907fd"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-2-25a-reconnaissance-reports-guide.md",
+      "bytes": 116958,
+      "sha256": "c010a67dc64d0b8eb7eeb51b37486ceafc154452a35ca26a965bb3f31de10a8c"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-3-10a-3-marine-infantry-platoon.md",
+      "bytes": 868599,
+      "sha256": "6e0ef27008fa8d634a4253e32c07b377adaba570efaff65ae14b43d0627b5dec"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-3-10a-4-marine-rifle-squad.md",
+      "bytes": 541971,
+      "sha256": "9f8ab0e358d895f7b9f124600cd6ec51ee4ae4d859d39eeaa7ef882423dec4a4"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-3-11-1a-commanders-tactical-handbook.md",
+      "bytes": 243288,
+      "sha256": "6fff22580dbfa14942abea2cbccb4cee11fa29e809426fb15af3f252445024b8"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-3-40-3b-radio-operators-handbook.md",
+      "bytes": 195808,
+      "sha256": "320d00fac1178e06b8ea66d1d96c0914e4b580a1a23f7f38cc6b21420b3e2c28"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcrp-8-10b-2-rifle-marksmanship.md",
+      "bytes": 395391,
+      "sha256": "0b40f2350c0860a3eecf9860f012f9f32ad2031e2b3a7c4ff1a80ab5610d07fe"
+    },
+    {
+      "path": "08_small_unit_doctrine/mctp-3-01a-scouting-and-patrolling.md",
+      "bytes": 717416,
+      "sha256": "3141084108fce90c184dea5a9c3736eafa4ca48f54bf259cc96ec9811190eb91"
+    },
+    {
+      "path": "08_small_unit_doctrine/mctp-3-01d-tactical-employment-of-mortars.md",
+      "bytes": 584805,
+      "sha256": "24d3dea17f86384f11e2635593b255498a1e368fadc343f248a999dd052767e7"
+    },
+    {
+      "path": "08_small_unit_doctrine/mctp-3-01e-sniping.md",
+      "bytes": 286134,
+      "sha256": "6ab0547d2eb2706e635559137028adb1285d7b416c73e11cf6321f5393f3db34"
+    },
+    {
+      "path": "08_small_unit_doctrine/mctp-3-01f-magtf-antiarmor-operations.md",
+      "bytes": 271333,
+      "sha256": "8836fc22d56745049ec3c66436a6f78e66add5068144664baf6abcf930e3f48b"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-11-4-helicopterborne-operations.md",
+      "bytes": 341746,
+      "sha256": "d0bebde4d4ddafe8f51d3aa0b3161179cae3a55bdbf8c2e22a0fdd9ca52dc599"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-15-1-machine-guns-and-machine-gun-gunnery.md",
+      "bytes": 767485,
+      "sha256": "e1f69c6e773367e9987f688bbae50829f26febfd048f23628ed7694f5256ec5d"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-16-6-supporting-arms-observer-spotter-and-controller.md",
+      "bytes": 585852,
+      "sha256": "8db7f7874834608a2172a2339748206aff0d11c17bb9a591b6e09bdd57ef58a1"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-16-fire-support-coordination-in-the-ground-combat-element.md",
+      "bytes": 670806,
+      "sha256": "e6313158916bfedde5cfdd8397fa74cbe836a36b8242f5433d44664a5ab44dd5"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-17-3-magtf-breaching-operations.md",
+      "bytes": 202540,
+      "sha256": "de1cc8e11c5419e1eaa39408575c6c5cf9109b6a6e468560438ade6c19ee7417"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-17-6-survivability-operations.md",
+      "bytes": 458156,
+      "sha256": "b93b23b7c19bc093948f3f3d267baa7f4e637ddf56874e6fbaf4b50f079bf7d7"
+    },
+    {
+      "path": "08_small_unit_doctrine/mcwp-3-43-1-raid-operations.md",
+      "bytes": 213148,
+      "sha256": "2dec1702b2350e8e5ffe04cf82e23519260de8503f8f433447c07e7f2cbd17e4"
+    },
+    {
+      "path": "CORPUS_SCHEMA_AND_AI_USE.md",
+      "bytes": 1950,
+      "sha256": "ad4084c9a03a7cff7ee328ac3b94e03d7a57d1095c040f61a872140cad1fd06e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1117,
+      "sha256": "0279bb955cbd6db7c21993c3292dae770ddbd86f697310668095f6932af0ebdc"
+    },
+    {
+      "path": "SOURCE_REGISTRY.md",
+      "bytes": 17239,
+      "sha256": "0c72163fc3bc8b642b98ccd5857f9ee3f706dc5c29a38bf52edc132e20f9b836"
+    },
+    {
+      "path": "machine_indexes/events.json",
+      "bytes": 159544,
+      "sha256": "414ad95e6ace0044f624f75b870d6fd9f572f28c22199f86fcd57ac47e5da21f"
+    },
+    {
+      "path": "machine_indexes/manifest.json",
+      "bytes": 108842,
+      "sha256": "214b9426751481538d5a573f9e21089b28b8288e2f33732282b0441a67f46e06"
+    },
+    {
+      "path": "machine_indexes/sources.json",
+      "bytes": 30831,
+      "sha256": "01a0e72615e2fc7c4f62693ebdefdb7358780659db995fb35666ba3c513f0465"
+    }
+  ]
+}

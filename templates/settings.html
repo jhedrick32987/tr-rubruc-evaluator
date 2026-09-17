@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h2>Model settings</h2>
+  <p class="muted">Switch model provider/endpoint at runtime — useful for swapping models live during
+     a demo. Blank fields fall back to the server's environment-variable defaults. Nothing here is sent
+     anywhere until you click Save.</p>
+
+  {% if tested %}
+  <div class="{% if test_ok %}test-ok{% else %}test-fail{% endif %}">
+    {% if test_ok %}Connection succeeded — the configured model responded.{% else %}Connection failed: {{ test_message }}{% endif %}
+  </div>
+  {% endif %}
+
+  <form method="post" action="/settings">
+    <h3>Generation / scoring model</h3>
+    <div class="settings-grid">
+      <label class="meta">Provider</label>
+      <select name="provider">
+        <option value="" {% if not settings.provider %}selected{% endif %}>(env default)</option>
+        <option value="bedrock" {% if settings.provider == "bedrock" %}selected{% endif %}>Amazon Bedrock</option>
+        <option value="openai" {% if settings.provider == "openai" %}selected{% endif %}>OpenAI-compatible (OpenAI, GenAI.mil, local Nemotron, DGX Spark, ...)</option>
+      </select>
+
+      <label class="meta">Model name / id</label>
+      <input type="text" name="model" value="{{ settings.model }}"
+             placeholder="e.g. gpt-4o-mini, amazon.nova-pro-v1:0, us.anthropic.claude-sonnet-4-6" />
+
+      <label class="meta">Endpoint URL (OpenAI-compatible only)</label>
+      <input type="text" name="endpoint_url" value="{{ settings.endpoint_url }}"
+             placeholder="https://api.openai.com/v1/chat/completions" />
+
+      <label class="meta">API key</label>
+      <input type="password" name="api_key" value=""
+             placeholder="{% if settings.has_key_set() %}a key is saved — leave blank to keep it{% else %}not set{% endif %}" />
+
+      <label class="meta">AWS region (Bedrock only)</label>
+      <input type="text" name="region" value="{{ settings.region }}" placeholder="us-east-1" />
+
+      <label class="meta">Extra auth header name (optional)</label>
+      <input type="text" name="extra_header_name" value="{{ settings.extra_header_name }}"
+             placeholder="e.g. api-key — for gateways that don't use Authorization: Bearer" />
+
+      <label class="meta">Extra auth header value (optional)</label>
+      <input type="password" name="extra_header_value" value=""
+             placeholder="{% if settings.extra_header_value %}a value is saved — leave blank to keep it{% else %}not set{% endif %}" />
+    </div>
+
+    <h3>Speech-to-text (audio field-scoring)</h3>
+    <p class="muted small">Only an OpenAI-compatible transcription endpoint is supported today. Leave
+       blank to reuse the generation API key above.</p>
+    <div class="settings-grid">
+      <label class="meta">Transcription endpoint URL</label>
+      <input type="text" name="stt_endpoint_url" value="{{ settings.stt_endpoint_url }}"
+             placeholder="https://api.openai.com/v1/audio/transcriptions" />
+
+      <label class="meta">Transcription model</label>
+      <input type="text" name="stt_model" value="{{ settings.stt_model }}" placeholder="whisper-1" />
+
+      <label class="meta">Transcription API key (optional)</label>
+      <input type="password" name="stt_api_key" value=""
+             placeholder="{% if settings.has_stt_key_set() %}a key is saved — leave blank to keep it{% else %}not set — falls back to the key above{% endif %}" />
+    </div>
+
+    <div class="cta-row">
+      <button class="btn primary" type="submit">Save</button>
+    </div>
+  </form>
+
+  <form method="post" action="/settings/clear-keys" style="margin-top:0.75rem;">
+    <button class="btn small" type="submit">Clear saved keys</button>
+  </form>
+
+  <form method="post" action="/settings/test" style="margin-top:0.75rem;">
+    <button class="btn small" type="submit">Test connection</button>
+  </form>
+</section>
+
+<section class="card">
+  <h3>Checking hackathon-provided OpenAI access</h3>
+  <p class="muted small">
+    Set Provider to "OpenAI-compatible", Model to something like <code>gpt-4o-mini</code>, Endpoint URL to
+    <code>https://api.openai.com/v1/chat/completions</code>, and paste in the API key you were given, then
+    click <strong>Test connection</strong> above. You can also run
+    <code>python scripts/check_model_access.py</code> from a terminal (with <code>OPENAI_API_KEY</code> set)
+    to check chat + transcription access outside the app.
+  </p>
+</section>
+{% endblock %}

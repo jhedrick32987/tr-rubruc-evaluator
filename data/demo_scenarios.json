@@ -1,0 +1,12 @@
+[
+  {
+    "scenario_id": "demo-observation-satisfactory",
+    "title": "Observation post — mixed performance (0300-CMBH-1001)",
+    "description": "During a 4-hour observation window from a concealed OP while wearing a fighting load, Cpl Rivera conducted a hasty search of the sector on arrival and followed with a detailed search using binoculars and a thermal device after last light. He built a legible sector sketch and established a baseline pattern of life for the village, noting routine foot traffic and vehicle movement. Midway through the window he detected two anomalies: an unfamiliar vehicle parked outside the baseline pattern and an individual emplacing an object near a culvert. He recorded both observations with times and grid references and transmitted a spot report to higher headquarters. He missed a third anomaly — a change in laundry signals on a rooftop — that a more experienced observer flagged during handover."
+  },
+  {
+    "scenario_id": "demo-ooda-strong",
+    "title": "Decision cycle under pressure (0300-CMBH-1002)",
+    "description": "Presented with a scenario in which a patrol takes unexpected fire from a treeline, Sgt Okafor observed the volume and direction of fire, oriented on the likely enemy position relative to his squad's cover, decided to suppress and flank, and acted by issuing a concise fragmentary order within seconds. As the enemy repositioned, he repeated the cycle, adjusting the flank and reporting the contact and his intentions to the platoon. His decisions consistently favored action over deliberation and kept the squad inside the enemy's decision cycle."
+  }
+]

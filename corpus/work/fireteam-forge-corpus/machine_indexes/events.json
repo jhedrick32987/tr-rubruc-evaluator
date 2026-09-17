@@ -1,0 +1,5382 @@
+[
+  {
+    "event_code": "INF-AMPH-8001",
+    "title": "Plan and Direct Amphibious Operations",
+    "functional_area": "AMPH",
+    "event_level": "regiment or group",
+    "file": "inf-amph-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-8002",
+    "title": "Conduct an Amphibious Landing",
+    "functional_area": "AMPH",
+    "event_level": "regiment or group",
+    "file": "inf-amph-8002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-8003",
+    "title": "Conduct Amphibious Operations",
+    "functional_area": "AMPH",
+    "event_level": "regiment or group",
+    "file": "inf-amph-8003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-8004",
+    "title": "Conduct an Amphibious Withdrawal",
+    "functional_area": "AMPH",
+    "event_level": "regiment or group",
+    "file": "inf-amph-8004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-8001",
+    "title": "Conduct Command and Control (C2)",
+    "functional_area": "C2",
+    "event_level": "regiment or group",
+    "file": "inf-c2-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-8002",
+    "title": "Conduct Force Deployment Planning & Execution (FDP&E)",
+    "functional_area": "C2",
+    "event_level": "regiment or group",
+    "file": "inf-c2-8002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-COND-8001",
+    "title": "Conduct a Forced March",
+    "functional_area": "COND",
+    "event_level": "regiment or group",
+    "file": "inf-cond-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FP-8001",
+    "title": "Conduct Force Protection",
+    "functional_area": "FP",
+    "event_level": "regiment or group",
+    "file": "inf-fp-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FSPT-8001",
+    "title": "Conduct Fire Support",
+    "functional_area": "FSPT",
+    "event_level": "regiment or group",
+    "file": "inf-fspt-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-INT-8001",
+    "title": "Conduct Intelligence Functions",
+    "functional_area": "INT",
+    "event_level": "regiment or group",
+    "file": "inf-int-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-LOG-8001",
+    "title": "Conduct Tactical Logistics",
+    "functional_area": "LOG",
+    "event_level": "regiment or group",
+    "file": "inf-log-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-8001",
+    "title": "Conduct Offensive Operations",
+    "functional_area": "MAN",
+    "event_level": "regiment or group",
+    "file": "inf-man-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-8003",
+    "title": "Conduct Security Operations",
+    "functional_area": "MAN",
+    "event_level": "regiment or group",
+    "file": "inf-man-8003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-8004",
+    "title": "Conduct a Relief in Place (RIP)",
+    "functional_area": "MAN",
+    "event_level": "regiment or group",
+    "file": "inf-man-8004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-8005",
+    "title": "Establish an Assembly Area",
+    "functional_area": "MAN",
+    "event_level": "regiment or group",
+    "file": "inf-man-8005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-8006",
+    "title": "Conduct Defensive Operations",
+    "functional_area": "MAN",
+    "event_level": "regiment or group",
+    "file": "inf-man-8006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-8011",
+    "title": "Conduct a Gap Crossing",
+    "functional_area": "MAN",
+    "event_level": "regiment or group",
+    "file": "inf-man-8011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-8001",
+    "title": "Plan and Direct Stability Operations",
+    "functional_area": "STAB",
+    "event_level": "regiment or group",
+    "file": "inf-stab-8001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-8002",
+    "title": "Conduct Stability Operations",
+    "functional_area": "STAB",
+    "event_level": "regiment or group",
+    "file": "inf-stab-8002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-7001",
+    "title": "Plan an Amphibious Operation",
+    "functional_area": "AMPH",
+    "event_level": "battalion",
+    "file": "inf-amph-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-7002",
+    "title": "Conduct an Amphibious Landing",
+    "functional_area": "AMPH",
+    "event_level": "battalion",
+    "file": "inf-amph-7002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-7003",
+    "title": "Conduct an Amphibious Assault",
+    "functional_area": "AMPH",
+    "event_level": "battalion",
+    "file": "inf-amph-7003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-7004",
+    "title": "Conduct an Amphibious Withdrawal",
+    "functional_area": "AMPH",
+    "event_level": "battalion",
+    "file": "inf-amph-7004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-AMPH-7005",
+    "title": "Conduct an Amphibious Raid",
+    "functional_area": "AMPH",
+    "event_level": "battalion",
+    "file": "inf-amph-7005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-7001",
+    "title": "Conduct Command and Control (C2)",
+    "functional_area": "C2",
+    "event_level": "battalion",
+    "file": "inf-c2-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-7002",
+    "title": "Conduct Force Deployment Planning & Execution (FDP&E)",
+    "functional_area": "C2",
+    "event_level": "battalion",
+    "file": "inf-c2-7002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-COND-7001",
+    "title": "Conduct a Forced March",
+    "functional_area": "COND",
+    "event_level": "battalion",
+    "file": "inf-cond-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-COND-7002",
+    "title": "Conduct a Forced March",
+    "functional_area": "COND",
+    "event_level": "battalion",
+    "file": "inf-cond-7002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FP-7001",
+    "title": "Conduct Force Protection",
+    "functional_area": "FP",
+    "event_level": "battalion",
+    "file": "inf-fp-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FSPT-7001",
+    "title": "Conduct Fire Support",
+    "functional_area": "FSPT",
+    "event_level": "battalion",
+    "file": "inf-fspt-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-INT-7001",
+    "title": "Conduct Intelligence Functions",
+    "functional_area": "INT",
+    "event_level": "battalion",
+    "file": "inf-int-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-LOG-7001",
+    "title": "Conduct Tactical Logistics",
+    "functional_area": "LOG",
+    "event_level": "battalion",
+    "file": "inf-log-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7001",
+    "title": "Conduct an Attack",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7002",
+    "title": "Conduct a Movement to Contact",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7003",
+    "title": "Conduct Security Operations",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7004",
+    "title": "Conduct a Relief in Place (RIP)",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7005",
+    "title": "Establish an Assembly Area",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7006",
+    "title": "Conduct an Area Defense",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7007",
+    "title": "Conduct Retrograde",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7008",
+    "title": "Conduct a Passage of Lines",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7009",
+    "title": "Conduct Exploitation",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7010",
+    "title": "Conduct a Linkup",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7010.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7011",
+    "title": "Conduct Obstacle Breaching",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-7012",
+    "title": "Conduct a Cordon and Search",
+    "functional_area": "MAN",
+    "event_level": "battalion",
+    "file": "inf-man-7012.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-7001",
+    "title": "Plan and Direct Stability Operations",
+    "functional_area": "STAB",
+    "event_level": "battalion",
+    "file": "inf-stab-7001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-7002",
+    "title": "Establish Civil Control and Security",
+    "functional_area": "STAB",
+    "event_level": "battalion",
+    "file": "inf-stab-7002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-7003",
+    "title": "Provide Humanitarian Assistance",
+    "functional_area": "STAB",
+    "event_level": "battalion",
+    "file": "inf-stab-7003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-6001",
+    "title": "Conduct Command and Control (C2)",
+    "functional_area": "C2",
+    "event_level": "company",
+    "file": "inf-c2-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-6002",
+    "title": "Prepare for Operations",
+    "functional_area": "C2",
+    "event_level": "company",
+    "file": "inf-c2-6002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FP-6001",
+    "title": "Conduct Force Protection",
+    "functional_area": "FP",
+    "event_level": "company",
+    "file": "inf-fp-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FSPT-6001",
+    "title": "Conduct Fire Support Planning",
+    "functional_area": "FSPT",
+    "event_level": "company",
+    "file": "inf-fspt-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FSPT-6002",
+    "title": "Conduct Fire Support Coordination",
+    "functional_area": "FSPT",
+    "event_level": "company",
+    "file": "inf-fspt-6002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-INT-6001",
+    "title": "Conduct Intelligence Functions",
+    "functional_area": "INT",
+    "event_level": "company",
+    "file": "inf-int-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-LOG-6001",
+    "title": "Conduct Tactical Logistics",
+    "functional_area": "LOG",
+    "event_level": "company",
+    "file": "inf-log-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6001",
+    "title": "Conduct an Attack",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6002",
+    "title": "Conduct a Movement to Contact",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6003",
+    "title": "Conduct Security Operations",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6004",
+    "title": "Conduct a Relief in Place (RIP)",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6005",
+    "title": "Occupy an Assembly Area",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6006",
+    "title": "Conduct an Area Defense",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6007",
+    "title": "Conduct Retrograde",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6008",
+    "title": "Conduct a Passage of Lines",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6009",
+    "title": "Conduct Exploitation",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6010",
+    "title": "Conduct a Linkup",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6010.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6011",
+    "title": "Conduct Obstacle Breaching",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6012",
+    "title": "Conduct a Cordon and Search",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6012.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6013",
+    "title": "Conduct Patrolling Operations",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6013.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-6014",
+    "title": "Establish a Support by Fire Position",
+    "functional_area": "MAN",
+    "event_level": "company",
+    "file": "inf-man-6014.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-6001",
+    "title": "Establish Civil Security",
+    "functional_area": "STAB",
+    "event_level": "company",
+    "file": "inf-stab-6001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-6002",
+    "title": "Establish Civil Control NAVMC 3500.44D 07 May 2020",
+    "functional_area": "STAB",
+    "event_level": "company",
+    "file": "inf-stab-6002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-6003",
+    "title": "Support Humanitarian Assistance",
+    "functional_area": "STAB",
+    "event_level": "company",
+    "file": "inf-stab-6003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-6004",
+    "title": "Support Disarmament, Demobilization, and Reintegration NAVMC 3500.44D 07 May 2020",
+    "functional_area": "STAB",
+    "event_level": "company",
+    "file": "inf-stab-6004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-5001",
+    "title": "Conduct Sniper Control Center (SCC) Functions",
+    "functional_area": "0317",
+    "event_level": "platoon",
+    "file": "inf-0317-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-5002",
+    "title": "Conduct Scout Sniper Platoon Operations",
+    "functional_area": "0317",
+    "event_level": "platoon",
+    "file": "inf-0317-5002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ANTI-5001",
+    "title": "Provide Fires",
+    "functional_area": "ANTI",
+    "event_level": "platoon",
+    "file": "inf-anti-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-C2-5002",
+    "title": "Prepare for Operations",
+    "functional_area": "C2",
+    "event_level": "platoon",
+    "file": "inf-c2-5002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FP-5001",
+    "title": "Employ Platoon Force Protection Measures",
+    "functional_area": "FP",
+    "event_level": "platoon",
+    "file": "inf-fp-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-INT-5001",
+    "title": "Conduct Information Collections",
+    "functional_area": "INT",
+    "event_level": "platoon",
+    "file": "inf-int-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-LOG-5001",
+    "title": "Conduct Tactical Logistics",
+    "functional_area": "LOG",
+    "event_level": "platoon",
+    "file": "inf-log-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5001",
+    "title": "Conduct an Attack",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5002",
+    "title": "Conduct a Movement to Contact",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5004",
+    "title": "Conduct a Relief in Place (RIP)",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5006",
+    "title": "Conduct an Area Defense",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5007",
+    "title": "Conduct Retrograde",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5008",
+    "title": "Conduct a Passage of Lines",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5009",
+    "title": "Conduct Exploitation",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5010",
+    "title": "Conduct a Linkup",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5010.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5011",
+    "title": "Breach an Obstacle",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5012",
+    "title": "Conduct a Cordon and Search NAVMC 3500.44D 07 May 2020",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5012.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5013",
+    "title": "Conduct Patrolling Operations",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5013.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5014",
+    "title": "Establish a Support by Fire Position",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5014.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5015",
+    "title": "Detain Personnel",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5015.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-5016",
+    "title": "Conduct Casualty Evacuation",
+    "functional_area": "MAN",
+    "event_level": "platoon",
+    "file": "inf-man-5016.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MGUN-5001",
+    "title": "Provide Fires",
+    "functional_area": "MGUN",
+    "event_level": "platoon",
+    "file": "inf-mgun-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MORT-5001",
+    "title": "Provide Fires",
+    "functional_area": "MORT",
+    "event_level": "platoon",
+    "file": "inf-mort-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-5001",
+    "title": "Develop Foreign National Armed and Security Forces",
+    "functional_area": "STAB",
+    "event_level": "platoon",
+    "file": "inf-stab-5001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-5002",
+    "title": "Support the Establishment of Public Order and Safety",
+    "functional_area": "STAB",
+    "event_level": "platoon",
+    "file": "inf-stab-5002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-5003",
+    "title": "Support Border Control, Boundary Security, and Freedom of Movement",
+    "functional_area": "STAB",
+    "event_level": "platoon",
+    "file": "inf-stab-5003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-5004",
+    "title": "Support Identification Programs",
+    "functional_area": "STAB",
+    "event_level": "platoon",
+    "file": "inf-stab-5004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-4001",
+    "title": "Provide Offensive Fires (L/S)",
+    "functional_area": "0317",
+    "event_level": "squad",
+    "file": "inf-0317-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-4002",
+    "title": "Provide Defensive Fires (L/S)",
+    "functional_area": "0317",
+    "event_level": "squad",
+    "file": "inf-0317-4002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ANTI-4001",
+    "title": "Provide Fires",
+    "functional_area": "ANTI",
+    "event_level": "squad",
+    "file": "inf-anti-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ASLT-4001",
+    "title": "Provide Mobility (L/S)",
+    "functional_area": "ASLT",
+    "event_level": "squad",
+    "file": "inf-aslt-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ASLT-4002",
+    "title": "Conduct a Breach",
+    "functional_area": "ASLT",
+    "event_level": "squad",
+    "file": "inf-aslt-4002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-FP-4001",
+    "title": "Employ Squad Force Protection Measures",
+    "functional_area": "FP",
+    "event_level": "squad",
+    "file": "inf-fp-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-LOG-4001",
+    "title": "Process Detainees",
+    "functional_area": "LOG",
+    "event_level": "squad",
+    "file": "inf-log-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4001",
+    "title": "Conduct an Attack (L/S)",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4006",
+    "title": "Conduct a Defense",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4011",
+    "title": "Breach an Obstacle",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4012",
+    "title": "Conduct a Cordon and Search",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4012.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4013",
+    "title": "Conduct a Patrol",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4013.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4014",
+    "title": "Support by Fire (L/S)",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4014.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4016",
+    "title": "Conduct Casualty Evacuation",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4016.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-4017",
+    "title": "Conduct Immediate Actions",
+    "functional_area": "MAN",
+    "event_level": "squad",
+    "file": "inf-man-4017.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MGUN-4001",
+    "title": "Provide Fires (L/S)",
+    "functional_area": "MGUN",
+    "event_level": "squad",
+    "file": "inf-mgun-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MORT-4001",
+    "title": "Provide 81mm Mortar Fires",
+    "functional_area": "MORT",
+    "event_level": "squad",
+    "file": "inf-mort-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MORT-4002",
+    "title": "Provide 60mm Mortar Fires",
+    "functional_area": "MORT",
+    "event_level": "squad",
+    "file": "inf-mort-4002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MORT-4003",
+    "title": "Perform Reciprocal Lay",
+    "functional_area": "MORT",
+    "event_level": "squad",
+    "file": "inf-mort-4003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-STAB-4001",
+    "title": "Train Foreign Forces",
+    "functional_area": "STAB",
+    "event_level": "squad",
+    "file": "inf-stab-4001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-3002",
+    "title": "Conduct Scout Sniper Team Operations",
+    "functional_area": "0317",
+    "event_level": "team section or crew",
+    "file": "inf-0317-3002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-3003",
+    "title": "Provide Offensive Fires",
+    "functional_area": "0317",
+    "event_level": "team section or crew",
+    "file": "inf-0317-3003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-3004",
+    "title": "Provide Defensive Fires",
+    "functional_area": "0317",
+    "event_level": "team section or crew",
+    "file": "inf-0317-3004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-3005",
+    "title": "Engage Targets with Coordinated Shots",
+    "functional_area": "0317",
+    "event_level": "team section or crew",
+    "file": "inf-0317-3005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-0317-3006",
+    "title": "Execute Immediate Action Drills",
+    "functional_area": "0317",
+    "event_level": "team section or crew",
+    "file": "inf-0317-3006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ANTI-3001",
+    "title": "Mount a Heavy Anti-Armor Weapon System on a Tactical Vehicle",
+    "functional_area": "ANTI",
+    "event_level": "team section or crew",
+    "file": "inf-anti-3001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ANTI-3002",
+    "title": "Construct an Anti-Armor Fighting Position NAVMC 3500.44D 07 May 2020",
+    "functional_area": "ANTI",
+    "event_level": "team section or crew",
+    "file": "inf-anti-3002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ASLT-3001",
+    "title": "Provide Fires",
+    "functional_area": "ASLT",
+    "event_level": "team section or crew",
+    "file": "inf-aslt-3001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-ASLT-3002",
+    "title": "Conduct a Breach",
+    "functional_area": "ASLT",
+    "event_level": "team section or crew",
+    "file": "inf-aslt-3002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-3001",
+    "title": "Conduct Fire and Movement",
+    "functional_area": "MAN",
+    "event_level": "team section or crew",
+    "file": "inf-man-3001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-3002",
+    "title": "Clear a Room",
+    "functional_area": "MAN",
+    "event_level": "team section or crew",
+    "file": "inf-man-3002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-3003",
+    "title": "Establish a Listening Post (LP) / Observation Post (OP)",
+    "functional_area": "MAN",
+    "event_level": "team section or crew",
+    "file": "inf-man-3003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-3014",
+    "title": "Establish a Base of Fire (L/S)",
+    "functional_area": "MAN",
+    "event_level": "team section or crew",
+    "file": "inf-man-3014.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MAN-3016",
+    "title": "Render Tactical Casualty Care",
+    "functional_area": "MAN",
+    "event_level": "team section or crew",
+    "file": "inf-man-3016.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MGUN-3001",
+    "title": "Conduct Crew Qualification",
+    "functional_area": "MGUN",
+    "event_level": "team section or crew",
+    "file": "inf-mgun-3001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MGUN-3002",
+    "title": "Mount a Heavy Machinegun on a Tactical Vehicle",
+    "functional_area": "MGUN",
+    "event_level": "team section or crew",
+    "file": "inf-mgun-3002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MGUN-3003",
+    "title": "Construct a Machinegun Fighting Position",
+    "functional_area": "MGUN",
+    "event_level": "team section or crew",
+    "file": "inf-mgun-3003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "INF-MORT-3001",
+    "title": "Occupy a Mortar Position",
+    "functional_area": "MORT",
+    "event_level": "team section or crew",
+    "file": "inf-mort-3001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-1001",
+    "title": "Conduct Observation (L/S)",
+    "functional_area": "CMBH",
+    "event_level": "individual entry level",
+    "file": "0300-cmbh-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-1002",
+    "title": "Apply the Components of the Decision Cycle (OODA) Process",
+    "functional_area": "CMBH",
+    "event_level": "individual entry level",
+    "file": "0300-cmbh-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-1001",
+    "title": "Utilize Hand and Arm Signals",
+    "functional_area": "COMM",
+    "event_level": "individual entry level",
+    "file": "0300-comm-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-1002",
+    "title": "Communicate Using Limited Visibility Signals",
+    "functional_area": "COMM",
+    "event_level": "individual entry level",
+    "file": "0300-comm-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-1003",
+    "title": "Submit a Message",
+    "functional_area": "COMM",
+    "event_level": "individual entry level",
+    "file": "0300-comm-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COND-1001",
+    "title": "Conduct a Forced March",
+    "functional_area": "COND",
+    "event_level": "individual entry level",
+    "file": "0300-cond-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEF-1001",
+    "title": "Construct a Fighting Position",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0300-def-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEF-1002",
+    "title": "Construct a Skirmisher Trench",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0300-def-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEF-1003",
+    "title": "Defend a Position",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0300-def-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEMO-1001",
+    "title": "Engage a Target with an M67 Fragmentation Grenade",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0300-demo-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-MED-1001",
+    "title": "Perform Care under Fire",
+    "functional_area": "MED",
+    "event_level": "individual entry level",
+    "file": "0300-med-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-MOUT-1001",
+    "title": "Perform Individual Movement in an Urban Environment",
+    "functional_area": "MOUT",
+    "event_level": "individual entry level",
+    "file": "0300-mout-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-MOUT-1002",
+    "title": "Perform Individual Actions while Clearing a Room",
+    "functional_area": "MOUT",
+    "event_level": "individual entry level",
+    "file": "0300-mout-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-OFF-1001",
+    "title": "Perform Actions in a Hasty Firing Position",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0300-off-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-OPTS-1001",
+    "title": "Utilize Limited Visibility Devices",
+    "functional_area": "OPTS",
+    "event_level": "individual entry level",
+    "file": "0300-opts-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-1001",
+    "title": "Determine the Error in a Lensatic Compass",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0300-pat-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-1002",
+    "title": "Navigate with a Map and Compass",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0300-pat-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-1003",
+    "title": "Prepare for Combat",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0300-pat-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-1004",
+    "title": "Perform Individual Actions in a Patrol",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0300-pat-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RFL-1001",
+    "title": "Perform Weapons Handling Procedures",
+    "functional_area": "RFL",
+    "event_level": "individual entry level",
+    "file": "0300-rfl-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RFL-1002",
+    "title": "Perform Weapon Maintenance",
+    "functional_area": "RFL",
+    "event_level": "individual entry level",
+    "file": "0300-rfl-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RFL-1003",
+    "title": "Zero a Rifle",
+    "functional_area": "RFL",
+    "event_level": "individual entry level",
+    "file": "0300-rfl-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RFL-1004",
+    "title": "Engage Targets with the Service Rifle",
+    "functional_area": "RFL",
+    "event_level": "individual entry level",
+    "file": "0300-rfl-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RFL-1005",
+    "title": "Zero a Night Aiming Device",
+    "functional_area": "RFL",
+    "event_level": "individual entry level",
+    "file": "0300-rfl-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TVEH-1001",
+    "title": "Assist in Loading and Unloading a Tactical Vehicle",
+    "functional_area": "TVEH",
+    "event_level": "individual entry level",
+    "file": "0300-tveh-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-1001",
+    "title": "Inspect the AT-4 light anti-armor weapon",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0300-wpns-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CBRN-2001",
+    "title": "Operate in a Chemical, Biological, Radiological, Nuclear (CBRN) Environment",
+    "functional_area": "CBRN",
+    "event_level": "individual skill progression",
+    "file": "0300-cbrn-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2001",
+    "title": "Analyze Spoor",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2002",
+    "title": "Perform Individual Actions as a Tracker",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2003",
+    "title": "Develop an Integrated Observation Plan",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2004",
+    "title": "Profile an Anomaly (S/L)",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2005",
+    "title": "Lead a Combat Tracking Team",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2006",
+    "title": "Integrate Combat Policing",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-CMBH-2007",
+    "title": "Utilize Tactical Questioning",
+    "functional_area": "CMBH",
+    "event_level": "individual skill progression",
+    "file": "0300-cmbh-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2001",
+    "title": "Submit a Helicopter Landing Zone Brief",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2002",
+    "title": "Submit a Shell Report",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2003",
+    "title": "Submit a Casualty Report",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2004",
+    "title": "Operate an Ultra-high Frequency (UHF) Field Radio",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2005",
+    "title": "Operate Satellite Communication (SATCOM) Devices",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2006",
+    "title": "Employ a Field Expedient Antenna",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2007",
+    "title": "Communicate using Wired Communications",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2008",
+    "title": "Operate a Very High Frequency (VHF) Field Radio",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COMM-2009",
+    "title": "Employ a High-Frequency (HF) Radio",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0300-comm-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-COND-2001",
+    "title": "Conduct a Forced March",
+    "functional_area": "COND",
+    "event_level": "individual skill progression",
+    "file": "0300-cond-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEMO-2001",
+    "title": "Probe for a Mine",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0300-demo-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEMO-2002",
+    "title": "Qualify on the Grenade Distance and Accuracy Course",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0300-demo-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-DEMO-2003",
+    "title": "Employ a M18A1 Anti-personnel Mine (Claymore)",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0300-demo-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-FSPT-2001",
+    "title": "Plan Supporting Arms",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0300-fspt-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-FSPT-2002",
+    "title": "Call for Indirect Fire using the Grid Method",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0300-fspt-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-FSPT-2003",
+    "title": "Call for Indirect Fire using the Polar Method",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0300-fspt-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-FSPT-2004",
+    "title": "Call for Indirect Fire using the Shift from a Known Point Method",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0300-fspt-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-FSPT-2005",
+    "title": "Act as an Observer for Close Air Support (CAS)",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0300-fspt-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-GRLA-2002",
+    "title": "Perform Weapons Handling Procedures for the Grenade Launcher",
+    "functional_area": "GRLA",
+    "event_level": "individual skill progression",
+    "file": "0300-grla-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-GRLA-2003",
+    "title": "Perform Misfire Procedures for a Grenade Launcher",
+    "functional_area": "GRLA",
+    "event_level": "individual skill progression",
+    "file": "0300-grla-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-GRLA-2004",
+    "title": "Zero a Grenade Launcher",
+    "functional_area": "GRLA",
+    "event_level": "individual skill progression",
+    "file": "0300-grla-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-GRLA-2005",
+    "title": "Engage Targets with a Grenade Launcher",
+    "functional_area": "GRLA",
+    "event_level": "individual skill progression",
+    "file": "0300-grla-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-MOBL-2001",
+    "title": "Lead a Team or Squad in a Motorized Patrol (S/L)",
+    "functional_area": "MOBL",
+    "event_level": "individual skill progression",
+    "file": "0300-mobl-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-MOBL-2002",
+    "title": "Conduct Mounted Land Navigation",
+    "functional_area": "MOBL",
+    "event_level": "individual skill progression",
+    "file": "0300-mobl-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-OPS-2001",
+    "title": "Conduct a Pre-Combat Inspection",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0300-ops-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2001",
+    "title": "Develop a Warning Order",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2002",
+    "title": "Write a Combat Order",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2003",
+    "title": "Issue a Combat Order",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2004",
+    "title": "Develop a Map Overlay",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2005",
+    "title": "Select a Route",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2006",
+    "title": "Navigate with a Global Positioning System (GPS)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2007",
+    "title": "Lead a Unit in Reacting to a Detonated Improvised Explosive Device (IED)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2008",
+    "title": "Lead a Unit in Reacting to an Undetonated Improvised Explosive Device (IED)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2009",
+    "title": "Process Detainees",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2010",
+    "title": "Perform Individual Actions from a Vehicle",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2010.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2011",
+    "title": "Visually identify Improvised Explosive Device (IED)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PAT-2012",
+    "title": "React to an Improvised Explosive Device (IED)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0300-pat-2012.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PSTL-2001",
+    "title": "Perform Preventative Maintenance on the Service Pistol",
+    "functional_area": "PSTL",
+    "event_level": "individual skill progression",
+    "file": "0300-pstl-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-PSTL-2002",
+    "title": "Engage Targets with the Service Pistol",
+    "functional_area": "PSTL",
+    "event_level": "individual skill progression",
+    "file": "0300-pstl-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RSTA-2001",
+    "title": "Conduct Reconnaissance Employing Small Unmanned Aircraft System (SUAS)",
+    "functional_area": "RSTA",
+    "event_level": "individual skill progression",
+    "file": "0300-rsta-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RSTA-2002",
+    "title": "Conduct Target Area Surveillance using a Small Unmanned Aircraft System (SUAS)",
+    "functional_area": "RSTA",
+    "event_level": "individual skill progression",
+    "file": "0300-rsta-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RSTA-2003",
+    "title": "Conduct Target Acquisition Employing Small Unmanned Aircraft System (SUAS)",
+    "functional_area": "RSTA",
+    "event_level": "individual skill progression",
+    "file": "0300-rsta-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RSTA-2004",
+    "title": "Employ Small Unmanned Aircraft Systems (SUAS)",
+    "functional_area": "RSTA",
+    "event_level": "individual skill progression",
+    "file": "0300-rsta-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RSTA-2005",
+    "title": "Overwatch Mobile Operations",
+    "functional_area": "RSTA",
+    "event_level": "individual skill progression",
+    "file": "0300-rsta-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-RSTA-2006",
+    "title": "Conduct Overwatch in Support of a Fixed Position",
+    "functional_area": "RSTA",
+    "event_level": "individual skill progression",
+    "file": "0300-rsta-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TRNG-2001",
+    "title": "Conduct Small Unit Training",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0300-trng-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TVEH-2001",
+    "title": "Establish a Load Plan for a Tactical Vehicle",
+    "functional_area": "TVEH",
+    "event_level": "individual skill progression",
+    "file": "0300-tveh-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TVEH-2002",
+    "title": "Camouflage a Tactical Vehicle",
+    "functional_area": "TVEH",
+    "event_level": "individual skill progression",
+    "file": "0300-tveh-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TVEH-2003",
+    "title": "Communicate Using Hand and Arm Signals",
+    "functional_area": "TVEH",
+    "event_level": "individual skill progression",
+    "file": "0300-tveh-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TVEH-2004",
+    "title": "Communicate using Organic Tactical Vehicle Radio Communications Equipment",
+    "functional_area": "TVEH",
+    "event_level": "individual skill progression",
+    "file": "0300-tveh-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-TVEH-2005",
+    "title": "Employ Security Measures During Vehicle Security Halts",
+    "functional_area": "TVEH",
+    "event_level": "individual skill progression",
+    "file": "0300-tveh-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2001",
+    "title": "Zero the Laser Borelight",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2002",
+    "title": "Borelight a Weapon using the Laser Borelight System (LBS)",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2003",
+    "title": "Handle Small Arms Threat Weapons",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2004",
+    "title": "Engage Targets with an AT-4 Light Anti-armor Weapon",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2005",
+    "title": "Perform Misfire Procedures for an AT-4 Light Anti-armor Weapon",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2006",
+    "title": "Engage Targets with an M-72 Series Weapon",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2007",
+    "title": "Perform Misfire Procedures for a M72 Series Weapon",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2008",
+    "title": "Zero Back-up Iron Sights (BUIS) with the Small Arms Collimator (SAC)",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2009",
+    "title": "Zero a Service Rifle with Back Up Iron Sights (BUIS)",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-WPNS-2010",
+    "title": "Zero an Optic with the Small Arms Collimator",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0300-wpns-2010.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-ISUL-2501",
+    "title": "Lead a Squad",
+    "functional_area": "ISUL",
+    "event_level": "individual skill progression",
+    "file": "0300-isul-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0300-ISUL-2502",
+    "title": "Integrate fires",
+    "functional_area": "ISUL",
+    "event_level": "individual skill progression",
+    "file": "0300-isul-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-1001",
+    "title": "Issue a Warning Order",
+    "functional_area": "C2",
+    "event_level": "individual entry level",
+    "file": "0302-c2-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-1002",
+    "title": "Issue a Five Paragraph Order",
+    "functional_area": "C2",
+    "event_level": "individual entry level",
+    "file": "0302-c2-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-1003",
+    "title": "Issue a Fragmentary Order",
+    "functional_area": "C2",
+    "event_level": "individual entry level",
+    "file": "0302-c2-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-COMM-1001",
+    "title": "Employ a High Frequency (HF) Radio",
+    "functional_area": "COMM",
+    "event_level": "individual entry level",
+    "file": "0302-comm-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-COMM-1002",
+    "title": "Operate Satellite Communications (SATCOM) Devices",
+    "functional_area": "COMM",
+    "event_level": "individual entry level",
+    "file": "0302-comm-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-COMM-1003",
+    "title": "Communicate Over a Data Network",
+    "functional_area": "COMM",
+    "event_level": "individual entry level",
+    "file": "0302-comm-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-COND-1001",
+    "title": "Lead a Forced March",
+    "functional_area": "COND",
+    "event_level": "individual entry level",
+    "file": "0302-cond-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1001",
+    "title": "Lead a Unit in Defensive Operations (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1002",
+    "title": "Employ Machineguns in Support of Defensive Operations (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1003",
+    "title": "Employ Mortars in Support of Defensive Operations (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1004",
+    "title": "Employ Assault Units in Support of Defensive Operations (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1005",
+    "title": "Employ an Anti-armor Unit in Support of Defensive Operations (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1006",
+    "title": "Prepare a Fire Plan Sketch or Overlay",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1007",
+    "title": "Employ Armor in Support of Defensive Operations",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-DEF-1008",
+    "title": "Employ Engineers in Support of Defensive Operations",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0302-def-1008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-1001",
+    "title": "Develop a Fire Support Plan",
+    "functional_area": "FSPT",
+    "event_level": "individual entry level",
+    "file": "0302-fspt-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-1002",
+    "title": "Employ Surface to Surface Fires",
+    "functional_area": "FSPT",
+    "event_level": "individual entry level",
+    "file": "0302-fspt-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-1003",
+    "title": "Direct a Close Air Support (CAS) Mission",
+    "functional_area": "FSPT",
+    "event_level": "individual entry level",
+    "file": "0302-fspt-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-1004",
+    "title": "Employ Fire Support",
+    "functional_area": "FSPT",
+    "event_level": "individual entry level",
+    "file": "0302-fspt-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-1005",
+    "title": "Develop a Schedule of Fires",
+    "functional_area": "FSPT",
+    "event_level": "individual entry level",
+    "file": "0302-fspt-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-1006",
+    "title": "Conduct a Quick Fire Support Plan",
+    "functional_area": "FSPT",
+    "event_level": "individual entry level",
+    "file": "0302-fspt-1006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1001",
+    "title": "Lead a Unit in an Attack (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1002",
+    "title": "Coordinate the Employment of Machineguns in Support of an Attack (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1003",
+    "title": "Employ Mortars in Support of an Attack (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1004",
+    "title": "Employ an Assault Section or Assault Team(s) in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1005",
+    "title": "Employ an Anti-armor Section or Anti-armor Team(s) in Support of an Attack (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1006",
+    "title": "Employ Engineers in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1007",
+    "title": "Employ Armor in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OFF-1008",
+    "title": "Lead a Unit in a Meeting Engagement (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0302-off-1008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OPS-1001",
+    "title": "Lead a Unit in Consolidation",
+    "functional_area": "OPS",
+    "event_level": "individual entry level",
+    "file": "0302-ops-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OPS-1002",
+    "title": "Lead a Unit During a Relief in Place (RIP)",
+    "functional_area": "OPS",
+    "event_level": "individual entry level",
+    "file": "0302-ops-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OPS-1003",
+    "title": "Lead a Unit During Passage of Lines",
+    "functional_area": "OPS",
+    "event_level": "individual entry level",
+    "file": "0302-ops-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OPS-1004",
+    "title": "Lead a Unit in Mounted Operations",
+    "functional_area": "OPS",
+    "event_level": "individual entry level",
+    "file": "0302-ops-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OPS-1005",
+    "title": "Lead a Unit in Air Assault Operations",
+    "functional_area": "OPS",
+    "event_level": "individual entry level",
+    "file": "0302-ops-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-PAT-1001",
+    "title": "Lead a Unit in Patrolling Operations",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0302-pat-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-PAT-1002",
+    "title": "Lead a Unit in a Traffic Control Point",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0302-pat-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-2001",
+    "title": "Serve as a Watch Officer",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0302-c2-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-2002",
+    "title": "Perform Duties in the Marine Corps Planning Process (MCPP)",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0302-c2-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-2003",
+    "title": "Establish a Command Post (CP)",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0302-c2-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-C2-2204",
+    "title": "Employ Non-organic Attachments",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0302-c2-2204.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-2002",
+    "title": "Develop a Target List Worksheet",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0302-fspt-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-2003",
+    "title": "Lead a Fire Support Team (FiST)",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0302-fspt-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-2005",
+    "title": "Develop a Fire Support Coordination Overlay",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0302-fspt-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-2007",
+    "title": "Supervise the Fire Support Coordination Center (FSCC)",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0302-fspt-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-2202",
+    "title": "Supervise a Mortar Fire Direction Center (FDC)",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0302-fspt-2202.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-FSPT-2206",
+    "title": "Develop a Fire Support Execution Matrix",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0302-fspt-2206.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-LOG-2001",
+    "title": "Coordinate Unit Logistics",
+    "functional_area": "LOG",
+    "event_level": "individual skill progression",
+    "file": "0302-log-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-OPS-2001",
+    "title": "Employ Snipers in Support of Operations",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0302-ops-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0302-TRNG-2001",
+    "title": "Develop a Unit Training Plan",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0302-trng-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-EMPL-2001",
+    "title": "Advise the Unit Leader on Weapons Employment",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0306-empl-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2001",
+    "title": "Perform the Duties of a Member of an Operational Planning Team (OPT)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2002",
+    "title": "Validate a Unit's Ammunition Usage",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2003",
+    "title": "Develop a Surface Danger Zone (SDZ)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2004",
+    "title": "Generate a Weapon Danger Zone (WDZ) for Aviation-delivered Munitions using the Range Managers Toolkit (RMTK) WDZ Tool",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2005",
+    "title": "Develop a Range",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2006",
+    "title": "Assess Range Operations",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-TRNG-2001",
+    "title": "Participate in the Unit Training Management (UTM) Process",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0306-trng-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-TRNG-2002",
+    "title": "Advise on the Incorporation of Simulations",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0306-trng-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2501",
+    "title": "Contribute to the Infantry Advocacy and Proponency Process",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2502",
+    "title": "Facilitate Equipment Acquisition and Fielding Process",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2503",
+    "title": "Facilitate Regiment and Division Ammunition Allocations",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2503.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2504",
+    "title": "Manage a Base/Station Range Complex/Range Control",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2504.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2505",
+    "title": "Facilitate Range Modernization Programs",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2505.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-OPS-2506",
+    "title": "Manage an Official Competition Event",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0306-ops-2506.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0306-TRNG-2501",
+    "title": "Facilitate an 0306 Professional Development Program",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0306-trng-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-1002",
+    "title": "Occupy a Listening (LP) / Observation Post (OP)",
+    "functional_area": "DEF",
+    "event_level": "individual entry level",
+    "file": "0311-def-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M27-1001",
+    "title": "Maintain an Infantry Automatic Rifle (IAR)",
+    "functional_area": "M27",
+    "event_level": "individual entry level",
+    "file": "0311-m27-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M27-1003",
+    "title": "Zero a Squad Day Optic (SDO) to an Infantry Automatic Rifle (IAR)",
+    "functional_area": "M27",
+    "event_level": "individual entry level",
+    "file": "0311-m27-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M27-1005",
+    "title": "Execute the Infantry Automatic Rifle (IAR) Transition Course of Fire",
+    "functional_area": "M27",
+    "event_level": "individual entry level",
+    "file": "0311-m27-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MOUT-1003",
+    "title": "Execute Lower Level Entry",
+    "functional_area": "MOUT",
+    "event_level": "individual entry level",
+    "file": "0311-mout-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-1001",
+    "title": "Conduct Fire and Movement",
+    "functional_area": "OFF",
+    "event_level": "individual entry level",
+    "file": "0311-off-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-PAT-1001",
+    "title": "Perform Individual Actions during a Squad Patrol",
+    "functional_area": "PAT",
+    "event_level": "individual entry level",
+    "file": "0311-pat-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-2001",
+    "title": "Lead a Fire Team in the Defense",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0311-def-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-2002",
+    "title": "Lead a Squad in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0311-def-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-2003",
+    "title": "Direct the Employment of a Machinegun Team in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0311-def-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-2004",
+    "title": "Direct the Employment of an Assault Team in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0311-def-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-2005",
+    "title": "Direct the Employment of 60mm Mortars in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0311-def-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEF-2006",
+    "title": "Prepare a Fire Plan Sketch",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0311-def-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEMO-2001",
+    "title": "Qualify on a Hand Grenade Assault Course",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0311-demo-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-DEMO-2201",
+    "title": "Employ Pyrotechnics",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0311-demo-2201.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-GRLA-2001",
+    "title": "Zero a Grenade Launcher with the Grenade Launcher Sight (GLS) SU-277",
+    "functional_area": "GRLA",
+    "event_level": "individual skill progression",
+    "file": "0311-grla-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-GRLA-2002",
+    "title": "Qualify with a Grenade Launcher at Night",
+    "functional_area": "GRLA",
+    "event_level": "individual skill progression",
+    "file": "0311-grla-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-INT-2002",
+    "title": "Perform as the Collections Marine for the Company-level Intelligence Cell (CLIC)",
+    "functional_area": "INT",
+    "event_level": "individual skill progression",
+    "file": "0311-int-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-INT-2004",
+    "title": "Serve as a Platoon Intelligence Representative",
+    "functional_area": "INT",
+    "event_level": "individual skill progression",
+    "file": "0311-int-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M27-2002",
+    "title": "Execute the Infantry Automatic Rifle (IAR) Unknown Distance (Day) Course of Fire",
+    "functional_area": "M27",
+    "event_level": "individual skill progression",
+    "file": "0311-m27-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M32-2001",
+    "title": "Perform Operator Maintenance on a Multi-Shot Grenade Launcher",
+    "functional_area": "M32",
+    "event_level": "individual skill progression",
+    "file": "0311-m32-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M32-2005",
+    "title": "Zero a M32 Multi-Shot 40mm Grenade Launcher",
+    "functional_area": "M32",
+    "event_level": "individual skill progression",
+    "file": "0311-m32-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-M32-2006",
+    "title": "Engage Targets with a M32 Multi-Shot Grenade Launcher",
+    "functional_area": "M32",
+    "event_level": "individual skill progression",
+    "file": "0311-m32-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2001",
+    "title": "Inspect a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2002",
+    "title": "Boresight a Fire Control System to a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2003",
+    "title": "Bore Sight Open Sights on a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2004",
+    "title": "Load a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2005",
+    "title": "Engage a Target with a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2006",
+    "title": "Perform Trouble-shooting Procedures on a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MAAW-2007",
+    "title": "Unload a Multi-Role, Anti-Armor, Anti-Personnel Weapon System (MAAWS)",
+    "functional_area": "MAAW",
+    "event_level": "individual skill progression",
+    "file": "0311-maaw-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MOUT-2001",
+    "title": "Lead a Squad in Urban Operations (S/L)",
+    "functional_area": "MOUT",
+    "event_level": "individual skill progression",
+    "file": "0311-mout-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MOUT-2002",
+    "title": "Lead a Squad in Establishing a Traffic Control Point",
+    "functional_area": "MOUT",
+    "event_level": "individual skill progression",
+    "file": "0311-mout-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MOUT-2201",
+    "title": "Prepare a Fighting Position within a Building",
+    "functional_area": "MOUT",
+    "event_level": "individual skill progression",
+    "file": "0311-mout-2201.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-MOUT-2202",
+    "title": "Perform Individual Actions at a Traffic Control Point",
+    "functional_area": "MOUT",
+    "event_level": "individual skill progression",
+    "file": "0311-mout-2202.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-2001",
+    "title": "Lead a Fire Team in the Offense (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0311-off-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-2002",
+    "title": "Lead a Squad in the Offense (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0311-off-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-2004",
+    "title": "Direct the Employment of a Machinegun Team in the Offense (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0311-off-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-2005",
+    "title": "Direct the Employment of an Assault Team in the Offense (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0311-off-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-2006",
+    "title": "Direct the Employment of 60mm Mortars in the Offense (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0311-off-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OFF-2007",
+    "title": "Lead the Breach of an Obstacle",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0311-off-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OPS-2001",
+    "title": "Perform duties as the Operations Clerk",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0311-ops-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OPS-2002",
+    "title": "Serve as the Company Assistant Operations Chief",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0311-ops-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-OPS-2004",
+    "title": "Utilize a Command and Control (C2) System",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0311-ops-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-PAT-2001",
+    "title": "Lead a Fire Team as an Element of a Patrol",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0311-pat-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-PAT-2003",
+    "title": "Lead a Squad Patrol",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0311-pat-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-TRNG-2001",
+    "title": "Train a fire team on Individual Training Events",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0311-trng-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0311-TRNG-2002",
+    "title": "Train a Fire Team on Collective Training Events",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0311-trng-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-COMM-2001",
+    "title": "Operate a High Frequency (HF) Radio Set",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0317-comm-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-COMM-2002",
+    "title": "Operate Communications Security Equipment Sets",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0317-comm-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-COMM-2003",
+    "title": "Transmit a Message using a NATO Report Format",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0317-comm-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-COMM-2004",
+    "title": "Operate a Field Computer",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0317-comm-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-COND-2001",
+    "title": "Execute the Scout Sniper Physical Assessment Test (SSPAT)",
+    "functional_area": "COND",
+    "event_level": "individual skill progression",
+    "file": "0317-cond-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2001",
+    "title": "Conduct an Immediate Suppression Mission",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2002",
+    "title": "Conduct an Adjust Fire Mission",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2003",
+    "title": "Conduct an Illumination Mission",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2001",
+    "title": "Prepare a Sniper Range Card",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2002",
+    "title": "Zero a Sniper Weapon System",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2003",
+    "title": "Engage Targets with the Light Sniper Rifle at Known Distances",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2004",
+    "title": "Engage Targets with the Medium Sniper Rifle at Known Distances",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2005",
+    "title": "Engage Targets with the Heavy Sniper Weapon System at Known Distances",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2006",
+    "title": "Engage Targets with a Sniper Weapon System at Unknown Distances",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2007",
+    "title": "Engage Targets at Various Ranges using a Night Aiming Device",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2008",
+    "title": "Perform the Duties of a Scout Sniper Observer",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2009",
+    "title": "Engage a Target with Cold Bore Compensation",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2010",
+    "title": "Operate a Firing Solution Device",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2010.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2011",
+    "title": "Engage Targets with a Sniper Weapon System at Known Distances using Mil Holds",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2011.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2012",
+    "title": "Engage Targets Using Alternate Shooting Positions",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2012.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2001",
+    "title": "Prepare a Terrain Model",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2001",
+    "title": "Navigate with a Map and Compass",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2002",
+    "title": "Camouflage Sniper Equipment",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2003",
+    "title": "Executes Subordinate Tasks within a Scout Sniper Patrol",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2004",
+    "title": "Executes Individual Actions Within A Scout Sniper Patrol",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2005",
+    "title": "Operate from a Hide",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2006",
+    "title": "Conduct Individual Actions in an Observation Post (OP)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-PAT-2007",
+    "title": "Conduct Individual Actions During Infiltration",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0317-pat-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-SURV-2001",
+    "title": "Execute Surveillance of an Objective",
+    "functional_area": "SURV",
+    "event_level": "individual skill progression",
+    "file": "0317-surv-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-SURV-2002",
+    "title": "Prepare a Field Sketch",
+    "functional_area": "SURV",
+    "event_level": "individual skill progression",
+    "file": "0317-surv-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-SURV-2003",
+    "title": "Employ Photography Equipment",
+    "functional_area": "SURV",
+    "event_level": "individual skill progression",
+    "file": "0317-surv-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-WPNS-2001",
+    "title": "Perform Weapons Handling Procedures with the Light Sniper Weapon System",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0317-wpns-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-WPNS-2002",
+    "title": "Perform Preventative Maintenance on the Light Sniper Weapon System",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0317-wpns-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-WPNS-2003",
+    "title": "Perform Weapons Handling Procedures with the Medium Sniper Weapon System",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0317-wpns-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-WPNS-2004",
+    "title": "Perform Preventive Maintenance on the Medium Sniper Weapon System",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0317-wpns-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-WPNS-2005",
+    "title": "Perform Weapons Handling Procedures with a Heavy Sniper Weapon System",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0317-wpns-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-WPNS-2006",
+    "title": "Perform Preventive Maintenance on a Heavy Sniper Weapon System",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0317-wpns-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2501",
+    "title": "Act as an Observer for Close Air Support (CAS)",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2502",
+    "title": "Conduct a Suppression of Enemy Air Defense (SEAD) Fire Mission",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2503",
+    "title": "Plan Supporting Arms",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2503.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-FSPT-2504",
+    "title": "Develop a Target List",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0317-fspt-2504.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2501",
+    "title": "Engage Targets Using Max Point Blank",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2502",
+    "title": "Engage Targets from a Loophole",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-MARK-2503",
+    "title": "Engage Targets at an Angle",
+    "functional_area": "MARK",
+    "event_level": "individual skill progression",
+    "file": "0317-mark-2503.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2501",
+    "title": "Lead Sniper Operations from a Hide (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2502",
+    "title": "Lead a Linkup",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2503",
+    "title": "Lead a Scout Sniper Patrol (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2503.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2504",
+    "title": "Lead a Sniper Unit in Support of Offensive Operations (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2504.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2505",
+    "title": "Lead a Sniper Unit in Support of Defensive Operations (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2505.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2506",
+    "title": "Lead a Sniper Unit in Support Of Actions in A Built Up Area (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2506.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2507",
+    "title": "Conduct Counter-sniper Operations (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2507.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0317-OPS-2508",
+    "title": "Command and Control Sniper Teams",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0317-ops-2508.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-1001",
+    "title": "React to Machinegun Fire Commands",
+    "functional_area": "EMPL",
+    "event_level": "individual entry level",
+    "file": "0331-empl-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-HMG-1001",
+    "title": "Perform Operator Maintenance for a Heavy Machinegun",
+    "functional_area": "HMG",
+    "event_level": "individual entry level",
+    "file": "0331-hmg-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-M2-1001",
+    "title": "Engage Targets with a M2A1 Heavy Machinegun",
+    "functional_area": "M2",
+    "event_level": "individual entry level",
+    "file": "0331-m2-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-MK19-1001",
+    "title": "Perform Operator Maintenance on an MK-19 Heavy Machinegun",
+    "functional_area": "MK19",
+    "event_level": "individual entry level",
+    "file": "0331-mk19-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-MK19-1002",
+    "title": "Engage Targets with a MK-19 Heavy Machinegun",
+    "functional_area": "MK19",
+    "event_level": "individual entry level",
+    "file": "0331-mk19-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-MMG-1001",
+    "title": "Perform Operator Maintenance for a M240B Medium Machinegun",
+    "functional_area": "MMG",
+    "event_level": "individual entry level",
+    "file": "0331-mmg-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-MMG-1002",
+    "title": "Engage Targets with a Medium Machinegun",
+    "functional_area": "MMG",
+    "event_level": "individual entry level",
+    "file": "0331-mmg-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-MMG-1003",
+    "title": "Zero a Machinegun Day Optic (MDO)",
+    "functional_area": "MMG",
+    "event_level": "individual entry level",
+    "file": "0331-mmg-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-WPNS-1001",
+    "title": "Zero a Limited Visibility Optic to a Machinegun",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0331-wpns-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-WPNS-1002",
+    "title": "Register a Range Card",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0331-wpns-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2001",
+    "title": "Direct the Occupation of a Machinegun Fighting Position",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2002",
+    "title": "Direct the Acquisition of Machinegun Targets",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2003",
+    "title": "Prepare a Terrain Profile",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2004",
+    "title": "Direct the Employment of a Machinegun Unit in the Offense (S/L)",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2005",
+    "title": "Direct the Employment of a Machinegun Unit in the Defense (S/L)",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2006",
+    "title": "Identify Armored Vehicles (S/L)",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-EMPL-2007",
+    "title": "Prepare a Machinegun Range Card (S/L)",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0331-empl-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0331-MOBL-2001",
+    "title": "Direct the Employment of a Motorized Machinegun Unit (S/L)",
+    "functional_area": "MOBL",
+    "event_level": "individual skill progression",
+    "file": "0331-mobl-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-1001",
+    "title": "Maintain a Mortar",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0341-wpns-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-1002",
+    "title": "Mount a Mortar",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0341-wpns-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-1003",
+    "title": "Boresight a Mortar",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0341-wpns-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-1004",
+    "title": "Clear a Misfire for a Mortar",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0341-wpns-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-1005",
+    "title": "Fire a Mortar in Handheld Mode",
+    "functional_area": "WPNS",
+    "event_level": "individual entry level",
+    "file": "0341-wpns-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FDC-2001",
+    "title": "Setup a Plotting Board",
+    "functional_area": "FDC",
+    "event_level": "individual skill progression",
+    "file": "0341-fdc-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FDC-2002",
+    "title": "Process a Firing Mission on a Firing Chart",
+    "functional_area": "FDC",
+    "event_level": "individual skill progression",
+    "file": "0341-fdc-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FDC-2003",
+    "title": "Process a Fire Mission Using a Mortar Ballistic Computer",
+    "functional_area": "FDC",
+    "event_level": "individual skill progression",
+    "file": "0341-fdc-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FDC-2004",
+    "title": "Setup a Mortar Ballistic Computer",
+    "functional_area": "FDC",
+    "event_level": "individual skill progression",
+    "file": "0341-fdc-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2001",
+    "title": "Construct a Terrain Sketch",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2002",
+    "title": "Conduct an Immediate Suppression Mission",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2003",
+    "title": "Conduct an Illumination Mission",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2004",
+    "title": "Conduct a Coordinated Illumination Mission",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2005",
+    "title": "Adjust Final Protective Fires (FPF)",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2006",
+    "title": "Conduct a Quick Smoke Mission",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2007",
+    "title": "Conduct a Mortar Registration",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2008",
+    "title": "Conduct a Suppression of Enemy Air Defense (SEAD) Fire Mission",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-FO-2009",
+    "title": "Conduct an Adjust Fire Mission",
+    "functional_area": "FO",
+    "event_level": "individual skill progression",
+    "file": "0341-fo-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2001",
+    "title": "Control Direct Alignment",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2002",
+    "title": "Direct the Occupation of a Mortar Position",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2003",
+    "title": "Declinate a M2 Compass",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2004",
+    "title": "Mount an Aiming Circle",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2005",
+    "title": "Declinate an Aiming Circle",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2006",
+    "title": "Lay a Mortar with an Aiming Circle",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2007",
+    "title": "Lay a Mortar using the Sight to Sight Method",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2008",
+    "title": "Lay a Mortar with a Compass",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0341-WPNS-2009",
+    "title": "Burn Increments",
+    "functional_area": "WPNS",
+    "event_level": "individual skill progression",
+    "file": "0341-wpns-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1001",
+    "title": "Construct an Electric Initiation Set",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1002",
+    "title": "Clear an Electric Initiation Set Misfire",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1003",
+    "title": "Construct a Non-electric Initiation Set",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1004",
+    "title": "Clear a Non-electric Initiation Set Misfire",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1005",
+    "title": "Construct a Detonation Cord Firing-system",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1006",
+    "title": "Construct a Charge",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1007",
+    "title": "Detonate an Electric Initiated Charge",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1008",
+    "title": "Detonate a Non-electrical Initiated Charge",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-1009",
+    "title": "Conduct Mechanical Breaching",
+    "functional_area": "DEMO",
+    "event_level": "individual entry level",
+    "file": "0351-demo-1009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1001",
+    "title": "Perform Operator Maintenance for a MK153 SMAW",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1002",
+    "title": "Load a MK153 SMAW",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1003",
+    "title": "Perform Trouble Shooting Procedures on a MK153 SMAW Spotting Rifle",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1004",
+    "title": "Perform Trouble Shooting Procedures on a MK153 SMAW Launcher",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1005",
+    "title": "Engage a Target with a MK153 SMAW using a Day Optical Device",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1006",
+    "title": "Engage a Target with a MK153 SMAW using a Night Aiming Device",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1007",
+    "title": "Prepare an Anti-armor Range Card",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1008",
+    "title": "Unload a MK153 SMAW",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-1009",
+    "title": "Bore Sight a MK153 SMAW",
+    "functional_area": "SMAW",
+    "event_level": "individual entry level",
+    "file": "0351-smaw-1009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2001",
+    "title": "Inspect Anti-Personnel Obstacle Breaching System (APOBS)",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2002",
+    "title": "Breach an Obstacle with an APOBS using the Delay Mode",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2003",
+    "title": "Breach an Obstacle with the APOBS using the Command Mode",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2004",
+    "title": "Breach an Obstacle with the MK7 APOBS using the Non-electrical Command Mode Initiation",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2005",
+    "title": "Recover an Anti-Personnel Obstacle Breaching System (APOBS)",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2006",
+    "title": "Perform Misfire Procedures for an Anti-Personnel Obstacle Breaching System (APOBS) in Delay Mode",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2007",
+    "title": "Perform Misfire Procedures for an Anti-personnel Obstacle Breaching system (APOBS) in Command Mode",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-APOB-2008",
+    "title": "Employ an Anti-Personnel Obstacle Breaching System (APOBS)",
+    "functional_area": "APOB",
+    "event_level": "individual skill progression",
+    "file": "0351-apob-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-2001",
+    "title": "Plan the Demolition of a Target",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0351-demo-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-DEMO-2002",
+    "title": "Employ Charges",
+    "functional_area": "DEMO",
+    "event_level": "individual skill progression",
+    "file": "0351-demo-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-2001",
+    "title": "Inspect an SL-3 Complete MK153 SMAW",
+    "functional_area": "SMAW",
+    "event_level": "individual skill progression",
+    "file": "0351-smaw-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-2002",
+    "title": "Employ the MK153 SMAW (P)",
+    "functional_area": "SMAW",
+    "event_level": "individual skill progression",
+    "file": "0351-smaw-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-2003",
+    "title": "Field Zero a Day Optic to a MK153 SMAW",
+    "functional_area": "SMAW",
+    "event_level": "individual skill progression",
+    "file": "0351-smaw-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0351-SMAW-2004",
+    "title": "Engage a Target with a MK153 SMAW using Open Sights",
+    "functional_area": "SMAW",
+    "event_level": "individual skill progression",
+    "file": "0351-smaw-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-EMPL-1001",
+    "title": "Prepare an Anti-Armor Range Card",
+    "functional_area": "EMPL",
+    "event_level": "individual entry level",
+    "file": "0352-empl-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-EMPL-1002",
+    "title": "Identify Armored Vehicles (S/L)",
+    "functional_area": "EMPL",
+    "event_level": "individual entry level",
+    "file": "0352-empl-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-HAW-1001",
+    "title": "Perform Operator Maintenance on a Heavy Anti-Armor Weapon (HAW) System",
+    "functional_area": "HAW",
+    "event_level": "individual entry level",
+    "file": "0352-haw-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-HAW-1002",
+    "title": "Engage Targets with a Heavy Anti-Armor Weapon (HAW) System",
+    "functional_area": "HAW",
+    "event_level": "individual entry level",
+    "file": "0352-haw-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-HAW-1003",
+    "title": "Qualify with a Heavy Anti-Armor Weapon (HAW) Simulator System",
+    "functional_area": "HAW",
+    "event_level": "individual entry level",
+    "file": "0352-haw-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-HAW-1004",
+    "title": "Unload an Unfired Heavy Anti-Armor Weapon (HAW) System",
+    "functional_area": "HAW",
+    "event_level": "individual entry level",
+    "file": "0352-haw-1004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-MAW-1001",
+    "title": "Perform Operator Maintenance for the M98A2 Command Launch Unit (CLU)",
+    "functional_area": "MAW",
+    "event_level": "individual entry level",
+    "file": "0352-maw-1001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-MAW-1002",
+    "title": "Engage a Target with an M98A2 Weapon System",
+    "functional_area": "MAW",
+    "event_level": "individual entry level",
+    "file": "0352-maw-1002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-MAW-1003",
+    "title": "Qualify with an M98A2 Enhanced Producibility Basic Skills Trainer (EPBST)",
+    "functional_area": "MAW",
+    "event_level": "individual entry level",
+    "file": "0352-maw-1003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-EMPL-2001",
+    "title": "Employ an Anti-Armor Weapon Systems (P)",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0352-empl-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-EMPL-2002",
+    "title": "Profile Threat Vehicles (S/L)",
+    "functional_area": "EMPL",
+    "event_level": "individual skill progression",
+    "file": "0352-empl-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0352-LEAD-2001",
+    "title": "Lead an Anti-Armor Unit",
+    "functional_area": "LEAD",
+    "event_level": "individual skill progression",
+    "file": "0352-lead-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2001",
+    "title": "Issue a Warning Order",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2002",
+    "title": "Issue a Five Paragraph Order",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2003",
+    "title": "Issue a Fragmentary Order",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2004",
+    "title": "Employ Non-organic Attachments",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-COMM-2001",
+    "title": "Handle Electronic Key Management System (EKMS) Material",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0369-comm-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-COMM-2003",
+    "title": "Employ Communications",
+    "functional_area": "COMM",
+    "event_level": "individual skill progression",
+    "file": "0369-comm-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2001",
+    "title": "Lead a Unit in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2002",
+    "title": "Employ Machinegun Squads and Teams in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2003",
+    "title": "Employ Mortar Squads and Teams in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2004",
+    "title": "Employ Assault Squads and Teams in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2005",
+    "title": "Employ Anti-armor Squads and Teams in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2006",
+    "title": "Prepare an Operational Graphic",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2007",
+    "title": "Employ Armor in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-DEF-2008",
+    "title": "Employ Engineers in the Defense (S/L)",
+    "functional_area": "DEF",
+    "event_level": "individual skill progression",
+    "file": "0369-def-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2001",
+    "title": "Develop a Fire Support Plan",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2002",
+    "title": "Employ Supporting Arms",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2005",
+    "title": "Employ Fires",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2006",
+    "title": "Direct a Close Air Support (CAS) Mission",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2001",
+    "title": "Lead a Unit in an Attack (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2002",
+    "title": "Coordinate the Employment of Machineguns in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2003",
+    "title": "Employ Mortars in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2004",
+    "title": "Employ Assault Units in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2006",
+    "title": "Employ Engineers in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2006.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2007",
+    "title": "Employ Armor in Support of an Attack",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2008",
+    "title": "Lead a Unit in a Meeting Engagement (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OFF-2009",
+    "title": "Lead a Unit in a Cordon and Search (S/L)",
+    "functional_area": "OFF",
+    "event_level": "individual skill progression",
+    "file": "0369-off-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2001",
+    "title": "Lead a Unit in Consolidation (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2002",
+    "title": "Lead a Unit During a Relief in Place (RIP)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2002.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2003",
+    "title": "Lead a Unit During a Passage of Lines (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2003.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2004",
+    "title": "Lead a Unit in Mounted Operations",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2005",
+    "title": "Lead a Unit in Heliborne Operations (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2005.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2007",
+    "title": "Conduct a Key Leader Engagement (KLE)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2007.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2008",
+    "title": "Supervise a Mortar Fire Direction Center (FDC)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2008.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-OPS-2009",
+    "title": "Employ Snipers in Support of Operations (S/L)",
+    "functional_area": "OPS",
+    "event_level": "individual skill progression",
+    "file": "0369-ops-2009.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-PAT-2001",
+    "title": "Lead a Unit in Patrolling Operations",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0369-pat-2001.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-PAT-2004",
+    "title": "Lead a Unit in a Traffic Control Point (TCP)",
+    "functional_area": "PAT",
+    "event_level": "individual skill progression",
+    "file": "0369-pat-2004.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2501",
+    "title": "Perform the Duties of a Watch Officer",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2502",
+    "title": "Participate in the Marine Corps Planning Process (MCPP)",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2503",
+    "title": "Establish a Command Post (CP)",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2503.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2504",
+    "title": "Employ Command and Control (C2) Systems",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2504.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2505",
+    "title": "Supervise a Company Combat Operations Center (CCOC)",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2505.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-C2-2506",
+    "title": "Establish a Company Combat Operations Center (CCOC)",
+    "functional_area": "C2",
+    "event_level": "individual skill progression",
+    "file": "0369-c2-2506.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2501",
+    "title": "Develop a Fire Support Execution Matrix",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2502",
+    "title": "Develop a Target List",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2502.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2503",
+    "title": "Lead a Fire Support Team (FiST)",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2503.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2504",
+    "title": "Develop a Schedule of Fires",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2504.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2505",
+    "title": "Develop a Fire Support Coordination Overlay",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2505.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-FSPT-2506",
+    "title": "Conduct a Quick Fire Support Plan",
+    "functional_area": "FSPT",
+    "event_level": "individual skill progression",
+    "file": "0369-fspt-2506.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-LOG-2501",
+    "title": "Coordinate Logistics",
+    "functional_area": "LOG",
+    "event_level": "individual skill progression",
+    "file": "0369-log-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-TRNG-2501",
+    "title": "Develop a Unit Training Plan",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0369-trng-2501.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  },
+  {
+    "event_code": "0369-TRNG-2505",
+    "title": "Lead an After Action Review (AAR)",
+    "functional_area": "TRNG",
+    "event_level": "individual skill progression",
+    "file": "0369-trng-2505.md",
+    "has_condition": true,
+    "has_standard": true,
+    "has_components_or_steps": true
+  }
+]

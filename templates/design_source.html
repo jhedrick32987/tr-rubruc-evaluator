@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <div class="row-between">
+    <h2>{{ record.event_code }}</h2>
+    <a class="btn small" href="/design">&larr; All tasks</a>
+  </div>
+  <p class="muted">{{ record.title }}</p>
+
+  <h3>Condition &amp; Standard</h3>
+  <div class="grounding">
+    <p><strong>Condition.</strong> {{ record.grounding_fields.condition or "—" }}</p>
+    <p><strong>Standard.</strong> {{ record.grounding_fields.standard or "—" }}</p>
+  </div>
+
+  <h3>Performance steps (rubric backbone)</h3>
+  {% if steps %}
+  <div class="step-block">
+    <div class="step-body">
+      <ol>
+        {% for n, t in steps %}<li>{{ t }}</li>{% endfor %}
+      </ol>
+    </div>
+  </div>
+  {% else %}
+  <p class="muted">No performance steps found for this task.</p>
+  {% endif %}
+
+  <details class="spear-note">
+    <summary>S.P.E.A.R. lenses (from configuration, not the source)</summary>
+    <ul>
+      {% for d in spear_dimensions %}
+      <li><strong>{{ d.name }}:</strong> {{ d.definition }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <form method="post" action="/design/{{ record.event_code }}/generate">
+    <button class="btn primary" type="submit">Generate rubric</button>
+    <span class="muted small">Builds observable metrics from the performance steps above.</span>
+  </form>
+</section>
+{% endblock %}

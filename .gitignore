@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# App state (local, regenerable)
+data/rubric_versions/
+data/drafts/
+data/sessions/
+
+# Runtime model settings — may contain an API key, never commit
+data/model_settings.json
+
+# Private source material — not read by the app at runtime, not for public release
+corpus/work/fireteam-forge-corpus/00_project_context/
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5853 @@
+---
+id: "mcdp-1-3"
+title: "Tactics"
+publication: "MCDP 1-3"
+document_date: "1997"
+authority: "Headquarters, United States Marine Corps"
+relevance_tier: 3
+source_url: "https://www.marines.mil/Portals/1/Publications/MCDP%201-3%20Tactics.pdf"
+official_url: "https://www.marines.mil/Portals/1/Publications/MCDP%201-3%20Tactics.pdf"
+source_status: "Official public PDF"
+retrieved_utc: "2026-09-16"
+content_sha256: "0b96dc450bee23b462d5a2af6966e7fc3e5d25473129be1de601594e391a893d"
+classification: "UNCLASSIFIED / publicly available source"
+---
+
+# MCDP 1-3 Tactics
+
+## Source content
+DISTRIBUTION STATEMENT A:Approved for public release; distribution is unlimited DEPARTMENTOFTHENAVY HeadquartersUnitedStatesMarineCorps Washington,D.C.20380-1775
+
+> 30July1997
+> FOREWORD
+
+Thispublicationisaboutwinningincombat.Winningre-
+
+quiresmanythings:excellenceintechniques,anappreciation
+
+> oftheenemy,exemplaryleadership,battlefieldjudgment,and
+
+focusedcombatpower.Yetthesefactorsbythemselvesdo
+
+notensuresuccessinbattle.Manyarmies,bothwinnersand losers,havepossessedmanyoralloftheseattributes.When weexaminecloselythedifferencesbetweenvictorandvan-
+
+quished,wedrawoneconclusion.Successwenttothear-
+
+mieswhoseleaders,seniorandjunior,couldbestfocustheir
+
+efforts—theirskillsandtheirresources—towardadecisive
+
+end.Theirsuccessarosenotmerelyfromexcellenceintech-
+
+niques,procedures,andmaterialbutfromtheirleaders'abili-
+
+tiestouniquelyandeffectivelycombinethem.Winningin
+
+combatdependsupontacticalleaderswhocanthinkcrea-
+
+> tivelyandactdecisively.
+
+ThisbookpertainsequallytoallMarineleaders,whether
+
+theirdutiesentailcombatservicesupport,combatsupport,or
+
+combatarms.ItappliestotheMarineair-groundtaskforce
+
+commanderaswellasthesquadroncommanderandthefire teamleader.AllMarinesfacetacticaldecisionsinbattlere-
+
+gardlessoftheirroles.Tacticalleadersmustdevelopand
+
+honetheirwarfightingskillsthroughstudyandpractice.This
+
+publicationservesasaguideforthatprofessionaldevelop-
+
+> ment.Itaddressesthetheoryoftacticsanditsapplicationina
+> chaoticanduncertainenvironment.
+
+Theconceptsandideaswithinthispublicationarebattle-
+
+> tested.Throughoutourhistory,oneofthemostimportantrea-
+
+SonsforthesuccessoftheUnitedStatesMarineCorpshas beenthemilitaryskillofourleadersateverylevelofcom-
+
+mand.Throughtheirtacticalskillandbattlefieldjudgment,
+
+ourcommandersachievedtacticalandoperationaladvantage
+
+> atthedecisivetimeandplace.
+
+ThispublicationisarevisionofFleetMarineForceMan-
+
+ual1-3,Tactics,of1991andsupersedesit.MarineCorps DoctrinalPublication(MCDP)1-3fullyretainsthespirit,
+
+scope,andbasicconceptsofitspredecessor.MCDP1-3fur-
+
+therdevelopsandrefinessomeofthoseconcepts;inparticu-
+
+lar,anewchapterhasbeenaddedonexploitingsuccessand
+
+> finishing,andsomeoftheoriginalmaterialhasbeenreorgan-
+> izedandexpanded.
+
+TacticsisinconsonancewithMCDP1,Warfighting,and
+
+theotherMarinewarfightingpublications.Presuminganun-
+
+derstandingofmaneuverwarfare,MCDP1-3appliesitspe-
+
+cificallytothetacticallevelofwar.LikeMCDP1,itisnot
+
+prescriptivebutdescriptive,providingguidanceintheform ofconceptsandideas.ThispublicationestablishestheMarine Corps'philosophyforwagingandwinningbattles. Commandantof Corps
+
+> DISTRIBUTION:14200000200
+
+©1997UnitedStatesGovernmentasrepresentedbytheSec-
+
+retaryoftheNavy.Allrightsreserved. MCDP1-3
+
+# Tactics
+
+Chapter1. UnderstandingTactics
+
+AnArtandAScience—TheEnvironment—How
+
+WeViewCombatandHowWeFight—Marine
+
+CorpsTactics—Conclusion
+
+Chapter2. AchievingaDecision
+
+Anzio:AModelofTacticalIndecisiveness—Cannae:
+
+AClearTacticalDecisionAchieved—Understanding
+
+Decisiveness—MilitaryJudgment—Understandingthe
+
+Situation—ActingDecisively—Conclusion
+
+Chapter3. GainingAdvantage
+
+CombinedArms—Maneuver—Exploitingthe
+
+> Environment—Terrain—Weather—PeriodsofDarkness
+
+orReducedVisibility—ComplementaryForces—Surprise—
+
+TrappingtheEnemy—DevelopinganAmbush
+
+Mentality—Asymmetry——Conclusion Tactics MCDP1-3
+
+Chapter4. BeingFaster
+
+SpeedinCombat—WhatisSpeed?—SpeedandTime— Timing—RelativeSpeed—ContinuingSpeed—Speed
+
+andChange—BecomingFaster—Conclusion
+
+Chapter5. Adapting
+
+Anticipation—Improvisation—FlexiblePlans— Decentralization—Conclusion
+
+Chapter6. Cooperating
+
+ControlinCombat-Cooperation—Discipline-Conclusion
+
+Chapter7. ExploitingSuccessandFinishing
+
+BuildingonAdvantage—Consolidation,Exploitation,
+
+andPursuit—FinishingtheEnemy—UseoftheReservein
+
+Combat-Conclusion
+
+Chapter8. MakingitHappen
+
+Doctrine—Education—Training—Trainingand
+
+EducationalMethods—ProfessionalReadingand
+
+> HistoricalStudy—TacticalExercises—Wargaming—
+> TerrainWalks—Competition—Critiques—Conclusion
+
+Notes Chapter1
+
+# UnderstandingTactics
+
+"Intactics,themostimportantthingisnotwhetheryougo
+
+leftorright,butwhyyougoleftorright. —A.M.Gray
+
+"Thereisonlyoneprincipleofwarandthat'sthis.Hitthe
+
+otherfellow,asquickasyoucan,andashardasyoucan,
+
+whereithurtshimthemost,whenheam 'tlooking."2
+
+—Sir WilliamSlim MCDP1-3 UnderstandingTactics
+
+# Thisbookisaboutwinningincombat.Winningrequires
+
+athoroughunderstandingandknowledgeoftactics.But
+
+whatistactics?
+
+ANARTANDASCIENCE
+
+Tacticsis"theartandscienceofwinningengagementsand
+
+battles.Itincludestheuseoffirepowerandmaneuver,thein-
+
+tegrationofdifferentarmsandtheimmediateexploitationof
+
+successtodefeattheenemy,"3aswellasthesustainmentof
+
+forcesduringcombat.Italso"includesthetechnicalapplica-
+
+tionofcombatpower,whichconsistsofthosetechniquesand
+
+proceduresforaccomplishingspecifictaskswithinatactical
+
+action."4ThisdescriptionisfromMarineCorpsdoctrineand
+
+reflectsourapproachtotactics.Whatdoesittellus?
+
+Tacticsreferstotheconceptsandmethodsweusetoac-complishaparticularobjectiveineithercombatormilitary
+
+operationsotherthanwar.Inwar,tacticsistheapplicationof
+
+combatpowertodefeattheenemyinengagementsandbat-
+
+tles.Combatpoweristhetotaldestructiveforcewecanbring
+
+tobearagainsttheenemy;itisauniqueproductofavariety
+
+ofphysical,moral,andmentalfactors.5Tacticsresultsinthe
+
+actionsandcounteractionsbetweenopposingforces.Itin-
+
+cludestheuseofmaneuver,supportedbytheapplicationand
+
+coordinationoffires,togainadvantageinordertodefeatthe
+
+> 3
+
+Tactics MCDP1-3
+
+enemy.Inmilitaryoperationsotherthanwar,tacticsmaybe
+
+theschemesandmethodsbywhichweperformothermis-
+
+sions,suchastocontrolacrowdortoprovideasecureenvi-
+
+ronmentforthedeliveryoffood,medicine,orsuppliestoa
+
+> nationorpeopleinneed.
+
+Asstatedinthedefinition,tacticsisacombinationofart
+
+andsciencetogainvictoryovertheenemy.Theartoftactics
+
+liesinhowwecreativelyformandapplymilitaryforceina
+
+givensituation.Itinvolvesthecreation,positioning,andma-
+
+neuverofcombatpower.Whendoweflanktheenemy,and whendoweambushhim?Whendoweattack,andwhendo
+
+weinfiltrate?Howdoweusespeedandmomentumto
+
+achieveadecisiveadvantage?Thiscreativityisadeveloped
+
+capacity,acquiredthrougheducation,practice,andexperi-
+
+> ence.
+
+Thescienceoftacticsliesinthetechnicalapplicationof
+
+combatpower.Itincludesmasteringthetechniquesandpro-
+
+ceduresthatcontributetothedevelopmentofwarfighting
+
+skillssuchasmarksmanship,navigation,gunnery,andclose
+
+> airsupport.Theexecutionofthesetechniquesandprocedures
+> mustbecomesecondnatureforus;thisrequiresintensiveand
+
+continuoustraining.Withoutmasteryofbasicwarfighting
+
+skills,artistryandcreativityintheirapplicationareimpos-
+
+> sible.
+> 4
+
+MCDP1-3 UnderstandingTactics
+
+Nowthatwehaveexaminedtheartandscienceoftactics, letuslookathowweusetacticstocomplementstrategyand
+
+campaigning.Strategyandcampaigningbringourforcestoa
+
+particularplaceataparticulartime.Weusetacticstowinin
+
+combat.Awartypicallyinvolvesmanyindividualengage-
+
+mentsthatformacontinuousfabricofactivity.Sometimesa
+
+> clusterofengagementsflowstogethertomakeupabattlethat
+
+maylastforhours,days,orevenseveralweeks.Tactical
+
+competenceisindispensabletovictoryinsuchengagements
+
+> andbattles.Leadersattheoperationalandstrategiclevelsuse
+
+tacticalvictoriestobringaboutsuccessinthecampaignand,
+
+> ultimately,inthewarasawhole.
+
+Incombat,ourobjectiveisvictory.Sometimesthisin-
+
+volvesthecompletedestructionoftheenemy'sforces;at
+
+othertimesachievingvictorymaybepossiblebyattacking
+
+theenemy'swilltofight.TheMarineCorpsmustbeequally
+
+preparedtowinduringbothsituations—thoseinwhichthe
+
+> enemyforcesmustbecompletelydestroyed(asduringWorld
+
+WarII),andthoseinwhichthecompletedestructionofthe
+
+enemy'sforcesmaynotbenecessaryorevendesirable.As
+
+theCommandingGeneralofthe1stMarineDivisioninDes-
+
+ertStorm,stated,"Ourfocuswasnotondestroyingevery-
+
+thing.OurfocuswasontheIraqimindandgettingbehind
+
+[it]."6Heknewthatthepathtovictorydidnotlieinthetotal
+
+destructionoftheIraqiforces,butinunderminingtheirwill
+
+> tofight.
+> S
+
+Tactics MCDP1-3
+
+## TIlE ENVIRONMENT
+
+Thetacticalarenaisadynamic,ever-changingenvironment.
+
+Thecomplexityofthisenvironmentmakescombatchaotic
+
+andunpredictable.Asanexampleofconfusionandchaoson
+
+thebattlefield,considertheamphibiousassaultontheisland
+
+ofTarawainNovember1943.
+
+Duringtheassault,thecombinationofhighcasualties,lack ofeffectivecommunications,anddisruptionofthe2dand8th
+
+MarineRegiments'landingsontheassaultbeachesledtoa
+
+chaoticandnearlydisastroussituationforthe2dMarineDi-
+
+vision.Unitsweredecimatedunderheavyfire.Surviving
+
+Marineshuddledtogetherunderacoconutlogseawallinin-termingledunitswithouteffectivecommunications.Landing
+
+craftcarryingreinforcementsandsuppliescouldnotmakeit
+
+overacoralreeftothelandingbeaches.Onlythroughdaring
+
+leadership,initiative,andteamworkwereMarinesabletoget
+
+offthebeachandannihilatethedefendingJapaneseforce.7
+
+Theviolenceofcombatonlyincreasesthelevelofconfu-sionandchaos.RobertSherrod,aTimeandLifecorrespon-
+
+dentatIwoJima,gavetestimonytothischaosinwhathe
+
+called"waratitsworst":
+
+> ThefirstnightonIwoJimacanonlybedescribedasanight-
+
+mareinhell.... About thebeachinthemorninglaythedead.
+
+> 6
+
+MCDP1-3 UnderstandingTactics
+
+> Theyhaddiedwiththegreatestpossibleviolence.Nowherein
+> thePacifichaveIseensuchbadlymangledbodies.Manywere
+
+cutsquarelyinhalf.Legsandarmslayfiftyfeetfromany
+
+> body.8
+
+Battleisthecollisionofopposingforces—animate,inter-
+
+active,andunpredictableinbehavior.Performancevaries
+
+fromweektoweek,daytoday,andevenhourtohourasa
+
+unitinteractswithitsenvironmentandtheenemy.
+
+Militaryforcesarecomplexsystemsconsistingofindi-
+
+vidualsandequipment.Theyinteractinternallyandexternally inseeminglychaoticways.AsClausewitzwrote,"Abattalion
+
+ismadeupofindividuals,theleastimportantofwhommay
+
+chancetodelaythingsor . . . make themgowrong."9As
+
+Marines,webelievetheactionsofsingleindividualscanhave greatimpactincombatandcanalsomakethingsgoright.For
+
+example,SergeantJohnBasiloneasamachinegunnerat
+
+Guadalcanalcontributed"inlargemeasuretothevirtualanni-
+
+hilationofaJapaneseregiment."°Hesteadfastlymannedhis
+
+positioninthefaceofrepeatedwave-typeassaultsandwas
+
+instrumentalinbreakingtheenemy'sabilitytopresstheat-
+
+tack,forcingthemtoretreatwithoutachievingtheirgoals.
+
+Battleisalsoinfluencedbyavarietyofexternalcondi-
+
+tions—directionsandmissionsestablishedbyauthorities,ter-
+
+rain,weather,attitudesofthecivilianpopulace—thatoften
+
+cannotbeforeseen.Theoutcomeofcombatcanonlybean-
+
+ticipatedintermsofprobabilities.
+
+> 7
+
+Tactics MCDP1-3
+
+Technologyalsoaffectsthetacticalenvironment—butnot
+
+alwaysasanticipated.Technologymayreduceuncertainty,
+
+anditalsomayincreaseit.TheSpartans,organizedintopha-lanxes,attackedincloseformation,makingiteasytoseeand
+
+controlone'sforces.Today,tacticalformationsarelesswell-
+
+definedasdistancesbetweenelementshaveincreased,com-
+
+plicatingcommandandcontrol.Increasedweaponslethality,
+
+communicationsrange,andtacticalmobilitycauseustodis-
+
+perseforcesovergreaterdistances.Warismorefluidasare-
+
+sultoftechnology.Whilethemachinegunboggeddown
+
+warfareinWorldWarI,tacticalinnovationslikethetank,the airplane,andtheaircraftcarriermadewarfaremorerapidand
+
+> free-flowinginWorldWarII.
+
+Futurebattleislikelytobecomeevenmorechaotic.Al-
+
+thoughcombatinOperationDesertStormwasbetweenfairly
+
+well-definedforcesinawell-definedspace,theforcesand
+
+operatingareasinVietnam,Somalia,andGrenadawerefar
+
+lesswell-defined.Enemyunitsweredispersedandoftenhid-
+
+denwithinthecivilianpopulation,makingthemhardtode-
+
+tectandhardertotarget.Theyconvergedatatimeandplace
+
+oftheirchoosing.Futureopponentsmaychoosetofightin thismannertooffsetouroverwhelmingsuperiorityinfire-
+
+> power. This chaotic environment also brings opportunity.
+
+Clausewitzwroteaboutcombat,"Nootherhumanactivityis
+
+> 8
+
+MCDP1-3 UnderstandingTactics
+
+socontinuously.. .bound upwithchance."1'Thechallengeis
+
+torecognizeopportunitywhenitoccursinthemidstofchaos anduncertaintyandtoseizeittoobtainaclear,unambiguous victory.Whenviewedthroughtime,eventhemostchaoticof
+
+systemsmayrevealrecurringpatternsthatmaythenbeex-
+
+ploited.Theexperiencedtacticianwilllookfortheserecur-
+
+ringpatternsthatcanbeexploitedtoadvantage.
+
+HowWEVIEWCOMBATANDHOWWEFIGHT
+
+Howweviewthecombatenvironmentinlargepartdeter-
+
+mineshowweoperateinit.Therearetwocompetingviews
+
+ofcombat.Someseeitinsimpletermsasifthebattleandthe environmentrepresentaclosedmechanicalsystem.This"de-
+
+terministic"viewarguesthatcombatispredictable.Among
+
+theadvocatesofthisviewaremilitarytheoristswhoseekpre-
+
+scriptiverulesforbattleandanalystswhopredictbattleout-
+
+comesbaseduponforceratios.Theotherviewisthatcombat ischaoticanduncertain.Inthis"probabilistic"view,battleis
+
+seenasacomplexphenomenoninwhichparticipantsinteract withoneanotherandrespondandadapttotheirenvironment.
+
+Theprobabilisticviewpointseescombatasunpredictable.
+
+Thedistinctionsbetweenthesetwoviewsofcombatareim-
+
+portant.Theydrivethechoicescommandersmakeincombat.
+
+> 9
+
+Tactics MCDP1-3 Thedeterministicviewofcombatoftenleadstocentralized
+
+control.Itcanbearecipeformicromanagementstiflingthe
+
+initiativesubordinatesneedtodealwithcombat'sinevitable
+
+uncertainties.Overlyprescriptiveordersandplansinhibita
+
+> unit'sabilitytocopewithuncertaintyandchange.Eventually,
+
+theunit,inflexibleandunabletoadapt,maybeoverwhelmed
+
+> byevents.
+
+Theprobabilisticviewofcombatrecognizesthatthecom-
+
+plexityanduncertaintyofwarleadstoamoredecentralized
+
+approachtocontrol.Weplacegreatertrustinsubordinatesto
+
+achieveadesiredresult.Throughuseofmissionordersand
+
+commander'sintent,subordinatesareabletohandleunfore-
+
+> seensituationsandexploitopportunitiesthatarise.
+
+MarineCorpstacticsarebasedontheprobabilisticviewof
+
+combat.Wemustbeabletocopewithuncertaintyandoper-
+
+ateinanever-changingcombatenvironment.Wemustbe
+
+flexibleandresponsivetochangesinthesituation.Thereare
+
+nofixedrulesthatcanbeappliedautomatically,andevery
+
+situationisdifferent.Asonetacticsmanualputitmorethan halfacenturyago:"Theleaderwhofranticallystrivestore-
+
+> memberwhatsomeoneelsedidinsomeslightlysimilarsitua-tionhasalreadysethisfeetonawell-traveledroadtoruin."2
+
+Leadersmustrememberthattherearenofixedrulesand
+
+noprecisechecklists,buttherearebounds.Thatiswhysuc-
+
+cessfulleadersstudy,train,andexercisetheirmindstoim-
+
+provetacticalproficiency.Westudyexamplesofsuccesses
+
+> 10
+
+MCDP1-3 UnderstandingTactics
+
+andfailuresnottoemulatesomeoneelse'sscheme,butto
+
+> increaseourowntacticalunderstandingandcompetence.
+
+MARINE CORPS TACTICS ThesuccessfulexecutionofMarineCorpstacticshingeson
+
+thethoughtfulapplicationofanumberoftacticalconceptsso
+
+astoachievesuccessonthebattlefield.Keyamongthese
+
+conceptsareachievingadecision,gainingadvantage,being
+
+faster,adapting,cooperating,andexploitingsuccess.Eachof
+
+theseconceptsisdiscussedindetaillaterinthispublication.
+
+Creativeandpracticalemploymentoftheseideasthroughout
+
+theplanningandexecutionoftacticsleadstosuccess.These conceptsarenotstand-aloneideasbutaretobecombinedso
+
+astoachieveaneffectthatisgreaterthantheirseparatesum.
+
+Partoftheartandscienceoftacticsliesinknowingwhere
+
+andwhentoapplytheseconceptsandwhichcombinationsto
+
+> usetoachievethedesiredeffect.
+
+Thenumberanddefinitionoftheseconceptsarenotfixed,
+
+andtheirorderofpresentationdoesnotindicatetheirvalue.
+
+Marinesmayfindintheirstudiesneworslightlydifferent
+
+ideasthatmaybejustasimportant.Theseideasarepresented
+
+inthispublicationsothatreaderswillthinkabouthowto
+
+> achievesuccessonthebattlefield.Theseconceptshelptopro-
+
+videaframeworkfordevelopingatacticalmindsetthathas
+
+> 11
+
+MCDP1-3
+
+longbeenahallmarkofMarineleaders,fromcorporal
+
+> throughgeneral.
+
+CONCLUSION
+
+TacticalexcellenceisthehallmarkofaMarineCorpsleader.
+
+Wefightandwinincombatthroughourmasteryofboththe
+
+artandthescienceoftactics.Theartoftacticsinvolvesthe
+
+creativeandinnovativeuseofmaneuverwarfareconcepts,
+
+whilethescienceoftacticsrequiresskillinbasicwarfighting
+
+techniquesandprocedures.ItisourresponsibilityasMarine
+
+leaderstoworkcontinuouslytodevelopourowntacticalpro-
+
+ficiencyandthatofourMarines.Understandingtheconcepts
+
+presentedinthispublicationprovidesafoundationforthat
+
+> development.
+> 12
+
+# Chapter2
+
+# Achieving aDecision
+
+"itfollows,then,thattheleaderwhowouldbecomeacom-
+
+petenttacticianmustfirstclosehismindtothealluringfor-
+
+mulaethatwell-meaningpeopleofferinthenameofvictory.
+
+Tomasterhisdf/Icultarthemustlearntocuttotheheartof
+
+asituation,recognizeitsdecisiveelementsandbasehis
+
+courseofactiononthese."
+
+—Infantry inBattle
+
+"Wemustberuthlesslyopportunistic,activelyseekingout
+
+signsofweakness,againstwhichwewilldirectallavailable
+
+combatpower.Andwhenthedecisiveopportunityarrives,we
+
+mustexploititfullyandaggressively,committingeveryounce
+
+ofcombatpowerwecanmusterandpushingourselvestothe
+
+limitsofexhaustion."2
+
+—FMFM 1,Warfighting MCDP1-3 AchievingaDecision
+
+# Tacticsistheemploymentofunitsincombat.Theobjec-
+
+tiveoftacticsistoachievemilitarysuccessthrougha
+
+decisioninbattle.Usingtacticalactionstoachieveadecision
+
+iscentraltoMarineCorpstactics.
+
+Inthepast,militaryforceshaveoftenwononlyincre-
+
+mentalgainswhentheysoughtvictory—takingahillhereor
+
+atownthere,pushingthefrontforwardafewkilometers,or
+
+addingtothebodycount.Sometimestheseincrementalgains weretheresultofacompetentenemyorthechaoticnatureof
+
+war.Manytimes,however,commanderssoughtincremental
+
+gainsasameanstoachievevictory.Thisincrementalistview
+
+seeswarasaslow,cumulativeprocessandisbestexempli-
+
+fiedbythegrindingattritiontacticsseenontheWesternFront
+
+inWorldWarI.Theretheopponentsweremoreorless
+
+evenlymatched,andtheirtacticsresultedinindecisiveaction.
+
+InVietnam,wheretheopposingforceswerequitedissimilar intheirmilitarycapabilities,theincrementalapproachledto
+
+theU.S.'soverrelianceonfirepowerandbodycounts.This,in
+
+turn,ledtotheconductofmilitaryoperationsthatwereoften irrelevanttotheoutcomeofthewar,eventhoughacompari-
+
+sonofcasualtyratiosappearedfavorable.
+
+Therefore,theMarineCorpshasembracedamoreflexible,
+
+imaginative,andeffectivewaytowagewar:maneuverwar-
+
+fare.Marinesuccesswiththisapproachhasbeendemon-
+
+stratedinplaceslikeGrenadaandthePersianGulf.In
+
+contrasttotacticsbasedonincrementalattrition,tacticsin
+
+maneuverwarfarealwaysaimsatdecisiveaction.
+
+> 15
+
+Tactics MCDP1-3
+
+Thisdoesnotmean,however,thatcombatshouldbe
+
+> viewedasabloodlessballetofmovement.Combat,especially
+
+atthetacticallevelofwar,willbecharacterizedbytough,
+
+brutal,anddesperateengagements.Wemustrememberthat
+
+warisaviolentclashoftwoopposingwillsinwhicheach
+
+sideistryingtowrestadvantagefromtheother.Ourfuture
+
+enemiesmaynotallowustogain,maintain,oremploytech-
+
+nologicalornumericalsuperiority.Thefuturebattlemaybe
+
+bloodyandtough,andthatmakesitvitallyimportantthat
+
+> Marineleadersstrivetodeveloptacticalproficiency.
+> Whatdowemeanbyachievingadecision?Takeamoment
+> tocomparethesetwohistoricalexamples.
+
+ANZIO:AMODELOFTACTICALINDECISWENESS
+
+Inlate1943,theAlliesweresearchingforawaytoalleviate
+
+thestalemateinItaly.Thecampaignhadstalledaroundthe
+
+> CassinofrontandresembledthetrenchwarfareofWorldWar
+
+I.InordertokeepthepressureontheGermans,bypassthe
+
+stubbornGermandefensesatCassino,andcaptureRome,a
+
+boldoperationwasenvisioned.TheU.S.Army's3dDivision andtheBritishArmy's1stDivisionwouldmakeanamphibi-
+
+ouslandingatAnzio,about35milessouthofRome.(See
+
+> figure.)
+> 16
+
+MCDP1-3 AchievingaDecision
+
+> 17
+
+Tactics MCDP1-3
+
+TheAlliesachievedcompletesurprisebylandingatAnzio onJanuary22,1944.UnderthecommandoftheU.S.Army's
+
+MajorGeneralLucas,theAmericansandBritishquicklyes-
+
+> tablishedabeachheadandrapidlyadvanced3milesinlandby midmorningagainstlightGermanresistance.Withthemajor-
+
+ityoftheirforcesconcentratedfarthersoutharoundCassino,
+
+theGermanscouldnotpossiblyreinforcetheAnziobeach-
+
+headuntilJanuary23dor24th.IftheAlliespressedtheirad-
+
+vantage,theroadtoRomelayvirtuallyundefended.The
+
+seizureofRomewouldhavehadtheeffectofisolatingthe
+
+GermandefendersinthesouthandfirmlyestablishingAllied
+
+> controloverItaly.
+
+YetGeneralLucasdelayed.Concernedaboutbeingover-extendedandwantingtobuilduphislogisticsashore,Lucas
+
+failedtopresshisinitialadvantageofsurpriseandallowed theGermanstoreinforcetheAnzioarea.NotuntilJanuary
+
+29thdidLucasfeelstrongenoughtomakeanoffensivebid,
+
+butbythattimeitwastoolate.TheGermanshadarrivedin
+
+forceandhadseizedthedominatinghighgroundinthe
+
+beachheadarea.NotonlywastheAlliedoffensiveatAnzio
+
+stalled,buttheGermanshadseizedtheinitiativeandquickly
+
+threatenedtodrivetheAmericansandBritishbackintothe
+
+> sea(seefigure).
+
+Asaresult,theAlliesdidnotcompletethereductionof
+
+> theGermandefensesinsouthernItalyandcaptureRomeuntil
+> 18
+
+MCDP1-3 AchievingaDecision severalmonthslater.GeneralLucaslostatremendousoppor-
+
+tunitytoexploitaninitialsuccessandgainadecisiveresult.3
+
+> 19
+
+Tactics MCDP1-3
+
+CANNAE:ACLEARTACTICALDECISION
+
+ACHIEVED
+
+OnAugust2,216B.C.,theCarthaginiangeneralHannibal
+
+foughttheRomanarmyunderthecommandofTerentius VarronearthecityofCannaeinsouthernItaly.Hannibal
+
+basedhistacticsonthespecificcharacteristicsofbothforces
+
+> andontheaggressivepersonalityoftheRomancommander.
+
+Asdawnbroke,Hannibaldrewuphisforceof50,000vet-
+
+eranswithhisleftflankanchoredontheAufidusriver,se-
+
+curedfromenvelopmentbythemorenumerousRomans.His
+
+centercontainedonlyathinlineofinfantry.Hismainforce
+
+wasconcentratedontheflanks.Hisleftandrightwingseach
+
+containeddeepphalanxesofheavyinfantry.Eightthousand
+
+cavalrytiedtheleftofhislinetotheriver.Twothousand
+
+cavalryprotectedhisopenrightflank.Eightthousandmen
+
+> guardedhiscampintherear.
+
+Varroandmorethan80,000Romansacceptedthechal-
+
+lenge.Seeingthewell-protectedCarthaginianflanks,Varro
+
+> dismissedanyattempttoenvelop.Hedecidedtocrushhisop-
+
+ponentbysheerweightofnumbers.Heplaced65,000menin
+
+hiscenter;2,400cavalryonhisright;and4,800cavalryon
+
+> hisleftandsent11,000mentoattacktheCarthaginiancamp.
+
+Followingpreliminaryskirmishes,Hannibalmovedhis
+
+> lightcenterlineforwardintoasalientagainsttheRomancen-
+
+ter.(SeeAinfigure.)Then,hisheavycavalryontheleft
+
+> 20
+
+MCDP1-3 AchievingaDecision
+
+> 21
+
+Tactics MCDP1-3
+
+crushedtheopposingRomancavalryandswungcompletely
+
+aroundtheRomanreartoattacktheRomancavalryonthe
+
+> otherflank.TheRomancavalryfledthefield.
+> TheCarthaginianheavycavalrythenturnedbacktoassault
+
+therearofthedenseRomaninfantrywhohadpressedback
+
+Hannibal'sthincenterline.Atthesametime,Hannibal
+
+wheeledhisrightandleftwingsintotheflanksoftheRoman
+
+center.TheRomanswereboxedin,unabletomaneuveror
+
+usetheirweaponseffectively.(SeeBinfigureonpage21.)
+
+Between50,000and60,000RomansdiedthatdayasVarro's
+
+> armywasdestroyed.
+
+UNDERSTANDINGDECISIVENESS
+
+> Whatdotheseexamplestellusaboutachievingadecision?
+
+First,achievingadecisionisimportant.Anindecisivebat-
+
+tlewastesthelivesofthosewhofightanddieinit.Itwastes
+
+theeffortsofthosewhosurviveaswell.Allthecosts—the
+
+deaths,thewounds,thesweatandeffort,theequipmentde-
+
+stroyedorusedup,thesuppliesexpended—aresufferedfor
+
+littlegain.Suchbattleshavenomeaningexceptforthecom-
+
+parativelossesandperhapsanincrementalgainforoneside
+
+> ortheother.
+> 22
+
+MCDP1-3 AchievingaDecision
+
+Second,achievingadecisionisnoteasy.Historyislitter-
+
+edwithindecisivebattles.Sometimesitwasenemyskilland
+
+determinationthatpreventedevenavictoriouscommander
+
+fromachievingthedecisionhesought.Inothercases,com-
+
+> mandersfoughtabattlewithoutenvisioningalargerresultfor
+
+theiractions.Sometimes,evenwithavisionofmakingthe
+
+battledecisive,theycouldnotachievetheirgoalsduetothe
+
+chaosandfrictionthatisthenatureofwarandmakesdeci-
+
+> sivevictorysodifficult. Thatleadstothethirdlessonourexamplespointout.Tobe
+
+decisive,abattleoranengagementmustleadtoaresultbe-
+
+yonditselfWithinabattle,anactionthatisdecisivemust
+
+leaddirectlytowinninginthecampaignorwarasawhole. Forthebattletobedecisive,itmustleaddirectlytoalarger
+
+> successinthewarasawhole.
+
+Ontheotherhand,wemustnotseekdecisivenessforits
+
+> ownsake.Wedonot,afterall,seekadecisionifitislikelyto
+
+beagainstus.Weseektoensure—insofarasthisispossible,
+
+giventheinherentuncertaintiesofwar—thatthebattlewill
+
+> goourway.Wehavestackedthedeckinourfavorbeforethe
+
+cardsarelaidonthetable.Otherwise,toseekdecisivebattle
+
+> isanirresponsiblegamble.
+
+Whenweseekbattle,wemustseekvictory:accomplish-mentoftheassignedmissionthatleadstofurthersignificant
+
+gainsfortheforceasawhole.AtAnzio,theAlliedaimwas
+
+tobreakthestalemateinthesouth,openingupasouthern
+
+> 23
+
+Tactics MCDP1-3
+
+frontthatwouldforceGermanytomoveadditionalforces
+
+fromthedefenseofNonnandy.ThisweakeningoftheNor-
+
+mandydefenseswouldsupportourplannedinvasionof
+
+Francelaterthatsameyear.AtCannae,Carthagewonone
+
+roundinitslongcontentionwithRomeforthedominationof
+
+theMediterranean.Thesetacticalbattleswereplannedfor
+
+theiroveralloperationalandstrategiceffect.Theconse-
+
+> quencesofatacticalengagementshouldleadtoachievingop-erationalandstrategicgoals.
+
+MILITARYJUDGMENT
+
+Onceweunderstandwhatismeantbythetermdecisiveand
+
+whyitisimportanttoseekadecision,aquestionnaturally
+
+> arises:Howdowedoit?
+
+Thereisnoeasyanswertothatquestion;eachbattlewill
+
+haveitsownuniqueanswers.Aswithsomuchinwarfare,it
+
+dependsonthesituation.Noformula,process,acronym,or
+
+buzzwordcanprovidetheanswer.Rather,theanswerisin
+
+militaryjudgment,intheabilityofthecommandertounder-
+
+> standthebattlefieldandactdecisively.Militaryjudgmentisa
+
+developedskillthatishonedbythewisdomgainedthrough
+
+experience.Combinedwithsituationalawareness,military
+
+judgmentallowsustoidentifyemergingpatterns,discern
+
+> criticalvulnerabilities,andconcentratecombatpower.
+> 24
+
+MCDP1-3 AchievingaDecision
+
+UnderstandingtheSituation
+
+Thefirstrequirementofacommanderistounderstandthe
+
+situation.Thesuccessfultacticianstudiesthesituationto
+
+> developinhismindaclearpictureofwhatishappening,how
+
+itgotthatway,andhowitmightfurtherdevelop.Consid-
+
+eringthefactorsofmission,enemy,terrainandweather,
+
+troopsandsupportavailable-timeavailable(METT-T),the
+
+commandermustthinkthroughallactions,determinethede-
+
+siredresult,andascertainthemeanstoachievethatresult.
+
+Partofthecommander'sthinkingshouldalsoincludeassum-
+
+ingtheroleoftheenemy,consideringwhattheenemy'sbest
+
+> courseofactionmaybe,anddecidinghowtodefeatit.Think-
+
+ingthroughtheseelementshelpsthecommanderdevelopin-
+
+> creasedsituationalawareness.
+
+Basedonthisunderstandingofthesituation,thecom-
+
+mandercanbegintoformamentalimageofhowthebattle mightbefought.Centraltothecommander'sthinkingmust
+
+bethequestion,"Inthissituation,whateffortswillbedeci-
+
+sive?"Thecommanderasksthisquestionnotjustonce,but
+
+> repeatedlyasthebattleprogresses.Thecommandermustalso addresspossibleoutcomesandthenewsituationsthatwillre-
+
+sultfromthosepossibilities.Asthesituationchanges,sowill
+
+> thesolutionandtheactionsthatderivefromit.
+
+Foreverysituation,theleadermustdecidewhichofthe
+
+countlessandoftenconfusingpiecesofinformationareim-
+
+portantandreliable.Theleadermustdeterminewhattheen-
+
+emyistryingtodoandhowtocounterhisefforts.The
+
+> 25
+
+Tactics MCDP1-3
+
+leader'sskill isessentiallyoneofpatternrecognition,the
+
+ability,afterseeingonlyafewpiecesofthepuzzle,tofillin
+
+therestofthepicturecorrectly.Patternrecognitionisthe
+
+abilitytounderstandthetruesignificanceanddynamicsofa
+
+situationwithlimitedinformation.Patternrecognitionisa
+
+keyskillforsuccessonthebattlefield.
+
+Tacticsrequiresleaderstomakedecisions.Aleadermust
+
+makedecisionsinaconstantlychangingenvironmentoffric-tion,uncertainty,anddanger.Makingeffectivedecisionsand
+
+actingonthosedecisionsfasterthantheenemyisacrucial
+
+> elementofMarineCorpstactics.
+
+Sometimestheremaybetimetoanalyzesituationsdeliber-atelyandtoconsidermultipleoptions.Comparingseveralop-
+
+tionsandselectingthebestoneisknownasanalytical
+
+decisionmaking.Whentimeallowsacommandertoapply
+
+analyticaldecisionmaking—usuallybeforeanengagementor
+
+> battlebegins—thecommandershouldmakethemostofit.
+
+Onceengaged,however,thecommanderfindstimeisshort andtheneedforspeedparamount.Insomecases,speedingup
+
+theanalyticaldecisionmakingprocessmaybesufficient;
+
+however,inmostcasesintuitivedecisionmakingisneededto generateandmaintaintempo.Intuitivedecisionmakingrelies
+
+onacommander'sintuitiveabilitytorecognizethekeyele-mentsofaparticularproblemandarriveattheproperdeci-
+
+sionwithouthavingtocomparemultipleoptions.Intuitionis
+
+> 26
+
+MCDP1-3 AchievingaDecision
+
+notsomemysteriousquality.Rather,itisadevelopedskill,
+
+> firmlygroundedinexperience,andonethatcanbefurtherde-
+
+velopedthrougheducationandpractice.Itisnotwithout
+
+somerisk,however,andleadersshouldusethedecisionmak-
+
+> ingstylethatworksforthem.
+
+Leaderswithstrongsituationalawarenessandbroadexpe-
+
+riencecanactquicklybecausetheyhaveanintuitiveunder-
+
+standingofthesituation,knowwhatneedstobedone,and knowwhatcanbedone.Thisinsighthasoftenbeencalled
+
+coupd'oeil(pronouncedkoodwee),aFrenchtermmeaning
+
+literally"strokeoftheeye."Ithasalsobeencalled"tactical
+
+> sense."
+
+UnionArmyBrigadierGeneralJohnBuford'sapproachto
+
+thebattleofGettysburgoffersagoodexampleofunderstand-ingthebattlesothatitleadstoadecision.ArrivingatGettys-
+
+burgwithadivisionofcavalryonthemorningofJune30,
+
+1863,BufordsawConfederateforcesapproachingfromthe
+
+northwest.WiththebulkoftheUnionforcesstillsomemiles
+
+away,Bufordwasabletoconceptualizethecomingbattlein
+
+hismind.Fromhispositiononahilloutsidetown,hecould
+
+seethatearlyseizureofthehighgroundwestofGettysburg wascriticaltogivingtheArmyofthePotomactimetomass
+
+> itsforces.Occupationofthishighgroundwouldalsopreserve
+
+thetacticaladvantageofthehighgroundtoBuford'srearfor theUnionArmyoncetheyarrivedonthebattlefield.Buford
+
+alsoknewthatiftheConfederateswereallowedtomasstheir
+
+> 27
+
+Tactics MCDP1-3
+
+> 28
+
+MCDP1-3 AchievingaDecision forcesfirstaroundthehighgroundtothesouthandwest,Lee
+
+wouldhavetheadvantageoverthearrivingUnionforces.
+
+> (Seefigure.)
+
+Quicklyspreadingoutonebrigadewestoftownalong
+
+McPhersonRidge,GeneralBufordsettledintodefendGet-
+
+> tysburguntilthearrivalofUnionreinforcements.OnJuly1st,
+
+thefollowingday,heheldhisgroundagainstadivisionof
+
+> ConfederateinfantrysupportedbyartilleryuntilGeneralJohn
+
+Reynolds'SecondCorpscameupandreinforcedtheline.
+
+GeneralBuford'sabilitytoforeseethecomingbattle,take
+
+quickactioninthedispositionofhisforces,andholdthehigh
+
+grounduntilreinforcedwasoneofthedecisiveactionsthat
+
+defeatedtheArmyofNorthernVirginiaatthebattleofGet-
+
+tysburg.4Buford'sactionsatGettysburgdemonstratedanex-
+
+ceptionalabilitytograsptheessenceofatacticalsituation throughtheskillsofpatternrecognitionandintuitivedeci-
+
+> sionmaking.
+
+ActingDecisively Ourabilitytounderstandthesituationisuselessifwearenot
+
+preparedtoactdecisively.Whentheopportunityarrives,we
+
+mustexploit it fullyandaggressively,committingevery
+
+ounceofcombatpowerwecanmusterandpushingourselves
+
+tothelimitsofexhaustion.Thekeystothiseffortareidenti-
+
+f'ingenemycriticalvulnerabilities,shapingtheoperating
+
+areatoouradvantage,designatingamainefforttofocusour
+
+> combatpower,andactinginaboldandruthlessmanner.
+> 29
+
+Tactics MCDP1-3
+
+> CriticalVulnerabiities.Forbattlefieldsuccess,itisnotenough
+
+togeneratesuperiorcombatpower.Wemustfocusthatcom-batpower.Wemustconcentrateoureffortsonacriticalvu!-nerability,thatis,avulnerabilitywhichpermitsustodestroy
+
+somecapabilitywithoutwhichtheenemycannotfunction
+
+> effectively.
+
+Seekingtheenemy'svulnerabilitiesmeansstrikingwith
+
+ourstrengthagainsthisweakness(ratherthanhisstrength)
+
+andatatimewhentheenemyisnotprepared.Thisiswhere
+
+wecanoftencausethegreatestdamageatthelowestcostto
+
+ourselves.Inpracticalterms,thisoftenmeansavoidinghis
+
+front,wherehisattentionisfocused,andstrikinghisflanks
+
+> andrear,wherehedoesnotexpectus.
+> Justbecauseatargetisvulnerabledoesnot,however,mean
+
+thatitisworthattacking.Wemustdirectourresourcesand
+
+strikeatthosecapabilitiesthatarecriticaltotheenemy's
+
+> abilitytofunction—todefend,attack,orsustainhimself,orto commandhisforces.Wemustfocusoureffortsonthosecriti-
+
+calvulnerabilitiesthatwillbendtheenemytoourwillmost
+
+> quickly.
+
+Atthelowertacticallevel,thismaymeanusingfireand
+
+maneuvertotakeoutamachinegunpositionthatistheback-
+
+> boneofanenemydefense.Itmaymeanusingagapintheen-
+
+emy'sfieldsoffirethatallowsustogetintotherearofhis
+
+position.Itmaymeanexploitingtheenemy'slackofair
+
+defensesbycallingincloseairsupport.Itmaymeantaking
+
+> 30
+
+MCDP1-3 AchievingaDecision advantageofanenemy'slackofmobilitybyrapidlyoverrun-
+
+ningakeypositionfasterthanhecanrespond.Itmaymean
+
+interdictingenemyresupplyrouteswhenhissuppliesarerun-
+
+> flingshort.Itmaymeanexploitingalackoflong-rangeweap-
+
+onsbyemployingstandofftactics.Whateverwedetermine
+
+theenemy'scriticalvulnerabilitytobe,wemustbeprepared
+
+> torapidlytakeadvantageofit. Thereisnoformulafordeterminingcriticalvulnerabilities.
+
+Eachsituationisdifferent.Criticalvulnerabilitieswillrarely
+
+beobvious.Thisisoneofthethingsthatmakemasteryof
+
+tacticssodifficultandonereasonthatsofewactionsachieve
+
+adecisiveoutcome.Identifyingcriticalvulnerabilitiesisan
+
+importantprerequisitetoachievingadecision.
+
+ShapingtheOperatingArea.Oncewehavedevelopedanun-
+
+derstandingofthesituationandhavedeterminedenemycriti-
+
+> calvulnerabilitiestoattack,wetrytoshapetheoperatingarea
+
+toouradvantage.Shapingincludesbothlethalandnonlethal
+
+activitiessuchasplanningfirestofixtheenemy,usingan
+
+> axisofadvancetofacilitatemovement,designatingobjectives
+
+tofocusourcombatpower,orusingdeceptivemeasuresto
+
+reinforceenemyexpectations.Shapingactivitiescanmake
+
+theenemyvulnerabletoattack,impedeordiverthisattempts
+
+tomaneuver,facilitatethemaneuveroffriendlyforces,and
+
+otherwisedictatethetimeandplacefordecisivebattle.Shap-
+
+ingforcestheenemytoadoptcoursesofactionfavorableto
+
+> us.Weattempttoshapeeventsinawaythatallowsusseveral
+
+options,sothatbythetimethemomentfordecisiveaction
+
+> 31
+
+Tactics MCDP1-3
+
+arrives,wehavenotrestrictedourselvestoonlyonecourseof
+
+action.Throughshapingwegaintheinitiative,preservemo-
+
+> mentum,andcontrolthetempoofcombat.
+
+MainEffort.Themaineffortisacentralmaneuverwarfare
+
+concept:concentratingeffortsonachievingobjectivesthat
+
+leadtovictory.Ofalltheactionsgoingonwithinourcom-
+
+mand,werecognizeoneasthemostcriticaltosuccessatthat
+
+moment.Theunitassignedresponsibilityforaccomplishing
+
+thiskeymissionisdesignatedasthemaineffort—thefocal
+
+> pointuponwhichconvergesthecombatpoweroftheforce.
+> Themaineffortreceivespriorityforsupportofanykind.It mustbecleartoallotherunitsinthecommandthattheymust
+
+supportthatunitintheaccomplishmentofitsmission.The
+
+maineffortbecomesaharmonizingforceforasubordinate's
+
+initiative.Facedwithadecision,weaskourselves:HowcanI
+
+> bestsupportthemaineffort?
+
+Someactionsmaysupportthemaineffortindirectly.For example,acommandermayuseotherforcestodeceivethe
+
+enemyastothelocationofthemaineffort.Marineforces
+
+usedthisconceptextensivelyinconductingaseriesofcom-
+
+binedarmsraidspriortothegroundoffensiveinOperation DesertStorm.TheraidsweretoconfusetheIraqisastothe
+
+truepositionandintentionofAlliedforces."Theraidforce
+
+appearedinthemiddleofthenightandfiredfrompositions
+
+> theenemyhadeveryrighttobelievewereunoccupied."5
+> 32
+
+MCDP1-3 AchievingaDecision
+
+Useofamaineffortimpliestheuseofeconomyofforce.
+
+Thistermdoesnotmeanthatweuseaslittleforceaswe
+
+> thinkwecangetawaywith.Rather,itmeansthatwemustnot
+
+failtomakeeffectiveuseofalloftheassetsavailabletous.
+
+Forcesnotinapositiontodirectlysupportthemaineffort
+
+shouldbeusedtoindirectlysupportit.Suchforcesmightbe
+
+usedtodistracttheenemyortotiedownenemyforcesthat
+
+mightotherwisereinforcethethreatenedpoint.Uncommitted
+
+forcescanbeusedinthiseffortbymaneuveringthemin
+
+> feintsanddemonstrationsthatkeeptheenemyoffbalance.
+
+Whileacommanderalwaysdesignatesamaineffort,it
+
+mayshiftduringthecourseofabattleaseventsunfold.Be-
+
+causeeventsandtheenemyareunpredictable,fewbattles
+
+flowexactlyasthecommanderhasplanned.Asaresult,the commandermustmakeadjustments.Onewayisbyredesig-natingthemaineffort.Forexample,ifCompanyAisdesig-
+
+natedasthemaineffortbutrunsintoheavyenemyresistance
+
+whiletheadjacentCompanyBmakesabreakthroughthatex-
+
+ploitsacriticalvulnerability,thebattalioncommandermay
+
+designateCompanyBasthemaineffort.Thisnewdesigna-tionofCompanyBasthemaineffortmustnot,however,be
+
+merelynominal.Itmeansthatthecombatpowerwhichwas
+
+> supportingCompanyAnowshiftstosupportCompanyB.
+> Identifyingthemaineffortistheprincipalandmostimpor-tantanswertothequestion,"Howdoweachieveadecision?"
+> 33
+
+Tactics MCDP1-3
+
+BoldnessandRuthlessness.Forcingasuccessfuldecisionre-
+
+> quiresthecommandertobeboldandruthless.Boldnessrefers todaringandaggressivenessinbehavior.Itisoneofthebasic
+
+requirementsforachievingclear-cutoutcomes: Inorderto
+
+tryforvictory,wemustdaretotryforvictory.Wemusthave
+
+adesireto"winbig,"evenifwerealizethatinmanysitua-
+
+tionstheconditionsforvictorymaynotyetbepresent.Ruth-
+
+lessnessreferstopursuingtheestablishedgoalmercilessly
+
+andsingle-mindedly.Thisisdoublyimportantoncewegain
+
+anadvantage.Oncewehaveanadvantage,weshouldexploit
+
+ittothefullest.Weshouldnoteaseup,butinsteadincrease
+
+thepressure.Victoryincombatisrarelytheproductofthe
+
+initialplan,butratherofruthlesslyexploitinganyadvantage,
+
+> nomatterhowsmall,untilitsucceeds.
+
+Boldnessandruthlessnessmustbeaccompaniedbystrong
+
+leadershipandtemperedbysoundjudgment.Withoutthese
+
+qualities,boldnesscanbecomerecklessness,andruthlessness
+
+> canbedistortedintocruelty.
+
+CONCLUSION
+
+> AsMarineleaders,whetheroffireteamsorofaMarineexpe-
+
+ditionaryforce,weareresponsibleforachievingsuccess.In
+
+combat,thesuccessweseekisvictory—notmerelyapartial
+
+> 34
+
+MCDP1-3 AchievingaDecision
+
+ormarginaloutcomethatforestallsthefinalreckoning,buta victorythatettlestheissueinourfavor.
+
+Tobevictorious,wemustworkceaselesslyinpeacetimeto
+
+developinourselvesatalentformilitaryjudgment—theabil-itytounderstandasituationandactdecisively.Militaryjudg-
+
+mentresultsfromthewisdomgainedfromexperience.It
+
+allowsustoidentifypatternsofactivityandtoconcentrate oureffortsagainstacriticalvulnerabilitythatwillbendthe
+
+enemytoourwill.Wemustsharpenourabilitytomakedeci-
+
+sionsintuitivelybasedonourunderstandingofthesituation.
+
+> 35
+
+# Chapter3
+
+# GainingAdvantage
+
+"Inwarthepowertousetwofistsisaninestimableasset.To
+
+feintwithonefistandstrikewiththeotheryieldsanadvan-tage,butastillgreateradvantageliesinbeingabletointer-
+
+changethem—toconvertthefeintintotherealblowf the
+
+opponentuncovershimself "l
+
+—B. H.LiddellHart
+
+"Thechallengeistoidentifyandadoptaconceptofwarfight-
+
+ingconsistentwithourunderstandingofthenatureandthe-
+
+oryofwarandtherealitiesofthemodernbattlefield.What
+
+exactlydoesthisrequire?Itrequiresaconceptofwarfighting
+
+thatwillfunctioneffectivelyinanuncertain,chaotic,and
+
+fluidenvironment—infact,onethatwillexploitthesecondi-
+
+tionstoadvantage. "2
+
+—FMFM1, Warfighting MCDP1-3 GainingAdvantage
+
+# Abasicprincipleofmartialartsistousetheopponent's
+
+strengthandmomentumagainsthimtogainmorelev-
+
+eragethanone'sownmusclesalonecangenerate,thereby
+
+gaininganadvantage.Thesameconceptappliestotactics.
+
+Westrivetogainanadvantageoverouradversarybyexploit-
+
+ingeveryaspectofasituationtohelpustoachievevictory,
+
+notbyoverpoweringhimwithourownstrength.Thischapter
+
+willdiscusssevenildifferentwaysofgeneratingleverageto
+
+gainadvantageovertheenemy.
+
+ConsidertheAmericanIndianambushtechnique.Asmall
+
+numberofwarriorswoulddrawasuperiorforceofpursuing cavalryintoacanyonorsimilarcloseterrain.Therealarger forceofwarriors,lyinginwait,wouldquicklysurroundand
+
+ambushthesoldiers,whothoughttheyhadbeenpursuinga
+
+retreatingenemy.Byexploitingthecavalry'sinitialadvan-
+
+tagesofstrengthandmomentum,theAmericanIndianswere abletoseizetheinitiativeandgaintheadvantagethroughthe
+
+useofthisclassicambushmethod.
+
+COMBINED ARMS
+
+Theuseofcombinedarmsisakeymeansofgainingadvan-
+
+tage.Itisbasedontheideaofpresentingtheenemynot
+
+merelywithaproblem,butwithadilemma—ano-winsit-
+
+uation.Wecombinesupportingarms,organicfires,and
+
+> 39
+
+Tactics MCDP1-3
+
+maneuverinsuchawaythatanyactiontheenemytakesto
+
+> avoidonethreatmakeshimmorevulnerabletoanother.3For
+
+example,anentrenchedenemyshoulddiscoverthatifhe
+
+stayshunkereddowninfightingholes,Marineartilleryand
+
+> airwillblasthimout.Ifhecomesouttoattack,Marineinfan-
+> trywillcuthimdown.Ifhetriestoretreat,Marinearmorand airpowerwillpursuehimtohisdestruction.Thatiscombined
+> arms.
+
+Agoodexampleoftheuseofcombinedarmsatthesquad
+
+levelwouldbethesquadleaderpositioningsquadautomatic
+
+weaponsandgrenadelauncherstoprovidesupportbyfire
+
+whileinfantrymenwithriflesassaulttheposition.Thefire-
+
+powerfromtheautomaticweaponskeepstheenemyintheir
+
+fightingholeswhilegrenadesmakethoseholesuntenable.
+
+Thesesupportingfireskeeptheenemyfromreactingeffec-tivelytoourmaneuveringinfantryforce.Theenemyforces
+
+> areplacedinano-winsituation.
+
+Moderntacticsiscombinedarmstactics.Thatis,itcom-
+
+binestheeffectsofvariousarms—infantry,armor,artillery, andaviation—toachievethegreatestpossibleeffectagainst
+
+theenemy.Artilleryandinfantry,forexample,arenormally employedtogetherbecauseoftheirmutuallyreinforcingca-
+
+> pabilities—theinfantryprovidesclosesupporttotheartillery,
+
+protectingthemfromdismountedthreats,whiletheartillery
+
+providestheinfantrywithtimely,close,accurate,andcon-
+
+tinuousfiresupport.Thestrengthsofthearmscomplement andreinforceeachother.Atthesametime,theweaknesses
+
+> 40
+
+MCDP1-3 GainingAdvantage
+
+andvulnerabilitiesofeacharmareprotectedoroffsetbythe
+
+capabilitiesoftheother.
+
+Whileadivisioncommanderin1941,GeneralPattonhad
+
+thefollowingcommentsregardingcombinedarms:
+
+Thereisstillatendencyineachseparateunit . . .to beaone-
+
+handedpuncher.BythatImeanthattheriflemanwantsto
+
+shoot,thetankertocharge,theartillerymantofire. . . . That is
+
+notthewaytowinbattles.Ifthebandplayedapiecefirstwith
+
+thepiccolo,thenwiththebrasshorn,thenwiththeclarinet,
+
+andthenwiththetrumpet,therewouldbeahellofalotof
+
+noisebutnomusic.Togetharmonyinmusiceachinstrument mustsupporttheothers.Togetharmonyinbattle,eachweap-
+
+> onmustsupporttheother.Teamplaywins.4
+
+TheMarineair-groundtaskforceisaperfectexampleofa
+
+balancedcombinedarmsteam.Combinedarmstacticsis
+
+standardpracticeandsecondnatureforallMarines.
+
+MANEUVER
+
+Maneuverprovidesusameanstogainanadvantageoverthe
+
+enemy.Intoomanybattles,oneorbothsideshavesoughtto gainadvantageincombatthroughfirepowerandattrition.In
+
+WorldWarI,onesidewouldrushacrossno-man's-land
+
+undermurderousfireandattempttopushanopponentoff
+
+> 41
+
+Tactics MCDP1-3
+
+desiredterrain.Iftheattacksucceeded—andfewdid—the
+
+evictedforcescounterattackedinthesamemanner,usually
+
+reoccupyingthesameterraintheyhadbefore.Thesebattles
+
+werefirepowerandattritioncontests,andtheadvantagelay
+
+withthesidethathadthemostpersonnelandequipmentto
+
+expend.Thecostincasualtiesandequipmentwashighand
+
+> oftenproducednodecisiveresults.Wewanttoavoidthistype ofengagement.
+
+Traditionally,maneuverhasmeantmovinginawaythat gainspositionaladvantage.Forexample,wemaymaneuver
+
+> byenvelopinganexposedenemyflankorbydenyingtheen-emyterraincriticaltohisgoals.Wemaymaneuverbythreat-
+
+eningtheenemy'slinesofcommunicationsandforcinghim
+
+towithdraw.Wemaymaneuverbyseizingapositionwhich
+
+> allowsustobringeffectivefiretobearagainsttheenemybut
+
+whichprotectsusagainstenemyfires.Wemaymaneuverin otherdimensionsaswell.Forinstance,wemayalsomaneu-
+
+verintimebyincreasingrelativespeedandoperatingata
+
+fastertempothantheenemy.Normallywemaneuverbothin
+
+timeandspacetogainadvantageand,ultimately,victoryat
+
+> theleastpossiblecost.
+
+EXPLOITINGTHEENVIRONMENT
+
+Theuseoftheenvironmentofferstremendousopportunities
+
+togainadvantageovertheenemy.Wemustunderstandthe
+
+> 42
+
+MCDP1-3 GainingAdvantage
+
+characteristicsofanyenvironmentwherewemayhavetoop-
+
+erate:jungle,desert,mountain,arctic,riverine,orurban.
+
+Moreimportantly,wemustunderstandhowtheeffectsofter-
+
+rain,weather,andperiodsofdarknessorreducedvisibility
+
+> impactonourownandouradversary'sabilitytofight.
+
+Terrain
+
+> Our objective
+
+istoemploytacticsthatmakesterrainanad-
+
+vantagetousandadisadvantagetoouropponent.Terrain
+
+impactsonourmaneuverandinfluencesourtacticaldisposi-
+
+tions.Wemustunderstandterrainandcomprehenditseffects, asitmaylimitourmovement,reduceourvisibility,orrestrict
+
+ourfires.Wemustunderstandwhateffectsithasontheen-emyandonhisabilitiestodetectorengageus.Wemustbe
+
+awarethattheenemyalsoseeksadvantagefromterrain.We
+
+mustunderstandthatterrainshapestheenemy'smaneuver
+
+> anddispositionsaswellasourown.
+
+LieutenantHarrolKiserofthe1StBattalion,7thMarine
+
+Regiment,knewhowtouseterraintogainanadvantage.In
+
+November1950,hiscompanywasorderedtoseizeakey
+
+pieceofterrainatToktongPassduringthemarchoutofthe
+
+ChosinReservoirarea.LieutenantKiserhadonly20Marines
+
+leftinhisplatoon,andthepasswasheavilydefendedbythe
+
+Chinese.Usingaflankingridgelinetoconcealhisapproach,
+
+LieutenantKiserskillfullyenvelopedtheenemyfromtherear
+
+andquicklyroutedtheChineseoutoftheirwell-entrenched
+
+> position.5Today,asinKorea,theintelligentuseofterrainhas becomeastandardpracticeforMarines.
+> 43
+
+Tactics MCDP1-3
+
+Weather
+
+Adverseweather—cold,heat,rain—impedescombatopera-
+
+tions.Themilitaryunitthatisbestpreparedtooperatein
+
+theseconditionswillgainanadvantageoveritsopponent.
+
+DuringthebreakoutfromChosinReservoirinNovember
+
+> 1950,Marinesdemonstratedtimeandtimeagaintheabilityto
+
+useharshweathertotheiradvantageoveradetermineden-
+
+> emy.TheassaultofAbleCompany,1stBattalion,1StMarine
+
+Regiment,onHill1081inablindingsnowstormissuchan
+
+example.Despitevisibilityofonly25yards,thecompany
+
+wasabletocoordinateacombinedarmsattackandenvelop thiskeypieceofterrainthatblockedthebreakoutofthe1st
+
+MarineRegiment.Usingasnowstormtomaskitsmovement, AbleCompanysurprisedandannihilatedtheChinesedefend-
+
+> ers,therebyopeningaroutefortherestofthedivision.6
+
+Ifwearetouseweathertoouradvantage,wemusttrain
+
+andpreparerigorouslytooperateinallclimaticconditions.
+
+Wemustbeabletooperateourequipmentandemployour
+
+weaponseffectivelyinhot,cold,orwetenvironments—liter-
+
+> allyineveryclimeandplace.
+
+PeriodsofDarknessorReducedVisibility
+
+Unitsthatcanoperateeffectivelyduringhoursofdarknessor
+
+periodsofreducedvisibilityoftengainsignificantadvantage
+
+> overtheiropponent.Reducedvisibilitycanmakethesimplest
+
+oftasksdifficulttoaccomplish.Thisobviousdisadvantage
+
+canbeturnedonitsheadandusedtoouradvantagebya
+
+> 44
+
+MCDP1-3 GainingAdvantage
+
+commanderwhoseforcesaretrained,equipped,able,and
+
+willingtooperateatnight.Nightoperationscanproducegreat
+
+gainsagainstaforcethatcannotorwillnotoperateatnight.
+
+Operatingduringperiodsofreducedvisibilitycreatestempo byaddinganother10to12hourstothedayforfighting.The
+
+psychologicalimpactofnightfightingisalsogreatandcan
+
+producesignificantrewards.
+
+Agoodexampleofthetacticalimpactofnightattacksis
+
+foundinthebattleforOkinawaduringWorldWarII.Marine
+
+forceswereessentiallystalematedbythepresenceofastrong
+
+JapanesedefensivelineinthecoralridgesofsouthernOki-
+
+nawa.Afterdaysofineffectiveattacksbythe7thMarine
+
+Regiment,theregimentalcommanderelectedtoattackunder
+
+coverofdarkness.At0330on12June1945,the1stand2d
+
+Battalionsofthe7thMarinesadvanced,usingaroadthatin-
+
+tersectedtheridgeasaguide.ColonelEdwardW.Snedecker,
+
+CommandingOfficerofthe7thMarinesatthetime,noted:
+
+> twocompanies,onefromeach[of]the1stand2dBattal-
+> ions,gotacrossthevalleyduringthenightintoposition[on
+> theridge].EarlyinthemorningwhentheJapanesecameout
+> tocookbreakfast,theyfoundalittlebitofasurprise. ..[for]
+> them.7
+
+TheJapanesedefenderswerenotusedtoU.S.forcesat-
+
+tackingatnight.TheuseofdarknessallowedMarinestooc-
+
+cupypositionsalongthecrestofKunishiRidgeliterally
+
+withoutfiringashot.Fromthesepositions,theMarines
+
+> 45
+
+Tactics MCDP1-3
+
+dislodgedtheenemyfromtheirentrenchedpositionsand
+
+> movedonwarduntiltheJapanesedefenderswereannihilated.8
+
+COMLPLEMENTARYFORCES
+
+Complementaryforces—theideaoffix-and-flank—arean
+
+> importantwayofgainingadvantage.Theideabehindcomple-
+
+mentaryforcesistouseourforcesasanutcracker.Weseek
+
+tocrushtheenemybetweentwoormoreactions.Consider
+
+thecaseofanenemyriflemanfiringfrombehindatree.If
+
+oneMarinefiresfromthefront,theenemyriflemanispro-tectedbythetree.IftheMarinemaneuversandattemptsto
+
+firefrombehind,theenemyriflemanmerelymovestothe
+
+> othersideofthetreetomaintainhisprotection.However,two
+
+Marinescanplaceouropponentinadilemma.Onecanfire
+
+fromthefrontwhiletheothersneaksaroundandfiresatthe
+
+> enemyfromtheflankorrear.Theopponentisnowvulnerable
+
+tooneortheotherofthetwoMarines.Hecannotusethetree
+
+> forprotectionagainstboth.
+
+Thesameideaappliesinair-to-airtactics.Upondetecting
+
+enemyaircraft,aflightoffighterssplitsintotwoormoreele-
+
+mentsbeyondair-to-airmissilerange.Theyapproachtheen-
+
+emyaircraftfrommultipledirectionsandvaryingaltitudes.
+
+Nomatterhowtheenemyaircraftmoves—dives,climbs,
+
+> turns,ortwists—itisexposed.
+> 46
+
+MCDP1-3 GainingAdvantage
+
+SunTzudescribedthisconceptasthechengandthech'i.9
+
+Thechengisthemoredirect,obviousaction.Itfixestheen-
+
+emy.Thech'iistheunexpectedorextraordinaryaction.Itis thebidforadecision,or,aswecallittoday,themaineffort.
+
+Thesetwoactionsworktogetheragainsttheenemy.Thetwo
+
+actionsareinseparableandcanbeinterchangeableinbattle;
+
+thechengmaybecomethech'i.Theconceptisbasic,butit
+
+canbeimplementedinavarietyofcombinationslimitedonly
+
+> byourimagination.
+
+SURPRISE
+
+> Achieving
+
+surprisecangreatlyincreaseleverage.Infact,sur-
+
+prisecanoftenprovedecisive.Wetrytoachievesurprise
+
+> throughdeception,stealth,andambiguity.
+
+"Warisbasedondeception,"°statedSunTzu.Weusede-
+
+ceptiontomisleadouropponentswithregardtoourrealin-
+
+tentionsandcapabilities.Byemployingdeception,wetryto
+
+causeouropponentstoactinwaysthatwilleventuallyprove
+
+prejudicialforthem.Wemayusedeceptiontomisleadthe
+
+enemyastothetimeandlocationofourpendingattack.We
+
+mayusedeceptiontocreatetheimpressionthatourforcesare
+
+largerthantheyreallyare.Wehopetheenemywillrealize
+
+> thisdeceptiononlywhenitistoolateforthemtoreact.
+> 47
+
+Tactics MCDP1-3
+
+Marineshaveoftenreliedondeceptiontomisleadtheen-
+
+emyinregardtothelocationofamphibiouslandings.
+
+Marinesuseddeceptiontocreatetheillusionofforcewhere therewasnoneinOperationDesertStorm.LieutenantGen-
+
+eralBoomerstatedthesituationwhichnecessitatedanexten-
+
+sivedeceptionoperation:"We'retakingon11Iraqidivisions
+
+withtwoMarinedivisions.Ourforceratiosarehorrible.We
+
+don'twanthimtoknowthat. .. ."The MarinescreatedTask
+
+ForceTroy:460Marines imitated the activities ofa
+
+16,000-mandivisionusingloudspeakers,dummytanksand
+
+artillery,andhelicoptersconductingsimulatedresupply.
+
+Surprisecanbegeneratedthroughstealth.Stealthisused
+
+toadvantagewhenmaneuveringagainstanenemy.Itpro-
+
+videslesschanceofdetectionbytheenemy,leavinghimvul-
+
+nerabletosurpriseactionforwhichhemaybeunprepared.
+
+Marinesmayalsoemploystealthbylyinginwaitforanap-
+
+proachingenemy—anambush.Theambushisperhapsthe
+
+mosteffectivemeansofsurprisingopponents,especiallyat
+
+thelowertacticallevelwheresurprisethroughstealthiseasi-
+
+esttoachieve.
+
+Wecanalsoachievesurprisethroughambiguity.Itisusu-
+
+allydifficulttoconcealallourmovementsfromtheenemy,
+
+butwecansometimesconfusehimastothemeaningofwhat
+
+hesees.SunTzusaid:
+
+> TheenemymustnotknowwhereIintendtogivebattle.Forif
+
+hedoesnotknowwhereI intendtogivebattlehemust
+
+> 48
+
+MCDP1-3 GainingAdvantage
+
+> prepareinagreatmanyplaces.Andwhenhepreparesina
+> greatmanyplaces,thoseIhavetofightinanyoneplacewill
+> befew.'2
+
+AmbiguitywascentraltothetacticsoftheWorldWarII
+
+Germanblitzkrieg.Anattackinblitzkrieginvolvedmultiple
+
+thrustswithreinforcementsfollowingwhicheverthrustswere
+
+mostsuccessful.Themultitudeofthrustscreatedparalyzing
+
+uncertaintybecausetheopponentcouldnotdeterminewhich
+
+constitutedtherealattack.Therewasnothingsecretaboutthe
+
+Germanattack,butitwasambiguousonamassivescale.
+
+TRAPPINGTHEENEMY
+
+Moderntacticsisbasednotonpushingtheenemy,buton
+
+trappinghim—anotherexcellentwayofgainingadvantage.
+
+Trappingisthedesiredresultoftheapplicationofcombined
+
+arms,fireandmaneuver,orcomplementaryforcestactics.
+
+Whydowewanttotraptheenemyinsteadofjustpush
+
+him?Apushingcontestisseldomdecisive.Thesidethatis
+
+pushedoutcomesbackthenextdaystillfulloffight.We
+
+havetofighthimagainandagain.Unfortunately,inVietnam,
+
+manyofourbattleswerepushingbattles.Wewerealways
+
+abletopushtheenemyoffthegroundheheldandtoinflict
+
+casualtiesonhim.Hejustwithdrew,regrouped,replacedhis
+
+> 49
+
+Tactics MCDP1-3
+
+losses,andcamebacktofightusagain.Theresultwasase-
+
+> riesofindecisiveactionsandaseeminglyendlesswar.
+
+However,ifwecantrapourenemy,wehaveabetterop-
+
+portunitytowindecisively.Manyofhistory'sdecisivebattles
+
+havebeentrappingactions.RecallhowtheRomanlegions
+
+weretrappedatCannaeortheGermandivisionsatStalin-grad?Trappinggainsadvantagebydisruptingtheenemy's
+
+mentalprocesswhileheattemptstothinkthroughthedi-
+
+> lemmawehaveplacedhimin.Trappingallowsustogainand
+
+maintaintheinitiativeastheenemyisforcedtoreacttoour
+
+> actions.Itcanalsotemporarilyunderminetheenemy'swillto
+
+resistwhenheisathisweakest—whilewecontinuetopress
+
+> theattackandourinitiative.
+
+AgoodexampleoftrappingfromtheVietnamconflictoc-
+
+curredduringOperationDeweyCanyon.(Seefigure.)North
+
+> VietnameseactivityalongtheLaotian-SouthVietnamesebor-
+
+derincreaseddramaticallyinearlyJanuary1969.Largeen-
+
+emyconvoys,includingarmoredvehicles,regularlytraveled
+
+fromLaosintoSouthVietnam,threateningfriendlyunits. ColonelRobertH.Barrowandhis9thMarinesresponded
+
+> withOperationDeweyCanyon.
+
+Thethreebattalionsofthe9thRegimentcrossedtheDa
+
+KrongRiveronFebruary11thand12th.TheThirdandFirst
+
+Battalionsmovedsouth-southeastthroughthemountainous
+
+terraintowardLaos.SecondBattalion,tothewest,swung
+
+south-southwest,turningeastastridethesouthVietnam-Laos
+
+> 50
+
+MCDP1-3 GainingAdvantage
+
+border.TheNorthVietnameseforcesmovingalongRoute
+
+922fromLaosintotheAShauValleyweretrappedbetween thethreebattalions.TheNorthVietnameseweremauledasa
+
+> 51
+
+Tactics MCDP1-3
+
+result.Theirequipmentlosseswerestaggering.Moreim-
+
+portantly,OperationDeweyCanyondestroyedaNorthViet-
+
+namesebaseareaandsodisruptedtheirlogisticsthatitforced
+
+themtoabandontheirplannedspringoffensiveinICorps'
+
+> area.'3
+
+DEVELOPINGANAMBUSHMENTALITY
+
+Perhapsthemostcommontacticaltoolforgainingadvantage
+
+istheambush.AllMarinesarefamiliarwithanambushasa
+
+typeofcombatpatrol.'4Inmaneuverwarfare,ambushtakes
+
+onamuchbroadermeaning,andthedevelopmentoftheam-
+
+> bushmentalityisintegraltomaneuverwarfaretactics.
+
+Theambushmentalityisprobablynotnewtomostofus.
+
+Wemayhaveemployedtheambushmentalityinsports.In
+
+football,thetrapblockisanambush.Aplayerpullsanoffen-
+
+sivelinemanofftheline,leavingahole.Whenadefender
+
+> comesthroughthehole,anotherlinemansuddenlyblockshim
+
+fromtheside,usuallyknockinghimdown.Theplayershave
+
+> blind-sidedhim.Thatistheambushmentality.
+
+Inbasketball,settingupapickisanambush.Asoneteam-
+
+matedrivestothebasket,anotherstepsintothedefender's
+
+pathfrombehind,blocksthepath,stopsthedefense,and
+
+> 52
+
+MCDP1-3 GainingAdvantage
+
+momentarilyclearsthelanetothebasketfortheotherteam-
+
+> mate.Again,thatistheambushmentality.
+
+Incombat,wemoveourreinforcedsquadintoposition
+
+alongawell-traveledtrail.Wepositionflanksecuritytopro-
+
+tectourselvesandgiveidentificationandwarningofenemy
+
+movementsdownthetrail.Wepositionourweaponssoasto
+
+concentrateourfiresintoa"killzone"andtosealoffexits, forcingtheenemytoremainsubjecttoourfires.Thesquad
+
+waitsinpositionuntilsignaledwhentheyimmediatelyre-
+
+spondwithconcentrated,sustainedfiresonenemyforces
+
+trappedinthekillzone.Theenemy,surprisedintoinaction, unsureofwhattodoorwheretomove,isannihilated.Fires
+
+aremaintaineduntilalltheenemyarekilledoruntilsignaled
+
+> tostop.Thatistheambushmentality.
+
+Theambushmentalitytriestoturneverysituationintoan
+
+ambush.Inthisbroadercontext,anambushhasseveraldis-
+
+> tinctfeatures.
+
+First,inanambushwetrytosurprisetheenemy.Thinkof
+
+> apatrolthatweambush.Ourenemiesarewalkingthroughthe
+
+woodswhensuddenly,outofnowhere,theyareunderfire
+
+frommultipledirections.Theyaretakingheavycasualties.
+
+Thepsychologicalimpactofsurprisemayparalyzetheir
+
+thoughtsandactions,leavingthemincapableofreactingef-
+
+fectively.Tohaveanambushmentalitymeanswealwaystry
+
+tosurprisetheenemy,todotheunexpected.Surpriseisthe
+
+> ruleratherthantheexception.
+> 53
+
+Tactics MCDP1-3
+
+Second,wewanttodrawourenemyunknowinglyintoa
+
+trap.Thiswillofteninvolvedeceivinghim.Wemakeone
+
+courseofactionappearinviting.Whenhetakesthatcourseof
+
+> action,wearewaitingforhim.
+
+Third,anambushisinvisible.Iftheambushisnotinvisi-
+
+ble,itceasestobeanambushandinsteadbecomesatarget
+
+> fortheenemy.Whetherwearedefendingorattacking,theen-
+
+emymustnotdetectusuntilitistoolateforhimtoreact.
+
+> Surpriseoftendependsuponinvisibility.Thatinvisibilitymay
+
+beprovidedthroughstealthinmovementorinfocusingthe
+
+enemy'sattentionelsewheretoallowourforcestomaneuver
+
+> withoutdetection.
+
+Thereverseslopedefenseisanexampleofusinginvisibil-
+
+itytospringanambush.Theenemydoesnotknowweare
+
+thereuntilhecomesoverthecrestofahillandishitbyour
+
+fires.Hisvehiclesarehitontheirsoftunderbellies.Histroops
+
+> arefullyexposedtoourweapons.Becausehecouldnotseeus
+
+untilthelastmoment,hecouldnotcallinartilleryfireonour
+
+position.Thereverseslopenotonlyprotectsusfromhisdi-
+
+rectfire;itprotectsusfromhisobservationandthushisindi-
+
+rectfire.Thatispartoftheambushmentality:Donotlet
+
+yourselfbeseen.
+
+Fourth,inanambushwewanttoshocktheenemy.Instead
+
+oftakinghimunderfiregraduallywithafewweaponsatlong
+
+range,wewaituntilheiswithineasyrangeofeveryweapon.
+
+Wethenopenupsuddenly,allatonce,witheverythingwe
+
+> 54
+
+MCDP1-3 GainingAdvantage
+
+have.Heisparalyzedbytheshock.Hecannotreact.Every-
+
+thingwasgoingfine,andsuddenlyheisinafirestormwith
+
+peoplefallingallaroundhim.Oftenhewillpanic,makinghis
+
+> problemworseashereactsratherthanacts.
+
+Combinedarmsmaybeusedtoambushtheenemy.Artil-leryraidsthatreachdeeperintohisvitalareasthanexpected
+
+canproducethatsamedesiredshockeffectasaground-based
+
+ambush.Weplacehiminadilemmaasheattemptstomove
+
+fromtheeffectsofartilleryandgoesrightintoanattackby
+
+> air.
+
+Finally,intheambushmentality,wealwaysfocusonthe
+
+enemy.Thepurposeofanambushisnottoholdapieceof
+
+terrain.Itistodestroytheenemy.Weuseterraintoeffectthe
+
+> ambush,butterrainitselfisnotwhatwearefightingfor.
+
+ASYMMETRY
+
+Fightingasymmetricallymeansgainingadvantagethrough
+
+imbalance,applyingstrengthagainstanenemyweakness.
+
+Fightingasymmetricallymeansusingdissimilartechniques
+
+andcapabilitiestomaximizeourownstrengthswhileexploit-ingenemyweaknesses.Fightingasymmetricallymeansfight-
+
+ingtheenemyonourtermsratherthanonhis.Byfighting
+
+> asymmetrically,wedonothave,tobenumericallysuperiorto
+> 55
+
+Tactics MCDP1-3
+
+defeattheenemy.Weonlyhavetobeabletoexploithisvu!-
+
+nerabilities.Forexample,usingtankstofightenemytanks,
+
+infantrytofightenemyinfantry,andairtofightenemyairis
+
+symmetrical.Usingattackhelicopterstofightenemytanks
+
+andcloseairsupportagainstenemyinfantryareexamplesof
+
+fightingasymmetrically.Intheseexamples,wegainthead-
+
+vantageofthegreaterspeedandmobilityoftheaircraftrela-
+
+> tivetotheenemy.Ambushingtankswithattackhelicoptersin
+
+terrainwhichhamperstankmaneuverprovidesevenmoreef-
+
+> fectandgeneratesevenmoreadvantage.
+
+CONCLUSION
+
+Combatisatestofwillswheretheobjectistowin.Oneway
+
+towinistogainandexploiteverypossibleadvantage.This
+
+meansusingmaneuverandsurprisewheneverpossible.It
+
+meansemployingcomplementaryforcesandcombinedarms.
+
+Itmeansexploitingtheterrain,weather,andtimesofdark-
+
+nesstoouradvantage.Itmeanstrappingourenemyby
+
+ambushorbysomeothermeans.Itmeansfightingasym-
+
+metricallytogainaddedadvantage.ThisiswhatSunTzu
+
+meantwhenhewrote:"Thereforeaskilledcommanderseeks
+
+victoryfromthesituationanddoesnotdemanditofhis
+
+subordinates."5
+
+> 56
+
+# Chapter4
+
+# BeingFaster
+
+"Hitquickly,hithardandkeeprightonhitting.Givetheen-
+
+emynorest,noopportunitytoconsolidatehisforcesandhit
+
+backatyou.
+
+—HollandM.Smith
+
+"Fortheinfantrymantobetrulyeffective. . . he willhaveto
+
+beaslightoffootasheisquickofthought. . . . Mobility is
+
+neededmostofallintheclashofarms.Sw/iandagilemove-
+
+mentplusrapidityandintelligenttacticalflexibilityareits
+
+trueessentials. "2
+
+—John A.English MCDP1-3 BeingFaster
+
+# Usually,tothinkofweaponsmeanstothinkofaper-
+
+sonalrifleorpistol;theunit'smachinegunsandmor-
+
+tars;ortheaircraft'smissiles,bombs,orguns.Alogistician
+
+mayrealizethatweaponsincludetrucks,bulldozers,andex-
+
+cavators.SomeMarinesoverlookoneoftheirmostpowerful
+
+weapons,onethatcreatesadvantageforinfantrymen,avia-
+
+tors,andlogisticiansequally.Thatweaponisspeed.
+
+SPEEDINCOMBAT
+
+Howisspeedaweapon?Thinkofsportsagain:Thebreaka-
+
+wayinhockeyusesspeedasaweapon.Byrapidlypassingthe puckdowntheice,oneteamdeniestheotherthechancetoset
+
+upadefense.Speedcircumventstheiropponent'sabilityto
+
+respondinanorganizedmanner.Thefastbreakinbasketball
+
+seeksthesameresult.Intwoorthreepasses,theballisdown-
+
+courtandthebasketscored,allbeforetheoppositioncanre-
+
+> act.
+
+Theresultsofspeedoftenreachbeyondtheimmediate
+
+goal.Howmanytimeshaveweseenateamscoreonafast-
+
+break,stealtheballasitcomesinbounds,andimmediately
+
+scoreagain,andevenathirdtime?Unabletoregaintheir
+
+composure,thevictimsofthefastbreakbecomethevictimsof
+
+arally.Thevictimsloseconfidence.Passesgoastray;signals
+
+becomecrossed;tempersflare;argumentsensue.Therally
+
+> 59
+
+Tactics MCDP1-3
+
+becomesarout.Thebeleagueredplayersseecertaindefeat.
+
+Theyvirtuallygiveupwhilestillonthecourt.
+
+Thesamethingcanhappenincombat.Thebattalionor
+
+fighteraircraftorlogisticstrainthatcanconsistentlymove
+
+andactfasterthanitsenemyhasapowerfuladvantage. InJuneof1943,duringthebattleofSaipan,theaggressive,
+
+hard-hittingtacticsofGeneralHollandSmithprovedtobe
+
+singularlysuccessfulindefeatingtheJapanesedefenders.
+
+GeneralSmith'stacticalplanforSaipancalledforapplying
+
+"unremittingpressureontheenemyand. . . bypassing strong
+
+pointsofresistanceformoppingupbyreserveelementsinor-
+
+dertopresstheattacktobetterground."3Longindoctrinated
+
+withthevalueofspeedinamphibiousoperations,General
+
+Smith'sbypassingtacticsplacedtheJapaneseremainingin
+
+theirfixeddefensesatanextremetacticaldisadvantage.
+
+Thesetacticsprovedveryeffectiveinisolatingandreducing
+
+theJapanesedefense.GeneralSmith'suseofspeedservedas
+
+aforcemultiplier,anditalsoreducedMarinecasualties.
+
+TheBritishRoyalAirForcebestedtheGermansduringthe
+
+BattleofBritaininWorldWarIIinpartbecausetheywere abletospeedilyrecovertheirdownedpilots,returnthemto
+
+base,placetheminnewaircraft,andhavethemfightingagain
+
+intheafternoon.DownedGermanpilotswerelesseasilyre-
+
+covered,andtheLuftwaffehadfewerofthelong-rangeair-craftrequiredforreplacement.Eventually,pilotandaircraft
+
+lossesforcedtheGermanstoenddaylightbombingandresort
+
+strictlytorelativelyineffectivenightattacks.
+
+> 60
+
+MCDP1-3 BeingFaster
+
+Greatleadershaverepeatedlystatedthevalueofspeedin
+
+combat.Napoleonsaid,"Imayloseabattle,butIshallnever
+
+loseaminute."4NathanBedfordForresttoldthesecretofhis manyvictories:"Gettherefirstwiththemostmen."5General
+
+Pattonsaidin1943,"Whenthegreatdayofbattlecomesre-
+
+memberyourtrainingandrememberaboveallelsethatspeed
+
+andviolenceofattackarethesureroadtosuccess."6Histo-
+
+ry'sgreatcommandersdifferedinmanyways,butonething
+
+theysharedwasasenseoftheimportanceofspeed. InOperationUrgentFuryin1983,theMarinesofBattalion
+
+LandingTeam2/8,movedfast,astheircommander,Lieuten-
+
+antColonelRaySmith,hadtrainedthemtodo.Whenthey
+
+capturedtheoperationsofficeroftheGrenadianarmy,hesaid
+
+tothem,"Youappearedsoswiftlyinsomanyplaceswhere
+
+wedidn'texpectyouthatitwasclearthatresistancewas
+
+hopeless,soIrecommendedtomysuperiorsthatwelaydown
+
+ourarmsandgointohiding."7Thatiswhatspeedusedasa
+
+> weaponcandoforyou.
+
+WHATISSPEED?
+
+"Whatisspeed?"wouldseemtohaveasimpleanswer:speed
+
+isgoingfast.Thisisspeedaswethinkofitwhendrivinga
+
+car—moremilesperhour.
+
+> 61
+
+Tactics MCDP1-3
+
+Thatispartoftheanswerintacticsaswell.Weusespeed
+
+togaintheinitiativeandadvantageovertheenemy.Forex-
+
+ample,whenatankbattalionattacks,itgoesovertheground
+
+asfastasitcan.GeneralBalckwasaskedwhethertheRus-
+
+siantankseverusedterrainintheirattacksagainsthimin
+
+WorldWarII.Herepliedthattheyhadusedterrainonocca-
+
+sion,butthattheymoreoftenusedspeed.Thequestionerfol-
+
+lowedup:"Whichwashardertodefendagainst?"Balck
+
+> answered,"Speed."8
+
+Physicalspeed,movingmoremilesperhour,isapowerful
+
+weaponinitselfOnourapproachtotheenemy,speedin
+
+movementreduceshisreactiontime.Whenwearegoing
+
+throughhimoraroundhim,itchangesthesituationfaster
+
+thanhecanreact.Oncewearepasthim,itmakeshisreaction irrelevant.Inallthreecases,speedimpactsontheenemy,es-
+
+peciallyhismind,causingfear,indecision,andhelplessness.
+
+Remember,attackingtheenemy'smindisacentraltenetof
+
+> maneuverwarfare.
+
+SPEEDAND TIME
+
+Inamilitarysense,thereismoretospeedthansimplygoing
+
+fast,andthereisavitaldifferencebetweenactingrapidlyand
+
+actingrecklessly.Withtimewemustalwaysconsiderthe
+
+closelyrelatedfactoroftiming.Speedandtimeareclosely
+
+> 62
+
+MCDP1-3 BeingFaster
+
+related.Infact,speedisdefinedintermsoftime:milesor
+
+kilometersperhour.Intactics,whatthismeansisthattimeis
+
+alwaysoftheutmostimportance.Timethatcannotbespent
+
+> inactionmustbespentthinkingabouthowtoacteffectively.
+
+Evenwhenweareengagedwiththeenemy,wearenotal-
+
+waysmovingfast.Someofthetimewearenotmovingatall.
+
+Nonetheless,everymomentisstilloftheutmostimportance
+
+evenwhenwearesittingstill.Abattalionstaffthattakesa
+
+daytoplananactionisobviouslyslowerthanonethattakes
+
+anhour.Atankbattalionthattakes3hourstorefuelisslower
+
+thanonethattakes2hours,justasonethatmustrefuelevery
+
+hundredmilesisslowerthanonethatmustrefueleverytwo
+
+> hundred.Acompanythatsitsdowntoeatonceithastakenits
+
+objectiveisslowerthanonethatimmediatelypressesoninto
+
+theenemy'sdepth.Afightersquadronthatcanflyonlythree
+
+sortiesperaircraftperdayisslower,intermsofeffectonthe
+
+enemy,thanonethatfliessix.Amaintenancerepairteamthat
+
+takes2daystofixadamagedvehicleandgetitbackintoac-
+
+tionisslower,intermsofeffectontheenemy,thanonethat
+
+> candoitovernight.
+> Makingmaximumuseofeveryhourandeveryminuteisas
+
+importanttospeedincombatassimplygoingfastwhenwe
+
+aremoving.Itisimportanttoeverymemberofamilitary
+
+forcewhetherservingonstaffsorinunits—aviation,combat
+
+servicesupport,groundcombat,everyone.Agoodtactician
+
+hasaconstantsenseofurgency.Wefeelguiltyifweareidle.
+
+Weneverwastetime,andwearenevercontentwiththepace
+
+> 63
+
+Tactics MCDP1-3
+
+atwhicheventsarehappening.Wearealwayssayingtoour-selvesandtoothers,"Faster!Faster!"Weknowthatifspeed
+
+> isaweapon,soistime.
+
+TIMING
+
+Weemployspeedandusetimetocreatetempo.Tempoisnot
+
+merelyamatterofactingfastestorattheearliestopportunity. Itisalsoamatteroftiming—actingattherighttime.
+
+Timingrequiresanappreciationfortherhythmofcombat
+
+sowecanexploitthatrhythmtoouradvantage.Itisphysi-
+
+callyimpossibletooperatealwaysatpeaktempo.Even
+
+thoughwecanextendoperatingcyclesthroughtheeconomi-
+
+caluseofresources,wecannotoperateattopspeedindefi-nitely.Wemustrestourpeopleandreplenishoursupplies.
+
+Thetestofskillistobeabletogenerateandmaintainafast
+
+pacewhenthesituationcallsforitandtorecoverwhenitwill
+
+> nothurtus.
+
+Timingmeansknowingwhentoactand,equallyimpor-
+
+tant,whennot to act.Althoughspeedisanimportanttactical
+
+weapon,therearesituationsinwhichitisbettertobideour
+
+time.Ifourconceptofoperationsinvolvesadiversion, we
+
+needtoallowtimeforthediversiontotakeeffect.Ifwehave
+
+> 64
+
+MCDP1-3 BeingFaster
+
+laidanambushfortheenemy,weneedtogivetheenemy
+
+timetofallfullyintothetrap.Ifasituationisstillforming,
+
+wemaywanttodevelopitfurtherbeforewecommittoa
+
+courseofaction.Forexample,anerrorcommonlymadeby
+
+defendersiscounterattackingtoosoonsothattheenemyis
+
+merelypushedbackratherthancutoff,encircled,andde-
+
+stroyed.Decisiveactionisourgoal,anditmustbetimedto
+
+occuratthepropermoment.Therearetimestoact,andthere
+
+> areothertimestosetthestageandwait. Abenefitfromadecisionnottoactisthatitsavesprecious resourcesandenergyforlatercommitment.Someleadersdis-
+
+sipatetheirunits'energyonconstant,unprioritizedactivity.
+
+Notallactivitiessupportthemission.Aunit'senergyisnot
+
+easilyreplenishedandshouldbetreatedasapreciousre-
+
+> sourcetobeexpendedonlytowardsdecisivegoals.
+
+RELATIVESPEED
+
+Goingfastandmakingefficientuseoftimearebothpartsof
+
+theanswertothequestion,"Whatisspeed?"However,some-
+
+thingelsemustbeconsidered:theenemy.Aswithallthings
+
+inwar,speedisrelative.Speedismeaningfulmilitarilyonly
+
+ifweareactingfasterthantheenemy.Wecandothateither
+
+> byslowingtheenemyorbyincreasingourownspeed.
+> 65
+
+Tactics MCDP1-3
+
+InthebattlefortheFalkiandIslandsin1982,theBritish Armymovedslowly.Theterrainwasdifficult,theweather
+
+wasabominable,andmuchofthematerialhadtobemoved
+
+onmen'sbacks,allofwhichsloweddowntheBritish.Never-
+
+theless,theBritishstillhadtheadvantageinspeedbecause
+
+theymovedfasterthantheArgentineswho,oncetheyhad
+
+madetheirinitialdispositions,essentiallydidnotmove.That
+
+superiorityinrelativespeedallowedtheBritishtomaintain
+
+> theinitiativethroughoutthecampaign.
+
+CONTINUINGSPEED
+
+Tobeconsistent,superiorityinrelativespeedmustcontinue
+
+> overtime.Itisnotenoughtomovefasterthantheenemyonly
+> nowandthenbecausewhenwearenotmovingfaster,thead-vantage,theinitiative,passestohim.Mostforcescanmanage
+
+anintermittentburstofspeedbutmustthenhaltforaconsid-
+
+> erableperiodtorecoverbetweenbursts.Duringthathalt,they
+
+arelikelytolosetheiradvantage.Werealizethatwecannot
+
+operateatfullspeedindefinitely,andthechallengeistobe
+
+> consistentlyfasterthantheenemy.
+
+Onewaytosustainspeedistousetheeffectsofcombined
+
+arms.Whentheinfantryormountedtroopsmustbreakcon-
+
+tacttemporarilytomaneuver,resupply,orrecover,airor
+
+> 66
+
+MCDP1-3 BeingFaster
+
+artillerycankeepthepressureon.Maneuvercannotbesus-
+
+tainedindefinitely,butthemomentumcanbemaintained
+
+throughskillfulplanningofcombinedarmseffects,keeping
+
+> theenemyalwaysatadisadvantage.
+
+Herethespeedoflogisticsbecomescritical.Although
+
+> physicalexhaustionisafactor,haltsoftenaredrivenbylogis-
+
+tics:groundoraviationunitsmuststopforequipmentrepair,
+
+maintenance,andresupply.Supportingforcescanminimize
+
+lossofspeediftheycandeliverthesuppliesandperformthe
+
+> maintenancequickly.Thus,theyenablecombatunitstomove beforetheenemygainstheinitiative.
+
+SPEEDAND CHANGE
+
+Inordertoactconsistentlyfasterthantheenemy,itisneces-
+
+sarytodomorethanmovequickly.Itisalsonecessaryto
+
+makerapidtransitionsfromoneactiontoanother.While
+
+therearemanytypesoftransitionsincombat,theimportant
+
+thingtorememberisthattransitionsproducefriction.Reduc-
+
+tionoffrictionminimizesthelossoftempothatthefriction
+
+generatesatthepointoftransition.Aunitthatcanmaketran-
+
+sitionsfasterandmoresmoothlythananothercanbesaidto
+
+> havegreaterrelativespeed.
+> 67
+
+Tactics MCDP1-3
+
+Inthe18thcentury,theimportanceoffasttransitions
+
+(sometimescalledagility)wasdisplayedwhenshiftingfrom columnformationintoline.Ifanarmycouldnotrapidlyde-
+
+ployintolineandconsequentlywasengagedwhilestillin
+
+column,itwasoftenbeaten.Muchdrillwasdevotedtoprac-
+
+ticingthisdifficulttransitionsothatitcouldbeaccomplished
+
+rapidlyincombat.Todaywedevelopproficienciesinbattle drillsandimmediate-actiondrillsthatallowunitstorapidly
+
+> transitionfromoneformationtoanotherwithoutpausing.
+
+Itisimportanttobeabletoeffectrapidchangesinorgani-zationaswell.Beingquicktoeffectrequiredchangesintask
+
+organizationbasedonarapidlychangingbattlesituationin-
+
+creasesagilityanddecreasesreactiontimes.Battledrillsand
+
+rehearsalscanbeconductedtosmoothoutproceduresfor
+
+> changingorganizationrapidly.Thefasterthesetransitionscan bemade,themoreeffectivetheforcebecomes.
+
+Theplaceintimeandspacewheretransitionsoccurcanbe calledafrictionpoint.Frictionpointscommonlyencountered intacticsincludemovementfromanassemblyareatoattack;
+
+frompatrolmovementformationtoambushposture;fromde-
+
+fensiveposturetoattack;fromonemaneuvertoanother,and
+
+soforth.Thetransitioninvolvessimplypositionalchanges
+
+anddrills,butalsochangesofattitudeinthemindsof
+
+Marines.Wemustshiftourmentalfocusfromonemovement
+
+> toanother.
+
+Amodernexampleoftheimportanceoffasttransitions
+
+comesfromaerialcombat.IntheKoreanWar,American
+
+> 68
+
+MCDP1-3 BeingFaster
+
+aviatorsachievedahighkillratioofabout10:1overtheir
+
+NorthKoreanandChineseopponents.Atfirstglance,thisis somewhatsurprising.Themainenemyfighter,theMiG-15,
+
+wassuperiortotheAmericanF-86inanumberofkeyre-
+
+spects.Itcouldclimbandacceleratefaster,andithadabetter
+
+sustainedturnrate.TheF-86,however,wassuperiortothe
+
+MiGintwocritical,thoughlessobvious,respects.First,be-
+
+causeithadhigh-poweredhydrauliccontrols,theF-86could shiftfromonemaneuvertoanotherfasterthantheMiG.Sec-
+
+ond,becauseofitsbubblecanopy,theF-86pilothadbetter
+
+visibility.TheF-86'sbetterfieldofviewprovidedbetter
+
+situationalawarenessandalsocontributedtofasttransitions
+
+becauseitalloweditspilottounderstandchangingsituations
+
+> morequickly.
+
+Americanpilotsdevelopednewtacticsbasedonthesetwo
+
+advantages.WhentheyengagedtheMiGs,theysoughttoput
+
+themthroughaseriesofmaneuvers.TheF-86'sfastertransi-
+
+tionsbetweenmaneuversgaveitatimeadvantagethatthepi-
+
+lottransformedintoapositionadvantage.Often,whenthe
+
+MiGpilotsrealizedwhatwashappening,theypanicked—and therebymadetheAmericanpilot'sjoballtheeasier.
+
+> Thesetacticsillustratethewayfasttransitionscontributeto
+
+overallspeedandtoatimeadvantage.Theimportanceof
+
+timeandspeedinabroadersensehasbeenbroughtoutinthe
+
+workofJohnBoyd.AformercolonelintheU.S.AirForce,
+
+Boydstudiedawidevarietyofhistoricbattles,campaigns,
+
+> andwars.Henotedthatwherenumericallyinferiorforceshad
+> 69
+
+Tactics MCDP1-3
+
+defeatedtheiropponents,theyoftendidsobypresentingthe
+
+othersidewithasudden,unexpectedchangeoraseriesof
+
+changes.Thesuperiorforcesfellvictimbecausetheycould
+
+notadjusttothechangesinatimelymanner.Generally,de-
+
+> featcameatrelativelysmallcosttothevictor.9
+
+ThisresearchledtotheBoydtheory,whichstatesthatcon-
+
+flictmaybeviewedastime-competitivecyclesofobser-
+
+vation-orientation-decision-action(OODA).First,eachparty
+
+toaconflictentersthefraybyobservinghimself,hissur-
+
+roundings,hisenemy.Intactics,thisequatestoadoptionofa
+
+huntinginstinct: searching;activelylooking;huntingforthe
+
+enemy;andseeingwhatheisdoingorisabouttodo.Italso
+
+includesanticipatingtheenemy'snextmoves—gettinginside
+
+> hismind.
+
+Second,baseduponthoseobservations,thecombatantori-
+
+entstothesituation,thatis,producesamentalimageofthe
+
+situationandgainssituationalawareness.Thisawarenessbe-comesthefoundationonwhichtoerectaplan.Generally,the
+
+> bettertheorientation,thebettertheplan.
+
+Next,baseduponthisorientation,thecombatantdecides
+
+uponacourseofaction.Thedecisionisdevelopedintoaplan
+
+thatcanbedisseminatedamongsubordinatesfortheirplan-
+
+> ningandexecution.
+
+Last,thecombatantacts,orputsthedecisionintoeffect.In
+
+tacticsthisistheexecutionphasewherethedecision,orplan,
+
+isimplemented.Sincethisactionhaschangedthesituation,
+
+> 70
+
+MCDP1-3 BeingFaster
+
+thecombatantagainobserves,beginningthecycleanew.
+
+Boyd'scycleisalsoknownastheOODAloop.
+
+TheBoydtheoryhelpstodefinetheword"maneuver."It
+
+meansbeingconsistentlyfasterthanouropponent.Asouren-emyobservesandorientsonourinitialaction,wemustbeob-
+
+serving,orienting,deciding,andactinguponoursecond
+
+action.Asweenactourthird,fourth,andfifthmove,thetime
+
+gapbetweenouractionsandourenemy'sreactionsincreas-
+
+inglywidens.Ourenemyfallsbehindinapanickedgameof
+
+catchup.Ashetriestorespondtoourpenetration,weattack
+
+hisreservesandhiscommandandcontrol.Ashecounterat-
+
+tackswithhismobilereserve,webypasswithhelicopterbome
+
+forces.Everythinghedoesistoolate.
+
+Thus,themilitaryanswertothequestion"Whatisspeed?" isnotsimple.Nonetheless,itiscentraltoeveryaspectoftac-
+
+tics.AsGeneralGeorgePattonsaid,"Insmalloperations,as
+
+inlarge,speedistheessentialelementofsuccess."° Weshouldalsoexercisecautionsoasnottoconfusespeed
+
+withhaste.GeneralPattonmadethisobservation:
+
+> HasteandSpeed:Thereisagreatdifferencebetweenthese
+> twowords.Hasteexistswhentroopsarecommittedwithout
+> properreconnaissance,withoutthearrangementforproper
+
+supportingfire,andbeforeeveryavailablemanhasbeen
+
+broughtup.Theresultofsuchanattackwillbetogetthe
+
+troopsintoactionearly,buttocompletetheactionvery
+
+> slowly.
+> 71
+
+Tactics MCDP1-3
+
+> Speedisacquiredbymakingthenecessaryreconnaissance,
+> providingtheproperartillery[support],... bringing upevery [available]man,andthenlaunchingtheattackwithapredeter-
+> minedplansothatthetimeunderfirewillbereducedtothe
+
+minimum.'
+
+BECOMINGFASTER
+
+Nowweseeclearlytheimportanceofspeed.Wewanttobe
+
+fast.Howdowedoit? Westartbyrecognizingtheimportanceoftime.Asleaders
+
+ofMarines,wehavearesponsibilitytomakethingshappen
+
+fast.Oursenseoftheimportanceoftime,ofurgency,must
+
+directouractions.Wemustworktocreateandbuildthat
+
+sensewithinourselves.
+
+Oncewehaveit,thereareanumberofthingswecandoto
+
+increasespeed.First,wecankeepeverythingsimple.Simplic-
+
+itypromotesspeed;complexityslowsthingsdown.Simplic-ityshouldbecentraltoourplans,ourstaffs(largestaffsmay
+
+beoneofwar'sgreatestconsumersoftime),ourcommand
+
+andcontrol,andourownactions.
+
+Second,speedisincreasedthroughdecentralization.De-
+
+centralizationisanimportantconceptintheexecutionofma-
+
+neuverwarfare.Howdoweachievedecentralization,while
+
+> 72
+
+MCDP1-3 BeingFaster
+
+> stillretainingcontrol?Weusetwomaintoolsthatprovidethe
+
+requiredcontroloftheeffortandthedecentralizationofits
+
+execution.Thesetoolsaremissiontacticsandcommander's
+
+> intent.
+> Missiontacticsistheassignmentofamissiontoasubordi-
+
+natewithoutspecifyinghowthemissionmustbeaccom-plished.Itisakeytenetofmaneuverwarfare.Inmission
+
+tactics,thehighercommanderdescribesthemissionandex-
+
+plainsitspurpose.Thesubordinatecommanderdetermines
+
+> thetacticsneededtoaccomplishthetaskbasedonthemission
+
+andthehighercommander'sintent.Inthisway,eachleader
+
+> canactquicklyasthesituationchangeswithoutpassinginfor-
+
+mationupthechainofcommandandwaitingforordersto
+
+comebackdown.Speedisgreatlyincreasedbythisdecen-
+
+tralizationprocess.AccordingtoJohnA.Englishinhiswork
+
+> OnInfantry,decentralizationhasbeenoneofthemostsignifi-
+
+cantfeaturesofmodemwar.Englishwrote:"Intheconfused
+
+andoftenchaoticbattlefieldenvironmentoftoday,onlythe
+
+smallestgroupsarelikelytokeeptogether,particularlydur-ingcriticalmoments."12Insuchcircumstances,individuals
+
+rallyaroundtheirleaderwho,armedwithknowledgeofthe
+
+purposeorintentbehindtheirtask,canleadthemtoward
+
+> success.
+
+Thecommander'sintentprovidestheoverallpurposefor
+
+accomplishingthetaskassignedthroughmissiontactics.Al-
+
+thoughthesituationmaychange,subordinateswhoclearly understandthepurposeandacttoaccomplishthatpurpose
+
+> 73
+
+Tactics MCDP1-3
+
+canadapttochangingcircumstancesontheirownwithout
+
+riskingdiffusionofeffortorlossoftempo.Subordinatecom-
+
+> manderswillbeabletocarryonthismissionontheirownini-
+
+tiativeandthroughlateralcoordinationwithothersubunits, ratherthanrunningeverydecisionthroughthehighercom-
+
+> manderforapproval.
+
+Athirdwaytobecomefasteristhroughexperience.Expe-
+
+riencebreedsspeed.Experiencegivesunitsadvantagesover
+
+otherlessexperiencedunits.Thisiswhyveteranunitsare
+
+usuallymuchfasterthangreen,untriedunits.Ifwearefamil-
+
+iarwithasituationoratleastknowgenerallywhattoexpect,
+
+wecanthink,act,andmovefaster.Inpeacetime,ourMarines
+
+arenotlikelytobecombatveterans.Still,wecangivethem
+
+experiencethroughtacticaldecisiongames,sandtableexer-
+
+cises,wargames,fieldexercises,andrehearsals.Theseand
+
+> otherformsoftraininghelptoreducethestressandconfusion
+> ofcombat.
+> Anotherwayinwhichexperiencehelpsusbecomefasteris throughtheuseofimplicitcommunications.Implicitcommu-
+
+nicationsaremutualunderstandingsthatrequirelittleorno
+
+actualtalkingorwriting.Forexample,twocompanycom-
+
+> mandersknoweachotherwell.Theythinkalikebecausetheir
+
+battalioncommanderhasestablishedstandingoperatingpro-
+
+ceduresandhasschooledsubordinatecommandersinanap-
+
+proachtowar.Thus,thecommanderofCompanyBdoesnot
+
+needtotalkwiththecommanderofCompanyCveryoftenin
+
+actionbecauseeachknowsfromcommonpastexperiences
+
+> 74
+
+MCDP1-3 BeingFaster
+
+andfromdailyobservationshowtheotherislikelytoreactin
+
+manydifferentsituations.IfBCompany'scommandercre-
+
+atesanopportunity,CCompany'scommanderwilltakead-
+
+vantageofit.Thatisimplicitcommunication.Itisfasterand
+
+morereliablethanexplicitcommunication(tryingtopass
+
+> wordsormessagesbackandforthoverradiosortelephones).
+
+Ofcourse,implicitcommunicationsmustbedeveloped
+
+overtime.Thisrequiresactionsthatstrengthenunitcohesion
+
+andmutualtrust.Thisrequireskeepingpeopletogetherin
+
+theirunitsandstableintheirassignments.Itimplieskeeping goodteamstogether.Itmeansdevelopingabandofbrothers
+
+inourunits,asAdmiralHoratioNelsondid.Hespentmany eveningswithhiscaptainsgatheredinthecabinofhisflag-
+
+shiptalkingovertactics,waystheymightfightdifferenten-
+
+gagements,howtheywoulddefeatthisorthatopponent.
+
+Fromthoseeveningscameasharedwayofthinkingsostrong
+
+that,atTrafalgar,Nelsonneededonlytosignal"Englandex-
+
+pectseverymanwilldohisduty,"and"Closeaction."3
+
+> Sometimeswordshavemeaningbeyondthenormallyobvious meaningbecauseofsharedexperiencesandunderstanding.
+
+Anotherwayspeedgainsfromexperienceisinthedevel-
+
+opmentoflateralcommunication,orcoordination.Ifallcom-
+
+> municationisupanddownthechainofcommand,actionwill
+
+moveslowly.Ifcommandersandleadersateverylevelcom-
+
+municatelaterally—ifwe,asleaders,talkdirectlytoother
+
+> leaders—actionmovesmuchfaster.Lateralcommunicationis
+
+notanaturalconsequenceofmissionorders. Itmustbe
+
+> 75 MCDP1-3
+
+practicedintraining.Itresultsfromtheconfidenceofthe
+
+highercommanderwhothroughpastexperienceshasfound
+
+> thatsubordinatescanexerciseinitiativebasedontheassigned missionandthecommander'sstatedintent.
+
+Agoodexampleoflateralcommunicationcomesfrom
+
+aviation.Intheair,thepilotsofaflightofaircraftcommuni-catelaterallyasamatterofcourse.Apilotwhoneedstotalk
+
+toanotherdoesso.Amessageneednotgothroughthemis-
+
+> sioncommanderandthenberelayedtotheotherpilot.Events
+
+wouldquicklyoutpacecommunicationifpilotstriedtotalk
+
+thatway.Thesameproceduresmaybeemployedbyground
+
+> combatandlogisticsunitsaswell. Afourthwaytobecomefasterisbythecommander'sposi-
+
+tioninghimselfatthepointoffriction.Thispositionmaybe
+
+> withthemaineffort,withasupportingeffort,orintherear.A
+
+commanderwhoisforwardcaninstantlyinfluencethebattle
+
+asthesituationdevelops.Forthesamereason,acommander
+
+maychooseapositionatacrucialcrossroadduringanight
+
+movement,orwhereaunitispushingsuppliesforward,or
+
+whereacounterattackforceinthedefensemaybesited.The
+
+keyistobewherewecanbestinfluencetheactionsofour
+
+units.AsMarines,webelieveinleadingfromthefrontsince
+
+thatiswheremostfrictionpointsoccur,buttheymayoccur
+
+> elsewhere.Wemustchooseourpositionsaccordingly.
+> 76
+
+MCDP1-3 BeingFaster
+
+> ThroughoutWorldWarIIandhisentirecareer,Lieutenant
+
+GeneralLewisB."Chesty"PullerbelievedthatMarineshad
+
+toleadfromwherethefightingwas."ThisCommandPost
+
+businesswillruintheAmericanArmyandMarinesifitisn't
+
+watched,"4hesaidwhilehewasthecommandingofficerof
+
+1stBattalion,7thMarines,atGuadalcanal.Asabattalion
+
+> commander,Pullerusuallypositionedhimselfdirectlybehind
+
+thepointelementofhisbattalionandhisheadquartersele-
+
+mentdirectlybehindtheleadcompanysothathecouldbest
+
+influencetheactionsofhisunit.Fromthislocation,hewas
+
+abletoimposehiswillandpersonallyaffecttheoutcomeof
+
+> theengagement.Dependingonthesituation,hecouldalsobe
+
+foundatotherpointsonthemarchoronhisperimeter.His
+
+> ideawastobewherehecouldbestinfluencetheaction.
+> Finally,itisimportantnotonlytobefaster,buttomaintain
+
+thatspeedthroughtime.Thisenduranceismadepossible
+
+> throughphysicalandmentalfitness.Physicalfitnessdevelops
+
+notonlythespeed,energy,andagilitytomovefaster,butit
+
+alsodevelopstheendurancetomaintainthatspeedforlonger
+
+durations.Withendurance,wenotonlyoutpacetheenemy
+
+butmaintainahighertempolongerthanhecan.Mentalfit-
+
+nessbuildstheabilitytoconcentrateforlongerperiodsof
+
+> timeandtopenetratebelowthesurfaceofaproblem.Forthis
+
+reason,fitnessplaysanimportantpartinthelifeofevery
+
+Marine.Pattononcesaid"Highphysicalconditionisvitalto
+
+victory."5
+
+> 77
+
+Tactics MCDP1-3
+
+CONCLUSION
+
+Wemustbefasterthanouropponent.Thismeanswemust
+
+movefast,but,moreimportantly,wemustactfasterthanour
+
+enemy.Theaimistotailorourtacticssothatwecanact
+
+fasterthantheenemyforcecanreact.Ourabilitytoplan,de-
+
+cide,andexecutefasterthanourenemycreatesadvantage
+
+thatwecanexploit.Wehavejustdiscussedwaystoimprove
+
+> ourspeed.Readersofthispublicationmaythinkofadditional
+
+waystobefast.Whenyoufindonethatworks,tellyourfel-
+
+lowMarinesaboutitsotheycanuseittoo.Anythingthat
+
+workstomakeyoufasterisgoodevenifitisnotyetinthe
+
+> books.
+> 78
+
+# Chapter5
+
+# Adapting
+
+"Victorysmilesuponthosewhoanticipatethechangesinthe
+
+characterofwar,notuponthosewhowaittoadaptthem-
+
+selvesaftertheyoccur."
+
+—Giulio Douhet
+
+"Inanyproblemwhereanopposingforceexists,andcannot
+
+beregulated,onemustforeseeandprovideforalternative
+
+courses.Adaptabilityisthelawwhichgovernssurvivalin
+
+warasinlife—warbeingbutaconcentratedformofthehu-
+
+manstruggleagainstenvironment. "2
+
+—B. H.LiddellHart MCDP1-3 Adapting
+
+# Themodernbattlefieldischaracterizedbyfriction,uncer-
+
+tainty,disorder,andrapidchange.Eachsituationisa uniquecombinationofshiftingfactorsthatcannotbecon-
+
+trolledwithprecisionorcertainty.Thischapterdiscusses
+
+waystothinkaboutadaptingormodif'ingourdecisions
+
+basedonchangedcircumstancesorsuddenopportunities.A
+
+tacticallyproficientleadermustbeabletoadaptactionsto
+
+eachsituation.
+
+TheOODAloopdiscussedinchapter4essentiallyde-
+
+scribestheprocessofadaptation—weobservethesituation,
+
+orienttoit,decidewhattodo,andact.Theantagonistwho
+
+canconsistentlyadaptmorequicklytothesituationwillhave
+
+asignificantadvantage.Adaptabilityisthusanimportantpart ofMarineCorpstactics.Inessence,adaptabilitymeansshort-
+
+eningthetimeittakestoadjusttoeachnewsituation.
+
+Therearetwobasicwaystoadapt.Sometimeswehave
+
+enoughsituationalawarenesstounderstandasituationinad-
+
+vanceandtakepreparatoryaction.Thisisanticipation.At
+
+othertimeswehavetoadapttothesituationonthespurof
+
+themomentwithouttimeforpreparation.Thisisimprovisa-
+
+tion.Tobefullyadaptable,wemustbeabletodoboth.
+
+> 81
+
+Tactics MCDP1-3
+
+ANTICIPATION Thefirstbasicwaytoadaptistoanticipate,bywhichwe
+
+meantointroducenewmethods,schemes,ortechniquesfor
+
+> future
+
+use.Inordertoanticipate,wemustbeabletoforecast
+
+futureactions,atleasttosomeextent.Ourforecastsareusu-
+
+allybasedonpastexperiences.Oftenaforecastinvolvescon-
+
+sideringwhatwelearnedthroughtrialanderrorintraining,
+
+> exercises,oractualcombat.Anexcellentexampleofanticipa-
+
+tionistheMarineCorps'developmentofamphibiouswarfare
+
+techniquesatQuanticoduringthe1920sand1930s.These
+
+techniquesprovedtobeessentialtosuccessinWorldWarII,
+
+> bothinthePacificandinEurope.
+
+Allplanningatallechelonsisaformofanticipatoryadap-
+
+tation—adaptingouractionsinadvance.Anotherimportant
+
+toolfortacticaladaptationistheuseofimmediate-action
+
+drillsorstandingoperatingprocedures.Thesearepracticed,
+
+predesigned,genericactionswhichcovercommonsituations.
+
+Havingacollectionofthesetoolsatourdisposalallowsusto
+
+reactimmediatelyinacoordinatedway to abroadvarietyof tacticalsituations.Immediate-actiondrillsdonotreplacethe
+
+needfortacticaljudgment;theymerelyprovideawayto
+
+seizeinitiativeintheearlystagesofadevelopingsituation
+
+untilwecantakemoreconsideredaction.Theyprovidethe
+
+> basisforadaptation.
+> 82
+
+MCDP1-3 Adapting
+
+IMPROVISATION
+
+Thesecondbasicwaytoadaptistoimprovise,toadjusttoa
+
+situationonthespurofthemomentwithoutanypreparation.
+
+Likeanticipation,improvisationiskeytomaneuverwarfare.
+
+Improvisationrequirescreative,intelligent,andexperienced
+
+leaderswhohaveanintuitiveappreciationforwhatwillwork
+
+> andwhatwillnot.
+
+Improvisationisofcriticalimportancetoincreasingspeed.
+
+Itrequirescommanderswhohaveastrongsituationalaware-
+
+nessandafirmunderstandingoftheirseniorcommander's
+
+intentsothattheycanadjusttheirownactionsinaccordance withthehighercommander'sdesires.Oftenwewillfindour-
+
+selvesinasituationwhereourorganicresources—weapons,
+
+vehicles,andsoon—arenotadequatetokeepusmovingfast. InFrancein1940,GermanGeneralHeinzGuderianputsome
+
+ofhisinfantryincommandeeredFrenchbuses.OnGrenada,
+
+whenArmyRangersneededvehicles,theytookEastGerman
+
+trucksbelongingtotheGrenadianarmy.Soundunorthodox?
+
+Thereisnothing"orthodox"aboutfailureduetoaninability
+
+> toadapt.
+
+Forinstance,takethesituationinwhichMarinesofthe2d
+
+Battalion,5thMarineRegiment,foundthemselvesinthebat-
+
+tleofHueCity,RepublicofVietnam,inFebruary1968.One
+
+> 83
+
+Tactics MCDP1-3
+
+oftheirfirstobjectiveswastoretakethecity'sTreasury
+
+building,whichwasheavilydefendedbytheNorthVietnam-ese.Priortotheassault,theMarinesweredisappointedtosee
+
+thattheirmortarfirewashavinglittleeffectonthebuilding
+
+oritsdefenders.Thenthebattalionexecutiveofficerfound
+
+someU.S.teargascanistersanddispensersintheMilitary
+
+Assistancecompoundtheyhadreoccupied.Realizingthe
+
+NorthVietnameselackedgasmasks,theMarinesproceeded
+
+tolobtheteargascanistersintotheTreasurybuilding.Asa
+
+resultoftheexecutiveofficer'squickthinkingandadapta-
+
+tion,theNorthVietnamesequicklyvacatedthebuilding,and
+
+> theMarinessecuredtheobjectivewithminimalcasualties.3
+
+FLEXIBLEPLANS
+
+Wehaveseveraltechniquestohelpusdevelopadaptability.
+
+Oneoftheseistomakeflexibleplans.Flexibleplanscanen-
+
+hanceadaptabilitybyestablishingacourseofactionthatpro-
+
+videsformultipleoptions.Forexample,ablockingposition
+
+thatcoverstwoavenuesofapproachfromthesamelocation
+
+insteadofonlyoneprovidestheflexibilitytoadapttoanen-
+
+> emycomingthrougheitheravenue.
+
+Wecanincreaseourflexibilitybyprovidingbranchesfor
+
+currentandfutureoperations.Branchesareoptions(e.g.,
+
+changingdispositions,orientation,strength,movement,or
+
+> 84
+
+MCDP1-3 Adapting
+
+acceptingordecliningbattle)todealwithchangingcondi-
+
+> tionsonthebattlefieldthatmayaffecttheplan.4
+
+Flexibilitycanalsobeincreasedbyprovidingsequelsfor
+
+> currentandfutureoperations.Sequelsarecoursesofactionto
+
+followprobablebattleorengagementoutcomes;victory,de-
+
+> feat,orstalemate.5
+
+Thevalueofbranchesandsequelsisthattheyprepareus forseveraldifferentactions.Weshouldkeepthenumberof branchesandsequelstoarelativefew.Weshouldnottryto
+
+developsomanybranchesandsequelsthatwecannotade-quatelyplan,train,orprepareforanyofthem.Theskillful,
+
+> well-thought-outuseofbranchesandsequelsbecomesanim-
+
+portantmeansofanticipatingfuturecoursesofaction.This
+
+anticipationhelpsacceleratethedecisioncycleandtherefore
+
+> increasestempo.
+
+Flexibleplansavoidunnecessarydetailthatnotonlycon-
+
+> sumestimeintheirdevelopmentbuthasatendencytorestrict
+
+subordinates'latitude.Instead,flexibleplanslayoutwhat
+
+needstobeaccomplishedbutleavethemannerofaccom-
+
+plishmenttosubordinates.Thisallowsthesubordinatesthe
+
+> flexibilitytodealwithabroaderrangeofcircumstances.
+
+Flexibleplansareplansthatcanbeeasilychanged.Plans
+
+thatrequirecoordinationaresaidtobe"coupled."Ifallthe
+
+partsofaplanaretootightlycoupled,theplanisharderto
+
+changebecausechanginganyonepartoftheplanmeans
+
+> 85
+
+Tactics MCDP1-3
+
+changingalltheotherparts.Instead,weshouldtrytodevelop modular,looselycoupledplans.Thenifwechangeormodify
+
+anyonepartoftheplan,itdoesnotdirectlyaffectallthe
+
+> otherparts.6
+
+Finally,flexibleplansshouldbesimpleplans.Simple
+
+plansareeasiertoadapttotherapidlychanging,complex,
+
+> andfluidsituationsthatweexperienceincombat.
+
+DECENTRALIZATION
+
+Anotherexcellentwaytoimproveadaptabilityistodecentral-
+
+izedecisionmakingauthorityasmuchaseachsituational-
+
+lows.Thismeansthatcommandersonthesceneandclosest
+
+totheeventshavethelatitudetodealwiththesituationasre-
+
+quiredontheirownauthority—butalwaysinaccordancewith
+
+thehighercommander'sintent.Thisdecentralizationspeeds
+
+upreactiontime:wedonothavetowaitforinformationto
+
+flowuptoahighercommanderandorderstoflowback
+
+down.Itincreasestheresponsivenessoftheorganization,
+
+whichinturnincreasesadaptability.Decentralizingcontrol
+
+throughtheuseofmissionordersisoneofthetoolsweuseto maximizeourabilitytoadapt.
+
+Confidenceintheabilitiesofsubordinatesplaysanimpor-
+
+tantpartindecentralization.Leaderswhohaveconfidencein
+
+> 86
+
+MCDP1-3 Adapting
+
+thecapabilitiesoftheirsubordinateswillfeelmorecomfort-
+
+ableingrantingthemgreaterlatitudeinaccomplishingtasks.
+
+Itfostersaclimatewhereseniorleadersknowthattheirintent
+
+willbecarriedout.Thiswasparticularlytrueforthe1stBat-
+
+talion,7thMarines,duringOperationDesertStorm.Asthe
+
+battalionbeganbreachingoperationsfortheadvanceofthe
+
+1stMarineDivisionacrossthefirsttwoIraqiminebelts,
+
+Marinesweresuddenlyoverwhelmedwith"'hundredsupon
+
+hundredsofIraqissportingwhiteflags'" who weretryingto
+
+surrender.Thenumberwassogreatthatitthreatenedtostop theMarineadvance.However,thebattalioncommanderim-
+
+mediatelyrecognizedthesituation,judgedthattheIraqis
+
+wereharmless,andinstructedthebattalionnottostoptoac-
+
+cepttheirsurrender."Itwaspreciselythe . . .type oflocal
+
+situationthat[thedivisioncommander]wantedhiscommand-erstorecognizeandusetheirowninitiativetocorrect."8Here
+
+thecommandingofficerwhowasclosesttothesituationand
+
+whounderstoodthedivisioncommander'sintentnottolose
+
+themomentumoftheadvanceadaptedtothesituation.This
+
+adaptationresultedinarapidbreachofIraqidefenses.
+
+CONCLUSION
+
+Successfulwarfareisfilledwithexamplesofleadersadapt-
+
+ingtochangingsituations.Wemuststarttolearnhowto
+
+> 87
+
+Tactics MCDP1-3
+
+adaptnowduringourtraining.Leadersshouldvalueanden-
+
+courageinnovativethinking.Moreover,theyshouldexpect
+
+creativethinkingfromtheirsubordinatesbecauseitcreates
+
+> newopportunities.
+
+Foradaptationtobeeffective,commandersmustreadily
+
+exploittheopportunitiesuncoveredbysubordinates.Com-
+
+manderscannotremaintiedtoplansthatblindthemto
+
+fleetingopportunities.Whilemakingthebestpossibleprepa-rations,theymustwelcomeandtakeadvantageofunforeseen
+
+> opportunities.
+> 88
+
+# Chapter6
+
+# Cooperating
+
+"Unityofcommand(effort)iscoordinatedactiontowarda
+
+commongoal,itiscooperation.Itisworkingtogetherbyall commanderstowardtheaccomplishmentofacommonmis-
+
+sion,whichisimperativeforcompleteandfinalsuccess.
+
+Commandersmustdevelopintheirstaffsandsubordinates
+
+thedesiretocooperate,notonlyamongthemselvesbutwith
+
+otherelementsofthecommand."
+
+—NAVMC 7386,TacticalPrinciples
+
+"Thefirstelementofcommandandcontrolispeople—people whogatherinformation,makedecisions,takeaction,commu-
+
+nicate,andcooperatewithoneanotherintheaccomplish-
+
+mentofacommongoal. "2
+
+—MCDP 6,CommandandControl MCDP1-3 Cooperating
+
+# Everything thatwehavetodointactics—gainingadvan-
+
+tageand,aboveall,achievingadecisiveresult—needs
+
+ateameffort.Ifeffortsarenotinharmony,resultsmaybein-
+
+decisive.Forexample,iftheaviationcombatelement'sac-
+
+tionsarenotharmonizedwiththoseofthegroundcombat
+
+element,theyareunlikelytohaveadecisiveeffect.Ifartil-
+
+lerysupportisnotwellcoordinatedwithaninfantryattack,
+
+combinedarmssynergywillnotbeachieved,andtheattack
+
+mayfail.However,achievingthisteameffortiseasiersaid
+
+thandone. Itrequiresrapidlymaneuveringforces,often
+
+widelydispersed,toworktogetherunderthemostadverse
+
+conditions.
+
+CONTROLINCOMBAT
+
+Becausewarischaracterizedbychaos,uncertainty,andrapid change,controlquicklybreaksdown.Itisprobablyamistake
+
+tospeakofcontrolincombat.MCDP6statesthat"giventhe
+
+natureofwar,itisadelusiontothinkthatwecanbeincon-
+
+trolwithanysortofcertitudeorprecision."3Asanyonewho
+
+hasexperiencedcombatwillundoubtedlyagree,itisimpos-
+
+sibletocontroleverything.Attemptstoimposecontrolalso
+
+caneasilyunderminetheinitiativeuponwhichMarineCorps
+
+tacticsdepends.Marinescanbecomehesitant;theymayfeel
+
+theymustwaitforordersbeforeacting.Wearenotlikelyto
+
+> 91
+
+Tactics MCDP1-3
+
+movefasterorgainleverageoveracompetentopponentun-
+
+lessMarinesateverylevelexerciseinitiative.
+
+Thedilemma,then,isthis:Howdoweachievethegoalof workingtogetherinharmonywhileexercisingamoredecen-
+
+tralizedtypeofcontrol?
+
+# CooPE1TIoN
+
+Thebeginningoftheanswerliesincooperation.Wedefine
+
+cooperationastheunionofself-disciplineandinitiativein
+
+pursuitofacommongoal.Cooperationcanbeviewedasa
+
+componentofcontrol.
+
+Controlcangenerallybedividedintotwotypes:central-
+
+izedanddecentralized.Centralizedcontroltendstobeinone
+
+directionandworksfromthetopdown:someoneatahigher
+
+leveldetermineswhatsubordinateswillandwillnotdo.Cen-
+
+tralizedcontrolmakesusconformtohigherdictatesbecause
+
+onlyonepersondoesthethinkingfortheorganization—the
+
+personincontrol.
+
+Incontrast,decentralizedcontrolworksfromthebottom
+
+up.Commandistheexerciseofauthorityandguidance,and
+
+controlisfeltasfeedbackabouttheeffectsoftheactiontaken
+
+becausethinkingisrequiredatalllevels.(Seefigure.)This
+
+> 92
+
+MCDP1-3 Cooperating
+
+feedbackallowsthecommandertoadapttochangingcircum-
+
+stancesandtocommandsubsequentaction.Cooperationis
+
+requiredindecentralizedcontrol.Subordinatesworktogether laterallyandfromthebottomuptoaccomplishtasksthatful-
+
+fillthecommander'sintent.Cooperationmeanswetakethe
+
+initiativetohelpthosearoundusaccomplishoursharedmis-
+
+sion.4
+
+> I
+
+COMMANDER I I COMMANDER II COMMANDER Fli I COMMANDER Fh
+
+> Atypicalviewofcom-
+> mandandcontrol—com-mandandcontrolseen asunidirectional. Commandandcontrol
+> viewedasreciprocalin-
+> fluence—commandas
+> initiationofactionand
+> controlasfeedback.
+
+Twoviewsoftherelationship
+
+betweencommandandcontrol.
+
+93 Tactics MCDP1-3 CooperationisessentialtoMarineCorpstactics.Theflight
+
+leaderandwingmanworkonthebasisofcooperation.These
+
+pilotscooperatewiththeinfantrytheysupport.Twoinfantry
+
+units,fightingsidebyside,cooperate.Amobilecombatserv-
+
+icesupportdetachmentandthemechanizedforceitsupports
+
+cooperate.Weallworktogetherfarmoreeffectivelywhenwe
+
+communicatelaterallythanwhenwecommunicateonly
+
+throughhigherheadquartersandrespondonlytocentralized direction.Asanancillarybenefit,werelieveouroverloaded
+
+> communicationsnetworks.
+
+Thehistoryoftacticsisfilledwithexampleswherecoop-
+
+erationmadethedifference—andcontrolcouldnot.Onesuch
+
+exampleoccurredduringanIraqicounterattackinOperation
+
+DesertStorm.Blacksmokefromburningoilwellsturnedthe
+
+dayintonight.AUH-1NHueypilotusedhisnightvision
+
+equipmenttoleadflightsofAH-1WCobrasthroughnear-
+
+zerovisibilitytoattackIraqiarmoredvehicles.Thespecially
+
+equippedHueydesignatedtargetssothattheCobrascould
+
+engagethematnearpointblankrangewithantiarmorHellfire
+
+missiles.Fornearly10hours,theHueypilotledflightafter
+
+flightintothepitchedbattle,earningtheNavyCrossfor
+
+> heroism.5
+
+ThepilotsworkedtogethertodestroytargetstheHuey
+
+couldnotengageandtheCobracouldnotsee.Thisexample
+
+> showswhatcooperationcanaccomplish.
+> 94
+
+MCDP1-3 Cooperating
+
+DISCIPLINE
+
+Cooperationcanharmonizeeffortsandgeteveryonetowork
+
+togetherwithoutthecentralizedcontrolthatunderminesin-
+
+itiative.However,itraisesamorefundamentalquestion:
+
+Howdowepreparepeopletocooperatewhenthegoinggets
+
+> tough?
+
+Theanswerisdiscipline."Thereisonlyonekindofdisci-
+
+pline—PERFECTDISCIPLINE.Ifyoudonotenforceand
+
+> maintaindiscipline,youarepotentialmurderers."6Intheface
+
+ofadversityanddifficulty,disciplineenablesindividualsto
+
+pursuewhatisbestforthosearoundthem,theirunit,andthe
+
+MarineCorps.Individualsandunitsmighthavethedesire,
+
+butwithoutdisciplinetheywillbeunabletoaccomplishthe
+
+mostdifficulttasksincombat—operatingfasterthantheen-
+
+emy,gainingadvantage,generatingdecisive force,and
+
+> achievingdecisiveresults.
+
+Incombat,instantobediencetoordersiscrucial.Orders
+
+maynotbepopular,buttherecomesapointwheretheymust
+
+> becarriedoutwithoutquestion.Disciplineisaresultoftrain-
+
+ing.Intrainingforwar,disciplineshouldbefirm,butfair.
+
+TheMarineCorpsisknownasahighlydisciplinedfighting
+
+force.DisciplineisoneofthestrengthsthatmakeMarines
+
+equallyeffectiveassaultingabeach,conductinganoncom-
+
+batantevacuationoperation,fightingafire,orguardingour
+
+> 95
+
+Tactics MCDP1-3
+
+embassies.Nonetheless,disciplineisfoundednotonlyon
+
+> obediencebutalsoonasenseofduty.
+
+Thedisciplineneededforcooperationcomesfromtwo
+
+sources:imposeddisciplineandself-discipline.Thefirst
+
+source,imposeddiscipline,ismoreoftenassociatedwiththe
+
+term"militarydiscipline."Imposeddiscipline,typifiedbythe
+
+Prussianapproach,ischaracterizedbyinstantobedienceto
+
+orders.Externalinnature,itensurescompliancewithestab-
+
+lishedprocedures,rules,orguidanceanddirectionfrom
+
+above.Itisameanstoachieveefficiencyinaccomplishment
+
+ofroutinedutiesordrills.Initsmostextremeform,itcanbe
+
+rigid,paralyzing,anddestructiveofinitiative.Imposeddisci-
+
+plinealsomaymakeunitsvulnerabletotheeffectsofchaos
+
+> anduncertaintyandunabletocooperatewithoneanother. Self-disciplineisaninternalforcethatmorallyobligatesall
+
+Marinestodowhattheyknowisright—inthiscase,tocoop-
+
+eratewitheveryotherMarineinthepursuitofacommon
+
+goal.Theobligationisinternalineachindividual;itissome-
+
+thingheorshefeelspowerfullyabout.Coupledwithasense
+
+ofcamaraderieandespritdecorps,itpullsfromwithinand
+
+causesMarinestodoeverythingtheycanforfellowMarines.
+
+Attheunitlevel,thisforcecanbefeltasmorale."Nosystem
+
+oftacticscanleadtovictorywhenthemoraleofanarmyis
+
+> bad."7
+
+Self-disciplinecanbeseeninsuccessfulathleticteamsas
+
+wellasmilitaryunits.Teamplayersinstinctivelybackup
+
+> 96
+
+MCDP1-3 Cooperating
+
+theirteammates.Inbaseball,theoutfielderscovereachother
+
+onflyballs.Inhockey,rarelydoesonlyoneplayerrushthe
+
+goal.Infootball,offensivelinemendonotstandbyidlyona
+
+passplayifnodefensiveplayerfacesthem.Theyblockthe
+
+firstdefendertheycanfind.Membersofsquadsandfire
+
+teamsalsoworktogetherasteamstoaccomplishtasksand
+
+takecareofeachother.Thiscooperationamongteammates
+
+cannotbeenforcedbyacoachorleader.Itdependsuponthe
+
+> self-disciplineoftheindividuals.
+
+Marinedisciplineistheself-disciplineofasuccessful
+
+team,notjusttheimposeddisciplineofthearmyofFrederick
+
+theGreat.ForMarines,militarydisciplinemeansaccepting
+
+personalresponsibility.Self-disciplinewillnotallowusto
+
+shirkresponsibilityorblameothers.Adisciplinefailure—of-
+
+> tenafailuretoact—isapersonalfailure.
+
+Ourformofdisciplineisalsoabsolute.Thereisnotime
+
+off.Someoneelsemaybeincharge,butthatdoesnotabsolve
+
+usfromtheresponsibilitytodoeverythingwecantoachieve thecommongoal.Itdoesnotreduceourresponsibilitytoco-
+
+> operatewithfellowMlarinesinourunitandbeyond.
+
+Thisdisciplineisamindset,away of thinkingandbehav-ing.Itrunsthrougheverythingthatwedo.Itisasmuchapart
+
+ofgarrisonlifeasofcombat.Wealsocarrythissenseofper-
+
+sonalresponsibilityanddutytocontributeintoourprivate
+
+lives.Weseeitwheneveroff-dutyMarinestaketheinitiative
+
+tohelpatthesceneofanaccident,actasleadersintheir
+
+> 97
+
+Tactics MCDP1-3
+
+communities,orinotherwaysdomorethantheirshare.They
+
+dosobecauseofsomethinginward,notbecausetheyare
+
+compelledbycontrol.Thatsomethingisself-discipline,andit
+
+> isnotlimitedtooneaspectoflife.
+
+CONCLUSION
+
+Moderntacticsreliesoncooperation.Cooperation,inturn, dependsondiscipline.Disciplineconsistsofbothimposed
+
+disciplineandself-discipline.AsleadersofMarines,wemust
+
+createaclimateinwhichself-disciplineandahighlevelof
+
+initiativecanflourishwithintheboundariesofmilitarydisci-
+
+pline.Thisclimatedependsonus.Wordsareeasy;anyone
+
+## cangiveanoccasionalpeptalkonthemeritsofself-
+
+discipline.Marinesjudgeactions,notwords,andrespond
+
+positivelytoleadershipbyexample.Iftheleadercreatesacli-
+
+matewhereperfectdisciplineisexpectedanddemonstrated,
+
+cooperationwillfollow.
+
+> 98
+
+# Chapter7
+
+# Exploiting Success
+
+# andFinishing
+
+"DonotdelayintheattackWhenthefoehasbeensplitoff
+
+andcutdown,pursuehimimmediatelyandgivehimnotime
+
+toassembleorformup.. .spare nothing.Withoutregardfor
+
+dyjIculties,pursuetheenemydayandnightuntilhehasbeen
+
+annihilated."
+
+—Field MarshalPrinceAleksandrV.Suvorov
+
+"PursuethelastmantotheAddaandthrowtheremainsinto
+
+theriver."2
+
+—Field MarshalPrinceAleksandrV.Suvorov
+
+"Whenwehaveincurredtheriskofabattle,weshouldknow
+
+howtoprofitbythevictory,andnotmerelycontentourselves, accordingtocustom,withpossessionofthefield. —MauricedeSaxe MCDP1-3 ExploitingSuccessandFinishing
+
+# Itisnotenoughmerelytogainadvantage.Theenemywill
+
+notsurrendersimplybecauseheisplacedatadisadvan-tage.Thesuccessfulleaderexploitsanyadvantageaggres-
+
+sivelyandruthlesslynotoncebutrepeatedlyuntilthe
+
+opportunityarisesforafinishingstroke.Wemustalwaysbe
+
+onthelookoutforsuchopportunities—whetherwecreate
+
+themourselvesortheyariseintheflowofaction—andwhen
+
+weperceiveanopportunitytobedecisive,wemustseizeit.
+
+TheapplicationofMarineCorpstacticsdoesnotmeanthat
+
+weexpecttowineffortlesslyorbloodlesslyorthatweexpect
+
+theenemytocollapsejustbecauseweoutmaneuverhim.It
+
+meanswelookforandmakethemostofeveryadvantageand
+
+applythedecisivestrokewhentheopportunitypresentsitself.
+
+BUILDINGONADVANTAGE
+
+Oncewehavegainedanadvantage,weexploitit.Weuseitto
+
+createnewopportunities.Wethenexploitthoseopportunities
+
+tocreateothers,shapingtheflowofactiontoouradvantage.
+
+Theadvantagesdonotnecessarilyhavetobelarge;even
+
+smallfavoringcircumstancesexploitedrepeatedlyandag-
+
+gressivelycanquicklymultiplyintodecisiveadvantages.
+
+Likethechessgrandmaster,wemustthinkaheadtoournext
+
+moveandtheonebeyondit:HowamIgoingtousethisad-
+
+vantagetocreateanotherone?Forexample,inanattackby
+
+> 101
+
+Tactics MCDP1-3
+
+penetration,oncewehavecreatedoneadvantagebypunching
+
+throughtheenemy'spositionandgettingintohisrear,we
+
+createanotherbypouringforcesthroughthegap,generating
+
+> the"expandingtorrent"thatLiddellHartwroteabout.4
+
+Rommelrecountshowexploitingeachadvantageinthe
+
+battleforKukintheCarpathianmountainsduringWorldWar
+
+Iledtoanotheropportunity.Ashisdetachmentexploited
+
+eachsituationandmovedfartherbehindtheenemylines,it
+
+generatedmoresurpriseandadvantage.Duringthisaction,
+
+Rommel'sdetachmentcapturedthousandsofenemysoldiers
+
+withverylittlefighting,duelargelytohisunwillingnessto
+
+losemomentum.Onesuccessleddirectlytoanotheropportu-
+
+> nity,whichheimmediatelyseized.5
+
+AfterthebattleforTarawainNovember1943,Major
+
+HenryCrowe,CommandingOfficerof2dBattalion,8th
+
+Marines,wasaskedwhyhethoughttheJapanesehadbeen
+
+> defeatedsoquicklyoncetheMarineswereestablishedashore.
+
+Heremarkedthatitwasduetotheconstantpressureofnaval
+
+gunfire,bombs,andmortars.TheMarinesusedtheiradvan-
+
+> tageinsupportingarmstocreateopportunitiesforsuccess.6
+
+CONSOLIDATION,EXPLOITATION,ANDPURSUIT
+
+Oncewehavecreatedleverage,howdowetakeadvantageof
+
+it?Adecisiveresultorvictoryrarelystemsfromtheinitial
+
+> 102
+
+MCDP1-3 ExploitingSuccessandFinishing
+
+action,nomatterhowsuccessful.Moreoften,victoriesare
+
+theresultofaggressivelyexploitingsomerelativeadvantage
+
+untilonebecomesdecisiveandtheactionturnsintoarout.
+
+Casualtyrateshistoricallytendtoremainrelativelyconstant
+
+andoftenfairlyevenuntilonesideortheothertriestoflee.
+
+Onlythendosignificantlyasymmetricalcasualtyratescom-
+
+monlyoccur.Thisexploitationoftheenemy'sbadsituation
+
+> canyieldsurprisinglygreatresults.
+> Wecantakeseveralspecifictypesofactionstoexploitop-
+
+portunitieswehavecreatedordiscovered.Thefirstwaywe
+
+> canexploitsuccessisbyconsolidation—aswhenweconsoli-
+
+dateourforcesafterseizingapositionweintendtohold
+
+againsttheenemy.7Hereouraimsarelimitedtoprotecting
+
+whatwehavealreadygained.Wemustrealizethatbycon-
+
+solidating,ratherthancontinuingtoforcetheissue,wemay
+
+besurrenderingtheinitiative.Theremaybeanynumberof
+
+> reasonsforchoosingthiscourse.Perhapswelackthestrength
+
+tocontinuetoadvance.Ournewgainmaybeofcriticalim-
+
+> portance,andtheriskoflosingitoutweighstheadvantagesof
+
+anyfurthergains.Perhapsthenewgainbyitselfgrantsasig-
+
+nificantadvantage.Forinstance,apositionthatprovidesex-
+
+> cellentfiresorthreatenstheenemy'slinesofcommunications
+
+mayputtheenemyinanuntenableposition.Perhapsthenew
+
+gaincompelstheenemytomeetusonourterms—forexam-
+
+ple,weseizeacriticalpieceofterrainwithstrongdefensive
+
+> qualities,forcingtheenemytoattackonunfavorableterms.
+
+Thesecondwaytopursueanadvantageisthroughexploi-
+
+tation,anoffensivetacticthatisdesignedtodisorganizethe
+
+> 103
+
+Tactics MCDP1-3 enemyindepth.8Exploitationusuallyfollowsasuccessfulat-
+
+tackthathascreatedorexposedsomeenemyvulnerability.
+
+Forexample,anattackthathastornagapinenemydefenses
+
+allowsustoattackvitalenemyrearareas.Theobjectofex-
+
+ploitationisnottodestroythecombatforcesdirectlyoppos-
+
+ingus,eventhoughtheymaybeweakened.Instead,the
+
+objectistodisrupttheentireenemysystembyattackingim-
+
+portantactivitiesandfunctions.
+
+Forexample,duringOperationDesertStormin1991,the
+
+Army'sTigerBrigadewasemployedbythe2dMarineDivi-
+
+sionasanexploitationforceduringthedivision'sfinalattack.
+
+ThebrigadehadtheadvantageovertheIraqisinspeed,fire-
+
+power,andnightcombatcapabilities.Withtheseadvantages
+
+theTigerBrigadesliceddeepintotherearoftheIraqiIII
+
+Corpsandsealedoffthevitalhighwayintersectionsnorthof
+
+AlJahra.TheresultwasatotaldisruptionoftheIraqiorgan-
+
+> izeddefense.9
+
+Thethirdwaytoexploitadvantageisthroughpursuit.A
+
+pursuitisanoffensivetacticdesignedtocatchorcutoffa
+
+hostileforcethathaslostcohesionandisattemptingtoescape
+
+inordertodestroyit.'°Iftheintentistobringaboutthefinal
+
+destructionorcaptureoftheenemy'sforces,thenpursuit
+
+shouldbepushedwiththeutmostvigor.Itisherethatopera-
+
+> tionsturnintorouts,andoverwhelmingvictoriesoftenoccur.
+
+GeneralGrant'spursuitofGeneralLee'sConfederate
+
+ArmyofNorthernVirginiafromPetersburgtoAppomattoxin
+
+> 104
+
+MCDP1-3 ExploitingSuccessandFinishing
+
+April1865isaclassicexampleofapursuit.HereGrant
+
+pushedhisforcestotheirlimitsinordertopreventLee'ses-
+
+cape.ThisultimatelyledtothecaptureandsurrenderofLee's forces."
+
+TheConfederateArmy'sLieutenantGeneralThomasJ.
+
+"Stonewall"Jacksonsummeduppursuitwhenhesaid,
+
+"Striketheenemyandovercomehim,nevergiveupthepur-
+
+suitaslongasyourmenhavestrengthtofollow;foranen-
+
+> emyrouted,ifhotlypursued,becomespanic-stricken,andcan
+
+bedestroyedbyhalftheirnumber."2
+
+FINISH1TGTHEENEMY
+
+Ultimately,wewanttocultivateopportunitiesintoadecisive
+
+advantage.Oncewedo,wemakethemostofit.Marine
+
+Corpstacticscallsforleaderswhoare"strongfinishers."We musthaveastrongdesireto"goforthejugular."Wemustbe
+
+> constantlytryingtofindortocreatetheopportunitytodeliver
+
+thedecisiveblow.Atthesametime,wemustnotbeprema-
+
+tureinouractions.Wemustnotmakethedecisivemovebe-
+
+> foretheconditionsareright.
+
+Thisabilitytofinishtheenemyonceandforallderives
+
+firstfrompossessinganaggressivementality.Second, it
+
+stemsfromanunderstandingofthecommander'sintent.
+
+> 105
+
+# Tt; MCDP 1-3
+
+Third,itstemsfromakeensituationalawarenessthathelpsus
+
+recognizeopportunitieswhentheypresentthemselvesand
+
+understandwhentheconditionsarerightforaction.
+
+USEOFTHERESERVEINCOMBAT
+
+Thereserveisanimportanttoolforexploitingsuccess.The reserveisapartofthecommander'scombatpowerinitially
+
+withheldfromactioninordertoinfluencefutureaction.'3The
+
+reasontocreateandmaintainareserveistoprovideflexibil-
+
+itytodealwiththeuncertainty,chance,anddisorderofwar.
+
+Thereserveisthusavaluabletoolformaintainingadaptabil-
+
+ity.Ingeneral,themoreuncertainthesituation,thelarger
+
+shouldbethereserve.Napoleononcesaidthat"Wariscom-
+
+posedofnothingbutaccidents,and . . . ageneralshould
+
+neverlosesightofeverythingtoenablehimtoprofitfrom
+
+[those]accidents."4Theseaccidentstaketheformofoppor-
+
+tunitiesandcrises.Thereserveisakeytacticaltoolfordeal-
+
+ingwithboth.
+
+Thecommandershouldhaveapurposeinmindforthere-
+
+serve'semploymentanddesignittofulfillthatpurpose.To
+
+trulyexploitsuccessmaywarrantassignmentofthecom-
+
+mander'sbestsubordinateunitorapreponderanceofcombat
+
+powerormobilityassetstothereserve.Thosecommanders
+
+whoproperlyorganize,task,andequiptheirreservesare
+
+> 106
+
+MCDP1-3 ExploitingSuccessandFinishing
+
+usuallytheoneswiththecapabilitytofinishtheenemywhen
+
+theopportunityarises.
+
+WinstonChurchillrecognizedthevalueofareservewhen
+
+hewrote:"Itisintheuseandwithholdingoftheirreserves
+
+thatthegreatCommandershavegenerallyexcelled.Afterall,
+
+whenoncethelastreservehasbeenthrownin,theCom-
+
+mander'spartisplayed . . . . The eventmustbelefttopluck
+
+andtothefightingtroops."5
+
+Astrongreserveisalsoawaytoretaintheinitiative.Ifan
+
+advanceslows,thereservecanincreasethemomentum.Ifan
+
+advancepicksupspeed,thecommitmentofthereservecan
+
+createarout.Wemayusethereservetoexpandorexploit
+
+gapsorpenetrations.Wemaycommitthereservetoattackin
+
+adifferentdirection,thusexploitingopportunitiesforsuccess
+
+insteadofreinforcingfailure.Withoutastrongreserve,even
+
+themostpromisingopportunitiescanbelost.
+
+Aclassicexampleoftheuseofthereserveisthebattlefor
+
+Tarawa.Withthe2dand8thMarineRegimentsheldupon
+
+theassaultbeaches,GeneralJulianSmithdecidedtolandthe
+
+6thMarineRegiment,thedivisionreserve,tobreakthestale-
+
+mate.The1stBattalion,6thMarines,whichwastask-or-
+
+ganizedaspartofthedivisionreserve,landedonthewestern
+
+endoftheisland,passedthrough3dBattalion,2dMarines,
+
+andfromtheflankconductedaswiftandviolentassaultof
+
+theJapanesefortificationsacrosstheisland.Within48hours,
+
+theJapaneseforceswereannihilatedandtheislandsecured.
+
+> 107
+
+Tactics MCDP1-3
+
+GeneralSmith'suseofhisreservetoexploitsuccessandfin-
+
+> ishtheenemywasthekeytovictoryatTarawa.'6(Seefigure.)
+
+Sometimeswemustemploythereservetodealwithsome
+
+crisis,renderingittemporarilyunavailableforcommitment
+
+elsewhere.Insuchinstances,areserveshouldbereconsti-
+
+tutedasrapidlyaspossible.Weshouldlookfortheopportu-nitytoemploythereservetoreinforcesuccess.Howeverwe
+
+mayemploythereserve,weshouldalwaysthinkofitasthe
+
+toolforclinchingthevictory.Inthisrespect,MarshalFoch
+
+> 108
+
+MCDP1-3 ExploitingSuccessandFinishing
+
+wrotethat"thereserveisaclub,prepared,organized,re-
+
+served,carefullymaintainedwithaviewtocarryingoutthe
+
+oneactofbattlefromwhicharesultisexpected—thedeci-
+
+> siveattack."17Itisgenerallythroughoffensiveaction,evenin
+
+thedefense,thatweachievedecisiveresults.Sincethere-
+
+serverepresentsourbidtoachieveafavorabledecisionorto preventanunfavorableone,itoftenbecomesthemaineffort
+
+oncecommittedandshouldbesupportedbyalltheotherele-
+
+> mentsoftheforce.
+
+Alongwiththetangibleassetsusedasareserve,thepm-
+
+dentcommandermustalsobeawareof,andplanfor,the
+
+intangiblefactorsthatimpactoncombatpowerandits
+
+sustainment.Intangiblefactorsincludefatigue,leadership
+
+> quality,proficiency,morale,teamwork,andequipmentmain-
+
+tenance.Webuildreservesalsobyreservingaviationsortie
+
+ratesornumbers,withholdinguniqueorlow-densitymuni-
+
+tions,orholdingcriticalsuppliessuchasfuelorpetroleum,
+
+oils,andlubricantsforaspecificgoal.Weconsiderthesein-tangiblefactorswhencreatingandtaskingthereserve,aswe
+
+> doinallassignmentsoftasks.
+
+Theseconceptsapplynotonlytounitsinitiallydesignated
+
+asthereservebutalsotoanyunit,sinceanyunitcanbe
+
+shiftedorrecommittedasthereserve.Thusacommander
+
+mustalwaysbementallypreparedtoredesignaterolesof
+
+> unitsandtocreateandusereservesasthesituationrequires.'8
+> 109
+
+Tactics MCDP1-3
+
+CONCLUSION
+
+Mostdecisivevictoriesdonotresultfromtheinitialaction,
+
+butfromquicklyandaggressivelyexploitingtheopportuni-
+
+tiescreatedbythataction.Wemayfindanynumberofways toexploittacticalopportunity,buttheyallhavethesameob-ject—toincreaseleverageuntilwehavethefinalopportunity
+
+todecidetheissueonceandforallinourfavor.Agoalin
+
+MarineCorpstacticsisnotmerelytogainadvantagebutto
+
+boldlyandruthlesslyexploitthatadvantagetoachievefinal
+
+> victory.
+> 110
+
+# Chapter8
+
+# MakingItHappen
+
+"Nine-tenthsoftacticsarecertain,andtaughtinbooks:but
+
+theirrationaltenthislikethekingfisherflashingacrossthe
+
+poolandthatisthetestofgenerals.Itcanonlybeensuredby
+
+instinct,sharpenedbythoughtpracticingthestrokesooften
+
+thatatthecrisisitisasnaturalasareflex."
+
+—1. E.Lawrence
+
+"Itcannotbetoooftenrepeatedthatinmodernwar,andes-
+
+peciallyinmodernnavalwar,thechieffactorinachieving
+
+triumphiswhathasbeendoneinthewayofthoroughprepa-
+
+rationandtrainingbeforethebeginningofwar."2
+
+—Theodore Roosevelt MCDP1-3 MakingItHappen
+
+# Readingandunderstandingtheideasinthispublication
+
+aretheinitialstepsontheroadtotacticalexcellence.
+
+TheprimarywayaMarineleaderbecomesanabletacticianis
+
+throughtrainingandeducation,bothofwhicharefirmly
+
+rootedindoctrine.Doctrineestablishesthephilosophyand
+
+practicalframeworkforhowwefight.Educationdevelopsthe
+
+understanding,creativity,militaryjudgment,andtheback-
+
+groundessentialforeffectivebattlefieldleadership.Training
+
+followsdoctrineanddevelopsthetacticalandtechnicalprofi-ciencythatunderliesallsuccessfulmilitaryaction.Individual
+
+andgroupexercisesservetointegratetrainingandeducation,
+
+producingawholethatisgreaterthanthesumofitsparts.
+
+Thelessonslearnedfromtrainingandoperationalexperience
+
+thenmodifydoctrine.
+
+DOCTRINE
+
+DoctrineestablishesthefundamentalbeliefsoftheMarine
+
+Corpsonthesubjectofwarandhowwepracticeourpro-
+
+fession.3Doctrineestablishesaparticularwayofthinking
+
+aboutwarandourwayoffighting,aphilosophyforleading
+
+Marinesincombat,amandateforprofessionalism,anda
+
+commonlanguage.Doctrinaldevelopmentbenefitsfromour
+
+collectiveexperienceanddistillsitslessonstofurthereduca-
+
+tionandtraining.
+
+> 113
+
+Tactics MCDP1-3
+
+OurdoctrinewithintheMarineCorpsbeginswiththephi-
+
+losophycontainedinMCDP1,WarJIghting.Thisphilosophy
+
+underliespublicationsintheMarineCorpsWarfightingPub-
+
+licationsseriesthatcontaintactics,techniques,andproce-
+
+duresforspecificfunctions.Thisbodyofthoughthelpsform
+
+Marinetacticiansthroughitsimplementationineducationand training.(Seefigure.)
+
+EDUCATION
+
+> Thedoctrinaldevelopmentcycle.
+
+Whilecombatprovidesthemostinstructivelessonsondeci-
+
+sionmaking,tacticalleaderscannotwaitforwartobegintheir
+
+> 114
+
+MCDP1-3 MakingItHappen education.Wemustbecompetentinourprofessionbefore
+
+> ourskillsarecalledupon.ThelivesofourMarinesdependon
+> it.
+
+Oureducationintacticsmustdevelopthreequalitieswith-
+
+inalltacticalleaders.Thefirstqualityiscreativeability.Tac-
+
+ticalleadersmustbeencouragedtodeviseandpursueunique
+
+approachestomilitaryproblems.Norulesgoverningenuity. Thelineseparatingboldnessfromfoolhardinessisdrawnby
+
+thehandofpracticalexperience.Thatsaid,aneducationin
+
+tacticsmustpossessanelementofrigor.Toooften,tactical
+
+discussionslackanin-depthanalysisofcauseandeffect.The
+
+tacticallyproficientleadermustlearnhowtoanalyzesolu-
+
+tionstotacticalproblems.Lackingsucharigorousanalysis,
+
+thetacticianwillnotlearnfromexperiencenorexercisecrea-
+
+> tiveability.
+
+Thesecondqualityismilitaryjudgment,whichincludes theskillsforgainingsituationalawarenessandactingdeci-
+
+sively.Thetacticianmustreadilyrecognizethecriticalfac-
+
+torsinanysituation—enemycapabilities,weather,terrain
+
+characteristics,andtheconditionofourownforces,tomen-
+
+tionjustafew.Marineleadersmustbeabletocuttotheheart
+
+ofasituationbyidentifyingitsimportantelements,develop-
+
+> ingasoundplan,andmakingcleardecisions.Oureducational
+
+approachshouldemphasizetheabilitytounderstandthemis-
+
+> sion,issueaclearintent,anddeterminethemaineffort.
+> 115
+
+Tactics MCDP1-3
+
+Thethirdqualityismoralcourage.Moralcourageisthe
+
+abilitytomakeandcarryoutthedecisionregardlessofper-
+
+sonalcost. It isdifferentfrom—andrarerthan—physical
+
+> courage.Thecostofphysicalcouragemaybeinjuryordeath,
+
+whereasthecostofmoralcouragemaybethelossoffriends,
+
+popularity,prestige,orcareeropportunities.Theburdenof
+
+conflictingresponsibilitiesincombat—responsibilityforthe livesofsubordinates,supportforpeers,loyaltytosuperiors,
+
+dutytotheNation—canbeheavy.Oureducationalefforts
+
+> shouldleadpotentialleaderstoworkthroughtheproperreso-
+
+lutionofsuchconflictsinpeacetime.Leadersoftenneedto
+
+makemorallycorrectdecisionsincombat,buttherewill
+
+rarelybetimefordeepmoralorethicalcontemplationonthe
+
+> battlefield.
+> Aneffectiveleaderwillinglytakesontheriskswhichcome
+
+withmilitaryresponsibilities.Inthatlight,thegreatestfailing
+
+ofaleaderisafailuretolead.Twosteadfastrulesapply.
+
+First,insituationsclearlyrequiringindependentdecisions,a
+
+leaderhasthesolemndutytomakethem.Whetherthesubse-
+
+quentactionsucceedsorfails,theleaderhasmadeanhonor-
+
+ableeffort.ThebroadexerciseofinitiativebyallMarines
+
+willlikelycarrythebattleinspiteofindividualerrors.Sec-
+
+ond,inactionandomissionbasedonafailureofmoralcour-
+
+agearemuchworsethananyjudgmenterrorreflectinga
+
+sincereefforttoact.Errorsresultingfromsuchmoralfailings
+
+leadnotonlytotacticalsetbacksbuttothebreakdownof
+
+> faithinthechainofcommand.Propertraining,education,and
+
+concernedleadershiparethekeystoinstillingthequalitiesof
+
+> 116
+
+MCDP1-3 MakingItHappen
+
+creativeability,militaryjudgment,andmoralcourageinthe
+
+> mindsofallMarines.
+
+TRkINING
+
+Goodtacticsdependuponsoundtechnicalskills.Theseare
+
+thetechniquesandprocedureswhichenableustomove,
+
+shoot,andcommunicate.Weachievetechnicalcompetence
+
+throughtraining.Webuildskillsthroughrepetition.Training
+
+alsoinstillsconfidenceinweaponsandequipment.Itdevel-
+
+> opsthespecializedskillsessentialtofunctioningincombat.
+
+Oneoftheultimateaimsoftrainingisspeed.Essentialto
+
+speedistherequirementforaccuracy.Speedwithoutaccu-
+
+racymaybecounterproductiveandcausesmoredamagethan
+
+inaction.WhetherMarinescomputefiringdata,practicerifle
+
+marksmanshiporweaponsgunnery,rearmandrefuelaircraft,
+
+repairvehicles,stockortransportsupplies,orcommunicate
+
+information,thespeedandaccuracyoftheiractionsdeter-minethetempooftheoverallforce.Trainingdevelopsthe
+
+> proficiencywhichenablesthiseffectivecombinationofspeed
+> andaccuracy.
+
+Small-unittrainingshouldfocusonproficiencyinsuch
+
+techniquesandproceduresasimmediate-actiondrills,battle
+
+drills,andunitstandingoperatingprocedures.Practicingto
+
+> 117
+
+Tactics MCDP1-3
+
+reachtechnicalproficiencyappliestoalltypesofunits,
+
+whetherasectionofaircraftexecutingaircombatmaneuvers,
+
+amaintenancecontactteamrepairingavehicleunderfire,an
+
+artillerygunteamconductingdisplacementdrills,orarifle
+
+squadconductinganin-stridebreachofanobstacle.Wede-
+
+velopandrefinethesemeasuressothatunitsgainandmain-
+
+tainthespeedandaccuracyessentialforsuccessinbattle.
+
+Staffs,likeunitsandindividualleaders,musttraintoin-
+
+creasespeedandaccuracy.Staffsincreasespeedbyaccom-
+
+plishingthreethings: first,byobtainingandorganizing
+
+informationtohelpthecommanderandthemselvesunder-
+
+standthe situation; second,byunderstandingthecom-
+
+mander'sdecisionandcoordinatingeffortstofocuscombat
+
+powertoachievethecommander'sgoal;andthird,bymoni-
+
+toringevents,maintainingsituationalawareness,andantici-
+
+patingandadaptingtochanges.Asstaffstrain,theyincrease
+
+accuracybybecomingmoreproficientbothintheirrespective
+
+areasandinfunctioningasateam.
+
+FieldMarshalErwinRommelknewthevalueofspeedand
+
+accuracyforhisstaffwhenhewrote:
+
+> Acommandermustaccustomhisstafftoahightempofrom
+> theoutset,andcontinuouslykeepthemuptoit.Ifheonceal-
+> lowshimselftobesatisfiedwithnorms,oranythinglessthan
+> anall-outeffort,hegivesuptheracefromthestartingpost,
+> andwillsoonerorlaterbetaughtabitterlesson.4
+> 118
+
+MCDP1-3 MakingItHappen
+
+Thespeedandefficiencyofaunitdependnotonlyonthe
+
+technicalproficiencyofitsindividualmembersbutalsoin
+
+largepartuponitscohesiveness.Suchcohesionrequiresboth
+
+personnelstabilityandsolidleadership. TrainingshouldalsoprepareMarinesfortheuniquelyphy-
+
+sicalnatureofcombat.Livingandcaringforthemselvesina
+
+spartanenvironment,confrontingthenaturalelements,and
+
+experiencingthediscomfortofbeinghungry,thirsty,and
+
+tiredareasessentialinpreparingforcombatdutyasany
+
+skillstraining.Thepointisnottotrainindividualsonhowto
+
+bemiserable,butratheronhowtobeeffectivewhenmiser-
+
+> ableorexhausted.
+
+Likewise,trainingshouldenableustotakeappropriateac-
+
+tioninanyenvironmentandatanytime.Thisreadinessin-
+
+cludesoperatingduringinclementweatherandperiodsof
+
+limitedvisibility.Wemustmaketerrain,weather,anddark-
+
+nessouralliesifwearetogainadvantageanddeliverdeci-
+
+siveforceatatimeandplaceofourchoosing.Wecanneither
+
+anticipatenorappreciatetheinherentfrictionthatthesenatu-
+
+> ralfactorsproduceunlessweexperiencethem.5
+
+# Titur4IrG AND EDUCATIONALMETHODS
+
+Thereisnosingle"best"approachtodevelopingtacticalpro-
+
+ficiency.However,anyapproachshouldbeadaptabletoall
+
+> 119
+
+Tactics MCDP1-3
+
+echelonsandtoallgrades.Theenvironmentshouldbeone
+
+thatischallengingandconducivetocreativethinking.Like
+
+allpreparationforwar,trainingshouldreflecttherigorsof
+
+> thatenvironment.Thefollowingexamplesmayprovidesome
+> toolsfordevelopingtacticalproficiencyinMarines.
+
+ProfessionalReadingandHistoricalStudy
+
+Becauseoftherelativeinfrequencyofactualcombatexperi-encesinmostmilitaryleaders'careers,Marinesmustseekto expandtheirunderstandingthroughother,lessdirectmeans.
+
+Thestudyofmilitaryhistoryiscriticaltodevelopingjudg-
+
+mentandinsight.Itenablesustoseehowsuccessfulcom-
+
+mandershavethoughtthrough—andfoughtthrough—the
+
+situationstheyfaced.Notmanypeoplecandoitinstinctive-
+
+ly—fewpossesstherarenativeabilitytothinkmilitarily.
+
+Eventhosefewcanenhancetheirabilitiesthroughstudyand
+
+> practice.
+> Historicalstudiesprovidethemostreadilyavailablesource
+
+ofindirectexperienceinourprofession.Thesestudiesde-
+
+scribetheleadershipconsiderations,thehorrorsofwar,the sacrificesendured,thecommitmentinvolved,theresources
+
+required,andmuchmore.Thesestudiesincludebiographies
+
+andautobiographiesofmilitaryfigures,booksonspecific
+
+battles,wars,andmilitaryinstitutions,unithistories,after-
+
+actionreports,films,anddocumentaries.Groupdiscussions
+
+helptoexpandtheinsightsintoleadershipandbattlethatwe
+
+> havegainedthroughindividualstudy.
+> 120
+
+MCDP1-3 MakingItHappen
+
+> Professionalreadingsandstudyarenotsolelytheresponsi-
+
+bilityofmilitaryschools.Individualscannotaffordtowait
+
+forattendanceatamilitaryschooltobeginacourseofself-directedstudy.Militaryprofessionalismdemandsthatindi-
+
+vidualsandunitsfindtimetoincreasetheirprofessional
+
+knowledgethroughprofessionalreading,professionalmili-
+
+> taryeducationclasses,andindividualstudy.
+
+TacticalExercises Tacticalsuccessevolvesfromthesynthesisoftrainingand
+
+education—thecreativeapplicationoftechnicalskillsbased
+
+onsoundjudgment.Exercisesenableleaderstopracticedeci-
+
+sionmakingandindividuals,staffs,andunitstopracticeand
+
+perfectcollectiveskills.Exercisesalsoservetotestandim-
+
+provetactics,techniques,andprocedures,immediateactions,
+
+> battledrills,andcombatstandingoperatingprocedures.
+
+Anexerciseshouldserveasaunit'sinternalassessmentof thequalityofitstrainingandeducation,notasgradingcrite-
+
+riaforhighercommands.Theconclusionsshouldaimtonote
+
+shortfallssoastoaddressthemthroughfutureinstructionand
+
+nottopenalizepoorperformance.Aunitwillneverbefully
+
+> trained.Therewillalwaysberoomforimprovement.
+
+Exercisesalsotesttheabilityofunitstosustaintempofor
+
+> anextendedperiodoftime.Sincevictoryisrarelytheproduct
+
+ofsingleactions,theabilitytooperateandsustaincombatef-
+
+fectivenessovertimeisimportant.Knowingwhenhostilities
+
+> 121
+
+Tactics MCDP1-3 willceaseisaconveniencedeniedthecombatMarine.Equip-
+
+mentmustbemaintained,andpeoplemustbesustainedwith
+
+adequaterest,nourishment,andhygieneuntiltheyaccom-
+
+> plishtheirmission.
+
+Tacticalexercisescanrangefromfieldexercisestocom-
+
+mandpostexercisestotacticalexerciseswithouttroops.Field exercises,conductedbyunitsofanysize,involveallunitper-
+
+sonnelworkingtogethertolearn,test,andrefinetheircollec-tivebattlefieldtasks.Suchexercisescanbegeneralinnature,
+
+ortheycanbedetailedrehearsalsforspecificupcoming
+
+> missions.
+
+Commandpostexercisesarelargelylimitedtocommand-
+
+ersandtheirstaffs.Theirpurposeistofamiliarizestaffswith
+
+theircommanders'personalpreferencesandoperatingstyles aswellastoexercisestafftechniquesandproceduresandto
+
+reviewparticularcontingencyplans.
+
+Tacticalexerciseswithouttroopsprovidetacticalleaders
+
+opportunitiestoexercisejudgmentwhilepermittingotherunit
+
+elementstoconducttrainingandeducationoftheirown.
+
+> Therearetwoapproachestoconductingthem.
+
+Thefirstmethodprovidesaleaderanopportunitytoevalu-ateasubordinate'sabilitytoperforminagivenscenario.This
+
+methodplacesstudentsinanareaofoperationsandprovides
+
+asituationuponwhichtoplanandexecuteatask—forexam-
+
+ple,"Establishareverseslopedefense."Theaimhereisto
+
+> 122
+
+MCDP1-3 MakingItHappen
+
+exercisetacticalproficiencyinthesitingofweaponsandthe
+
+> useofterrain.
+
+Thesecondmethodalsoplacesstudentsinanareaofop-
+
+erationsandprovidesasituationbutgivesthemamissionor-
+
+der—forexample,"PreventenemymovementnorthofRoute
+
+348."Theaimhereistoexercisejudgment.Afterwalking
+
+theground,thestudentsmustfirstdecidewhethertodefend
+
+orattack,supportingtheirconclusionswithreasoning.The
+
+reasoningisthendiscussedandcriticized.Thisapproachen-
+
+couragesstudentstodemonstrateingenuityandinitiative.
+
+Theyhavefreereintoemploytheirresourcesastheyseefit
+
+> toachievethedesiredresults.6
+
+Wargaming
+
+Wargamescanbeavaluabletoolforunderstandingthemany
+
+factorsthatinfluencealeader'sdecisions.Morale,enemyand
+
+friendlysituations,thehighercommander'sintentions,fire-
+
+power,mobility,andterrainareonlyafewofthedecision
+
+factorsincludedintheplayofwargames.Inallthesesimula-
+
+tions,fromthesandtabletoacommercialboardgametoa
+
+computerizedsimulation,routineshouldbeavoided.Theless
+
+> familiartheenvironment,themorecreativitythestudentmust
+> display.
+
+Sandtableexercises,tacticaldecisiongames,andmapex-
+
+ercisespresentstudentswithageneralsituation,missionor-
+
+ders,andaminimumofinformationonenemyandfriendly
+
+> 123
+
+Tactics MCDP1-3
+
+forces.Sandtableexercisesareespeciallysuitedtonovice
+
+> tacticians.Theypresenttheterraininthree-dimensionalarray,
+
+whereasamaprequiresinterpretation.Bothmapandsand
+
+tableexercisesenablestudentstoconceptualizethebattle,
+
+delivertheirdecisions,andissueorderstosubordinates.Af-
+
+terwards,studentsdiscusstheirdecisionsandarecritiqued.
+
+Thediscussionshouldfocusonmakingadecisionintheab-
+
+> senceofperfectinformationorcompleteintelligence.
+
+TerrainWalks
+
+Terrainwalksintroducetherealitiesofterrain,vegetation,
+
+andweather.Terrainwalkscanbeconductedinatleasttwo
+
+> ways.
+
+Thefirstmethodprovidesstudentswithanareaofopera-
+
+tions,ageneralsituation(usuallydepictedonamap),anda
+
+mission.Asinsandtableandmapexercises,studentsde-
+
+scribetheirviewofthebattle.Choosingoneplan,thegroup
+
+thenbeginstowalktheterrainaccordingtotheplan.The
+
+> groupwillthenencounterunanticipatedterrainandobstacles,
+
+whiletheinstructorsintroduceenemyactionsintotheplayof theproblem.Inthisway,studentsmustcontendwiththedis-
+
+paritybetweenactualterrainandvegetationandmapsaswell
+
+asthechaosanduncertaintygeneratedbyenemyactionsthat
+
+> invariablyoccurinreal-worldoperations.
+
+Thesecondmethodinvolvesthefirsthandstudyofhistoric
+
+battlefields.Wegainaspecialvantageonbattlebywalking thegroundandseeingthebattlefieldfromtheperspectiveof
+
+> 124
+
+MCDP1-3 MakingItHappen
+
+bothcommanders.Wegainanewappreciationforanhistori-calcommander'sblunders.Oftensuchblundersseemincom-
+
+prehensible—untilweseetheground.Onlythencanwe
+
+realisticallyconsideralternativecoursesofactionthatthe
+
+> commandermighthavepursued.7
+
+Competition
+
+Exercisesshouldproviderealism.Themeanstoachievetacti-
+
+calrealismarecompetitivefree-playorforce-on-forceexer-cises.Wheneverpossible,unittrainingshouldbeconducted
+
+> inafree-playscenario.Thisapproachcanbeusedbyalllead-
+
+erstodeveloptheirsubordinates.Itaffordsbothleadersand
+
+unitmemberstheopportunitytoapplytheirskillsandknowl-
+
+> edgeagainstanactivethreat.
+
+Free-playexercisesareadaptabletoalltacticalscenarios
+
+andbeneficialtoallechelons.Whetheritisfireteamsscout-ingagainstfireteams,sectionsofaircraftduelinginthesky,
+
+orcompanies,battalions,squadrons,andMarineair-ground
+
+> taskforcesoperatingagainstoneanother,bothleadersandin-
+
+dividualMarinesbenefit.Leadersformandexecutetheirde-
+
+cisionsagainstanopposingforceasindividualMarines
+
+employtheirskillsagainstanactiveenemy.Throughfree-
+
+playexercises,Marineslearntofightasanorganizationand
+
+> todealwitharealisticallychallengingfoe.8
+
+Critiques
+
+Akeyattributeofdecisionmakersistheirabilitytoreachde-
+
+cisionswithclearreasoning.Critiqueselicitthisreasoning
+
+> 125
+
+Tactics MCDP1-3
+
+process.Anytacticaldecisiongameortacticalexercise
+
+> shouldculminatewithacritique. Thestandardapproachforconductingcritiquesshouldpro-
+
+moteinitiative.Sinceeverytacticalsituationisuniqueand
+
+sincenotrainingsituationcanencompassmorethanasmall
+
+fractionofthepeculiaritiesofarealtacticalsituation,there
+
+canbenoidealorschoolsolution.Critiquesshouldfocuson
+
+thestudents'rationalefordoingwhattheydid.Whatfactors
+
+didastudentconsider,ornotconsider,inmakinganestimate
+
+ofthesituation?Werethedecisionsthestudentmadeconsis-
+
+tentwiththisestimate?Weretheactionsorderedtactically
+
+sound?Didtheyhaveareasonablechanceofachievingsuc-
+
+cess?Howwellweretheorderscommunicatedtosubordi-
+
+nates?Thesequestionsshouldformthebasisforcritiques.
+
+Thepurposeistobroadenaleader'sanalyticalpowers,expe-
+
+riencelevel,andbaseofknowledge,therebyincreasingthe
+
+> student'screativeabilitytodevisesound,innovativesolutions todifficultproblems. Critiquesshouldbeopen-mindedandunderstanding,rather
+
+thanrigidandharsh.Mistakesareessentialtothelearning
+
+processandshouldalwaysbecastinapositivelight.Thefo-cusshouldnotbeonwhetheraleaderdidwellorpoorly,but
+
+ratherontheprogressachievedinoveralldevelopment.We
+
+mustaimtoprovidethebestclimatetogrowleaders.Dam-
+
+agingaleader'sself-esteem,especiallyinpublic,therefore
+
+shouldbestrictlyavoided.Aleader'sself-confidenceisthe
+
+wellspringfromwhichflowsthewillingnesstoassumere-
+
+> sponsibilityandexerciseinitiative.9
+> 126
+
+MCDP1-3 MakingItHappen
+
+CONCLUSION
+
+Inthispublication,wehaveexploredthemesthathelpusto
+
+understandthefundamentalsandtomastertheartandscience
+
+oftactics.Fromthestudyofourwarfightingphilosophy,we
+
+havegainedanappreciationfortherequirementtobedeci-
+
+siveinbattle.Toaccomplishthis,wemustclearlyvisualize
+
+thebattlespacethroughgainedsituationalawareness,recog-
+
+nizepatterns,andmakedecisionsintuitively.Wehavealso discussedwayswecangainadvantageovertheenemyand
+
+forcehimtobendtoourwill.Wealsoexploredhowtobe
+
+fasterinrelationtotheenemy,toadapttochangingcondi-
+
+tions,tocooperateforsuccess,toexploitsuccess,andtofin-
+
+ishtheenemy.Finally,wediscussedhowwecanbegintoact
+
+ontheseideasduringourtrainingforcombat.Theideaspre-
+
+sentedinthispublicationhaveimplicationsfarbeyondbattle-
+
+fieldtacticsandthedoctrinalwaywethinkaboutwarfare.
+
+Theyalsoinfluencethewayweorganize—usingtaskorgani-
+
+zationandflexiblecommandandcontrolrelationships—and
+
+thewayweequipourselvesforcombat.
+
+Wagingwarinmaneuverwarfarestyledemandsaprofes-
+
+sionalbodyofofficersandMarinesschooledinitsscience
+
+andart.WhenaskedwhytheMarinesweresosuccessfulin
+
+OperationDesertStorm,GeneralBoomerreplied:
+
+> Thethingthatmadethebigdifferenceonthebattlefieldisthat
+> wehadthousandsandthousandsofindividualMarinescon-
+> stantlytakingtheinitiative.Theyounglancecorporalwould
+> 127
+
+MCDP1-3
+
+takealook,seesomething75 or 100metersoutinfrontthat
+
+neededtobedone,andgooutanddoitwithoutbeingtold.As
+
+Ireadthrough[the]awardcitationsfromDesertShieldand
+
+DesertStorm,thisthemereappears,timeandtimeagain.That
+
+aggressivespiritcomesfrombeingwell-trained,andconfident
+
+inyourprofessionalknowledge.'°
+
+Everythingwedoinpeacetimeshouldprepareusforcom-
+
+bat.Ourpreparationforcombatdependsupontrainingand
+
+educationthatdeveloptheactionandthoughtessentialto
+
+battle.
+
+128 MCDP1-3 Notes
+
+UnderstandingTactics
+
+> 1.
+
+StatementbyGenA.M.Gray,formerCommandantofthe
+
+MarineCorps,duringaceremonycommemoratingtheanniversary ofthegroundbreakingfortheMarineCorpsResearchCenter,June
+
+20,1997.
+
+> 2.
+
+SirWilliamSlim,DefeatintoVictory(London:Casselland
+
+> Co.Ltd.,1956)pp.550-551.
+> 3.
+
+MCDP1,Warfighting(June1997)p.30.MCDPl'sdefmi-
+
+tiondiffersfromthatgiveninJointPub1-02,DepartmentofDe-
+
+fenseDictionaryofMilitaryandAssociatedTerms:"tactics—i.The
+
+employmentofunitsiiicombat.2.Theorderedarrangementand
+
+maneuverofunitsinrelationtoeachotherand/ortotheenemyin
+
+ordertousetheirfullpotentialities."
+
+> 4.
+
+Ibid.,p.3.
+
+> 5.
+
+Combatpower:"Thetotalmeansofdestructiveand/or
+
+disruptiveforcewhichamilitaryunit/formation,canapplyagainst
+
+theopponentatagiventime."(JointPub1-02)
+
+> 6.
+
+LtColG.I.Wilson,"TheGulfWar,ManeuverWarfare, andtheOperationalArt,"MarineCorpsGazette(June1991)pp.
+
+> 23—24.
+> 7.
+
+ThisexamplewastakenfromJosephH.Alexander,Utmost
+
+Savagery;TheThreeDaysofTarawa(Annapolis,MD:NavalInsti-
+
+tutePress,1995).
+
+129 Tactics MCDP1-3
+
+> 8.
+
+BillD.Ross,IwoJima.LegacyofValor(NY:Vanguard
+
+> Press,1985)pp.79—80.
+> 9.
+
+CarlvonClausewitz,OnWar,trans.andeds.Michael
+
+HowardandPeterParet(Princeton,NJ:PrincetonUniversityPress,
+
+1984)p.119.
+
+> 10.
+
+MedalofHonorRecipients1863—1973(Washington,D.C.:
+
+U.S.GovernmentPrintingOffice,1973)p.492.
+
+> 11.
+
+Clausewitz,P.85.
+
+> 12.
+
+InfantryinBattle(Washington,D.C.:TheInfantryJournal,
+
+Incorporated,1939)p.1.
+
+AchievingaDecision
+
+> 1.
+
+InfantryinBattle,p.1.
+
+> 2.
+
+FMFM1,Warfighting(March1989)p.61.
+
+> 3.
+
+MartinBlumenson,Anzio:TheGambleThatFailed(Phila-delphia,PA:J.B.LippincottCompany,1963).
+
+> 4.
+
+ShelbyFoote,TheCivilWar:ANarrative(NY:Random
+
+> House,1963)pp.467—468.
+> 5.
+
+MajCharlesD.Melson,EvelynA.Englander,CaptDavid
+
+A.Dawson,comps.,US.MarinesinthePersianGulf1990—1991:
+
+Anthology andAnnotated Bibliography (Washington, D.C.:
+
+130 MCDP1-3 Notes
+
+Headquarters,U.S.MarineCorps,HistoryandMuseumsDivision,
+
+1992)P.181.Alsoseepages173—182ofthesamepublicationand
+
+LtColCharlesH.Cureton,US.MarinesinthePersianGulf
+
+1990—1991:Withthe1stMarineDivisioninDesertShieldandDe-
+
+sertStorm(Washington,D.C.:Headquarters,U.S.MarineCorps,
+
+HistoryandMuseumsDivision,1993)pp.26—27.
+
+GainingAdvantage
+
+> 1.
+
+RobertDebsHeini,Jr.,Col,USMC,Retired,Dictionaryof MilitaryandNavalQuotations(Annapolis,MD:UnitedStatesNa-
+
+valInstitute,1966)p.321.
+
+> 2.
+
+FMFM1,p.57.
+
+> 3.
+
+Combinedarms:"Thetactics,techniques,andprocedures
+
+employedbyaforcetointegratefirepowerandmobilitytoproduce adesiredeffectupontheenemy."FMFRP0-14,MarineCorpsSup-
+
+plementtotheDODDictionaryofMilitaryandAssociatedTerms
+
+(January1994).
+
+> 4.
+
+MartinBlumenson,ThePattonPapers,vol.2(Boston,
+
+MA:HoughtonMifflinCompany,1974)pp.39—40.
+
+> 5.
+
+AndrewGeer,TheNewBreed(NY:Harper&Brothers,
+
+1952)p.339.
+
+> 6. Ibid.,pp.365—366.
+
+131 Tactics MCDP1-3
+
+> 7.
+
+JoeDouglasDodd,"NightAttackonKunishiRidge,"
+
+MarineCorpsGazette(April1985)p.43.
+
+> 8.
+
+Ibid.,pp.42—44.
+
+> 9.
+
+SunTzu,TheArtofWar,trans.SamuelB.Griffith(NY:
+
+OxfordUniversityPress,1963)p.91.
+
+> 10.
+
+Ibid.,p.106.
+
+> 11.
+
+MajRobertR.Parker,Jr.,"Deception:TheMissingTool,"
+
+MarineCorpsGazette(May1992)p.97.
+
+> 12.
+
+SunTzu,p.98.
+
+> 13.
+
+TheMarinesinVietnam,1954-1973.'AnAnthologyand
+
+AnnotatedBibliography(Washington,D.C.:Headquarters,U.S.
+
+MarineCorps,HistoryandMuseumsDivision,1985)pp.173—181.
+
+14.FMFM6-7,ScoutingandPatrollingforInfantryUnits
+
+(January1989)p.2-1.
+
+> 15.
+
+Sunlzu,p.93.
+
+BeingFaster
+
+> 1.
+
+Heinl,p.220.
+
+> 2.
+
+JohnA.English,OnInfantry(NY:Praeger,1984)p.223.
+
+132 MCDP1-3 Notes
+
+> 3.
+
+JeterA.Isleyand Philip A.Crow!,TheUS.Marinesand
+
+AmphibiousWar:Its Theory,andItsPracticeinthePac?/Ic
+
+(Princeton,NJ:PrincetonUniversityPress,1951)p.338.
+
+> 4.
+
+PeterG.Tsouras,Warrior'sWords:AQuotationBook:
+
+FromSesostrisIlltoSchwarzkopf1871B.C.toAD.1991(London:
+
+Casse!lArmsandArmour,1992),p.434.
+
+> 5.
+
+Hem!,p.63.
+
+> 6.
+
+"Command,"Time(January25,1943)p.61.
+
+> 7.
+
+Co!RaySmith,USMC,te!ephoneinterviewbyCaptS.R.
+
+Shoemaker,USMC,12March1991,Washington,D.C..
+
+> 8.
+
+GenHermannBaick,interviewbyWilliamS.Lind,6June
+
+1980,Washington,D.C..
+
+> 9.
+
+WilliamS.Lind,ManeuverWarfareHandbook(Boulder,
+
+CO:WestviewPress,1985)pp.5—6.
+
+> 10.
+
+GenGeorgeS.Patton,Jr.,WarAsIKnewIt(NY:Bantam
+
+Books,Inc.,1979)p.323.
+
+> 11. Ibid.,pp.330—331.
+> 12.
+
+English,p.217.
+
+> 13.
+
+CaptA.T.Mahan,USN,TheLifeofNelson:TheEmbodi-
+
+mentoftheSeaPowerofGreatBritain(Boston:Little,Brown,and
+
+Co.,1899)p.730.
+
+133 Tactics MCDP1-3
+
+> 14.
+
+FMFRP12-110, Fighting onGuadalcanal(September
+
+1991)p.33.
+
+> 15. Patton,p.376.
+
+Adapting
+
+> 1. Tsouras,p.21.
+> 2.
+
+Ibid.,p.21.
+
+> 3.
+
+KeithWilliamNolan,BattleforHue(Novato,CA:Presidio
+
+> Press,1983)pp.51—52.
+> 4.
+
+Branch:"Acontingencyplanorcourseofaction(anop-tionbuiltintothebasicplanorcourseofaction)forchangingthe
+
+mission,disposition,orientation,ordirectionofmovementofthe
+
+forcetoaidsuccessoftheoperationbasedonanticipatedevents,op-
+
+portunities,ordisruptionscausedbyenemyactionsandreactionsas
+
+determinedduringthewargamingprocess."MCRP5-2A,Opera-
+
+tionalTermsandGraphics(June 1997).
+
+> 5.
+
+Sequel:"Majoroperationsthatfollowthecurrentmajor
+
+> operation.
+
+Plansforthesearebasedonthepossibleoutcomes(vic-
+
+tory,stalemate,ordefeat)associatedwiththecurrentoperation."
+
+(MCRP5-2A).
+
+> 6.
+
+SeeMCDP5,Planning,foramorecompletediscussionof
+
+modularplans.
+
+134 MCDP1-3 Notes
+
+> 7.
+
+Cureton,p.77.
+
+> 8.
+
+Ibid,p.77.
+
+Cooperating
+
+> 1.
+
+NAVMC7386,TacticalPrinciples(Quantico,VA:Marine
+
+CorpsSchools,1955)P.7—8.
+
+> 2.
+
+MCDP6,CommandandControl(October1996)p.48.
+
+> 3.
+
+Ibid.,p.43.
+
+> 4.
+
+Ibid.,pp.39—41.
+
+> 5.
+
+Melson,Englander,andDawson,comps.,p.140.
+
+> 6.
+
+Patton,p.376.
+
+> 7.
+
+Heinl,p.196.
+
+ExploitingSuccessandFinishing
+
+> 1.
+
+Tsouras,p.349.
+
+> 2.
+
+Ibid.,p.349.
+
+> 3.
+
+Heinl,p.109.
+
+135 Tactics MCDP1-3
+
+> 4.
+
+CaptB.H.LiddellHart,"The'Man-in-the-Dark'Theoryof
+
+InfantryTacticsandthe'ExpandingTorrent'SystemofAttack,"
+
+JournaloftheR.US.I.(February1921)p.13.
+
+> 5.
+
+ErwinRommel,Attacks(Vienna,VA:AthenaPress,1979)
+
+> pp.235—250.
+> 6.
+
+FMFRP12-90,SecondMarineDivisionReportonGilbert
+
+Islands—TarawaOperation(September1991)p.51.
+
+> 7.
+
+Consolidationofposition:"Organizingandstrengthening
+
+anewlycapturedpositionsothatitcanbeusedagainsttheenemy."
+
+(JointPub1-02)
+
+> 8.
+
+Exploitation:"Anoffensiveoperationthatusuallyfollows
+
+asuccessfulattackandisdesignedtodisorganizetheenemyin
+
+depth."(JointPub1-02)
+
+> 9.
+
+ColCharlesJ.Quilter,II,US.MarineCorpsinthePersian
+
+Gulf1990—1991:WiththeIMarineExpeditionaryForceinDesert
+
+ShieldandDesertStorm(Washington,D.C.:Headquarters,U.S.
+
+MarineCorps,HistoryandMuseumsDivision,1993)p.99.
+
+> 10.
+
+Pursuit:"Anoffensiveoperationdesignedtocatchorcut
+
+offahostileforceattemptingtoescape,withtheaimofdestroying
+
+it."(JointPub1-02)
+
+> 11.
+
+BruceCarton,ThisHallowedGround:TheStoryoftheUn-
+
+ionSideoftheCivilWar(GardenCity,NY:Doubleday&Com-
+
+pany,Inc.,1956)p.384.
+
+136 MCDP1-3 Notes
+
+> 12.
+
+Heinl,p.259.
+
+> 13.
+
+Reserve:"Portionofabodyoftroopswhichiskepttothe
+
+rear,orwithheldfromactionatthebeginningofanengagement,
+
+availableforadecisivemoment."Tacticalreserve:"Apartofa
+
+force,heldunderthecontrolofthecommanderasamaneuvering
+
+forcetoinfluencefutureaction."(JointPub1-02)
+
+> 14.
+
+BrigGenThomasR.Phillips,U.S.Army,ed.,"Military
+
+MaximsofNapoleon,"inRootsofStrategy:ACollectionofMili-
+
+taryClassics(Harrisburg,PA:MilitaryServicePublishingCo.,
+
+1940)p.436.
+
+> 15. Heinl,p.275.
+> 16.
+
+ThisexamplewastakenfromMartinRuss,LineofDepar-
+
+ture:TARAWA(GardenCity,NY:Doubleday&Company,Inc.,
+
+> 1975).
+> 17.
+
+Heinl,p.274.
+
+> 18.
+
+MuchofthematerialinthissectionisbasedonCaptJohn
+
+F.Schmitt'sarticle,"TheUseoftheReserveinCombat,"Marine
+
+> CorpsGazette(March1990)pp.63—69.
+
+MakingItHappen
+
+> 1.
+
+T.E.Lawrence,"TheScienceofGuerrillaWarfare,"intro-
+
+ductionto"GuerrillaWarfare,"EncyclopediaBritannica,13thed.
+
+(NY:EncyclopediaBritannica,1926).
+
+137 Tactics MCDP1-3
+
+> 2.
+
+Hem!,p.329.
+
+> 3.
+
+Doctrine:"Fundamentalprinciplesbywhichthemilitary
+
+forcesorelementsthereofguidetheiractionsinsupportofnational
+
+objectives.Itisauthoritativebutrequiresjudgmentinapplication."
+
+(JointPub1-02)
+
+> 4.
+
+AsattributedtoErwinRommelbyHeiiil,p.60.
+
+> 5.
+
+Formoredetailedinformationontheestablishmentofunit
+
+trainingprograms,seeMCRP3-OA,UnitTrainingManagement
+
+Guide(November1996).
+
+> 6.
+
+Formoredetailedreadingsonthesubjectofdesigningand
+
+executingtrainingexercises,seeMCRP3-OB,HowtoConduct
+
+Training(November1996).
+
+> 7.
+
+WilliamGlennRobertson,TheStaffRide(Washington,
+
+D.C.:U.S.ArmyCenterofMilitaryHistory,1987)providesanex-
+
+cellentdescriptionoftheuseofterrainwalks.SeealsoStaffRide
+
+Handbook(Quantico,VA:MarineCorpsUniversity,1996).
+
+> 8.
+
+ThissectionreflectstheemphasisfoundinMCDP1,War-
+
+fighting,regardingtherequirementtosimulatethe"clashofoppos-
+
+ingwills"foundincombatbyconductingfree-playexercises.
+
+> 9.
+
+Thesubjectofhowtoconductcritiquesandholdafter-
+
+actionreviewsiscoveredindetailinbothMCRP3-OAandMCRP
+
+> 3-OB.
+> 10.
+
+Melson,Englander,andDawson,comps.,p.94.
+
+138

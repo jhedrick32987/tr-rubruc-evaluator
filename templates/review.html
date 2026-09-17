@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <div class="row-between">
+    <h2>Review Rubric — {{ record.event_code }}</h2>
+    <a class="btn small" href="/design">&larr; All tasks</a>
+  </div>
+  <p class="muted">{{ record.title }}</p>
+
+  <table class="attr-table">
+    <tr><th>T&amp;R Code</th><td>{{ rubric.task_attributes.tr_code }}</td></tr>
+    {% if rubric.task_attributes.echelon %}<tr><th>Echelon</th><td>{{ rubric.task_attributes.echelon }}</td></tr>{% endif %}
+    {% if rubric.task_attributes.sustainment_interval %}<tr><th>Sustainment Interval</th><td>{{ rubric.task_attributes.sustainment_interval }}</td></tr>{% endif %}
+    {% if rubric.task_attributes.condition %}<tr><th>Condition</th><td>{{ rubric.task_attributes.condition }}</td></tr>{% endif %}
+    {% if rubric.task_attributes.standard %}<tr><th>Standard</th><td>{{ rubric.task_attributes.standard }}</td></tr>{% endif %}
+    {% if rubric.task_attributes.reference %}<tr><th>Reference</th><td>{{ rubric.task_attributes.reference }}</td></tr>{% endif %}
+  </table>
+  <p class="muted small">Observable metrics are anchored to the task's performance steps.
+     S.P.E.A.R. is the lens used to phrase each metric. Metrics not tied to a step are flagged.</p>
+</section>
+
+<!-- Performance steps as the backbone -->
+{% for step in rubric.performance_steps %}
+{% set step_index = loop.index0 %}
+<div class="step-block">
+  <div class="step-head"><span class="num">Step {{ step.step_number }}</span>{{ step.step_text }}</div>
+  <div class="step-body">
+    {% for metric in step.metrics %}
+    {% set metric_index = loop.index0 %}
+    {% set flagged = metric.step_derived.value == "no" %}
+    <div class="metric-card {% if flagged %}flagged{% endif %} {% if metric.status.value == 'rejected' %}rejected{% endif %}">
+      <div class="row-between">
+        <span><span class="dim-tag">{{ metric.spear_dimension }}</span>
+          <span class="meta">{{ metric.competency_level }} · {{ metric.metric_id }}</span></span>
+        <span class="status-pill status-{{ metric.status.value }}">{{ metric.status.value }}</span>
+      </div>
+
+      {% if flagged %}
+      <div class="flag">&#9873; Not derived from a performance step — review</div>
+      {% else %}
+      <div class="derived">&#10003; Derived from Step {{ metric.step_ref }}</div>
+      {% endif %}
+
+      <!-- Edit statement -->
+      <form method="post" action="/review/{{ record.event_code }}/kst" class="inline-edit">
+        <input type="hidden" name="step_index" value="{{ step_index }}" />
+        <input type="hidden" name="metric_index" value="{{ metric_index }}" />
+        <input type="hidden" name="action" value="edit" />
+        <input type="hidden" name="field" value="statement" />
+        <input type="text" name="value" value="{{ metric.statement }}" />
+        <button class="btn small" type="submit">Save</button>
+      </form>
+
+      <!-- Anchors, collapsible to reduce density -->
+      <details class="anchors">
+        <summary>Behavioral anchors (per tier)</summary>
+        <table class="tier-table">
+          <thead><tr>{% for tier in tier_names %}<th>{{ tier }}</th>{% endfor %}</tr></thead>
+          <tbody><tr>
+            {% for tier in tier_names %}
+            <td>
+              <form method="post" action="/review/{{ record.event_code }}/kst">
+                <input type="hidden" name="step_index" value="{{ step_index }}" />
+                <input type="hidden" name="metric_index" value="{{ metric_index }}" />
+                <input type="hidden" name="action" value="edit" />
+                <input type="hidden" name="field" value="anchor:{{ tier }}" />
+                <textarea name="value" rows="4">{{ metric.anchors.get(tier, "") }}</textarea>
+                <button class="btn small" type="submit">Save</button>
+              </form>
+            </td>
+            {% endfor %}
+          </tr></tbody>
+        </table>
+      </details>
+
+      <div class="actions">
+        <form method="post" action="/review/{{ record.event_code }}/kst">
+          <input type="hidden" name="step_index" value="{{ step_index }}" />
+          <input type="hidden" name="metric_index" value="{{ metric_index }}" />
+          <input type="hidden" name="action" value="approve" />
+          <button class="btn small" type="submit">Approve</button>
+        </form>
+        <form method="post" action="/review/{{ record.event_code }}/kst">
+          <input type="hidden" name="step_index" value="{{ step_index }}" />
+          <input type="hidden" name="metric_index" value="{{ metric_index }}" />
+          <input type="hidden" name="action" value="reject" />
+          <button class="btn small" type="submit">Reject</button>
+        </form>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
+
+<!-- Lock with soft step-derivation gate -->
+<section class="card">
+  <div class="lock-box">
+    <h3>Lock as an approved version</h3>
+    {% if untraceable_count > 0 %}
+    <p class="warn">&#9873; {{ untraceable_count }} metric(s) are not derived from a performance
+       step. Acknowledge them before locking.</p>
+    {% endif %}
+    <form method="post" action="/review/{{ record.event_code }}/lock">
+      {% if untraceable_count > 0 %}
+      <label>
+        <input type="checkbox" name="acknowledged" value="on" />
+        I acknowledge the metrics that are not step-derived and choose to lock anyway.
+      </label>
+      <br /><br />
+      {% endif %}
+      <button class="btn primary" type="submit">Lock rubric</button>
+      <span class="muted small">Rejected metrics are excluded from the locked version.</span>
+    </form>
+  </div>
+</section>
+{% endblock %}

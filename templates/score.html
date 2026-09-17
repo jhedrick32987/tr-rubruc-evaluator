@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="score-bar">
+  <div>
+    <strong>{{ session.event_code }}</strong>
+    {% if session.unit_label %}<span class="unit">· {{ session.unit_label }}</span>{% endif %}
+  </div>
+  <div class="tally">
+    Scored {{ summary.scored }}/{{ summary.total_metrics }}
+    · Avg <strong>{{ summary.overall_average }}</strong>
+  </div>
+</div>
+
+<section class="card">
+  <p class="muted small">Tap the tier each metric earns as you observe the squad. Scores save
+     as you go. Use this checklist step by step through the attack.</p>
+</section>
+
+<section class="card auto-score-panel">
+  <h3>Auto-score from an observation</h3>
+  {% if session.auto_summary %}
+  <div class="summary-box"><strong>Last AI summary:</strong> {{ session.auto_summary }}</div>
+  {% endif %}
+  <p class="muted small">Record what you observe in the field instead of tapping every tier by hand.
+     The model suggests a tier per metric below, marked <span class="badge-auto">AUTO</span> — review and
+     tap to confirm or override any of them. Audio is transcribed and not saved to disk.</p>
+
+  <div class="record-row">
+    <button type="button" id="rec-start" class="btn">&#9679; Start recording</button>
+    <button type="button" id="rec-stop" class="btn primary" disabled>&#9632; Stop &amp; score</button>
+    <span id="rec-status" class="muted small"></span>
+  </div>
+
+  <details class="anchors" style="margin-top:0.75rem;">
+    <summary>Or type/paste a narrative instead</summary>
+    <form method="post" action="/evaluate/session/{{ session.session_id }}/narrate">
+      <textarea class="big" name="narrative"
+        placeholder="e.g. The fireteam moved in a staggered column, team leader called contact and directed suppressive fire within a few seconds, then maneuvered the assault element..."></textarea>
+      <div class="cta-row">
+        <button class="btn primary" type="submit">Score from text</button>
+      </div>
+    </form>
+  </details>
+</section>
+
+<form id="transcribe-form" method="post" action="/evaluate/session/{{ session.session_id }}/transcribe"
+      enctype="multipart/form-data" style="display:none;">
+  <input type="file" name="audio" id="audio-input" />
+</form>
+
+{% for step in version.performance_steps %}
+<div class="step-block">
+  <div class="step-head"><span class="num">Step {{ step.step_number }}</span>{{ step.step_text }}</div>
+  <div class="step-body">
+    {% for metric in step.metrics %}
+    {% set sc = scores_by_metric.get(metric.metric_id) %}
+    <div class="score-metric" id="m-{{ metric.metric_id }}">
+      <div class="score-metric-head">
+        <span class="dim-tag">{{ metric.spear_dimension }}</span>
+        <span class="metric-statement">{{ metric.statement }}</span>
+      </div>
+      {% if sc and sc.tier_awarded and sc.note %}
+      <p class="muted small score-note">{% if sc.source == "auto" %}AI rationale:{% else %}Note:{% endif %} {{ sc.note }}</p>
+      {% endif %}
+      <div class="tier-buttons">
+        {% for tier in tier_names %}
+        {% set is_selected = sc and sc.tier_awarded == tier %}
+        <form method="post" action="/evaluate/session/{{ session.session_id }}/score">
+          <input type="hidden" name="metric_id" value="{{ metric.metric_id }}" />
+          <input type="hidden" name="tier_awarded" value="{{ tier }}" />
+          <button type="submit"
+            class="tier-btn {% if is_selected %}selected{% endif %} {% if is_selected and sc.source == 'auto' %}auto{% endif %}"
+            title="{{ metric.anchors.get(tier, '') }}">
+            <span class="tier-name">{{ tier }}{% if is_selected and sc.source == "auto" %} <span class="badge-auto">AUTO</span>{% endif %}</span>
+            <span class="tier-anchor">{{ metric.anchors.get(tier, "") }}</span>
+          </button>
+        </form>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
+
+<section class="card">
+  <h3>Running summary</h3>
+  <table class="score-table">
+    <tr><th>Scored</th><td>{{ summary.scored }} of {{ summary.total_metrics }}</td></tr>
+    <tr><th>Overall average</th><td>{{ summary.overall_average }}</td></tr>
+    {% for tier, count in summary.tier_counts.items() %}
+    <tr><th>{{ tier }}</th><td>{{ count }}</td></tr>
+    {% endfor %}
+  </table>
+  {% if summary.dimension_averages %}
+  <h3>By S.P.E.A.R. dimension</h3>
+  <table class="score-table">
+    {% for dim, avg in summary.dimension_averages.items() %}
+    <tr><th>{{ dim }}</th><td>{{ avg }}</td></tr>
+    {% endfor %}
+  </table>
+  {% endif %}
+  <p class="muted small">This is the human evaluator's assessment. The AI generated the metrics;
+     scoring is done by the evaluator.</p>
+</section>
+<script src="/static/record.js"></script>
+{% endblock %}

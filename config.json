@@ -1,0 +1,30 @@
+{
+  "rubric_tiers": [
+    { "name": "Inadequate", "value": 1 },
+    { "name": "Satisfactory", "value": 2 },
+    { "name": "Superior", "value": 3 }
+  ],
+  "competency_levels": ["Foundation", "Intermediate", "Expert"],
+  "spear_dimensions": [
+    {
+      "name": "Speed",
+      "definition": "How quickly the task is performed to standard under the given conditions."
+    },
+    {
+      "name": "Precision",
+      "definition": "Accuracy and correctness of execution against the standard."
+    },
+    {
+      "name": "Executive Control",
+      "definition": "Decision-making, sequencing, and self-regulation during execution."
+    },
+    {
+      "name": "Adaptability",
+      "definition": "Adjustment to changing or degraded conditions while maintaining the standard."
+    },
+    {
+      "name": "Risk Exposure",
+      "definition": "Degree to which the performance manages or increases risk to self, unit, and mission."
+    }
+  ]
+}
